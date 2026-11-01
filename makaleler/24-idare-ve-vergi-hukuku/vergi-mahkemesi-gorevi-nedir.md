@@ -1,0 +1,248 @@
+---
+baslik: "Vergi Mahkemesi ve Görevleri"
+yazar: "Av. Baran Doğan"
+hukuk_alani: "İdare ve Vergi Hukuku"
+ust_grup: "Kamu Hukuku ve İnsan Hakları"
+site_kategorisi: vergi-ve-idare-hukuku
+kaynak_url: https://barandogan.av.tr/blog/vergi-ve-idare-hukuku/vergi-mahkemesi-gorevi-nedir
+yayim_tarihi: 2017-12-04
+son_guncelleme: 2026-01-19
+anilan_maddeler: ["İYUK 43", "İYUK 26", "İYUK 27/4", "İYUK 27", "İYUK 27/2", "İYUK 27/3", "İYUK 27/5", "İYUK 27/7", "İYUK 27/10", "İYUK 46"]
+lisans: Yazarın izniyle, atıflı ve ticari olmayan kullanım (bkz. IZIN.md)
+---
+
+# Vergi Mahkemesi ve Görevleri
+
+> **Kaynak ve atıf:** Bu metin Av. Baran Doğan tarafından kaleme alınmış olup orijinali <https://barandogan.av.tr/blog/vergi-ve-idare-hukuku/vergi-mahkemesi-gorevi-nedir> adresinde yayımlanmaktadır. Yazarın izniyle, atıflı ve ticari olmayan amaçla arşivlenmiştir. Tüm hakları yazara aittir.
+>
+> **Uyarı:** Metin, yayım veya son güncelleme tarihindeki mevzuat ve içtihada dayanmaktadır; güncel mevzuat ve içtihatla teyit edilmeden kullanılmamalıdır. Hukuki mütalaa niteliği taşımaz.
+
+Vergi Mahkemesi Nedir? Vergi Mahkemesinin Görevleri Nasıl Belirlenir? Vergi Mahkemesinin Bakmakla Görevli Olduğu Davalar Nelerdir? Vergi Mahkemeleri Kararlarına Karşı İstinaf ve Temyiz, Yürütmenin Durdurulması, Danıştay Kararları
+
+
+## Vergi Mahkemesi Nedir?
+
+**Vergi mahkemesi**; idarenin vergi, resim ve harçlar ile benzeri mali yükümler ve bunların zam ve cezalarına ilişkin iptal ve tam yargı davalarına bakmakla görevli idari mahkemedir (İdari Yargılama Usulü Kanunu m.1). **Vergi mahkemesi**, görev alanı kanunda sınırlı bir şekilde sayılan özel bir ilk derece mahkemesidir. İdare mahkemesi, genel görevli mahkeme olduğundan kanunla açıkça yetki verilmediği müddetçe vergi mahkemelerinin idari davalara bakma görevi yoktur.
+
+Vergi mahkemeleri, 2576 sayılı kanun ile kurulmuştur. Vergi mahkemelerinin yargı çevresinin belirlenmesi veya değiştirilmesine HSK tarafından karar verilir (2576 sayılı Kanun m.2/2).
+
+İstinaf ve temyiz kanun yolu incelemesi de dahil olmak üzere idari davalara bakma görevi şu mahkemelere aittir:
+
+- İdare mahkemesi (İlk derece mahkemesi),
+- Vergi mahkemesi (İlk derece mahkemesi),
+- Bölge idare mahkemesi (İstinaf mahkemesi),
+- Danıştay (Temyiz mahkemesi ve bazı idari davalar için ilk derece mahkemesi).
+
+## Vergi Mahkemesinin Görevleri Nelerdir?
+
+Vergi mahkemeleri, idari yargı alanında görev yapan özel mahkeme niteliğinde olduğundan görevleri kanun yoluyla açıkça belirlenmiştir. Vergi mahkemelerinin bakmakla görevli olduğu davalar şu şekildedir (2576 sayılı Kanun m.6):
+
+- Genel bütçeye, il özel idareleri, belediye ve köylere ait vergi, resim ve harçlar ile benzeri mali yükümler ve bunların zam ve cezaları ile tarifelere ilişkin davalar, (Örneğin, özel usulsüzlük cezası veya vergi ziya cezası kesilen mükelleflerin açtığı iptal davaları vergi mahkemesinde görülür.)
+- Yukarıdaki konularda 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun uygulanmasına ilişkin davaları,
+- Diğer kanunlarla vergi mahkemesine verilen işler.
+
+Tarifelere ilişkin davalar dışında bir idari uyuşmazlığın vergi mahkemesinde görülebilmesi için şu iki şartın bir arada bulunması gerekir:
+
+- İdari davanın konusu, vergi, resim, harç ve benzeri mali yükümlerle bunların zam ve cezalarına ilişkin olmalıdır.
+- Bu mali yükümler, Genel Bütçeye, il özel idarelerine, belediyelere ve köylere ait olmalı; yani, bu bütçe ve idarelerin giderlerinin karşılığı niteliğinde bulunmalıdır.
+
+Bir idari uyuşmazlığa vergi mahkemesinin görevli mahkeme olarak bakabilmesi için yukarıdaki her iki koşulun bir arada bulunması gerekir. Aksi takdirde; idari uyuşmazlığa bakma görevi, genel görevli mahkeme olan idare mahkemesidir.
+
+Özellikle belitelim ki vergi dairelerinin vergi hukuku alanında tesis ettikleri, uygulanabilir nitelikte, ilgililerin menfaatini doğrudan etkileyen ve onların hak ve yükümlülüklerinde değişiklik veya yenilik yaratan irade açıklamaları, verginin tarhı, tahakkuku ve tahsiline ilişkin işlemlerinin tamamı idari yargının denetimine tabidir. Yargı denetimini yapma görevi ise vergi mahkemelerine aittir.
+
+Genel olarak vergi mahkemesinin bakmakla görevli olduğu davalar iptal davası ve tam yargı davası olmak üzere iki çeşittir.
+
+## Vergi Mahkemesinin Görevsizlik ve Yetkisizlik Kararları
+
+*Vergi mahkemeleri*, "idari yargının görev alanına" giren bir davada görevsizlik veya yetkisizlik sebebiyle davanın reddine karar verirlerse dosyayı Danıştaya veya görevli ve yetkili idare veya vergi mahkemesine gönderirler (İYUK m.43).
+
+- Görevsizlik veya yetkisizlik sebebiyle dosyanın gönderildiği mahkeme kendisini görevsiz veya yetkisiz gördüğü takdirde, söz konusu mahkeme ile ilk görevsizlik veya yetkisizlik kararını veren mahkeme aynı bölge idare mahkemesinin yargı çevresinde ise, uyuşmazlık bölge idare mahkemesince, aksi halde Danıştayca çözümlenir.
+- Görevsizlik sebebiyle gönderilen dosyalarda Danıştay, davayı görevi içinde görmezse dosyanın yetkili ve görevli mahkemeye gönderilmesine karar verir.
+
+Görev ve yetki uyuşmazlıklarında Danıştay ve bölge idare mahkemesince verilen kararlar ilgili mahkemelere bildirilir ve bu husus taraflara tebliğ olunur. Danıştay ve bölge idare mahkemesince görev ve yetki uyuşmazlıkları ile ilgili olarak verilen kararlar kesindir.
+
+İdari yargının görev alanına giren bir davada görevsizlik veya yetkisizlik kararı verilmesi halinde görevli ve yetkili kılınan mahkemeye yeniden dava açılması halinde harç alınmaz.
+
+## Vergi Mahkemesinde Yürütmenin Durdurulması Kararı
+
+Vergi mahkemelerinde açılan idari işlemin iptali davasının en önemli unsuru tedbir mahiyetindeki yürütmenin durdurulması kararıdır. Yürütmenin durdurulması kararı, aleyhine iptal davası açılan işlemin idare tarafından davanın sonuçlanması beklenmeden uygulanması halinde kişilerin zarara uğramasını engellemek amacıyla verilen geçici nitelikte bir karardır.
+
+Vergi mahkemelerinde, vergi uyuşmazlıklarından doğan davaların açılması, tarh edilen vergi, resim ve harçlar ile benzeri malî yükümlerin ve bunların zam ve cezalarının dava konusu edilen bölümünün tahsil işlemlerini durdurur. Ancak, İYUK 26. maddenin 3. fıkrasına göre işlemden kaldırılan vergi davası dosyalarında tahsil işlemi devam eder. Bu şekilde işlemden kaldırılan dosyanın yeniden işleme konulması ile ihtirazı kayıtla verilen beyannameler üzerine yapılan işlemlerle tahsilat işlemlerinden dolayı açılan davalar, tahsil işlemini durdurmaz. Bunlar hakkında yürütmenin durdurulması istenebilir.(İYUK m.27/4).
+
+Vergi mahkemesinde dava açılması dava edilen diğer idari işlemlerin yürütülmesini durdurmaz (İYUK m.27). Yürütmenin durdurulması, davacı tarafından ayrıca talep edilmelidir. Yürütmenin durdurulması kararı verilen dava dosyaları öncelikle incelenir ve karara bağlanır. Yürütmenin durdurulması kararı verilebilmesi için kanunun aradığı şu iki şartın birlikte gerçekleşmesi gerekir (İdari Yargılama Usulü Kanunu m.27):
+
+- İdari işlemin uygulanması halinde giderilmesi güç veya olanaksız zararların doğması,
+- idari işlemin açıkça hukuka aykırı olması.
+
+Yukarıdaki iki şartın birlikte gerçekleşmesi halinde davalı idarenin savunması alındıktan veya savunma süresi geçtikten sonra, vergi mahkemesi tarafından gerekçe göstererek yürütmenin durdurulmasına karar verebilirler.
+
+Uygulanmakla etkisi tükenecek olan idari işlemlerin yürütülmesi, savunma alındıktan sonra yeniden karar verilmek üzere, idarenin savunması alınmaksızın da durdurulabilir. Ancak, kamu görevlileri hakkında tesis edilen atama, naklen atama, görev ve unvan değişikliği, geçici veya sürekli görevlendirmelere ilişkin idari işlemler, uygulanmakla etkisi tükenecek olan idari işlemlerden sayılmaz. Yürütmenin durdurulması kararlarında idari işlemin hangi gerekçelerle hukuka açıkça aykırı olduğu ve işlemin uygulanması halinde doğacak telafisi güç veya imkânsız zararların neler olduğunun belirtilmesi zorunludur. Sadece ilgili kanun hükmünün iptali istemiyle Anayasa Mahkemesine başvurulduğu gerekçesiyle yürütmenin durdurulması kararı verilemez (İYUK m.27/2).
+
+Dava dilekçesi ve eklerinden yürütmenin durdurulması isteminin yerinde olmadığı anlaşılırsa, davalı idarenin savunması alınmaksızın istem reddedilebilir (İYUK m.27/3). Yürütmenin durdurulması istemli davalarda 16. maddede yazılı süreler kısaltılabileceği gibi, tebliğin memur eliyle yapılmasına da karar verilebilir (İYUK m.27/5).
+
+**Yürütmenin Durudurulması veya Durdurulmasının Reddi Kararına İtiraz:** Yürütmenin durdurulması istemleri hakkında verilen vergi mahkemesi kararlarına karşı; en yakın bölge idare mahkemesine kararın tebliğini izleyen günden itibaren yedi gün içinde bir defaya mahsus olmak üzere itiraz edilebilir. İtiraz edilen merciler dosyanın kendisine gelişinden itibaren yedi gün içinde karar vermek zorundadır. İtiraz üzerine verilen kararlar kesindir (İYUK m.27/7).
+
+Aynı sebeplere dayanılarak ikinci kez yürütmenin durdurulması isteminde bulunulamaz (İYUK m.27/10).
+
+## Vergi Mahkemesi Kararlarına Karşı İstinaf Başvurusu
+
+Vergi mahkemesi kararlarına karşı istinaf kanun yoluna başvuru şartları 2577 sayılı İdari Yargılama Usulü Kanunu'nun 45. maddesinde düzenlenmiştir. Buna göre istinaf kanun yoluna başvuru koşulları şunlardır:
+
+- İvedi yargılama usulüne tabi olan davalarda istinaf yoluna başvurulamaz.
+- Vergi mahkemelerinin kararlarına karşı, başka kanunlarda “farklı bir kanun yolu öngörülmüş olsa” dahi, mahkemenin bulunduğu yargı çevresindeki bölge idare mahkemesine, kararın tebliğinden itibaren otuz gün içinde istinaf yoluna başvurulabilir. Ancak, konusu 55.000 TL'yi geçmeyen (2026 yılı için) tam yargı davaları ve idari işlemlere karşı açılan iptal davaları hakkında idare mahkemelerince verilen kararlar kesin olup, bunlara karşı istinaf yoluna başvurulamaz.
+- İstinaf, temyizin şekil ve usullerine tabidir. İstinaf başvurusuna konu olacak kararlara karşı yapılan kanun yolu başvurularında dilekçelerdeki hitap ve istekle bağlı kalınmaksızın dosyalar bölge idare mahkemesine gönderilir.
+- Bölge idare mahkemesi, yaptığı inceleme sonunda ilk derece mahkemesi kararını hukuka uygun bulursa istinaf başvurusunun reddine karar verir. Karardaki maddi yanlışlıkların düzeltilmesi mümkün ise gerekli düzeltmeyi yaparak aynı kararı verir.
+- Bölge idare mahkemesi, ilk derece mahkemesi kararını hukuka uygun bulmadığı takdirde istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına karar verir. Bu hâlde bölge idare mahkemesi işin esası hakkında yeniden bir karar verir. İnceleme sırasında ihtiyaç duyulması hâlinde kararı veren mahkeme veya başka bir yer idare ya da vergi mahkemesi istinabe olunabilir. İstinabe olunan mahkeme gerekli işlemleri öncelikle ve ivedilikle yerine getirir.
+- Bölge idare mahkemesi, ilk inceleme üzerine verilen kararlara karşı yapılan istinaf başvurusunu haklı bulduğu, davaya görevsiz veya yetkisiz mahkeme yahut reddedilmiş veya yasaklanmış hâkim tarafından bakılmış olması hâllerinde, istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına karar vererek dosyayı ilgili mahkemeye gönderir. Bölge idare mahkemesinin bu fıkra uyarınca verilen kararları kesindir.
+- Bölge idare mahkemelerinin 46. maddeye göre temyize açık olmayan kararları kesindir. Kesin kararlar, dosyayla birlikte kararı veren ilk derece mahkemesine gönderilir ve bu mahkemelerce yedi gün içinde tebliğe çıkarılır.
+- İstinaf başvurusuna konu edilen kararı veren ya da karara katılan hâkim, aynı davanın istinaf yoluyla bölge idare mahkemesince incelenmesinde bulunamaz.
+
+## Vergi Mahkemesi Kararlarına Karşı Temyiz Başvurusu
+
+İstinaf kanun yolundan sonra, bölge idare mahkemesinin bazı kararları aleyhine temyiz kanun yoluna başvurulabilir. Danıştay dava dairelerinin nihai kararları ile bölge idare mahkemelerinin aşağıda sayılan davalar hakkında verdikleri kararlar, başka kanunlarda aksine hüküm bulunsa dahi, kararın tebliğinden itibaren otuz gün içinde Danıştay'a temyiz edilebilir (İYUK m.46):
+
+- Düzenleyici işlemlere karşı açılan iptal davaları,
+- Konusu 1.660.000,00 TL'yi aşan (2026yılı için) tam yargı davaları ve idari işlemler hakkında açılan davalar.
+
+
+## Vergi Mahkemesinin Görevleri Danıştay Kararları
+
+### Teşvik Primine İlişkin Davalar Vergi Mahkemesinin Görev Alanına Girmez
+
+Davacının, Yatırım Teşvik Belgesi kapsamında satın aldığı iki adet treyler için belgede öngörülen katma değer vergisi + 10 puan teşvik priminin ödenmeyeceğine dair davalı İdarenin 3.4.2002 günlü ve 21335 sayılı işleminin iptali istemiyle açılan davada uyuşmazlığın esasını inceleyerek davayı reddeden Vergi Mahkemesi kararı temyiz edilmiştir.
+
+Hazine Müsteşarlığı'nca, teşvik priminin ödenmeyeceğine ilişkin dava konusu işlemin iptali istemiyle açılan davanın, 2576 sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'un, vergi mahkemelerinin görevlerini düzenleyen 6 ncı maddesinin ( a ) bendinde tanımlanan anlamda "vergi uyuşmazlığı" olarak kabulüne olanak bulunmamaktadır. Öte yandan dava konusu işlemin, Katma Değer Vergisi Kanunu'na 4369 sayılı Kanunun 59 uncu maddesiyle eklenen 13/d maddesi ve 69 seri Nolu Katma Değer Vergisi Genel Tebliği dayanak gösterilerek tesis edilmiş olmasının davaya, vergi uyuşmazlığı niteliğini kazandırmayacağı kuşkusuzdur (Danıştay 4. Daire - Karar: 2008/1292).
+
+### Vergi Mahkemesinde Dava Açma Ehliyeti
+
+2577 sayılı İdari Yargılama Usulü Kanunu'nun 2. maddesinin 1. fıkrasında, idari işlemler hakkında yetki, şekil, sebep, konu ve maksat yönlerinden biri ile hukuka aykırı olduklarından dolayı iptalleri için menfaatleri ihlal edilenler tarafından açılan iptal davaları idari dava türü olarak sayılmıştır.
+
+3065 sayılı Katma Değer Vergisi Kanunu'nun 8'inci maddesinin 1.fıkrasının (a) bendinde, mal teslimi ve hizmet ifası hallerinde bu işlemi yapanların katma değer vergisinin mükellefi olduğu belirtilmiştir. Ancak, katma değer vergisinin yansıtmalı bir vergi türü olması ve yansıtılabilirlik özelliği nedeniyle, asıl vergi yükü, bu vergiyi ödeyen ve indirim hakkı olmadığı için söz konusu vergi yükü davacı üzerinde kalmakta, verginin davacıdan tahsili suretiyle davacının mamelekinde meydana gelen azalma nedeniyle davacının menfaati etkilenmektedir.
+
+Sadece vergiyi tahsil edip vergi dairesine yatıran kişinin dava açma ehliyetinin bulunduğu, vergiyi fiilen ödeyen ve verginin getirdiği mali yüke katlanan davacının ise bu vergi ile ilgisinin olmadığını kabul etmek, mükellefiyet kavramı ile bağdaşmayacağı gibi, 2577 sayılı Kanunun 2. maddesinde öngörülen menfaat ihlali durumda dava açılmasına olanak tanıyan düzenlemeyle ve anılan İçtihadı Birleştirme Kurulu Kararıyla bağdaştırılamaz.
+
+Bu nedenle, Başbakanlık Arsa Ofisi Genel Müdürlüğünden taşınmaz satın alan davacının satış bedeli üzerinden ödemek zorunda kaldığı vergiye karşı açtığı davada ehliyeti bulunduğundan, Vergi Mahkemesince, katma değer vergisinin mükellefi olmayan ve vergiye nihai olarak katlanan davacı tarafından açılmasının mümkün olmadığı gerekçesiyle davanın ehliyet yönünden reddine karar verilmesinde hukuka uyarlık görülmemiştir. (Danıştay 4. Daire- Karar: 2013/3293)
+
+### İcra Tahsil Harcının İadesi Davasına Bakmaya Vergi Mahkemesi Görevlidir
+
+Anayasa'nın 73. maddesi kapsamında mali yükümlülük teşkil eden harçların tahsiline ilişkin davalarla birlikte gereksiz olarak ödendiği ya da kanuna ve usule aykırı olarak tahsil edildiği iddiasıyla idareye karşı açılacak davaların görülüp çözümlenmeleri de niteliği gereği idari yargı yerlerine ait olmaktadır.
+
+Olayda, davacı banka tarafından kullandırılan kredilerin geri ödenmemesi nedeniyle teminata alınan taşınmazın icra yoluyla satılması üzerine icra dairesi aracılığıyla ödenen tahsil harcının iadesi istemiyle dava açılmış olup, dava konusu tahsil harcı idarenin tek yanlı olarak ve kamu gücü kullanarak kamu-icra hizmetinden yararlanma karşılığı, bu hizmetten yararlanan davacı banka tarafından ödendiğinden ve icra dairesinde söz konusu harç, 492 sayılı Harçlar Kanununun ilgili maddelerinde belirtilen hükümler uyarınca, hazine adına ilgili vergi daireleri, muhasebe müdürlükleri, mal müdürlükleri hesabına yatırılmak üzere sorumlu sıfatıyla tahsil edildiğinden, ödenen tahsil harcının iadesi istemli olarak açılan davanın da 2576 sayılı Kanunun 6. maddesi uyarınca idari yargı sistemi içerisinde vergi mahkemesince görülüp çözümlenmesi icap etmektedir. Bu durumda, Vergi Mahkemesince işin esasının incelenmesi gerektiği halde icra dairelerince tesis edilen işlemlere karşı yapılan itiraz ve şikayetlerin incelenmesinin icra mahkemesi hakimi tarafından yapılacağından bahisle görev yönünden reddinde isabet bulunmamaktadır (Danıştay 9. Dairesi - Karar: 2008/4610).
+
+### Vergilendirme İşlemi Niteliğinde Olmayan İşlemin İptali Davası
+
+Davacı adına tescilli beyanname muhteviyatı eşyanın beyan edilen gözetim fiyatının ihracat esnasında dikkate alınmaması talebinin reddine dair 1.8.2007 gün ve 22983 sayılı işlem, diğer bir deyişle vergilendirme işlemi niteliğinde olmayan işlem dava konusu edilmiş bulunmaktadır. Dolayısıyla; uyuşmazlık, vergi mahkemelerinin sınırları "kanunla çizilmiş özel görev alanı"nın dışında kalmaktadır. Bu itibarla, genel görevli idare mahkemelerinin görev alanına giren söz konusu uyuşmazlığın vergi mahkemesince çözümlenmesi, Anayasanın 37'nci maddesinde öngörülen "kanuni hakim ilkesi"ne açıkça aykırı olduğundan, mahkeme kararında görev yönünden yasal isabet yoktur. (Danıştay 7. Daire - Karar: 2010/5620).
+
+### Mali Yüklere İlişkin İşlemlerin İptali Davası Vergi Mahkemesinde Görülür
+
+Çevre katkı payının eksik ödendiğinin tespit edildiğinden bahisle bu bedelin %1'ne isabet eden 693,77 TL çevre katkı payı tahakkuk ettirildiği, bu tutarın ödenmesi amacıyla Karadeniz Ereğli Gümrük Müdürlüğü'nün 08.04.2011 tarih ve 1926 sayılı işleminin davacı şirkete tebliğ edildiği, bu işleme karşı yapılan itirazın reddine ilişkin işlemin iptali istemiyle bakılmakta olan davanın açıldığı anlaşılmaktadır. Dava konusu uyuşmazlığın İdare Mahkemesinin mi, yoksa vergi Mahkemesinin mi görev alanına girdiğinin belirlenmesi amacıyla, çevre katkı payının mali yüküm niteliğinin incelenmesi gerekmektedir.
+
+"Mali yüküm", bir anayasal kavram olup, anlamının T.C. Anayasası çerçevesinde belirlenmesi ve çevre katkı payının buna göre nitelendirilmesi bir anayasal zorunluluktur.
+
+T.C. Anayasasının "Vergi ödevi" başlıklı 73. maddesinde; vergi ve vergi benzeri niteliğinde olan mali yükümlere yer verilmiştir:
+
+Bu maddenin üçüncü fıkrasına göre; vergi, resim, harç ve benzeri mali yükümler kanunla konulur, kanunla değiştirilir ve kanunla kaldırılır. Yani, vergi ve vergi benzeri mali yükümlerin konulmasında, değiştirilmesinde ve kaldırılmasında, idare edilenler için çok önemli bir hukuki güvenlik ilkesi olan, "Kanunilik İlkesi" geçerlidir. Bu ilkenin tek istisnası, yine aynı maddenin son fıkrasında gösterilmiştir. Bu fıkrada; vergi ve vergi benzeri mali yükümlerin muaflık, istisnalar ve indirimleriyle oranlarına ilişkin hükümlerinde, kanunun belirleyeceği sınırlar içinde değişiklik yapma yetkisinin Bakanlar Kurulu'na verilmesine olanak tanınmıştır. Bu istisnaya göre; Bakanlar Kurulu'nun vergi ve vergi benzeri mali yükümlerle ilgili yetkisi, yasanın izin vermesi koşuluyla ve fıkrada yazılı hususlarda değişiklik yapma ile sınırlıdır. Yani; Bakanlar Kurulu'nun vergi ve vergi benzeri mali yüküm koyma, kaldırma ve anılan fıkrada yazılı hususlar dışında değişiklik yapma yetkisi mevcut değildir.
+
+Buna göre; mal ithali sonucu alınan çevre katkı payının Anayasanın 73. maddesinde öngörülen vergi benzeri mali yüküm olduğu sonucuna ulaşılmaktadır. Öte yandan; 4458 sayılı Gümrük Kanununun 3. maddesinin 8. fıkras 8. fıkrasının ( a ) bendinde; "Gümrük vergileri" deyimi, ilgili mevzuat uyarınca eşyaya uygulanan ithalat vergilerinin ya da ihracat vergilerinin tümü olarak tanımlanmış, aynı maddenin 9. fıkrasının ( a ) bendinde; "İthalat vergileri" ise; eşyanın ithalinde öngörülen gümrük vergileri ve eş etkili vergiler, şeklinde tanımlanmış iken, 07.07.2009 tarihli Resmi Gazetede yayımlanan ve yayımı tarihinden itibaren üç ay sonra yürürlüğe giren 5911 sayılı Kanunun 1. maddesiyle yapılan değişiklikle; eşyanın ithalinde ödenecek gümrük vergisi ile diğer eş etkili vergiler ve mali yükleri ifade eder, şeklinde tanımlanmıştır. Yukarıda yer verilen 4458 sayılı Gümrük Kanunu'nun 3. maddesinin 9. fıkras 9. fıkrasının ( a ) bendinde, 5911 sayılı Kanunun 1. maddesiyle yapılan değişiklikle; mali yüklerin ithalat vergileri, ithalat vergilerinin de gümrük vergileri kapsamında bulunduğu görülmektedir.
+
+Bu durumda; çevre katkı payının mali yük olması, mali yüklerin ithalat vergileri, ithalat vergilerinin de gümrük vergileri kapsamında olması karşısında, gümrük idaresince belirlenen çevre katkı payına ilişkin ihtilafların çözümünde 2576 sayılı Kanunun 6. maddesi uyarınca vergi mahkemelerinin görevli olması gerektiğinden, bu husus gözetilmeksizin işin esası incelenmek suretiyle davanın reddi yolunda İdare Mahkemesi Hakimliğince verilen kararda usul hükümlerine uyarlık bulunmamaktadır (Danıştay 14. Daire - Karar: 2013/8595)
+
+### Birlik Kararlarına Karşı İdare Mahkemesinde Dava Açılmalıdır
+
+İstanbul Tekstil ve Konfeksiyon İhracatçı Birlikleri Genel Sekreterliğinin davacıya ait dahilde işleme izin belgesi ihracat taahhüt hesabının müeyyide uygulanarak kapatıldığına dair işlemi dava konusu edilmiş bulunmaktadır. Dolayısıyla; uyuşmazlık, vergi mahkemelerinin sınırları "kanunla çizilmiş özel görev alanı"nın dışında kalmaktadır. Bu itibarla, genel görevli idare mahkemelerinin görev alanına giren söz konusu uyuşmazlığın vergi mahkemesince çözümlenmesi, Anayasanın 37. maddesinde öngörülen "kanuni hakim ilkesi"ne açıkça aykırı olduğundan, mahkeme kararında görev yönünden yasal isabet görülmemiştir (Danıştay 7. Daire - Karar: 2014/1769).
+
+### Vergi Mahkemesinin Görev Alanı Nedir?
+
+Vergi mahkemeleri, İdari Yargı Düzeninin özel görevli mahkemeleridir. Bu yargı düzeninin genel görevli mahkemeleri ise, idare mahkemeleridir. Bunun anlamı; özel görevli idari mahkeme olan vergi mahkemelerinin görev alanının kanunla belli edilmiş bulunması; kanunla sınırları çizilen bu alan dışında kalan ve özel görevli başka idari yargı yerinin; örneğin, Danıştay'ın görev alanına da girmeyen idari uyuşmazlıkların idare mahkemelerince çözülmesinin gerekli olmasıdır. Başka anlatımla; özel görevli idari yargı yerlerinin görev alanına girmeyen idari uyuşmazlıkların "kanuni hâkimi", idare mahkemeleridir.
+
+Özel görevli idari yargı yeri olarak vergi mahkemelerinin görev alanı, 2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanunun 3410 Sayılı Kanun'un 2. maddesiyle değişik 6. maddesinde gösterilmiştir. Bu maddenin ( a ) bendine göre; vergi mahkemeleri, genel bütçeye, il özel idareleri, belediye ve köylere ait vergi, resim ve harçlar ile benzeri mali yükümler ve bunların zam ve cezaları ile tarifelere dair davaların; ( b ) bendine göre, ( a ) bendindeki konularda 6183 Sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un uygulanmasına dair davaların; ( c ) bendine göre ise, diğer kanunlarla verilen işlerin çözümüyle görevlidir. Öte yandan; aynı Kanunun 5. maddesinde de, vergi mahkemelerinin görevine giren davalarla ilk derecede Danıştay'da çözümlenecek olanlar dışında, maddede belirtilen davaların idare mahkemelerince karara bağlanacağı hüküm altına alınmıştır.
+
+Sözü edilen hükümlere göre, vergi mahkemelerinin bir uyuşmazlığın görüm ve çözümüne bakabilmeleri, sayılan davalardan birinin mevcut olması koşuluna bağlı bulunmaktadır. Olayda ise, maddede sayılan davalardan birine konu olabilecek türde tesis edilmiş herhangi bir işlem söz konusu olmayıp, davacı adına tescilli beyanname muhteviyatı eşyaya dair olarak, gözetim belgesi aranmaması talebiyle gümrük müdürlüğüne yapılan başvurunun reddine dair işlem davaya konu edilmiş bulunmaktadır. Dolayısıyla; uyuşmazlık, vergi mahkemelerinin sınırları "kanunla çizilmiş özel görev alanı" nın dışında kalmaktadır. Bu itibarla, genel görevli idare mahkemelerinin görev alanına giren söz konusu uyuşmazlığın vergi mahkemesince çözümlenmesi, Anayasanın 37. maddesinde öngörülen "kanuni hâkim ilkesi" ne açıkça aykırı olduğundan, mahkeme kararında görev yönünden yasal isabet yoktur. (Danıştay 7. Daire - Karar: 2015/2595).
+
+### Sakatlık İndirimi Konusunda Açılacak İptal Davasında Vergi Mahkemesi Görevlidir
+
+Dava; davacı hakkında, Sivas Numune Hastanesi Sağlık Kurulu tarafından verilen, %68 oranındaki, 27.09.2010 gün ve 3256 Sayılı özürlü ( çalışma gücü kaybı ) raporunun Gelir İdaresi Başkanlığı Merkez Sağlık Kurulunca incelenerek nihai olarak davacının %74 oranında çalışma gücü kaybı olduğuna karar verilmesine dair işlemin; özür durumunu belirleyen sağlık kurulunda göğüs hastalıkları uzmanı bulunmadığı için solunum rahatsızlığı yönünden değerlendirilmediği bu sebeple çalışma gücü kaybının doğru olarak tespit edilemediği ileri sürülerek iptali istemiyle açılmış; idare mahkemesince; davacının iş gücü kaybı oranını tam olarak ortaya koyamayan davaya konu Sivas Numune Hastanesi Sağlık Kurulu tarafından verilen %68 oranındaki 27.09.2010 gün ve 3256 Sayılı özürlü ( alışma gücü kaybı) raporunun Gelir İdaresi Başkanlığı Merkez Sağlık Kurulunca incelenerek, nihai olarak davacının %74 oranında çalışma gücü kaybı olduğuna karar verilmesine dair işlemde hukuka uyarlık bulunmadığı gerekçesiyle davanın iptaline karar verilmiştir. Davalı idare tarafından anılan mahkeme kararının temyizen incelenip bozulması istenilmektedir.
+
+2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'un 3410 Sayılı kanunla değişik ; genel bütçeye, il özel idareleri, belediye ve köylere ait vergi, resim ve harçlar ile benzeri mali yükümlerle, bu konularda 6183 Sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un uygulanmasına dair davaların görüm ve çözümü vergi mahkemelerinin görevleri arasında sayılmış; yine 3410 Sayılı Kanun'la değişik ise, idare mahkemelerinin görev alanı, vergi mahkemelerinin görevine giren davalarla, ilk derecede Danıştay'da çözümlenecek olanlar dışındaki idari davaların görüm ve çözümü olarak saptanmıştır.
+
+193 Sayılı Gelir Vergisi Kanunu'nun, ücretlerin vergilendirilmesinde uygulanacak sakatlık indirimini düzenleyen 2. bendinde, çalışma gücünü hangi oranlarda yitiren hizmet erbabının, hangi oran ve miktarda sakatlık indiriminden yararlanacağı düzenlenmiş, sakatlık derecelerinin tespit şekli ile uygulamaya dair esas ve usullerin; hazırlanacak bir yönetmelikle tespit edileceği kurala bağlanmıştır. Sakatlık İndiriminden Yararlanacak Hizmet Erbabının Sakatlık Derecelerinin Tespit Şekli ile Uygulanması Hakkında Yönetmelik ile; sakatlık derecelerinin tespitini yapmak üzere Maliye Bakanlığı bünyesinde oluşturulan Merkez Sağlık Kurulunun kuruluşu, görevleri, inceleme ve karar süreci, sakatlık indirimi istemiyle yapılacak başvuru usulü, sağlık raporu düzenlemeye yetkili kuruluşlar ve niteliklerini düzenlemiştir.
+
+Olayda 193 Sayılı Gelir Vergisi Kanunu ile buna dayanılarak düzenlenen Sakatlık İndiriminden Yararlanacak Hizmet Erbabının Sakatlık Derecelerinin Tespit Şekli ile Uygulanması Hakkında Yönetmelik hükümleri uyarınca Maliye Bakanlığı Merkez Sağlık Kurulu'nca tesis edilen işlemden doğan uyuşmazlığın görüm ve çözümün vergi mahkemelerinde olduğu açıktır. Bu durumda davanın görev yönünden reddi gerekirken, davanın esası incelenerek verilen temyize konu kararda hukuki isabet görülmemiştir. Açıklanan nedenlerle, Sivas İdare Mahkemesi'nin kararının bozulmasına karar verilmiştir (Danıştay 15. Daire - Karar: 2015/1969).
+
+### Vergi Niteliğinde Olmayan Kamu Alacağı İçin Vergi Mahkemesi Görevli Değildir
+
+Davacı şirket tarafından, Afyonkarahisar ili dâhilinde ve uhdesinde bulunan … sicil sayılı maden sahasına dair olarak 2012 yılı satış bilgi formlarının yeniden düzenlenmesi ve oluşacak Devlet haklarının gecikme faiziyle birlikte yatırılması gerektiğinden bahisle 2012 yılı satış bilgi formundan oluşan ve ekli listesinde son yatırılma tarihi ve yatırılacağı yer gösterilen Devlet haklarının (Hazine Payı, Özel İdare Payı ve Köylere Hizmet Götürme Payı) gecikme faiziyle birlikte yatırılması ve yatırıldığına dair bilgi formunun 2 ay içerisinde Genel Müdürlüğe gönderilmesi yolunda tesis edilen Enerji ve Tabi Kaynaklar Bakanlığı Maden İşleri Genel Müdürlüğü'nün 09.01.2014 tarih ve 10129 Sayılı işleminin iptali istemiyle açılan davayı incelenmeksizin reddeden Denizli Vergi Mahkemesi kararının bozulması talep edilmiştir. Vergi mahkemesinin görevine giren uyuşmazlıkların, genel bütçeye, il özel idareleri, belediye ve köylere ait vergi, resim ve harçlar ile benzeri mali yükümler ve bunların zam ve cezaları ile tarifelere dair olması veya bu konularla ilgili 6183 Sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun uygulanmasına dair olması yahut diğer kanunlar ile verilen işlerden olması gerekmektedir. Bunların dışındaki idari uyuşmazlıklar ise genel görevli idari yargı mercii olan idare mahkemeleri tarafından çözümlenecektir. Olayda, uyuşmazlık konusu işleme konu devlet hakkının Maden Kanunu'ndan kaynaklanan bir kamu alacağı olduğu; vergi, resim, harç ve benzeri mali yüküm niteliğinde de olmadığı görüldüğünden, söz konusu devlet hakkının tahsili amacıyla tesis edilen işleminin iptali istemiyle açılan dava, yukarıda yer verilen Yasa hükmü uyarınca vergi mahkemesinin görev alanına girmemekte olup, genel görevli idari yargı mercii olan idare mahkemesinin görevine girmektedir. Bu durumda, Vergi Mahkemesince davanın görev yönünden reddine karar verilmesi gerekirken, davanın incelenmeksizin reddi yönünde verilen kararda hukuki isabet bulunmamıştır (Danıştay 9. Daire - Karar: 2015/8023).
+
+Davacı, belediyenin 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun kapsamında Hazine Müsteşarlığına olan borcunun tahsili amacıyla taşınmazlarına uygulanan haczin kaldırılması talebinin reddine ilişkin 13.6.2012 gün ve 13892 sayılı işlemin iptali istemiyle dava açılmıştır. Dava konusu, 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun kapsamında Hazine Müsteşarlığına olan borç, 2576 sayılı Kanunun 6'ncı maddesinde sayılan vergi, resim ve harçlar ile benzeri mali yükümler ve bunların zam ve cezaları dışında bir kamu alacağı niteliğinde bulunduğundan bu borcun tahsili amacıyla taşınmazlara uygulanan haczin kaldırılması talebinin reddine ilişkin işlem vergi mahkemesinin görev alanına girmemektedir. Bu durumda, idare mahkemesince çözümlenmesi gereken uyuşmazlığın 2577 sayılı İdari Yargılama Usulü Kanununun 15'inci, 43'üncü maddeleri uyarınca görev yönünden reddi ile dosyanın idare mahkemesine gönderilmesi gerekirken davanın vergi mahkemesince incelenerek karara bağlanmasında hukuka uygunluk bulunmamıştır (Danıştay 3. Daire - Karar: 2013/3463).
+
+### Belediyenin Maden Payına İlişkin Talebine Vergi Mahkemesinde İptal Davası Açılması
+
+Vergi mahkemelerinde dava açılabilmesi için vergi, resim, harç, pay veya benzeri mali yükümlülükleri tarha yetkili vergi daireleri, il özel idareleri veya belediyeler tarafından tesis edilen kamu alacağının nev'i, dönemi, matrahı, hesabı ve miktarını gösterir bir ihbar, ödeme emri veya haciz varakası tebliği, tahakkuk fişi düzenlenmesi veya anılan idarelerce vergi tevkifatı yapılması, ihtiyati haciz tatbik olunması, düzeltme ve şikayet başvurularının reddi gibi idari davaya konu olabilecek kesin ve yürütülmesi gereken işlemlerin mevcut olması gerekmektedir.
+
+Öte yandan, 2464 sayılı Belediye Gelirleri Kanununun mükerrer 97. maddesinin 5177 sayılı Kanunun 33. maddesiyle 05.06.2004 tarihinden geçerli olmak üzere değişik ( b ) fıkrasında ise, belediye sınırları ve mücavir alanlar içinde faaliyet gösteren maden işletmelerince 3213 sayılı Maden Kanununun 14. maddesinde yer alan paylara ilaveten yıllık satış tutarının %0.2'si nispetinde belediye payı alınacağı, bu payın Devlet hakkının Hazine'ye ödenmesi sırasında işletme tarafından ilgili belediyeye ödeneceği hükme bağlanmıştır.
+
+2464 sayılı Yasanın yukarıda belirtilen hükmü uyarınca maden payını isteme yetkisi belediyelere ait olduğundan, belediyeler tarafından tesis edilen icrai ve kesin işlemler maden işletmeleri tarafından vergi mahkemelerinde dava konusu yapılabilecektir.
+
+Olayda ise maden payı isteme yetkisi olan belediye tarafından tesis edilen kesin ve icrai nitelikte bir işlem sözkonusu olmayıp vergi ve benzeri mali yükümlülükleri tarha yetkili olmayan Türkiye Taşkömürü Kurumu Genel Müdürlüğünün bilgi mahiyetindeki işlemi davacı belediye tarafından dava konusu yapıldığından, dava konusu işlemin incelenmeksizin davanın reddedilmesi gerekirken vergi mahkemesince işin esasının incelenmesinde yasal isabet görülmemiştir (Danıştay 9. Daire - Karar: 2008/2525).
+
+### İdarenin Haksız Tahsil Ettiği Paraların İstirdatı Davasında Görevli Mahkeme
+
+Mahkemece; idari işleme dayanılarak tahsil edilen paranın iadesine yönelik davanın Vergi Mahkemesinde görülmesi gerektiği belirtilerek, mahkemenin görevsiz olması sebebiyle davanın reddine karar verilmiştir.
+
+2577 Sayılı İdare Yargılama Usulü Kanunu'nun "İdari Dava Türleri ve İdari Yargı Yetkisinin Sınırı" başlıklı 2. maddesinde; idari dava türleri sayılmıştır. Bu hükme göre, idari davalar; idari işlemler hakkında açılan iptal davaları, idari eylem ve işlemlerden dolayı kişisel hakları doğrudan muhtel olanlar tarafından açılan tam yargı davaları ve kamu hizmetlerinden birinin yürütülmesi için yapılan her türlü idari sözleşmelerden dolayı taraflar arasında çıkan uyuşmazlıklara dair davalardan ibarettir.
+
+Bir davanın tam yargı davası olarak nitelendirilebilmesi için, ortada öncelikle bir idari işlem veya eylemin bulunması ayrıca, bu işlem veya eylem sebebiyle kişisel bir hakkın ihlal edilmiş olması gerekir. Somut olayda; davacıdan tahsil edilen bedellerin hukuka aykırı bulunduğu ve sebepsiz zenginleşme hükümlerine göre tahsili talep edilmekte, isteme dair idari işlemin iptali talebinde bulunulmamaktadır. Hal böyle olunca, mahkemece; talebin 6098 Sayılı Türk Borçlar Kanunu'nun 77. maddesinde ifadesini bulan sebepsiz zenginleşmenin iadesi niteliğinde olduğu ve işin esasına girilerek, varılacak sonuca göre bir hüküm kurulması gerekirken, mahkemenin görevsiz olması sebebiyle davanın reddine karar verilmesi doğru görülmemiş ve kararın bozulması gerekmiştir (Yargıtay 4. Hukuk Dairesi - Karar: 2017/460).
+
+### İcra Tahsil Harcının İadesi Davasına Bakmaya Vergi Mahkemesi Görevlidir
+
+Davacı banka tarafından, kullandırdığı kredilerin geri ödenmemesi nedeniyle teminata alınan taşınmazların icra nezdinde yapılan ihalede alacağına mahsuben ihale edilmesi sebebiyle ödediği icra tahsil harçlarının iadesi istemiyle dava açılmıştır.
+
+2577 sayılı İdari Yargılama Usulü Kanunu’nun "İdari Dava Türleri ve İdari Yargı Yetkisinin Sınırı" başlıklı 2'nci maddesinin 1/a bendinde, idari işlemler hakkında yetki, şekil, sebep, konu ve maksat yönlerinden biri ile hukuka aykırı olduklarından dolayı iptalleri için menfaatleri ihlal edilenler tarafından açılan davaların iptal davaları oldukları belirtilmiştir.
+
+İdarelerin, kamu hizmetinin yürütülmesinde, kamu gücü kullanarak tek yanlı irade açıklamalarıyla yaptıkları işlemler, idari işlemler olarak tanımlanmaktadır. Bu tanıma göre, idari yargı yerlerinde iptal davasına konu edilecek hukuksal işlemlerin, öncelikle, kamu idaresinin işlemi olması, kamu hizmetinin yürütülmesi amacıyla tesis edilmesi, kamu idaresinin tek yanlı irade açıklamasına dayanması ve nihayet kesin ve icrai nitelikte olması gerekmektedir.
+
+İdari yargı sistemi içinde yer alan Vergi Mahkemelerinin görevleri; kuruluş kanunu olan 2576 sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun’un 6'ncı maddesinde sayılmış; genel bütçe, il özel idareleri, belediye ve köylere ait vergi, resim ve harçlar ile benzeri mali yükümler ve bunların zam ve cezaları ile tarifelere ilişkin davaları, bu konularda 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un uygulanmasına ilişkin davaları ve diğer kanunlarla verilen işleri çözümleyeceği hüküm altına alınmıştır.
+
+Bir kısım kamu hizmetlerinden yararlananlar tarafından, bu hizmetin maliyetine, kanunla belirlenen miktar veya oranlarda katılmak üzere ödenen kamu geliri niteliğindeki harçlar, Anayasanın 73'üncü maddesi uyarınca mali yükümlülük kapsamına girdiğinden, bunların tahsiline ilişkin davalarla birlikte gereksiz olarak ödendiği ya da kanuna ve usule aykırı olarak tahsil edildiği iddiasıyla idareye karşı açılacak davaların da niteliği gereği idari yargı yerlerinde görülüp çözümlenmeleri gerekmektedir.
+
+Devletin, icra hukukundaki faaliyetine karşılık aldığı para olarak tanımlanan "İcra ve İflas Harçları" 492 sayılı Harçlar Kanunu’nun birinci kısmında, yargı harçları bölümünde, 2-37'nci maddelerde düzenlenmiş, (1) sayılı Tarifenin yargı harçları kısmının (B/1) bölümünde söz konusu harçlar, icra takibi sırasında ve takibin niteliğine göre başvurma harcı, peşin harç, icra tahsil harcı ve yerine getirme harcı olarak sınıflandırılmıştır. Aynı Yasa’nın 26'ncı maddesinde yargı harçlarının, harca konu işlemleri yapan mahkeme veya daire tarafından alınacağı, 28'inci maddesinde icra takiplerinde icra tahsil harcının, alacağın ödenmesi sırasında; ödeme yapılmayan hallerde harç alacağının doğduğu tarihinden itibaren 15 gün içinde ödeneceği, harç alacağının, icranın yerine getirilmesiyle doğacağı belirtilmiştir.
+
+2004 sayılı İcra ve İflas Kanunu’nun 15'inci maddesinin birinci fıkrasında; icra ve iflas harçlarının kanunla tayin edileceği, kanunda hilafı yazılı değilse, bütün harç ve masrafların borçluya ait olup neticede ayrıca hüküm ve takibe hacet kalmaksızın tahsil olunacağı; 16’ncı maddesinde de kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere, icra ve iflas dairelerinin yaptığı muameleler hakkında, kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı tetkik merciine şikayet olunabileceği hükümleri yer almıştır.
+
+Kesinleşen bir alacağın tahsilinin, Devlet eliyle sağlanması için oluşturulan kurumlar olarak nitelendirilen "İcra Müdürlükleri"nin usul ve yasaya aykırı işlemlerinden zarar gören; sadece alacaklı ve borçlu değil hukuki yararı olan herkese tanınmış olan “şikayet” müessesesi, kural olarak kanunda öngörülen süre içerisinde icra hukuk mahkemesine yapılan, icra takip hukukuna özgü bir yoldur. Şikayetteki amaç, hatalı olan icra işlemlerinin düzeltilmesi olduğundan, icra mahkemesi, dosya üzerinden yapacağı inceleme sonucunda, icra müdürlüğünün işlemini yasaya uygun bularak şikayeti reddedebileceği gibi icra müdürlüğü işlemini iptal etme, kaldırma veya talep edilen işlemin icra müdürlüğünce yerine getirilmesine şeklinde karar verebilmekte olup düzenlemenin; ilgili memurların, İcra ve İflas Kanunu’nun uygulanması çerçevesinde gerçekleştirdikleri işlemlerin, icra dosyası üzerinden, icra tetkik merciince denetlenmesinin sağlanmasına yönelik olduğu açıktır.
+
+Olayda, davacı bankanın kullandırdığı kredilerin teminatı olan taşınmazın ihale yoluyla satış bedeli üzerinden, 492 sayılı Kanun uyarınca, Hazine adına, Nuruosmaniye Vergi Dairesi Müdürlüğü hesabına yatırılmak üzere İstanbul 10. İcra Dairesi aracılığıyla sorumlu sıfatıyla tahsil edilen harcın ret ve iadesi istemiyle, adı geçen vergi dairesi müdürlüğüne karşı dava açıldığı anlaşılmıştır.
+
+İcra dairesinin, yürüttüğü takip sonucuna göre Harçlar Kanunu’nun uygulanması suretiyle, Hazine adına, sorumlu sıfatıyla gerçekleştirdiği vergilendirme işlemi niteliğindeki harç tahsilatlarının, İcra ve İflas Kanunu’nun uygulanması olarak değerlendirilmesine ve bu Kanun kapsamında şikayet müessesine konu edilmesine olanak bulunmamaktadır. Zira burada harca konu işlemlerin usul ve esas yönlerinden hukuka aykırılıkları yolunda bir iddia ileri sürülmemekte; bu işlemler nedeniyle harç alınmaması gerektiği iddia edilerek, harcın tahsiline ilişkin idari işlemin iptali ile harcın iadesine karar verilmesi istenilmektedir.
+
+Vergi Mahkemesinin hükmüne esas aldığı Uyuşmazlık Mahkemesi kararında da uyuşmazlığın, icra dosyasının incelenmesini gerektirip gerektirmemesine bağlı olarak görevli yargı yerinin belirleneceğine işaret edilmiş olması karşısında; harç alınmasına dayanak gösterilen satış işleminin usul ve yasaya aykırılığı iddiasından kaynaklanmayan dolasıyla da icra dosyasının bu kapsamda incelenmesini gerektirmeyen; kamu hizmeti karşılığında, kamu gücü kullanılmak suretiyle tek yanlı olarak tahsil edilen harcın iadesi istemine ilişkin uyuşmazlığın görüm ve çözümünün, 2577 sayılı Yasa’nın 2 ve 2576 sayılı Kanun’un 6'ncı maddeleri uyarınca idari yargı içerisinde yer alan vergi mahkemesinin görevine girdiği sonucuna varıldığından, davanın görev yönünden reddi yolunda verilen kararda hukuka uygunluk görülmemiştir. (Danıştay Vergi Dava Daireleri Genel Kurulu - Karar : 2016/163).
+
+### İcra Satışı Nedeniyle Ödenen KDV'nin İadesi Davasında Vergi Mahkemesi Görevlidir
+
+Dosyanın incelenmesinden, davacıların murisi adına kayitli taşınmaz nedeniyle ikame edilen ortaklığın giderilmesi davası sonucunda ortaklığın satış yoluyla giderilmesine karar verildiği, bu karar uyarınca Satış Memurluğunca verilen talimat üzerine belirlenen bedelin davacılar tarafından ödendiği, söz konusu bedel üzerinden %18 oranında katma değer vergisinin hesaplanarak Vergi Dairesi Müdürlüğü'ne 15.04.2015 tarihinde yatırıldığı, daha sonra davacılar vekili tarafından Vergi Dairesi Müdürlüğü'ne başvurularak, söz konusu gayrimenkulün "korunması gerekli kültür varlığı" olarak tapuya kayıtlı olduğu belirtilerek, ödenen katma değer vergisinin iadesinin talep edildiği, anılan müdürlük tarafından, icra ve ihale yoluyla satışlarda uygulanması gereken katma değer vergisi oranının satışı gerçekleştiren icra dairesi veya satış memurluğunca değerlendirilerek bunun sonucuna göre işlem yapılacağı gerekçesiyle başvurunun 26.06.2015 tarih ve 15082 sayılı yazı ile reddedilmesi üzerine ödenen verginin yasal faizi ile birlikte iadesi istemiyle dava açıldığı anlaşılmaktadır.
+
+Bu durumda davacı tarafından Sulh Hukuk Mahkemesi Satış Memurluğunca yapılan açık artırma sonucu satın alınan taşınmaza ilişkin olarak hesaplanan katma değer vergisinin vergi dairesine yatırılmasından sonra Vergi Dairesi Müdürlüğü'ne başvurulması sonucu tesis edilen işlem üzerine ödenen verginin iadesi istemiyle dava açıldığından uyuşmazlığın yukarıda yapılan açıklamalara göre 2576 sayılı Kanun'un 6. maddesi uyarınca vergi mahkemesince görülüp çözümlenmesi gerekmektedir. (Danıştay 9. Dairesi - Karar : 2015/18100).
+
+### Hal Kiramala Ücret Trifesinin İptali Davasında Vergi Mahkemesi Görevli Değildir
+
+2014 yılında uygulanacak hal kiralama ücret tarifesine dair İstanbul Büyükşehir Belediye Meclisi'nin 13.12.2013 tarihli kararının iptali istemiyle açılan davayı süre aşımı sebebiyle reddeden vergi mahkemesi kararının temyizen incelenerek bozulması istenilmektedir.
+
+2576 Sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'un , idare mahkemelerinin; vergi mahkemelerinin görevine giren davalarla ilk derecede Danıştayda çözümlenecek olanlar dışındaki iptal davalarını, tam yargı davalarını, tahkim yolu öngörülen imtiyaz şartlaşma ve sözleşmelerden doğan uyuşmazlıklar hariç, kamu hizmetlerinden birinin yürütülmesi için yapılan her türlü idari sözleşmelerden dolayı taraflar arasında çıkan uyuşmazlıkları, diğer Kanunlarla verilen işleri, ise vergi mahkemelerinin; genel bütçeye, il özel idareleri, belediye ve köylere ait vergi, resim ve harçlar ile benzeri mali yükümler ve bunların zam ve cezaları ile tarifelere dair davaları, bu konularda 6183 Sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un uygulanmasına dair davaları, diğer kanunlarla verilen işleri çözümleyeceği hükme bağlanmıştır.
+
+Bu durumda, 5957 Sayılı Sebze ve Meyveler ile Yeterli Arz ve Talep Derinliği Bulunan Diğer Malların Ticaretinin Düzenlenmesi Hakkında Kanun kapsamında İstanbul Büyükşehir Belediye Meclisi'nce belirlenen 2014 yılında uygulanacak hal kiralama ücret tarifesinin iptali istemiyle açılan davanın görüm ve çözümü, 2576 Sayılı Bölge İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanunun hükmü karşısında vergi mahkemelerinin görev alanına girmeyip, 5. maddesi hükmüne göre idare mahkemelerinin görev alanına girdiğinden uyuşmazlık hakkında vergi mahkemesince karar verilmesinde hukuki isabet görülmemiştir (Danıştay 9. Dairesi - Karar: 2015/7469).
+
+### İdare Mahkemeleri ile Vergi Mahkemelerinin Görev Ayrımı
+
+2576 sayılı Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin Kuruluşu ve Görevleri Hakkında Kanun'un idare mahkemelerinin görevlerini belirleyen 5'inci maddesinde, idare mahkemelerinin, vergi mahkemelerinin görevine giren davalarla ilk derecede Danıştayda çözümlenecek olanlar dışındaki iptal davalarını, tam yargı davalarını ve tahkim yolu öngörülen imtiyaz şartlaşma ve sözleşmelerinden doğan uyuşmazlıklar hariç, kamu hizmetlerinden birinin yürütülmesi için yapılan idarî sözleşmelerden dolayı taraflar arasında çıkan uyuşmazlıklara ilişkin davaları çözümleyeceği; vergi mahkemelerinin görevlerini belirleyen 6'ncı maddesinde de, vergi mahkemelerinin, genel bütçeye, il özel idareleri, belediye ve köylere ait vergi, resim ve harçlar ile benzeri mali yükümler ve bunların zam ve cezaları ile tarifelere ilişkin davaları ve bu konularda 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un uygulanmasına ilişkin davaları çözümleyeceği hükme bağlanmıştır.
+
+2577 sayılı İdari Yargılama Usulü Kanunu'nun idari davalarda genel yetkiyi düzenleyen 32'nci maddesinde, göreve ilişkin hükümler saklı kalmak şartıyla bu Kanun'da veya özel kanunlarda yetkili idare mahkemesinin gösterilmemiş olması halinde, yetkili idare mahkemesinin dava konusu olan idari işlemi veya idari sözleşmeyi yapan idari merciin bulunduğu yer idare mahkemesi olduğu belirtilmiştir.
+
+```
+ Anayasa'nın 133`üncü maddesinin son fıkrasında, Devletçe kamu tüzelkişiliği olarak kurulan tek radyo ve televizyon kurumu ile kamu tüzelkişilerinden yardım gören haber ajanslarının özerkliği ve yayınlarının tarafsızlığının esas olduğu belirtilmiş, 3093 sayılı Türkiye Radyo-Televizyon Kurumu Gelirleri Kanunu'nun 1'inci maddesinde, Türkiye Radyo-Televizyon Kurumuna devamlı ve yeterli gelir kaynağı sağlamak amacıyla hazırlanan bu Kanun'un, radyo, televizyon, video ve birleşik cihazlar ile görsel ve/veya işitsel yayınları alabilen her türlü cihazlardan alınacak ücretler, elektrik enerjisi hasılatından ayrılacak paylar ile çeşitli gelirlerin tahakkuk, tahsilat işlemlerini kapsadığı; 3'üncü maddesinde, bu Kanun'un 1'inci maddesinde belirtilen cihazları imal edenlerin satıştan önce; ithal edenlerin ise serbest dolaşıma girişinde bandrol veya etiket almaya mecbur oldukları, bu bandrol veya etiketlerin Türkiye Radyo - Televizyon Kurumu tarafından veya bu Kurumun yetkili kılacağı diğer kurum veya kuruluşlar tarafından verileceği; 4'üncü maddesinde, maddede sayılan cihazları imal edenlerin cihazın satış faturasındaki (özel tüketim vergisi hariç) Katma Değer Vergisi matrahı, ithal edenlerin ise gümrük giriş beyannamesindeki (özel tüketim vergisi hariç) Katma Değer Vergisi matrahı üzerinden bir defaya mahsus olmak üzere ücret tahsil ederek 5'inci maddeye göre Türkiye Radyo-Televizyon Kurumuna ödeyecekleri; 5'inci maddesinin birinci fıkrasının (b) bendinde de, bu maddenin (g) bendi kapsamı dışında kalan bandrol ücretlerinin, gümrük idarelerince ithalatta alınan gümrük vergileri ve diğer mali yükümlülüklerden ayrı olarak tahsil olunacağı ve yapılan aylık tahsilat toplamının en geç takip eden ayın on beşinci gününe kadar Türkiye Radyo-Televizyon Kurumuna intikal ettirileceği düzenlenmiştir.
+ Dava konusu uyuşmazlığın, davacı şirket tarafından ithal edilen ve 3093 sayılı Kanun uyarınca bandrole tabi olan cihazların, İthalatta Gözetim Uygulaması kapsamında olması nedeniyle referans kıymet üzerinden beyan edilmesinden dolayı fazla ödendiği ileri sürülen TRT bandrol ücretinden kaynaklandığı, söz konusu gelirin Devletçe kamu tüzel kişiliği olarak kurulan, özerkliği ve tarafsızlığı Anayasa'da hükme bağlanan Türkiye Radyo -Televizyon Kurumuna özgülendiği, adı geçen Kurumun ise, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu uyarınca genel yönetim kapsamındaki kamu idarelerinden olmadığı ve bütçeye tabi kurumlar arasında yer almadığı anlaşılmıştır.
+  İdari yargı düzeni içerisinde idare mahkemelerinin genel görevli yargı mercii olarak kabul edildiği, vergi mahkemelerinin ise sadece kanunda sayılan genel bütçeye, il özel idareleri, belediye ve köylere ait vergi, resim ve harçlar ile benzeri mali yükümler ve bunların zam ve cezaları ile tarifelere ilişkin davaları ve bu konulardaki 6183 sayılı Kanun'un uygulanmasına ilişkin davaları çözümlemekle görevli kılındığı hususu göz önüne alındığında, genel bütçe kapsamındaki kamu idarelerinden olmayan Türkiye Radyo-Televizyon Kurumuna yasa gereği özgülenen "bandrol ücreti"nden kaynaklanan uyuşmazlığın vergi mahkemelerinin görevine giren davalardan olmadığı, söz konusu ücretin katma değer vergisi matrahı üzerinden alınmasının görev yönüyle davanın niteliğini değiştirmeyeceği, bu bakımdan dava konusu işlemin genel görevli idare mahkemesinde görülmesi gerektiği sonucuna varılmıştır.
+ Öte yandan uyuşmazlığı çözümlemekle yetkili mahkeme, 2577 sayılı Kanun`un 32`nci maddesi uyarınca dava konusu idari işlemi tesis eden idari merciin bulunduğu yerdeki Ankara İdare Mahkemesidir (Danıştay Başkanlar Kurulu Kararı -E.2019/2 - K.2019/87).
+```
+
+---
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/vergi-ve-idare-hukuku/vergi-mahkemesi-gorevi-nedir*

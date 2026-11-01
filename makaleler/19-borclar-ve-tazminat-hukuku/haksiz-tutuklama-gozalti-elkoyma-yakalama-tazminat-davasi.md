@@ -1,0 +1,318 @@
+---
+baslik: "Haksız Tutuklama, Gözaltı ve Elkoyma Tazminat Davası"
+yazar: "Av. Baran Doğan"
+hukuk_alani: "Borçlar ve Tazminat Hukuku"
+ust_grup: "Özel Hukuk"
+site_kategorisi: tazminat-hukuku
+kaynak_url: https://barandogan.av.tr/blog/tazminat-hukuku/haksiz-tutuklama-gozalti-elkoyma-yakalama-tazminat-davasi
+yayim_tarihi: 2017-10-28
+son_guncelleme: 2025-11-21
+anilan_maddeler: ["CMK 141/1", "CMK 144/1", "CMK 141", "CMK 144", "CMK 142/1", "CMK 142/2", "CMK 142/3", "CMK 143", "CMK 142/9", "CMK 142/10"]
+lisans: Yazarın izniyle, atıflı ve ticari olmayan kullanım (bkz. IZIN.md)
+---
+
+# Haksız Tutuklama, Gözaltı ve Elkoyma Tazminat Davası
+
+> **Kaynak ve atıf:** Bu metin Av. Baran Doğan tarafından kaleme alınmış olup orijinali <https://barandogan.av.tr/blog/tazminat-hukuku/haksiz-tutuklama-gozalti-elkoyma-yakalama-tazminat-davasi> adresinde yayımlanmaktadır. Yazarın izniyle, atıflı ve ticari olmayan amaçla arşivlenmiştir. Tüm hakları yazara aittir.
+>
+> **Uyarı:** Metin, yayım veya son güncelleme tarihindeki mevzuat ve içtihada dayanmaktadır; güncel mevzuat ve içtihatla teyit edilmeden kullanılmamalıdır. Hukuki mütalaa niteliği taşımaz.
+
+Haksız Tutuklama Tazminatı Nedir? Haksız Gözaltı, Haksız Arama ve Yakalama Tazminatı Nedir? Haksız Elkoyma Tazminatı Nedir? Koruma Tedbirleri Nedeniyle Maddi ve Manevi Tazminat Davası Nasıl Açılır? Maddi Tazminat Miktarı ve Manevi Tazminat Miktarı Ne Kadardır?
+
+
+## Haksız Tutuklama, Gözaltı, Arama ve El Koyma Nedir? (CMK 141)
+
+Av. Şefik Çelik
+
+Tutuklama, gözaltı, yakalama ve elkoyma gibi tedbirler ceza muhakamesinde “koruma tedbirleri” olarak adlandırılır. Koruma tedbirlerinin 5271 sayılı Ceza Muhakemesi Kanunu’na aykırı uygulanması halinde ise “**haksız tutuklama**”, “**haksız gözaltı**”, “**haksız yakalama**”, “**haksız el koyma**”, "**haksız arama**" söz konusu olur.
+
+Ceza hukukunda soruşturma ve devamında kovuşturma aşamasında koruma tedbirlerine başvurulabilir. Ancak bu koruma tedbirleri ölçülü ve orantılı uygulanmalıdır. Adli makamlar tarafından tutuklama, yakalama, gözaltı veya elkoyma gibi  koruma tedbirleri uygulanarak yapılan soruşturma veya kovuşturma neticesinde şüpheli veya sanığın suçsuz olduğu anlaşıldığında; yani mahkeme tarafından beraat kararı veya savcılık tarafından takipsizlik kararı verildiğinde koruma tedbirlerinin de haksız uygulandığı tespit edilmiş olur. Bu durumda, haksız koruma tedbirleri uygulanan kişinin maddi ve manevi tazminat davası açma hakkı doğar. Uygulamada, **haksız tutuklama tazminatı** haksız koruma tedbirleri nedeniyle en çok dava konusu edilen tazminat türüdür.
+
+## Koruma Tedbirleri Nedeniyle Tazminat Nasıl Talep Edilir?
+
+Uygulamada herhangi bir suçun soruşturma veya kovuşturulması aşamasında genellikle koruma tedbirlerine başvurulmaktadır. Koruma tedbirlerinin kişiyi mağdur ettiği durumlarda yasa koyucu kişiye tazminat verilmesini hükme bağlamıştır. Haksız koruma tedbirleri nedeniyle iki şekilde tazminat talep edilebilir:
+
+**1.** Tazminat Komisyonuna başvurarak idari yoldan tazminat talep edilebilir.
+
+**2.** Tazminat komisyonunun görevi dışında kalan hallerde haksız koruma tedbileri nedeniyle tazminat davası açılabilir. *Koruma tedbirleri nedeniyle tazminat davası*, haksız koruma tedbirleri nedeniyle Maliye Hazinesi aleyhine, yani devlete karşı açılan 5271 sayılı Ceza Muhakemesi Kanunu'nun 141. maddesinde düzenlenen bir tazminat davasıdır.
+
+### Tazminat Komisyonunun Yetkisi ve Görevleri
+
+6384 sayılı kanunda yer alan Tazminat Komisyonu Adalet Bakanlığı bünyesinde kurulan haksız koruma tedbirleri nedeniyle oluşan maddi ve manevi zararları idari bir yolla tazmin eden idari bir kurumdur. Aşağıdaki hallerde mahkemeye tazminat davası açılmadan doğrudan Tazminat Komisyonu'na başvuru yapılması gerekir (6384 sayılı kanun m.2/3):
+
+- Ceza hukuku kapsamındaki soruşturma ve kovuşturmalar ile özel hukuk ve idare hukuku kapsamındaki yargılamaların **makul sürede sonuçlandırılmadığı** iddiasıyla manevi tazminat talepleri için tazminat komisyonuna başvurulmalıdır.
+- Kanuna uygun olarak yakalandıktan veya tutuklandıktan sonra haklarında kovuşturmaya yer olmadığına veya beraatlerine karar verilenler maddi ve manevi her türlü zararın tazmini için Tazminat Komisyonuna başvurabilirler.
+- Mahkûm olup da gözaltı ve tutuklulukta geçirdiği süreleri, hükümlülük sürelerinden fazla olan veya işlediği suç için kanunda öngörülen cezanın sadece para cezası olması nedeniyle zorunlu olarak bu cezayla cezalandırılanlar maddi ve manevi her türlü zararın tazmini için komisyona başvurabilirler.
+- Konutunu terk etmemek (ev hapsi) veya uyuşturucu, uyarıcı veya uçucu maddeler ile alkol bağımlılığından arınmak amacıyla hastaneye yatmak dâhil, tedavi veya muayene tedbirlerine tâbi olmak ve bunları kabul etmek şeklindeki adli kontrol yükümlülükleri uygulandıktan sonra haklarında kovuşturmaya yer olmadığına veya beraatlerine karar verilenler maddi ve manevi her türlü zararın tazmini için komisyona başvurabilirler.
+
+## Koruma Tedbirleri Nedeniyle Hangi Hallerde Tazminat Davası Açılabilir? (CMK 141)
+
+5271 sayılı Ceza Muhakemesi Kanunu ile güvence altına alınan bazı haklarının ihlal edildiği iddia eden kişiler maddi ve manevi tazminat talebinde bulunabileceklerdir. Suç soruşturması veya kovuşturması esnasında haksız koruma tedbiri uygulanan kişiler şu hallerde tazminat talebinde bulunabilirler:
+
+- Kanunlarda belirtilen koşullar dışında hakkında yakalanan, tutuklanan veya tutukluluğunun devamına karar verilenler (CMK m. 141/1-a ),
+- Kanunî gözaltı süresi içinde hâkim önüne çıkarılmayanlar (CMK m 141/1-b),
+- Kanunî hakları hatırlatılmadan veya hatırlatılan haklarından yararlandırılma isteği yerine getirilmeden tutuklananlar (CMK m.141/1-c),
+- Kanuna uygun olarak tutuklandığı hâlde makul sürede yargılama mercii huzuruna çıkarılmayan ve bu süre içinde hakkında hüküm verilmeyen (CMK m.141 /1-d),
+- Kanuna uygun olarak yakalandıktan veya tutuklandıktan sonra haklarında kovuşturmaya yer olmadığına veya beraatlerine karar verilen (CMK m. 141/1-e),
+- Hakkında mahkumiyet hükmü verilen ancak gözaltı ve tutuklulukta geçirdiği süreleri, hükümlülük sürelerinden fazla olan veya işlediği suç için kanunda öngörülen cezanın sadece adli para cezası olması nedeniyle zorunlu olarak bu cezayla cezalandırılanlar (CMK m.141/1-f),
+- Yakalama veya tutuklama nedenleri ve haklarındaki suçlamalar kendilerine, yazıyla veya bunun hemen olanaklı bulunmadığı hâllerde sözle açıklanmayanlar (CMK m. 141/1-g),
+- Yakalanmaları veya tutuklanmaları yakınlarına bildirilmeyenler (CMK m.141/1-h),
+- Hakkındaki arama kararı ölçüsüz bir şekilde uygulananlar (CMK m 141/1-i),
+- Eşyasına veya diğer malvarlığı değerlerine, koşulları oluşmadığı halde elkonulan veya korunması için gerekli tedbirler alınmayan ya da eşyası veya diğer malvarlığı değerleri amaç dışı kullanılanlar veya eşyaları zamanında geri verilmeyenler (CMK m.141/1-j),
+- Konutunu terk etmemek (ev hapsi) veya uyuşturucu, uyarıcı veya uçucu maddeler ile alkol bağımlılığından arınmak amacıyla hastaneye yatmak dâhil, tedavi veya muayene tedbirlerine tâbi olmak ve bunları kabul etmek şeklindeki adli kontrol yükümlülükleri uygulandıktan sonra haklarında kovuşturmaya yer olmadığına veya beraatlerine karar verilenler (CMK m.141/1-l),
+
+Maddi ve manevî her türlü zararlarını, devletten isteyebilirler. Yukarıda belirtilen hallerden biriyle mağduriyete uğrayan kişiler maddi ve manevi tazminat davası açabilirler. Ancak, uygulamada genellikle kovuşturmaya yer olmadığına dair karar (KYOK) veya yargılama sonunda beraat eden şahıslar tarafından gözaltı ve tutuklama nedeniyle uğranılan zararların tazmini amacıyla maddi ve manevi tazminat davaları açılmaktadır.
+
+Mahkum olan kişinin gözaltı ve tutuklulukta geçirdiği süreler, mahkum olduğu cezanın infaz süresinden fazla ise tazminat davası açabilir. Ayrıca, işlediği suç için kanunda öngörülen yaptırımın sadece adli para cezası olması nedeniyle zorunlu olarak adli para cezasıyla cezalandırılan kişi de tazminat talebinde bulunabilir. Burada dikkat edilmesi gereken nokta şudur: Kişi mahkum olduğu cezanın ne kadarını yatacak idiyse ondan fazlasını tutuklukta veya gözaltında geçirmiş ise, fazladan özgürlükten mahrumiyete yol açan süre açısından maddi ve manevi tazminat isteyebilir. Örneğin, 3 ay hapis cezası alan kişi, infaz kanununa göre 2 ay cezaevinde kalacaktır. Kişi mahkum olduğu suç nedeniyle 6 ay tutuklu kalmışsa, 4 ay fazla yattığı tutukluluk süresi için maddi ve manevi tazminat talep edebilecektir.
+
+Haksız el koymadan dolayı zarara uğrayan kişiler de maddi ve manevi her türlü zararlarını devletten isteyebilirler. Burada amaç, el konulan malın değer kaybetmesi, çürümesi ya da el konulmasaydı kişinin elde edeceği geliri kaybetmesi nedeniyle kişinin zararının tazmin edilmesidir. El koyma nedeniyle tazminat davası genellikle, suç nedeniyle haksız el konulan tırlar veya kamyonlar hakkında açılmaktadır.
+
+## Haksız Tutuklama, Gözaltı ve El Koyma Nedeniyle Tazminat Davası Açma Süresi (CMK 142/1)
+
+Tazminat Komisyonuna başvuru yapılarak tazminat talebinde bulunulması gereken haller dışında süresinde mahkemeye dava açılarak tazminat isteminde bulunulabilir.
+
+Kanun, "kararın kesinleştiğinin davacıya tebliğinden" itibaren 3 ay ve her halükarda kararın kesinleşmesinden itibaren 1 yıl içinde tazminat davasının açılması gerektiğini hükme bağlamıştır. Uygulamada kesinleşme şerhli gerekçeli kararıne ilgilisine tebliğ edilmesine pek rastlanmamaktadır. Dolaysıyla haksız tutuklama, gözaltı veya el koyma nedeniyle tazminat davası açma süresi; yani zamanaşımı süresi genellikle 1 yıl olarak dikkate alınmaktadır.
+
+Kararın kesinleşip kesinleşmediği konusunda ilgilinin 1 yıl içerisinde dava açma zorunluluğunun getirilmesi hakkaniyete aykırılık taşımaktadır. Yerel mahkemeler bu sürenin zamanaşımı süresi değil, hak düşürücü süre olduğunu, ilgilisinin öğrenme tarihine bakmadan 1 yıllık sürenin geçmesi halinde davanın reddine karar verilmektedir.
+
+Yerel mahkemeler beraat halinde duruşmada hazır olanlara ilamı tebliğ etmediği gibi yokluklarında beraat kararı verilenlere ise sadece ilam tebliğ edilmektedir. Kesinleşme şerhli ilam genellikle tebliğ edilmemektedir. Bu nedenle yokluklarında beraat kararı verilen kişiler ilamın tebliğinden itibaren 1 yıllık süreyi geçirmeden tazminat davası açmalıdırlar.
+
+### Tazminat Davasında Görevli Mahkeme (CMK 142/2)
+
+Haksız koruma tedbirlerinden dolayı açılacak maddi ve manevi tazminat istemli davalar ilgilisinin ikametgahının bulunduğu yer ağır ceza mahkemesinde açılır. Tazminat talep edenin ikametgahında ağır ceza mahkemesinin olmaması halinde en yakın ağır ceza mahkemesi yetkili ve görevlidir. Tazminat davası, talep edenin ikametgahı dışındaki bir ağır ceza mahkemesinde açıldığı takdirde yerel mahkeme yetkisizlik kararı vererek davayı kişinin ikametgahının bulunduğu yer ağır ceza mahkemesine gönderir.
+
+Tazminat talep edenin yabancı veya Türk olmasına rağmen ikametgahının yurt dışında olması halinde genel olarak Milletlerarası Hukuk Usulü çerçevesinde İstanbul, Ankara ve İzmir’de dava açılabileceği kuşkusuzdur.
+
+### Tazminat Davasının Açılması, Deliller ve Yargılama Usulü (CMK md.142/3-4-5-6-7-8)
+
+Tazminat isteminde bulunan kişinin dilekçesine, açık kimlik ve adresini, zarara uğradığı işlemin ve zararın nitelik ve niceliğini kaydetmesi ve bunların belgelerini eklemesi gereklidir.
+
+Her ne kadar açılan davalar ağır ceza mahkemesinde görülüyor ise de sunulan evraklar çerçevesinde bir hukuk mahkemesi gibi karar verilmektedir. Yani, sunulan evraklar ve iddiaların ispatı tazminat miktarının belirlenmesinde etkilidir.
+
+Dilekçedeki bilgi ve belgelerin yetersizliği durumunda, mahkeme, eksikliğin bir ay içinde giderilmesini, aksi hâlde istemin reddedileceğini ilgiliye duyurur. Süresinde eksiği tamamlanmayan dilekçe, mahkemece, itiraz yolu açık olmak üzere reddolunur. Ancak uygulamada evraklar sunulmadığı takdirde, davacıya asgari ücret üzerinden hesaplama yapılarak maddi tazminat verilmektedir. Haksız tutuklama nedeniyle tazminat davalarında, davacının tutuklu kaldığı süre esas alınarak tutuklu kaldığı tarihte uygulanan asgari ücret üzerinden hesaplama yapılır. Tazminat talep eden, 16 yaşından küçük olduğu takdirde 16 yaşından küçük olanlara uygulanan asgari ücret miktarı üzerinden hesaplama yapılacaktır.
+
+Bununla birlikte davacı sigortalı olarak çalıştığı dönemi ispat edemiyorsa asgari geçim indirimi kesintisi yapılarak maddi tazminat hesabı yapılmaktadır.
+
+Nitekim, belge sunulmadığı halde asgari geçim indiriminin kesilmeden bilirkişi raporuna dahil edilmesi bozma sebebidir. Geliri ve tutuklu kaldığı döneme ilişkin kazanç kaybı miktarı konusunda herhangi bir belge ibraz edemeyen davacının tutuklu kaldığı döneme ilişkin olarak Çalışma ve Sosyal Güvenlik Bakanlığınca 16 yaşından büyükler için belirlenen net asgari ücret miktarları üzerinden hesaplanacak 2.857,34 TL'nin kazanç kaybı olarak ödenmesine karar verilmesi gerekirken, bilirkişi raporunda brüt asgari ücret üzerinden kesinti yapılıp asgari geçim indirimi eklenerek hesaplanan 3.187,56 TL'nin hükme esas alınması suretiyle kazanç kaybının fazla tayini, gerekçesiyle bozulması gerektiğini belirtmiştir. (Yargıtay 12.Ceza Dairesi )
+
+Mahkeme, dosyayı inceledikten sonra yeterliliğini belirlediği dilekçe ve ekli belgelerin bir örneğini devlet hazinesinin kendi yargı çevresindeki temsilcisine tebliğ ederek, varsa beyan ve itirazlarını onbeş gün içinde yazılı olarak bildirmesini ister. Yerel mahkemenin eksikliklerin giderilmesinden sonra hazineye tebligat çıkarması gerekmektedir. Mesela, beraat kararının kesinleşmemesi halinde mahkemenin dilekçeyi reddetmesi gerekirken, eksik inceleme yaparak duruşma yapması ve davayı reddetmesi Yargıtayca bozma sebebi sayılmıştır.
+
+İstemin ve ispat belgelerinin değerlendirilmesinde, tazminat hukukunun genel prensiplerine göre verilecek tazminat miktarının saptanmasında, mahkeme gerekli gördüğü her türlü araştırmayı yapmaya veya hâkimlerinden birine yaptırmaya yetkilidir. Mahkeme yargılama yaparken öncelikle dosyadaki hazırlık işlemlerini yürütmesi için Naip bir Hakim görevlendirir. Tüm eksiklikler giderildikten sonra Naip Hakim dosyayı heyete tevdi eder. Ağır Ceza Mahkemesi heyetinin ve duruşma savcısının katılımıyla mahkeme karar verir.
+
+Mahkeme her türlü araştırma yapma yetkisine sahiptir. Öncelikle kişinin ikametgahının bulunduğu emniyet amirliğine müzekkere yazarak sosyal araştırma inceleme raporunu istenir. İnceleme raporunda tazminat talep edenin gelir durumu ve ailevi bilgileri yazılır. Kişi sigortalı olarak çalışmışsa SGK genel müdürlüğüne müzekkere yazılarak hangi dönemler içerisinde çalıştığı araştırılır. Davacı, serbest ticaret yaparak ticari kazanç elde ediyorsa, haksız tutukluluk öncesi döneme ilişkin yıllık kazanç tutarını tespit edebilmek için asgari 4 yıllık döneme ilişkin gelir veya kurumlar vergisi beyannamesi veya vergi levhası ibraz edilmelidir.
+
+Mahkeme, kararını duruşmalı olarak verir. İstemde bulunan ile hazine temsilcisi, açıklamalı çağrı kâğıdı tebliğine rağmen gelmezlerse, yokluklarında karar verilebilir.
+
+Dava, her ne kadar tazminat davası ise de mahkeme davacının veya davalının yokluğunda karar verilebilir.
+
+Karara karşı, istemde bulunan, Cumhuriyet savcısı veya Hazine temsilcisi, istinaf yoluna başvurabilir; inceleme öncelikle ve ivedilikle yapılır.
+
+Tarafların ve Cumhuriyet savcının karara karşı istinaf yoluna başvurma hakkı vardır. Bununla birlikte tarafların tazminat miktarının temyiz sınırına göre Yargıtaya temyiz kanun yoluna gidebilirler.
+
+### Haksız Koruma Tedbiri Nedeniyle Tazminat Davasında Harç Ödenir mi?
+
+Haksız koruma tedbirleri neddeniyle açılan tazminat davası, herhangi bir harç ve gidere tabi değildir. Tazminat istemini dile getiren bir dilekçenin yetkili ve görevli mahkemeye verilmesi yeterlidir.
+
+### Haksız Tutuklama, Gözaltı ve Elkoyma Tazminatının Geri Alınma Şartları (CMK 143)
+
+Kovuşturmaya yer olmadığına ilişkin kararı sonradan kaldırılarak, hakkında kamu davası açılan ve mahkûm edilenlerle, yargılamanın aleyhte yenilenmesi ile beraat kararı kaldırılıp mahkûm edilenlere ödenmiş tazminatların mahkûmiyet süresine ilişkin kısmı, Cumhuriyet savcısının yazılı istemi ile aynı mahkemeden alınacak kararla kamu alacaklarının tahsiline ilişkin mevzuat hükümleri uygulanarak geri alınır. Bu karara karşı itiraz kanun yoluna gidilebilir.
+
+Yukarıda sayılan durumlarda bir değişiklik olması halinde Maliye Hazinesi adına İstanbul Muhekemat müdürlüğü şartlara göre tazminatın geri ödenmesi için icra takibi başlatır. Eğer ilgilisine mahkeme ilamında belirtilen tazminat ödenmemişse, tazminata ilişkin ilam hükümsüz kalır. İlamı veren yerel mahkeme, yeni bir kararla tutuklu kaldığı süre ve aldığı cezaya göre tazminatın kısmen veya tamamen reddine karar verebilir. Uygulamada pek olmamakla birlikte koruma tedbirlerinin uygulanmasında kamu görevlerinin kusuruna göre devlet ödediği tazminatı kamu görevlilerine rücu edebilir. İftira suçu konusunu oluşturan suç veya yalan tanıklık nedeniyle gözaltına alınma ve tutuklama halinde; devlet, iftira eden veya yalan tanıklık yapan kişiye de rücu eder.
+
+### Haksız Tutuklama, Gözaltı ve Elkoyma Nedeniyle Tazminat İsteyemeyecek Kişiler (CMK 144)
+
+Aşağıdaki kişiler, haksız tutuklama, gözaltı, adli kontrol, yakalama veya elkoyma nedeniyle tazminat talebinde bulunamazlar:
+
+- Gözaltı ve tutukluluk süresi başka bir hükümlülüğünden indirilenler haksız tutuklama veya haksız gözaltı nedeniyle tam bir tazminat değil, sembolik bir tazminat isteyebilirler. Çünkü, mahsup yoluyla hukuka aykırılık telafi edilmiş kabul edilmektedir.
+- Tazminata hak kazanmadığı hâlde, sonradan yürürlüğe giren ve lehte düzenlemeler getiren kanun gereği, durumları tazminat istemeye uygun hâle dönüşenler haksız tutuklama, gözaltı veya elkoyma nedeniyle tazminat isteyemez. Burda kastedilen tutuklandığı anda tazminat istemi yokken daha sonra getirilen düzenlemelerle tazminat istemine hak kazanması halinde kişinin tazminat talebi reddedilecektir. Örneğin yeniden düzenlemeyle ceza verilmesine yer olmadığına ilişkin bir karar verilmesi halinde kişi tutuklu kaldığı halde tazminat talebinde bulunamaz. (CMK m. 144/1-b)
+- Genel veya özel af, şikâyetten vazgeçme, uzlaşma gibi nedenlerle hakkında kovuşturmaya yer olmadığına veya davanın düşmesine karar verilen veya kamu davası geçici olarak durdurulan veya kamu davası ertelenen veya düşürülenler haksız tutuklama, gözaltı veya elkoyma nedeniyle tazminat isteyemez. Birden fazla suç olması ve bir suçtan beraat alıp diğerinden kovuşturmanın ertelenmesi kararı alınması halinde kişi tazminat isteyebilir mi? Kişi eğer tutuklandığı suçtan beraat almış diğer suçlardan erteleme aldığı takdirde tazminat davası açabilecektir. (CMK m. 144/1-c)
+- Kusur yeteneğinin bulunmaması nedeniyle hakkında ceza verilmesine yer olmadığına karar verilenler. (CMK m. 144/1-d)
+- Adlî makamlar huzurunda gerçek dışı beyanla suç işlediğini veya suça katıldığını bildirerek gözaltına alınmasına veya tutuklanmasına neden olanlar. (CMK m.144/1-d )
+
+### Hükmün Açıklanmasının Geriye Bırakılması Halinde Tazminat Davası
+
+Kişi hakkında hükmün açıklanmasının geriye bırakılması (HAGB) veya kovuşturmanın ertelenmesi kararı verildiği takdirde belli bir süre tutuklu kalan kişi maddi ve manevi tazminat davası açabilir mi?
+
+Yukarıdaki iki durumda da denetim süresini usulüne uygun bir şekilde geçirdikten sonra hakkında düşme kararı verilen kişi, düşme kararı verilmesinden itibaren 3 ay içerisinde tazminat davası açabilir. Ancak, uygulamada düşme kararları çoğu zaman resen verilmeyip talep halinde verilmektedir. Dolayısıyla düşme kararı verilmesi için ilgili mahkemeye başvuru yapılması ve akabinde tazminat davası açılması gerekmektedir.
+
+### Koruma Tedbirleri Nedeniyle Tazminat Davasında Faiz Başlangıç Tarihi
+
+Haksız koruma tedbirleri nedeniyle fazi başlangıç tarihi, haksız tedbirin uygulandığı tarihtir. Örneğin, davacının gözaltına alındığı tarih veya gözaltı yoksa tutuklandığı tarihten itibaren faiz işletilir. Ancak, dava dilekçesinde mutlaka faiz talep edilmelidir. Aksi takdirde faiz başlangıç tarihi dava tarihi olacaktır. Haksız koruma tedbirleri nedeniyle istenecek faiz, yasal faiz oranıdır.
+
+Talepte gözaltı tarihinden itibaren yasal faize hükmedilmesi talep edilmesine rağmen tutuklama tarihinden itibaren yasal faize hükmedilmesi bozma sebebi sayılmıştır. (Yargıtay 12 Ceza Dairesinin 2014/18191 Esas 2015/4307 Karar)
+
+### Koruma Tedbirleri Nedeniyle Tazminat Davasında Avukatlık Ücreti
+
+Maddi tazminata davalarında vekalet ücreti maddi tazminat kapsamında değerlendirilebilir mi? Haksız koruma tedbiri uygulanan kişi hakkındaki ceza soruşturması veya kovuşturmasında kendisini temsil etmek üzere bir avukat tutmuş ve vekalet ücreti ödemiş olabilir. Tazminat davasında maddi tazminat kapsamında davacının daha önce ödediği avukatlık ücretine hükmedilebilmesi için Serbest Meslek Makbuzunun ibrazı Yargıtay tarafından şart koşulmuştur. Ayrıca, beraat kararı verilen ilamda hükmedilen vekalet ücreti de serbest meslek makbuzu yoksa, ölçü olarak kabul edilemez.
+
+Tazminat davasında hazine aleyhine hükmedilecek vekalet ücreti konusunda 694 sayılı KHK ile 5271 sayılı CMK'nın 142. maddesine aşağıdaki fıkralar eklenerek yeniden düzenlenmiştir:
+
+- Tazminat davaları nedeniyle Avukatlık Asgari Ücret Tarifesi gereğince hesaplanan nispi avukatlık ücreti ödenir. Ancak, ödenecek miktar Tarife de sulh ceza hakimliklerinde takip edilen işler için belirlenen maktu ücretten az, ağır ceza mahkemelerinde takip edilen davalar için belirlenen maktu ücretten fazla olamaz (CMK m.142/9).
+- Tazminata ilişkin mahkeme kararları kesinleşmeden ve idari başvuru süreci tamamlanmadan icra takibine konulamaz. kesinleşen mahkeme kararında hükmedilen tazminat ile vekalet ücreti, davacı veya vekilin davalı idareye yazılı şekilde bildireceği banka hesap numarasına, bu bildirimin yapıldığı tarihten itibaren 30 gün içinde ödenir. Bu süre içerisinde ödeme yapılmaması halinde, karar genel hükümler dairesinde infaz ve icra olunur (CMK m.142/10).
+
+### Soruşturma Aşamasında Görev Yapan Hakim ve Savcılar Tazminat Davasında Görev Alabilir mi?
+
+Soruşturma aşamasında davacının tutuklanmasına veya tutukluluğun devamı kararında da imzası bulunan hakim ve soruşturmada görev yapan savcılar, beraat eden davacının açtığı tazminat davasında görev yapamazlar. (Yargıtay 12. Ceza Dairesi - 2017/2973 Karar).
+
+### Maddi Tazminat Miktarı Nasıl Belirlenir?
+
+Yerel Mahkemeler maddi tazminat hesaplamasını tamamen somut ve sunulan belgelere göre yapar. Öncelikle kişinin sunmuş olduğu evraklar çerçevesinde araştırma yapar . Bununla birlikte kişinin sosyal durumu ile ilgili en yakın kolluk birimine müzekkere yazarak kişi hakkında bilgi ister. Mahkemeye belge sunulmamış ise tutuklu kaldığı dönem için uygulanan asgari ücret üzerinden tazminata hükmeder. Yani kişi tutuklanmasaydı elde edeceği geliri maddi tazminat kapsamında değerlendirilir. Dolayısıyla kişinin kayıpları belgeleriyle ortaya konulması halinde tazminat miktarı ortaya çıkacaktır.
+
+Ve de tutuklandığı için maddi kayıp yaşamışsa, mesela avukat tuttuğu için vekalet ücreti ödemişse, makbuzların sunulması halinde makul bir ek ilave ödenecektir. Bununla birlikte iş kaybı yaşamışsa ve bu tutuklamadan kaynaklı ise bu kayıpları da yerel mahkemeden talep edebilir.
+
+### Manevi Tazminat Miktarı Nasıl Belirlenir?
+
+Manevi tazminatın objektif ölçütleri yoktur. Tazminat talep edenin statüsü, çektiği elem, yaptığı iş ve kayıplarına göre manevi tazminat miktarı değerlendirilmektedir. Davacının sosyal ve hukuki durumu, üzerine atılı suçun niteliği, tutuklanmasına neden olan olayın cereyan tarzı, tutuklu kaldığı süre ve benzeri hususlar ile tazminat davasının kesinleşeceği tarihe kadar davacının elde edeceği parasal değer dikkate alınıp, hak ve nesafet ilkelerine uygun makul miktarların verilmesi gerektiği yargıtayın genel kararlarında belirtilmektedir.
+
+Örneğin tutuklu süre aynı olmasına rağmen bazı kişilere 500.000 TL gibi manevi tazminat çıkmakta iken (Ergenekon davasından tutuklanan general v.s.) asgari ücretle çalışan kişiye ise 50.000 TL manevi tazminata hükmedilmektedir. Kararlardaki bu farklılık, tazminat talep edenin statüsü ve hukuksal durumundan kaynaklanmaktadır.
+
+AİHM kararlarında standart olarak 1 ay haksız tutuklamaya karşılık olarak 1000 EURO manevi tazminata hükmedilmektedir.
+
+Haksız tutuklama, gözaltı, yakalama veya elkoyma nedeniyle tazminat davası; kişi özgürlüğüne ceza hukuku müdahalesinin etkilerini gidermek amacıyla açılan önemli bir dava türüdür.
+
+
+## Haksız Tutuklama, Yakalama, Gözaltı, Elkoyma Yargıtay Kararları
+
+Koruma tedbirlerinden kaynaklı tazminata davalarına Yargıtay 12.Ceza Dairesi bakmaktadır. Emsal Yargıtay kararları aşağıdadır:
+
+### Haksız Arama Nedeniyle Tazminat Davası Açmanın Süresi
+
+Tazminat talebinin dayanağı olan Niğde Cumhuriyet Başsavcılığının 2011/6355 soruşturma sayılı ceza dosyası kapsamında, avukat olan davacının eşi hakkında Suç İşlemek Amacıyla Örgüt Kurma ve Tefecilik suçlarından 08.05.2012 tarihinde evinde arama yapıldığı,
+
+Davacının 1136 Sayılı Avukatlık Kanununun 58. maddesine aykırı davranılarak konutunda arama yapıldığı gerekçesiyle 100.000,00 TL manevi tazminatın arama tarihinden itibaren işleyecek yasal faizi ile ödenmesi talebine ilişkin söz konusu davada, yerel mahkemece 1.000,00 TL manevi tazminatın arama tarihinden itibaren işleyecek yasal faizi ile davalıdan alınarak davacıya ödenmesine hükmedilmiş olup,
+
+Davanın, arama tarihi itibariyle yürürlükte bulunan 5271 sayılı Ceza Muhakemeleri Kanununa tabi olduğu, bahse konu **arama kararının icra tarihi olan 08.05.2012 tarihinden itibaren 5271 sayılı CMK'nın 142/1. maddesinde belirtilen 1 yıllık süre geçtikten sonra** 14.01.2016 tarihinde açıldığının anlaşılması karşısında, davanın süre yönünden reddine karar verilmesi gerekirken, yazılı şekilde kısmen kabulüne karar verilmesi, temyiz edenin sıfatına göre bozma nedeni yapılmamıştır. Gerekçeli karar başlığında, ''Koruma tedbirleri nedeniyle tazminat'' olan dava türünün ''CMK 141. maddesi gereğince tazminat talebi'' olarak yazılması mahallinde düzeltilebilir yazım yanlışlığı olarak görülmüştür (Yargıtay 12. Ceza Dairesi-K.2021/5212).
+
+Tazminat talebinin dayanağı olan Van Cumhuriyet Başsavcılığının 2010/1143 sayılı soruşturma dosyasında arama kararının ve yapılan aramanın hukuka aykırı olduğu ve arama kararının ölçüsüz şekilde gerçekleştirildiği nedenine dayanan tazminat talebine ilişkin olarak, davanın, arama tarihi itibariyle yürürlükte bulunan 5271 sayılı Ceza Muhakemeleri Kanununa tabi olduğu, bahse konu arama kararının icra tarihi olan 03.05.2012 tarihinden itibaren 5271 sayılı CMK'nın 142/1. maddesinde belirtilen 1 yıllık süre geçtikten sonra 06.09.2013 tarihinde açıldığının anlaşılması karşısında, davanın süre yönünden reddine karar verilmesi gerekirken, arama işlemlerinde ölçüsüzlük bulunmadığı gerekçesi ile reddine karar verilmesi sonuca etkili görülmediğinden, bozma nedeni yapılmamıştır (Yargıtay 12. Ceza Dairesi-K. 2021/4810).
+
+### Haksız Tutuklama Tazminatı ve Mahsup Şartları
+
+Tazminat talebinin dayanağı olan Adana 6. Ağır Ceza Mahkemesinin 2015/223 esas 2015/540 karar sayılı ceza dosyası kapsamında, davacının cinsel saldırı suçundan 17.04.2015 - 09.06.2015 tarihleri arasında 53 gün tutuklu kaldığı, yapılan yargılama sonunda beraatine hükmedildiği, beraat hükmünün 08.01.2016 tarihinde kesinleştiği, tutuklama tarihi itibariyle yürürlükte bulunan 5271 sayılı CMK'nın 142. maddesinde öngörülen süre içinde yetkili ve görevli mahkemeye davanın açıldığı ve kanunda öngörülen yasal şartların oluştuğu, davacının tutukluluk süresinin tamamının Adana 18. Asliye Ceza Mahkemesinin 18.03.2016 tarih 2013/71 esas 2013/43 sayılı ek kararı ile mahsup edildiği anlaşılmakla;
+
+Davacının 5.000,00 TL maddi, 10.000,00 TL manevi tazminatın tutuklama tarihinden itibaren işleyecek yasal faizi ile ödenmesi talebine ilişkin söz konusu davada, yerel mahkemece 1.488,87 TL maddi, 2.000,00 TL manevi tazminatın tutuklama tarihinden itibaren işleyecek yasal faizi ile davalıdan alınarak davacıya ödenmesine hükmedilmesi üzerine Dairemizce yapılan incelemede, davacının tutuklu kaldığı sürenin fiilen mahsup edilip edilmediği, mahsup edilmiş olması halinde ne kadarının mahsup edildiği hususu kuşkuya yer vermeyecek şekilde açıklığa kavuşturulup CMK'nın 144/1-a maddesinin yürürlükten kaldırılması nedeniyle mahsup durumu tazminata engel oluşturmayacak ise de, haklarında mahsup işlemi yapılmayan kişilerle tutukluluğu başka mahkumiyetinden mahsup edilenler arasındaki dengenin, hak ve nesafetin sağlanması gerektiği göz önünde bulundurularak tutuklu kalınan sürenin tamamının mahsup edildiğinin tespit edilmesi halinde davacı lehine makul bir miktar maddi ve manevi tazminata hükmolunması, bir kısmının mahsup edildiğinin tespiti halinde ise mahsup edilmeyen kısmına ilişkin olarak maddi ve manevi zarar dikkate alınıp, mahsup edilen kısım için ise makul bir miktar maddi ve manevi tazminata hükmedilmesinin lüzumu, gerekçesi ile hükmün bozulması üzerine yerel mahkemece duruşma açılıp, 500,00 TL maddi, 1.000,00 TL manevi tazminatın tutuklama tarihinden itibaren işleyecek yasal faizi ile davalıdan alınarak davacıya ödenmesine karar verilmesinde bir isabetsizlik görülmemiştir (Yargıtay 12. Ceza Dairesi- 2021/5973 K.).
+
+### Koruma Tedbirleri Nedeniyle Tazminat Davasında Faiz ve Islah
+
+6100 sayılı Hukuk Muhakemeleri Kanununun ıslahın zamanı ve şekli başlıklı 177/1. maddesinde ıslahın, tahkikatın sona ermesine kadar yapılabileceği düzenlenmiştir. Aynı maddeye 22.07.2020 tarih ve 7251 sayılı Kanunun 18. maddesi ile eklenen ikinci fıkrasında ise Yargıtayın bozma kararından veya bölge adliye mahkemesinin kaldırma kararından sonra dosya ilk derece mahkemesine gönderildiğinde, ilk derece mahkemesinin tahkikata ilişkin bir işlem yapması hâlinde tahkikat sona erinceye kadar da ıslah yapılabileceği düzenlemesi getirilmiştir. Böylelikle kanunda öngörülen şartları sağladığı takdirde Yargıtay bozma kararından sonra ıslah yapılabilmesi mümkün kılınmıştır. Davacının dava dilekçesinde faiz talebinin olmamasına karşın, bozmadan sonra davacı vekilinin, davalı tarafın olmadığı 10.04.2018 tarihli duruşmada talep edilen tazminat miktarına dava tarihinden itibaren yasal faiz talep ederek sözlü ıslah talebinde bulunduğunun anlaşılması karşısında, 6100 sayılı Hukuk Muhakemeleri Kanunun 177/2. maddesi gereğince, bu taleplerin davalı tarafa bildirilmesinde zorunluluk bulunması,
+
+Kanuna aykırı olup, davalı vekilinin temyiz itirazları bu itibarla yerinde görüldüğünden, hükmün bu sebepten dolayı 5320 sayılı Kanunun 8. maddesi uyarınca halen uygulanmakta olan 1412 sayılı CMUK'un 321. maddesi gereğince isteme aykırı olarak BOZULMASINA, 22.02.2021 tarihinde oybirliğiyle karar verildi (Y12CD-Karar : 2021/1747).
+
+### Birden Fazla Suçta Aynı Kararda Düşme ve Beraat Kararı Verilmesi Halinde Tazminat
+
+Kişinin tek bir suçtan dolayı kanuna uygun olarak yakalanması veya tutuklanmasından sonra soruşturma veya kovuşturma sonucunda CMK'nun 144/1-c maddesinde belirtilen kararların verilmesi halinde tazminat isteyemeceği hususunda bir tereddüt bulunmamaktadır. Ancak kişi aynı anda birden çok suçtan dolayı yakalanmış veya tutuklanmış ise bu suçlardan biri hakkında CMK'nun 144/1-c maddesinde belirtilen şekilde bir karar verilmiş olsa bile, diğer suçların hiç birinden mahkum olmamış, kovuşturmaya yer olmadığına veya beraatine kararı verilmiş ise artık gerçekleşen yakalama veya tutuklamanın haksız olduğu sabit olduğundan 5271 sayılı CMK'nun 144/1-e maddesi uyarınca hak ve nesafet kurallarına göre belirlenecek bir miktar tazminatın ödenmesine karar verilmelidir.
+
+Davacı 4320 sayılı Kanuna aykırılık, hakaret ve eşe karşı kasten yaralama suçlarından yapılan soruşturma sırasında her üç suçtan gözaltına alınmış, hakkında bu suçlardan kamu dava açılmış, yapılan yargılama sonucunda hakaret suçundan şikâyetten vazgeçme nedeniyle düşme, 4320 sayılı Kanuna aykırılık ve eşe karşı yaralama suçlarından ise beraat kararları verilmiştir. Her ne kadar şikâyetten vazgeçme nedeniyle düşme kararı verilmesi halinde CMK'nun 144/1-c maddesi uyarınca tazminata hükmonulması mümkün değil ise de, 4320 sayılı Kanuna aykırılık ve eşe karşı kasten yaralama suçlarından dolayı beraat kararı verilmesi nedeniyle haksız bir yakalama söz konusudur. Davacının gözaltına alındığı hiçbir suçtan mahkum olmamış olması ve diğer tüm suçlardan beraatina karar verilmesi karşısında 5271 sayılı CMK'nun 144/1-e maddesi uyarınca hak ve nasafet kurallarına göre belirlenecek bir miktar tazminatın ödenmesine karar verilmesi gerekirken soruşturma ve kovuşturmaya konu suçlardan biri nedeniyle CMK'nun 144/1-c maddesinde yazılı şekilde hüküm kurulduğu gerekçesiyle tazminata hükmonulamayacağının kabulü usul ve kanuna aykırıdır. (Yargıtay CGK - K.2015/144).
+
+### Dava Zamanaşımı Nedeniyle Düşme ve Tazminat Davası
+
+İlk Derece Mahkemesince, tazminat talebinin dayanağı olan Eskişehir 2. Ağır Ceza Mahkemesinin 2015/47 Esas – 2015/368 Karar sayılı ceza dosyası kapsamında, davacının silahlı terör örgütüne üye olma suçundan 19.03.2009 - 23.03.2009 tarihleri arasında 4 gün gözaltında, 31.03.2009 - 08.11.2013 tarihleri arasında da 1683 gün gözaltı ve tutuklu olmak üzere toplam 1687 gözaltı ve tutuklu kaldığı, yapılan yargılama sonunda zamanaşımı nedeniyle düşme kararına hükmedildiği, düşme hükmünün 25.11.2021 tarihinde kesinleştiği, kesinleşen düşme hükmünün davacı asile tebliğ edilmediği, gözaltı ve tutuklama tarihi itibariyle yürürlükte bulunan 5271 sayılı CMK'nın 142. maddesinde öngörülen süre içinde yetkili ve görevli mahkemeye davanın açıldığı, davacı hakkında aynı konuda açılan davanın bulunmadığı, tutukluluk süresinin infaz gördüğü ve mahsuba konu yapılmadığı, kanunda öngörülen yasal şartların oluştuğu belirlenerek davanın kısmen kabulüne karar verilmiştir.
+
+İlk Derece Mahkemesince kısmen kabul edilen davada, Bölge Adliye Mahkemesi tarafından düzeltilerek istinaf başvurularının esastan reddine karar verildiği anlaşılmıştır.
+
+5271 sayılı CMK'da, dava zamanaşımının dolması sebebiyle düşme kararı verilmesi halinde tazminata hükmedilemeyeceğine ilişkin açık bir düzenleme bulunmaması karşısında, tutuklu kaldığı halde beraatine karar verilen kişiler hakkında takdir edilen maddi ve manevi tazminat miktarı kadar olmasa da, davacı lehine uğranıldığı iddia edilen zarara ilişkin makul bir maddi ve manevi tazminata hükmedilmesi gerektiği gözetilmeden fazla tazminata hükmedilmesi temyiz edenin sıfatı doğrultusunda bozma nedeni yapılmamıştır (Yargıtay 12. Ceza Dairesi 2024/3885 E. , 2025/5373 K.).
+
+### Tazminat Davasından Feragat Halinde Karşı Taraf Vekalet Ücreti
+
+Davacının 5.000,00 TL maddi, 5.000,00 TL manevi tazminatın tutuklama tarihinden işleyecek yasal faizi ile ödenmesi talebine ilişkin söz konusu davada, yerel mahkemece, davacının ve vekilinin hüküm duruşmasında davadan feragat ettikleri gerekçesi ile davanın reddine hükmedilmiş olup,
+
+Avukatlık Asgari Ücret Tarifesinin 6. maddesinde, anlaşmazlık feragat nedeniyle ön inceleme tutanağı imzalanıncaya kadar giderilirse tarife hükümleriyle belirlenen ücretin yarısına hükmolunacağı belirtilmiş ve 6100 sayılı HMK'nın 137 vd. maddelerinde ön incelemenin kapsamı ve yapılacak işlemlerle incelenecek hususlara yer verilmiş ise de, CMK'nın 141 vd. maddeleri uyarınca açılan tazminat davalarında HMK'nın 137 vd. maddeleri hükümleri, dolayısıyla ön incelemeye ilişkin usul ve esaslar uygulanamayacağı, vekalet ücretinin tamamına hükmedilmesi gerekirken maktu vekalet ücretinin yarısına hükmedilmesi temyiz edenin sıfatına göre bozma nedeni yapılmamıştır (Yargıtay 12. Ceza Dairesi 2020/10126 E. , 2022/547 K.).
+
+### Suç İşlediğini Beyan Eden Kişinin Tutuklanması Halinde Tazminat İstenemez
+
+Davacının 50.000 TL maddi ve 50.000 TL manevi tazminatın gözaltı tarihinden itibaren işleyecek yasal faizi ile ödenmesi talebine ilişkin söz konusu davada; 5271 sayılı Kanun'un "Tazminat isteyemeyecek kişiler" başlıklı 144 üncü maddesinin birinci fıkrasının (e) bendinde yer alan ''Adlî makamlar huzurunda gerçek dışı beyanla suç işlediğini veya suça katıldığını bildirerek gözaltına alınmasına veya tutuklanmasına neden olanlar'' hükmü ve madde gerekçesinde yer alan "Adli makamlar huzurunda gerçek dışı beyanla suçu işlediğini veya suça katıldığını ifade ederek gözaltı veya tutuklamaya neden olmuş ise tazminat istemeye hak kazanmayacaktır." ibaresi ve dosyada mevcut sorgu tutanağı dikkate alınarak soruşturma aşamasında üzerine atılı suçu ikrar etttiği anlaşılan davacı yönünden tazminat isteme koşulları oluşmadığı anlaşılmakla; davacının uyuşturucu madde alıp satmaya başladığını ifade eden beyanları nedeniyle tutuklanmasına sebebiyet verdiği gerekçesiyle davanın reddedilmesi üzerine davacı vekili tarafından yapılan istinaf başvurusu üzerine Bölge Adliye Mahkemesince yapılan istinaf incelemesi sonucunda istinaf başvurusunun esastan reddine karar verilmesinde hukuka aykırılık görülmemiştir (Yargıtay 12CD - Esas : 2021/8135 Karar : 2023/2005).
+
+### Yakalama İşlemi Yapıldıktan Sonra Serbest Bırakılan Kişinin Tazminat Hakkı
+
+Dosya içeriğine göre; davacının 11.06.2013 tarihinde... Adalet Sarayında gerçekleştirilen eylem sırasında Cumhuriyet savcısının talimatı ile yakalanarak adli muayene raporu düzenlendikten sonra ifadesi alınmadan aynı gün serbest bırakıldığı, ancak hakkında yakalama işlemi yapılan davacıya kanuni haklarının hatırlatıldığına ve davacının yakalandığının bir yakınına veya belirlediği bir kişiye haber verildiğine dair herhangi bir tutanak düzenlenmediği dikkate alınarak, 5271 sayılı CMK'nın 90, 95 ve 97. maddeleri ile Yakalama, Gözaltına Alma ve İfade Alma Yönetmeliğinin 6. maddesindeki zorunlulukların yerine getirilmediği, davacının avukat olmasının bu hükümlerin uygulama koşullarını değiştirmeyeceği, suçlamadan haberdar edilme ve düzenlemede yer alan aydınlatma yükümlülüğüne ilişkin emredici hükümlerin ihlalinin işlemi haksız hale getirdiğinin anlaşılması karşısında, davacı lehine makul bir miktar manevi tazminata hükmolunması gerektiği gözetilmeden, yazılı şekilde isabetsiz değerlendirme ile davanın reddine karar verilmesi bozma nedenidir (Yargıtay 12. Ceza Dairesi - Karar No: 2019/82).
+
+### Tazminat İstemek İçin Hükmün Kesinleşmesinin Gerekmediği Haller
+
+Mahkemece, henüz tazminat isteme koşullarının oluşmadığı gerekçesiyle tazminat talebinin reddine karar verildiğinden, öncelikle derdest davalarda koruma tedbirleri sebebiyle tazminat davası açılıp açılmayacağı konusu değerlendirilmelidir;
+
+5271 Sayılı CMK'nın tazminat istemenin koşulları başlığını taşıyan 142. maddesinde; "Karar veya hükümlerin kesinleştiğinin ilgilisine tebliğinden itibaren üç ay ve her hâlde karar veya hükümlerin kesinleşme tarihini izleyen bir yıl içinde tazminat isteminde" bulunulabileceği hükme bağlanmış, 466 Sayılı Kanun'un 2. maddesinde ise; "zarar veren işlemlerin yapılmasına esas olan iddialar sebebiyle haklarında açılan dâvalar sonunda verilen kararların kesinleştiği veya bu iddiaların mercilerince karara bağlandığı tarihten itibaren üç ay içinde," uğranılan zararın tazmininin istenebileceği belirtilmiştir. 466 Sayılı Kanundaki bu düzenleme nedeniyle, tazminat istemine konu davaların esasıyla ilgili verilen kararların kesinleşmesi veya verilen kovuşturmaya yer olmadığına dair kararların kesinleşmesinden itibaren dava açma süresinin başlayacağı kabul edilmiş, yerleşik uygulama bugüne kadar da bu şekilde sürdürülmüştür.
+
+5271 Sayılı CMK'nın; "Tazminat istemi" başlıklı 141. maddesi incelendiğinde, bir kısım tazminat nedenleri konusunda karar verilmesi için, davanın esasıyla ilgili bir kararın verilmesi zorunluluğunun bulunmadığı dolayısıyla bu nedenlere dayalı istemlerde, davanın sonuçlanmasına gerek bulunmadığı yasal düzenlemeden açıkça anlaşılmaktadır.
+
+Örneğin, gözaltı süresi yasada açıkça belirtilmiş olup, yasadaki bu süre içinde hakim önüne çıkarılıp, çıkarılmadığının saptanmasının davanın esasıyla herhangi bir ilgisi bulunmadığı gibi bu konudaki talepler hakkında karar verilmesi için davanın esası hakkında karar verilmesine de gerek bulunmamaktadır. Yine aynı şekilde, kanunî hakları hatırlatılmadan veya hatırlatılan haklarından yararlandırılma istemi yerine getirilmeden tutuklanan, kanuna uygun olarak tutuklandığı hâlde makul sürede yargılama mercii huzuruna çıkarılmayan, yakalama veya tutuklama nedenleri ve haklarındaki suçlamalar kendilerine, yazıyla veya bunun hemen olanaklı bulunmadığı hâllerde sözle açıklanmayan, yakalanmaları veya tutuklanmaları yakınlarına bildirilmeyen, ya da hakkındaki arama kararı ölçüsüz bir şekilde gerçekleştirilen, kişilerin tazminat istemleri konusunda, asıl davada hüküm verilmesini veya verilen hükmün kesinleşmesini beklemeye gerek bulunmamaktadır. Zira bu talepler, asıl davanın sonucunu etkileyici veya asıl davanın sonucuna bağlı talepler değildir.
+
+Ancak asıl davanın sonucuna bağlı veya asıl davada verilecek kararları etkileyici talepler yönünden mutlaka davanın esasıyla ilgili verilen karar veya hükmün kesinleşmesi zorunludur. Örneğin, kanuna uygun olarak yakalandıktan veya tutuklandıktan sonra haklarında kovuşturmaya yer olmadığına veya beraatlerine karar verilen, yine mahkûm olup da gözaltı ve tutuklulukta geçirdiği süreleri, hükümlülük sürelerinden fazla olan veya işlediği suç için kanunda öngörülen cezanın sadece para cezası olması sebebiyle zorunlu olarak bu cezayla cezalandırılanlar hakkında, mutlaka davanın esasıyla ilgili olarak verilen kararın kesinleşmesini beklemek zorunluluğu bulunmaktadır. Belirtilen bu hallerde tazminat isteme hakkı verilen karar veya hükmün kesinleşmesiyle doğacaktır (Yargıtay 12. Ceza Dairesi - Karar: 2017/6124).
+
+### Tutuklulukta Net Asgari Ücret Üzerinden Maddi Tazminat Hesaplanmalıdır
+
+Davacıların tutuklu kaldığı döneme ilişkin olarak Çalışma ve Sosyal Güvenlik Bakanlığınca 16 yaşından büyükler için belirlenen net asgari ücret miktarları üzerinden hesaplama yapılarak 5.300,40'ar TL’nin maddi tazminat olarak davacılara ödenmesine karar verilmesi gerekirken, bilirkişi raporunda net asgari ücret miktarları daha düşük tespit edilerek hesaplanan 4.837,92 TL'nin hükme esas alınması suretiyle maddi tazminat miktarlarının eksik tayini temyiz edenin sıfatına göre bozma nedeni yapılmamıştır. (Yargıtay 12.Ceza Dairesi 2016/2528 Esas, 2017/6012 Karar, 06.07.2017 Tarih).
+
+### Manevi Tazminatın Ölçütleri Nelerdir?
+
+Hüküm: 1.000 TL manevi tazminatın davalıdan alınarak davacıya verilmesine
+
+Nesnel bir ölçüt olmamakla birlikte, hükmedilecek manevi tazminatın davacının sosyal ve ekonomik durumu, üzerine atılı suçun niteliği, gözaltına alınmasına neden olan olayın cereyan tarzı, gözaltında kaldığı süre ve benzeri hususlar ile tazminat davasının kesinleşeceği tarihe kadar davacının elde edeceği parasal değer dikkate alınıp, hak ve nesafet ilkelerine uygun makul bir miktar olarak tayin ve tespiti gerekirken, davacı lehine belirtilen ölçütlere uymayacak miktarda fazla manevi tazminata hükmolunması temyiz edenin sıfatına göre bozma nedeni yapılmamıştır. (Yargıtay 12.Ceza Dairesi 2016/2599 esas, 2017/2599 karar, 06.07.2017 )
+
+### Haksız Tutuklama Nedeniyle Maddi ve Manevi Tazminatın Belirlenmesi
+
+Davanın kısmen kabulü ile 132.512,00 TL maddi, 90.000 TL manevi tazminatın davalı Hazineden alınarak davacıya verilmesine, istinaf başvurusunun ESASTAN REDDİNE,
+
+Davacının tazminat talebinin kısmen kabulüne ilişkin hüküm, Gaziantep Bölge Adliye Mahkemesi 16. Ceza Dairesi tarafından yapılan istinaf incelemesi sonucunda 14.11.2016 tarih, 2016/73 esas, 2016/68 karar sayılı "istinaf başvurusunun esastan reddine" ilişkin kararı davalı vekili tarafından temyiz edilmekle dosya incelenerek gereği düşünüldü:
+
+1-Tazminat davasına esas Diyarbakır 2. Ağır Ceza Mahkemesi'nin 2012/267 esas sayılı dosyasında 20/09/2008-14/01/2013 tarihleri arasında tutuklu yargılanan davacının, tutuklandığı tarihte .... İl Özel İdaresinde işçi olarak çalıştığı, maddi zarar hesaplanırken bu süreçte davacı ile aynı pozisyonda çalışan başka bir şahsın elde ettiği maaş ve ikramiye tutarının dikkate alınmasında herhangi bir isabetsizlik görülmemekle birlikte, UYAP sistemi üzerinden yapılan incelemede davacının 15/05/2010 tarihinden itibaren emekliye ayrıldığı ve sosyal güvenlik kurumundan maaş aldığının anlaşılması karşısında, 15/05/2010-14/01/2013 tarihleri arasında emekli maaşı alan davacının bu süreç içerisinde uğradığı maddi zararın bu döneme ilişkin net asgari ücret üzerinden hesaplanarak, belirlenen miktarın maddi tazminat kapsamında hüküm altına alınması gerektiği gözetilmeden, yazılı şekilde davacı lehine fazla maddi tazminata hükmedilmesi,
+
+2-Nesnel bir ölçüt olmamakla birlikte, hükmedilecek manevi tazminatın davacının sosyal ve ekonomik durumu, üzerine atılı suçun niteliği, tutuklanmasına neden olan olayın cereyan tarzı, tutuklu kaldığı süre ve benzeri hususlar ile tazminat davasının kesinleşeceği tarihe kadar davacının elde edeceği parasal değer dikkate alınıp, hak ve nasafet ilkelerine uygun makul bir miktar olarak tayin ve tespiti gerekirken, davacı lehine belirlenen ölçütlere uymayacak miktarda fazla manevi tazminata hükmolunması bozma nedeni yapılmıştır. ( yargıtay 12. Ceza Dairesi 2017/3319 esas 2017/5747 Karar )
+
+### CMK 141/1-J Kapsamında El Koyma İşlemi Uygulanan Eşyalar Nedeniyle Tazminat Davası
+
+- 5271 sayılı CMK'nın 141/1-j maddesi uyarınca, eşyasına veya mal varlığı değerlerine koşulları oluştuğu halde el konulmuş olmasına karşın, korunması için gerekli tedbirler alınmadığı takdirde uğranılan zararın Devlet hazinesinden istenebileceği belirtilmiş olmakla birlikte, somut olay incelendiğinde, el koyma tedbirine konu olan aracın dava dışı ... isimli kişinin adına tescilli olduğu, davacı, tescil harici yolla aracı satın aldığını bildirmiş ise de, 2918 sayılı Kanunun 20/d maddesi gereğince, tescil edilmiş araçların her çeşit satış ve devirlerinin noterler tarafından yapılacağı, noterler tarafından yapılmayan her çeşit satış ve devirlerin geçersiz olduğunun vurgulanması karşısında, davacının koruma tedbirlerine dayalı olarak, dava açmaya hak ve yetkisinin bulunmadığı, bu kapsamda açılan davanın reddine karar verilmesi gerektiği gözetilmeden, davanın kabulüne dair yazılı şekilde hüküm tesisi bozma sebebidir. (Yargıtay 12 C.D. 2017/3165 Esas, 2017/5762 Karar).
+- Ceza Muhakemesi Kanunu'nun 141/1-j maddesinde "Suç soruşturma veya kovuşturması sırasında, eşyasına veya diğer malvarlığı değerlerine, koşulları oluşmadığı halde elkonulan veya korunması için gerekli tedbirleri alınmayan ya da eşyası veya diğer malvarlığı değerleri amaç dışı kullanılan veya zamanında geri verilmeyen kişiler, maddi ve manevi her türlü zararlarını Devletten isteyebilirler" hükmü düzenlenmiştir. Bu kapsamda dava konusu somut olay değerlendirildiğinde; davacı ...'un 15.05.2008 tarihinde Cumhuriyet savcısı huzurunda alınan ifadesinde ve soruşturma safhasındaki savunmasında açıkça atılı suçu işlediğini kabul ederek hakkında koruma tedbiri uygulanmasına neden olduğu ancak yapılan yargılama sonunda atılı suçu işlediğinin sabit olmaması gerekçesiyle davacının beraatine hükmedildiği anlaşıldığından, tazminat talebinin CMK'nın 144/1-j maddesindeki şartları taşımadığından reddine karar verilmesi gerekirken, yazılı şekilde kısmen kabulüne karar verilmesi bozma sebebidir. (Yargıtay 12 C.D. 2017/1731 Esas, 2017/5769 Karar )
+- Eğer el konulan eşya malen sorumlu üçüncü kişiye ait ise ancak sanığa karşı genel hükümlere göre hukuk mahkemlerinde dava açabileceğihükme bağlanmıştır. Yapılan incelemeye, toplanıp karar yerinde gösterilen delillere, mahkemenin kovuşturma sonuçlarına uygun olarak oluşan kanaat ve takdirine, incelenen dosya kapsamına göre, araç maliki olan (malen sorumlu) davacı ile mahkumiyetine karar verilen sanık arasında genel hükümlere göre açılacak tazminat davasına konu edilmesi gereken alacağa ilişkin olarak açılan tazminat davasının, davaya konu aracın suçta kullanıldığı ve 5271 sayılı Ceza Muhakemesi Kanunu'nun 141 ve devamı maddelerinde belirtilen tazminat isteme koşullarının oluşmadığı gerekçesi ile reddine karar verilmesi gerekirken, yazılı gerekçe ile davanın reddine karar verilmesi sonucu itibariyle doğru olduğundan, davacı vekilinin temyiz itirazlarının reddiyle, hükmün isteme uygun olarak ONANMASINA, 03.07.2017 tarihinde oybirliğiyle karar verildi. (Yargıtay 12 . Ceza Dairesi 2016/3254 Esas, 2017/5777 karar)
+
+### Cezanın Mahsubu Haksız Tutuklama veya Gözaltı Tazminatı Davası Açılmasına Engel Değil ( CMK 144-1-a )
+
+Yargıtay CMK 144/1-a yürürlükten kalkması nedeniyle mahsubun tazminata engel olmayacağı ancak mahsup edilenlerle mahsup edilmeyenler arasında dengenin gözetilmesi gerektiği belirtmiştir.
+
+- Davacı ... için gözaltı süresine ilişkin tazminat talebinde bulunulmadığı, tazminat talebinin davacının tutuklu kaldığı süreye ilişkin olduğu ve temyiz incelemesi sırasında Dairemizce Uyap sistemi üzerinden yapılan incelemede, davacının gözaltında ve tutuklu kaldığı sürelerin Şarkikaraağaç Asliye Ceza Mahkemesinin 02.04.2014 tarih, 2014/43 D.iş sayılı kararıyla aynı mahkemenin 2008/76 Esas – 2009/27 Karar sayılı ceza dava dosyasında mahkum olduğu 2 yıl 1 ay hapis cezasından mahsubuna karar verildiği anlaşıldığından, CMK'nın 144/1-a maddesinin yürürlükten kaldırılması nedeniyle mahsup tazminata engel oluşturmayacak ise de, haklarında mahsup işlemi yapılmayan kişilerle tutukluluğu başka mahkumiyetinden mahsup edilenler arasındaki dengenin, hak ve nesafetin sağlanması gerektiği göz önünde bulundurularak davacı lehine makul bir maddi ve manevi tazminata hükmolunması gerekirken, yazılı şekilde fazla maddi ve manevi tazminata hükmolunması bozma sebebi yapılmıştır. (Yargıtay 12. Ceza Dairesi - 2017/3262 Esas, 2017/6024 Karar).
+- Her ne kadar CMK'nın 144/1-a maddesinin yürürlükten kaldırılması nedeniyle mahsup tazminata engel oluşturmayacak ise de, mahsup edilen sürenin hükmolunacak tazminat miktarının tayininde dikkate alınması gerektiği nazara alındığında, davacının tutukluluk süresinin diğer bir hükümlülüğünden mahsup edilip edilmediği, mahsup edilmiş ise ne kadarının mahsup edildiği araştırılarak sonucuna göre karar verilmesi gerektiği gözetilmeden, eksik inceleme ve araştırma ile yazılı şekilde karar verilmesi gerektiği (Y.12. Ceza Dairesi 2016/2284 2017/6035).
+
+### Tazminat İsteyemeyecek Kişiler Kimlerdir? (CMK 144/1-E)
+
+Dairemizce benimsenen Yargıtay Ceza Genel Kurulunun 12.05.2015 tarih, 2013/531 Esas - 2015/157 sayılı kararında da belirtildiği üzere 5271 sayılı CMK'nın "Tazminat isteyemeyecek kişiler" başlıklı 144/1-e. maddesinde "Adlî makamlar huzurunda gerçek dışı beyanla suç işlediğini veya suça katıldığını bildirerek gözaltına alınmasına veya tutuklanmasına neden olanlar" hükmüne yer verilmiş, madde gerekçesinde "Adli makamlar huzurunda gerçek dışı beyanla suçu işlediğini veya suça katıldığını ifade ederek gözaltı veya tutuklamaya neden olmuş ise tazminat istemeye hak kazanmayacaktır." açıklamasında bulunulmuştur. Buna göre, bir suç isnadıyla hakkında soruşturma veya kovuşturma yapılan kişi adli makamlar huzurunda gerçek dışı beyanla suç işlediğini veya suça katıldığını beyan ederek şahsi kusuru ile gözaltına alınmasına veya tutuklanmasına neden olmuşsa artık bu kişi tazminat talebinde bulunamayacaktır. Bu kapsamda tazminat talebinin dayanağı olan ceza dava dosyası celp edilerek davacının (sanığın) soruşturma ve kovuşturma aşamalarındaki tüm beyanları incelenip Yargıtay denetimine olanak verecek şekilde aslı ya da onaylı örnekleri de dosya içine alınarak davacının tazminat talep etme hakkının bulunup bulunmadığının tespit edilmesi gerektiğinin dikkate alınmaması bozma nedenidir. (Y. 12. Ceza Dairesi, 2016/2284 Esas, 2017/6035 Karar).
+
+### Koruma Tedbirleriyle İlgili Mükerrer Tazminat Davası Açılması
+
+Dairemizce yapılan temyiz incelemeleri sırasında aynı konu ve haksız tutuklama nedenine dayalı olarak birden fazla davanın açıldığının tespit edildiğinin anlaşılması karşısında; hazine zararına yol açan mükerrer davalara ilişkin ödemelerin önlenmesinin temini ve kamu kaynaklarının etkili, verimli ve hukuka uygun kullanılması bakımından, aynı konu ve haksız tutuklama nedenine dayalı açılmış dava olup olmadığının ilgili birimlerden sorulup, Ulusal Yargı Ağı Bilişim Sistemi (UYAP) üzerinden de araştırılarak tespit edilmesi gerektiğinin gözetilmemesi bozma nedeni sayılmıştır. (Yargıtay 12. Ceza Dairesi - 2016/2284 Esas, 2017/6035 karar).
+
+### Haksız Koruma Tedbirleriyle İlgili Maddi ve Manevi Tazminat Davasının Süresinde Açılıp Açılmadığı
+
+- Tazminat talebinin dayanağı olan Boyabat Ağır Ceza Mahkemesinin 07.05.2014 tarih, 2011/13 Esas – 2014/25 sayılı kararının incelenmesinde, davacı (sanık) hakkında örgüt faaliyeti çerçevesinde uyuşturucu madde ticareti yapma suçundan cezalandırılması istemiyle kamu davası açıldığı, Ankara 11. Ağır Ceza Mahkemesinin 2008/337 Esas – 2010/212 sayılı kararı ile suçun örgüt faaliyeti çerçevesinde işlendiği sabit olmadığından bahisle uyuşturucu madde ticareti yapma amacıyla kurulan suç örgütüne üye olma suçundan beraat kararı verildiği, uyuşturucu madde ticareti yapma suçu yönünden ise dosyanın tefrik edilerek 25.11.2010 tarih, 2010/154 Esas – 2010/229 sayılı karar ile bu suç yönünden görevsizlik kararı verildiği ve dosyanın Boyabat Ağır Ceza Mahkemesine gönderildiği, neticede davacı (sanık) hakkında Boyabat Ağır Ceza Mahkemesinin 07.05.2014 tarih, 2011/13 Esas – 2014/25 sayılı kararı ile üzerine atılı uyuşturucu madde ticareti yapma suçundan beraatine karar verildiğinin anlaşılması karşısında, davacının tazminat talep etme hakkının bulunup bulunmadığı ve davanın süresinde açılıp açılmadığının tespiti bakımından davacı ile ilgili tutuklama ve tahliyeye ilişkin müzekkere ve belgelerin Yargıtay denetimine olanak verecek şekilde aslı ya da onaylı örnekleri dosya içine alınarak, davacının hangi suç ya da suçlardan tutuklandığı ve Ankara 11. Ağır Ceza Mahkemesinin 2008/337 Esas – 2010/212 sayılı kararının kesinleşip kesinleşmediği, kesinleşmiş olması halinde kesinleşme tarihi tespit edilerek sonucuna göre karar verilmesi gerektiği gözetilmeden, eksik inceleme ve araştırma ile yazılı şekilde karar verilmesi hukuka aykırıdır ( Yargıtay 12. Ceza Dairesi 2016/2284 esas, 2017/6035 karar).
+- 5271 sayılı CMK'nın 142/1. maddesi uyarınca, 3 aylık sürenin kesinleşen beraat kararının davacıya tebliği tarihinden itibaren başlayacağı hususu dikkate alınarak, kesinleşmiş beraat kararının davacıya tebliğ edilip edilmediği, bu kapsamda davanın süresinde açılıp açılmadığının araştırılması gerektiği gözetilmeden, yargılamaya devamla yazılı şekilde hüküm tesis edilmesi bozma sebebidir. (Yargıtay 12. Ceza Dairesi 2016/3551 Esas, 2017/5755 Karar).
+- Davacı hakkında yasadışı PKK terör örgütü üyesi olma ve kasten öldürme suçundan Diyarbakır 1 Nolu Sıkıyönetim Mahkemesinde açılan davada yapılan yargılama sonunda, aynı mahkemenin 09/07/1986 tarih 1985/133-1986/272 sayılı kararıyla davacının beraatine karar verildiği, hükmün temyizi üzerine Askeri Yargıtay 3. Dairesinin 03/11/1987 tarihli ilamı ile bozularak aynı mahkemenin 1987/255 esasına kaydedildiği, devam eden yargılamada, Sıkıyönetim Komutanlığı Askeri Mahkemelerinin görevlerinin sona erdirilmesiyle dosyanın Diyarbakır 1. Ağır Ceza Mahkemesine devredildiği, yargılamanın 1994/60 esas sayılı dosya üzerinden devam ettiği, dosyanın en son 2007/431 esasından işlem görüp, 20/11/2007 tarihinde, “askeri mahkemece adı geçenlerin bulunamaması nedeniyle haklarındaki evrakın tefrikine karar verilmiş ve bu sanıklarla ilgili dosyanın mahkememize geliş kaydına rastlanılmadığı, ancak sehven bu sanıkların isimlerinin esasa kaydedildiği” vurgulanarak, davacının da arasında bulunduğu bir kısım sanıklar hakkında karar verilmesine yer olmadığına dair hüküm tesis edildiği görülmekle; kasten öldürme ve PKK terör örgütü üyesi olmak suçlarında hakkında iddianame düzenlenmiş olmasına ve bu suçlardan 31/03/1981-04/04/1986 tarihleri arasında tutuklu kalmış olmasına karşın, davacı hakkında kurulan “karar verilmesine yer olmadığına” dair hükmün, davayı sona erdiren bir karar niteliğinde bulunmadığı, bu kapsamda, üzerine atılı suçlara ilişkin tazminat davasına esas olayla ilgili olarak davacı hakkında ne şekilde hüküm tesis edilip, bu hükmün kesinleşip kesinleşmediği araştırılıp, davanın süresinde açılıp açılmadığı ve tazminat şartlarının oluşup oluşmadığı şüpheye yer bırakmayacak şekilde tespit edilmeden, eksik soruşturmaya dayanılarak yazılı şekilde davanın reddine karar verilmesi bozma nedenidir. (Yargıtay 12. Ceza Dairesi, 2015/11469 E., 2017/5766 karar )
+
+### Tutuklulukta Geçen İnfaz Süreleri Cezaevinden Sorulmalıdır
+
+Yerel mahkemede yargılama yapılırken davacının infaz sürelerinin tam, eksiksiz ve hangi suçtan yattığının ortaya konulması gerekir, aksi halde Yargıtay bu hususun bozma sebebi sayılacağını belirtmiştir:
+
+- Davacı hakkında düzenlenen tutuklama müzekkeresinin infaz edilip edilmediği, infaz edilmiş olması halinde, infaz tarihlerinin ceza infaz kurumundan sorulması suretiyle infaz edilen sürenin tereddüde mahal vermeyecek şekilde tespit edilmesi gerektiğinin nazara alınmaması bozma sebebi yapılmıştır. (Y. 12. C.D. 2016/2284 esas, 2017/6035 karar)
+
+### Koruma Tedbirleri Nedeniyle Tazminat Davasında Faiz Başlangıç Tarihi
+
+Faizin başlangıç tarihi, davacının gözaltına alındığı tarih olup dava dilekçesinde bu tarihten itibaren faiz talep edilmelidir.
+
+- Dava dilekçesinde maddi ve manevi tazminat için faiz talep edilmemiş olmasına karşın, 25/12/2012 tarihinde sunulan dilekçede, haksız tutuklama tarihinden itibaren faiz talep edildiğinin anlaşılması karşısında, 6100 sayılı Hukuk Muhakemeleri Kanunun 177/2 maddesi gereğince, davacı tarafın bu talebinin davalı tarafa bildirilmesi gerektiği gözetilmeksizin, yargılamaya devamla yazılı şekilde hüküm tesis edilmesi hukuka aykırıdır (Yargıtay 12. Ceza dairesi, 2016/3551 Esas, 2017/5755 Karar )
+
+### Vekalet Ücreti ve Maddi Tazminat Olarak Talep Edilemeyecek Kalemler Nelerdir?
+
+Yargıtay İçtihadı Birleştirme Hukuk Genel Kurulunun 29.05.1957 tarihli, 1957/4 Esas, 1957/16 Karar sayılı içtihadı birleştirme kararında da açıklandığı üzere; vekalet ücreti yargılama giderlerindendir. Buna göre karşı tarafa yüklenmesi gereken vekalet ücretinin bağımsız bir varlığı olamayacağından ayrı bir dava konusu da yapılamayacaktır. Davacının, kendi vekili ile yaptığı ve sadece tarafları bağlayan ücret sözleşmesi niteliğindeki vekalet akdi uyarınca ödenmesi kararlaştırılan bedelin koruma tedbirleri nedeniyle tazminat davasında zarar kapsamında değerlendirilmeyeceği gözetilmelidir. Anılan ve yerleşik Yargıtay uygulamaları nazara alındığında, tazminat talebinin dayanağını oluşturan ceza dava dosyasında beraat etmiş olması nedeniyle davacı lehine maktu vekalet ücretine hükmolunması gerektiği, maktu vekalet ücretini aşan ve serbest meslek makbuzu ile ispatlanan kısmın ise davacı ile avukatı arasındaki hukuki ilişkiye dayandığı, bu nedenle koruma tedbirleri nedeniyle tazminat davasında zarar kapsamına dahil edilemeyeceği anlaşıldığından davacı vekilinin ceza davası dolayısıyla davacının ödemek zorunda kaldığı vekalet ücretinin de maddi zarar hesabında göz önünde bulundurulması gerektiğine yönelik temyiz sebebi yerinde görülmemiştir (Y12CD- Esas : 2021/8645 Karar : 2023/2364).
+
+Davacının cezaevinde yaptığı harcamalar ve yakınlarının kendisini ziyaret için yaptıkları yol masrafları, cezaevindeyken borcunu ödeyememesinden kaynaklanan zarar, psikolojik olarak hastalandığından bahisle ilaç masraflarının, davacının zararının gözaltına alındığı tarihten beraat kararının kesinleşmesine kadar olan süreç için çalışamamasından dolayı uğradığı zarar, maktu vekalet ücretini aşan ve davacı ile avukatı arasındaki hukuki ilişkiye dayanan avukatlık ücretinden doğan zararın koruma tedbirleri nedeniyle tazminat davasında maddi zarar kapsamında değerlendirilmemesinde hukuka ayrılık bulunmamıştır (Y12CD - Esas : 2022/7764 Karar : 2023/2365).
+
+Davacının bir üst rütbeye terfi edememesi, arama neticesi bilgisayar, cep telefonu ve iletişim hattına el konulması nedeniyle yeni telefon ve bilgisayar alım ücretinden oluşan maddi zarar ile vekalet ücreti ödemesi nedeniyle oluşan zararının maddi zarar kapsamına dahil edilmemesi yönünde temyiz itirazlarının incelenmesinde; davacının üst rütbeye terfi edememesi nedeniyle uğranılan zararın muhtemel zarar kapsamında olduğu, tazminat talebinin dayanağı olan ceza dava dosyasında beraat etmiş olması nedeniyle davacı lehine maktu vekalet ücretine hükmolunması gerektiği, maktu vekalet ücretini aşan ve serbest meslek makbuzu ile ispatlanan kısmın ise davacı ile avukatı arasındaki hukuki ilişkiye dayandığı, bu nedenle koruma tedbirleri nedeniyle tazminat davasında zarar kapsamında değerlendirilemeyeceği, yine yeni telefon ve bilgisayar alım ücretinden oluşan zararın 5271 sayılı Kanun'un 141 ve devamı maddeleri kapsamında maddi zarar hesabına dahil edilemeyeceği,davacı vekilince arama ve el koyma nedeniyle tazminata hükmonulması gerektiği ileri sürülmüş ise de 5237 sayılı CMK'nın 141/1-i maddesinde tazminat verilebilecek haller arasında “hakkında arama kararı ölçüsüz bir şekilde gerçekleştirilen” kişiler olarak gösterildiği, arama kararından sonra haklarında beraat veya kovuşturmaya yer olmadığına dair karar verilenler için tazminat öngörülmediği, kanunun öngördüğü şekilde “arama kararının ölçüsüz bir şekilde” gerçekleştirildiğinin davacı tarafından iddia edilmediği anlaşılmakla; bölge adliye mahkemesince davacının maddi tazminat talebinin reddine karar verilmesinde hukuka aykırılık bulunmamaktadır (Yargıtay 12. Ceza Dairesi - Esas : 2021/7870, Karar : 2023/2371).
+
+### Korumma Tedbirleri Nedeniyle Tazminat Davalarında HMK Hükümleri Uygulanır
+
+Koruma tedbirleri nedeniyle tazminat davaları her ne kadar 5271 sayılı Ceza Muhakemeleri Kanununda düzenlenmiş ise de özel hukuk yanı ağır basan bir dava olması nedeniyle bu Kanunda düzenlenme bulunmayan hallerde tazminat hukukunun genel prensipleri çerçevesinde 6100 sayılı Hukuk Muhakemeleri Kanununun uygulanması gerekmektedir. Ceza Muhakemeleri Kanununun 280/1. maddesinde düzenlenen duruşma açılmadan düzeltilerek istinaf başvurusunun esastan reddine karar verilebilecek haller bir suç kovuşturması sonucu verilen hükümler için geçerli olup doğrudan tazminat davalarında uygulanması mümkün değildir. Bu nedenle Hukuk Muhakemeleri Kanununun istinafa ilişkin hükümlerinin kıyas yolu ile uygulanması gerekmekte olup, aynı Kanunun 353. maddesi gereğince tazminat miktarlarının azaltılması veya artırılmasının duruşma açılmaksızın düzeltilerek esastan reddine karar verilmesinde bir engel bulunmadığından tebliğnamedeki bu hususta bozma öneren görüşe iştirak edilmemiştir (12. Ceza Dairesi 2021/6218 E. , 2023/981 K.).
+
+### Maddi Zarar Nasıl İspatlanmalıdır?
+
+5271 sayılı Kanun'un 141 inci maddesine göre ''suç soruşturması veya kovuşturması sırasında'' uygulanan koruma tedbirlerine karşı devlet aleyhine tazminat davasının açılabileceği belirtilmiş olup, davacının hakkında koruma tedbiri uygulanmadan önce 31.07.2016 tarihinde ihraç olduğu anlaşılmakla, gözaltında ve tutuklu kaldığı dönem içerisindeki maddi zararını ücret bordrosu, vergi kaydı, gelir vergisi beyannamesi gibi itibar edilebilecek bir belgeyle ispatlayamayan davacıya gözaltında ve tutuklu kaldığı dönemde 16 yaşından büyükler için geçerli net asgari ücret üzerinden hesaplanan miktarın maddi tazminat kapsamında davacıya ödenmesine karar verilmesinde hukuka aykırılık bulunmamıştır (Yargıtay 12. Ceza Dairesi - Esas : 2021/5860 Karar : 2023/1854).
+
+**Haksız tutuklama, gözaltı, yakalama veya elkoyma nedeniyle tazminat davası**; kişi özgürlüğüne ceza hukuku müdahalesinin etkilerini gidermek amacıyla açılan önemli bir dava türüdür.
+
+---
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/tazminat-hukuku/haksiz-tutuklama-gozalti-elkoyma-yakalama-tazminat-davasi*

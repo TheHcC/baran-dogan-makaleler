@@ -1,0 +1,4778 @@
+# Av. Baran Doğan — Usul ve İcra-İflas Hukuku
+
+Bu derleme, Av. Baran Doğan'ın https://barandogan.av.tr adresinde yayımlanan 37 yazısını içermektedir. Yazarın izniyle, atıflı ve ticari olmayan amaçla oluşturulmuştur; tüm hakları yazara aittir. Her yazının başında orijinal kaynak bağlantısı yer almaktadır. Metinler yayım veya son güncelleme tarihindeki mevzuata dayanmaktadır; güncel mevzuat ve içtihatla teyit edilmeden kullanılmamalıdır.
+
+Yapay zekâ ile kullanırken: yanıtların yalnızca bu metinlere dayanmasını ve her tespitin yanında ilgili yazının kaynak bağlantısının belirtilmesini isteyiniz.
+
+
+# Medeni Usul Hukuku ve Arabuluculuk
+
+
+---
+
+## Adli İstinaf Mahkemesi ve Görevleri
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/medeni-hukuk/bolge-adliye-istinaf-mahkemesi-gorevi-nedir (son güncelleme: 2026-03-06)*
+
+Adli İstinaf Mahkemesi Nedir? İstinaf Mahkemesi Nedir? Adli İstinaf Mahkemesinin Görevi Nedir? Adli İstinaf Mahkemesi Kararlarına Karşı Temyiz Başvurusu Nasıl Yapılır? İstinaf Mahkemesi Kararına İtiraz Süresi Ne Kadar?
+
+
+## Adli İstinaf Mahkemesi Nedir?
+
+**Adli istinaf mahkemesi**, diğer bir deyişle *istinaf mahkemesi*; ilk derece hukuk ve ceza mahkemelerinin kural olarak son kararlarına karşı yapılan istinaf başvurularını incelemekle görevli üst derece mahkemesidir. İstinaf mahkemesine yapılan istinaf başvurusu ile yerel mahkeme kararının yeniden değerlendirilerek denetlenmesi talep edilir.  Hukuk ve ceza uyuşmazlıkları hakkında karar veren tüm yerel mahkemeler ilk derece mahkemesi, istinaf yargılaması yapan istinaf mahkemeleri ise ikinci derece (asıl derece) mahkemesi olarak nitelendirilir (5235 sayılı Kanun m.3). İstinaf mahkemesi hem olay yargılaması yapar, yani delilleri toplar ve değerlendirir hem de yerel mahkeme kararının hukuk kurallarına uygun olup olmadığını denetler. İstinaf mahkemesi yargılamayı dosya üzerinden yapabileceği gibi duruşma açarak duruşmalı inceleme de yapabilir.
+
+İstinaf mahkemelerinin görevleri, kuruluşu, yapısı ve işleyişi 5235 sayılı Adli İstinaf Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanun ile düzenlenmiştir.
+
+Adli istinaf mahkemeleri, istinaf başvurusu ile önüne gelen hukuki uyuşmazlığı hem maddi vakıa hem de hukukilik açısından inceleyerek karar verir. İstinaf mahkemesi, istinaf başvurusunun konusu olan kararı veren ilk derece mahkemesi ile Yargıtay (temyiz kanun yoluyla inceleme yapan mahkeme) arasında kalan ikinci derece mahkemesidir. İlk derece mahkemesi tarafından dinlenmemiş bir tanık, ikinci derece mahkemesi olan istinaf mahkemesi tarafından dinlenerek yeni bir hüküm kurulabilir. Tanığın dinlenmesi nedeniyle istinaf mahkemesi uyuşmazlığı hem maddi vakıa (olay) hem de hukuki denetim açısından ele almıştır. İstinaf mahkemesinin tanık dinleme, araştırma yapma, yani delil toplama yetkisi varken, temyiz mahkemesi olan Yargıtay'ın delil toplama yetkisi yoktur, Yargıtay yalnızca istinaf mahkemesi kararının hukuka uygun olup olmadığını denetler. Hukuken,  ilk kararı veren yerel mahkemeler "**ilk derece**" mahkemesi, istinaf mahkemesi "**ikinci derece**" mahkemesi, hukuki denetim yapan  Yargıtay ise "**hukuki derece**" mahkemesi olarak görevlendirilmiştir.
+
+Adli yargıda istinaf mahkemesine başvuru yapılan iki tür istinaf kanun yolu vardır:
+
+## Adli İstinaf Mahkemesinin Görevleri Nelerdir?
+
+Adli istinaf mahkemesinin temel görevi, hukuk ve ceza ilk derece mahkemelerinin verdiği nihai kararlara karşı yapılan istinaf başvurularını inceleyerek karara bağlamaktır. İstinaf mahkemelerinin istinaf incelemesi, hukuk ve ceza istinaf incelemesi olmak üzere aşağıda iki farklı başlık altında aşağıda açıklanmıştır.
+
+Yerel mahkemelerin son karar niteliğinde olmayan ihtiyati tedbir veya ihtiyati haciz kararlarına karşı da istinaf kanun yoluna iki haftalık süresi içinde istinaf mahkemesine başvurulabilir. İlk derece mahkemesinin ihtiyati tedbir veya ihtiyati haciz kararlarına karşı yapılan istinaf başvurusu öncelikli olarak incelenir ve istinaf mahkemesinin bu konuya dair verdiği karar kesindir.
+
+Adli istinaf mahkemeleri, **hukuk daireleri** ve **ceza daireleri** olmak üzere işbölümü yaparak çalışırlar.
+
+### 1. Adli İstinaf Mahkemesi Hukuk Dairelerinin Görevleri
+
+İstinaf mahkemesi hukuk daireleri, boşanma, alacak, ticari vb. özel hukuk uyuşmazlıklarına ilişkin davalara karşı yapılan istinaf başvurularını inceler. Adli istinaf mahkemesi hukuk dairelerinin görevleri şunlardır (5235 sayılı Kanun m.36):
+
+- Adlî yargı ilk derece hukuk mahkemelerinden verilen ve kesin olmayan hüküm ve kararlara karşı yapılan başvuruları inceleyip karara bağlamak (istinaf incelemesi yapmak). İstinaf incelemesi geniş kapsamlı bir konu olup hukuk dairesinin en önemli görev alanıdır.
+- Yargı çevresi içerisinde bulunan adlî yargı ilk derece hukuk mahkemeleri arasındaki yetki ve görev uyuşmazlıklarını çözmek,
+- Yargı çevresindeki yetkili adlî yargı ilk derece hukuk mahkemesinin bir davaya bakmasına fiilî veya hukukî bir engel çıktığı veya iki mahkemenin yargı sınırları kapsamının belirlenmesinde tereddüt edildiği takdirde, o davanın bölge adliye mahkemesi yargı çevresi içerisinde başka bir hukuk mahkemesine nakline veya yetkili mahkemenin tayinine karar vermek,
+- Özel kanunlarla verilen diğer görevleri yapmak.
+
+Hukuk dairelerinin istinaf incelemesine konu olan kararları veren ilk derece hukuk mahkemeleridir. İlk derecede özel hukuk davalarına bakan mahkemeler esasen üçe ayrılır:
+
+- Asliye Hukuk Mahkemesi,
+- Sulh Hukuk mahkemesi,
+- Özel Mahkemeler (Asliye Ticaret Mahkemesi, Tüketici mahkemesi, Fikri ve Sınai Haklar Hukuk Mahkemesi, Aile Mahkemesi, Kadastro Mahkemesi, İş Mahkemesi vb. gibi).
+
+Asliye hukuk mahkemesi ve sulh hukuk mahkemesi özel hukuk uyuşmazlıklarına bakmakla görevli temel iki mahkemedir. Genel mahkemelerden olan asliye hukuk mahkemesinin görevi asıl, sulh hukuk mahkemesinin görevi ise istisnadır. Özel bir kanun hükmü ile açıkça sulh hukuk mahkemesinde bakılacağı bildirilmeyen bütün dava ve işler asliye hukuk mahkemesinde görülür. Kanunda belirli bir uyuşmazlık türü için açıkça özel bir mahkemenin görevli olduğu kabul edilmişse, uyuşmazlığı çözmeye görevli mahkeme kanunun belirlediği o özel görevli mahkemedir. Tüm bu mahkemelerin kararları aleyhine istinaf başvurusu yapılması halinde, istinaf incelemesi hukuk daireleri tarafından yapılır.
+
+### 2. Adli İstinaf Mahkemesi Ceza Dairelerinin Görevleri
+
+İstinaf mahkemesi ceza daireleri, ilk derece mahkemesinde hükme bağlanan ceza davalarına karşı yapılan istinaf başvurularını incelemekle görevlidir. Adli istinaf mahkemesi ceza dairelerinin görevleri şunlardır (5235 sayılı Kanun m.37).
+
+- Adlî yargı ilk derece ceza mahkemelerince verilen ve kesin olmayan hüküm ve kararlara karşı yapılacak başvuruları inceleyip karara bağlamak (istinaf incelemesi yapmak),
+- Yargı çevresi içerisinde bulunan adlî yargı ilk derece ceza mahkemeleri arasındaki yetki ve görev uyuşmazlıklarını çözmek,
+- Yargı çevresindeki adlî yargı ilk derece ceza mahkemeleri hâkimlerinin davayı görmeye hukukî veya fiilî engellerinin çıkması hâlinde, o davanın bölge adliye mahkemesi yargı çevresi içerisinde başka bir adlî yargı ilk derece ceza mahkemesine nakli hakkında karar vermek,
+- Özel kanunlarla adli istinaf mahkemesi ceza dairelerine verilen diğer görevleri yapmak.
+
+Ceza dairelerinin istinaf incelemesine konu olan kararları veren ilk derece hukuk mahkemeleridir. İlk derecede ceza davalarına bakmakla görevli mahkemelerden bazıları şunlardır:
+
+- Ağır ceza mahkemesi,
+- Asliye ceza mahkemesi,
+- Çocuk mahkemesi,
+- Çocuk ağır ceza mahkemesi,
+- Fikri ve sınai haklar ceza mahkemesi gibi mahkemelerde yapılmaktadır.
+
+İlk derecede ceza yargılamalarının yapıldığı esas görevli mahkemeler asliye ceza ve ağır ceza mahkemeleridir. Bu iki mahkeme dışındaki diğer tüm ceza mahkemeleri özel kanunlarla kurulmuş özel mahkemelerdir.
+
+**Adli İstinaf Mahkemesi Cumhuriyet Başsavcılığının Ceza Davalarında İtiraz Yetkisi:** Bölge adliye mahkemesinin istinaf incelemesinden sonra kesinleşen ceza kararlar aleyhine olağanüstü bir kanun yolu bulunmaktadır.  Adli istinaf mahkemesi ceza dairelerinin kesin nitelikteki kararlarına karşı adli istinaf mahkemesi Cumhuriyet başsavcılığı, re’sen veya istem üzerine, kararın kendisine verildiği tarihten itibaren otuz gün içinde kararı veren daireye itiraz edebilir. Sanığın lehine itirazda süre aranmaz. Daire, mümkün olan en kısa sürede itirazı inceler ve yerinde görürse kararını düzeltir, aksi halde itirazı reddeder. İtirazın reddine ilişkin kararlar kesindir (5271 sayılı Ceza Muhakemesi Kanunu m.308/A).
+
+## İstinaf Mahkemesinin Dosya İnceleme Aşamaları Nelerdir?
+
+### 1. Hukuk Davaları Dosya İnceleme Aşamaları
+
+Hukuk davaları, aile hukuku, ticaret hukuku, borçlar hukuku vb. özel hukuk alanlarına ilişkin davaları ifade etmektedir. Hukuk davalarında ilk derce mahkemesinin verdiği kararlara karşı istinaf başvurusu yapıldığında istinaf mahkemesi aşağıdaki aşamalarla dava dosyasını ele alır:
+
+**a. Ön İnceleme Aşaması:** İstinaf mahkemesi, esasa girmeden önce hukuk dava dosyası üzerinden ön inceleme yapar. Ön inceleme neticesinde gerekli şartlar varsa davanın esası ile ilgili incelemeye geçecektir. İstinaf mahkemesi, aleyhine istinaf başvurusu yapılan kararın kesin bir karar olup olmadığı, başvurunun süresinde yapılıp yapılmadığı, dilekçenin asgari şartlara sahip olup olmadığı, harç ve giderlerinin usulüne uygun yatırılıp yatırılmadığını inceler. Kamu düzenini ilgilendiren nedenler yoksa, istinaf kanun yolu başvuru dilekçesinde istinaf sebebi ve gerekçesi gösterilmelidir. İstinaf mahkemesi, istinaf başvuru dilekçesinde istinaf sebebi ve gerekçesinin gösterip gösterilmediğini ön inceleme aşamasında değerlendirir. Şartlar yerine getirilmemişse istinaf başvurusu esasa girilmeden reddedilir. Eksiklik bulunmayan dosya istinaf incelemesine alınır (HMk md. 352).
+
+**b. Esastan İstinaf İncelemesi Aşaması:** İstinaf başvurusu yoluyla bölge adliyesi mahkemesine getirilen dosyanın ön inceleme aşaması tamamlandıktan sonra, inceleme mahkeme heyetince veya görevlendirilecek üye tarafından yapılabilir. İstinaf incelemesinin heyet veya üye tarafından yapılacağına, dava dosyasının özelliğine göre bölge adliye mahkemesi ilgili hukuk dairesi tarafından karar verilecektir (HMK md. 354). Bölge adliye mahkemesi, esastan incelemeyi kural olarak istinaf başvurusundaki sebeplere bağlı olarak yapar (HMK md. 354). Mahkeme, kamu düzenini ilgilendiren hallerde kendiliğinden de istinaf incelemesi yapabilir. İlk derece mahkemesinin açıkça hatalı ve yeniden duruşma yapılmasına gerek olmayan kararlarına ilişkin istinaf incelemesi dosya üzerinden duruşma açılmadan yapılır.
+
+**c. Esastan İstinaf İncelemesi ve Duruşma:** Kural olarak her türlü istinaf incelemesi duruşmalı olarak yapılmalıdır (HMK md. 356). İstinaf başvurusu yapsın veya yapmasına davanın tarafı olan herkes duruşmaya davet edilerek savunma hakkı tanınmalıdır. Duruşma davetiyesine mazeretsiz gelmemenin sonuçları yazılmalı, tarafların mazereti varsa duruşma başka bir güne bırakılmalıdır.
+
+### 2. Ceza Davaları Dosya İnceleme Aşamaları
+
+İstinaf mahkemesi, ilk derece ceza mahkemesinden kendisine gelen dosya ile ilgili bir “ön inceleme” yapar. Ön inceleme aşamasında bölge adliye mahkemesinin yetkili olup olmadığı, istinaf başvurusunun süresinde yapılıp yapılmadığı, başvuru sahibinin istinaf yoluna başvurmaya hakkı olup olmadığı gibi usuli meseleler incelenir (CMK md. 279).
+
+Bu usuli gerekçelerle ön inceleme aşamasında istinaf başvurusu reddedilen taraf itiraz kanun yoluna başvurabilir (CMK md. 279/son). Yani, istinaf mahkemesi ceza dairesinin istinaf başvurusunun ön inceleme aşamasında usulden reddine ilişkin kararlarına karşı, aynı istinaf mahkemesinde bulunan sonraki nolu ceza dairesine itiraz kanun yoluna başvurulabilir (CMK md. 268/3-e).
+
+Ön inceleme aşamasında, istinaf başvurusuna dair hiçbir usuli eksiklik bulunmaması halinde istinaf mahkemesi ceza dairesi istinaf başvurusunu esastan incelemeye başlar. Esastan inceleme, istinaf başvurusu gerekçeleri ve CMK m.289’daki kesin hukuka aykırılık halleri dikkate alınarak ceza davası hakkında istinaf mahkemesinin bir karar vermesi anlamına gelmektedir. Esastan inceleme duruşmalı bir şekilde de yapılabilir. Adli istinaf mahkemelerinin duruşma yapma oranı önüne gelen dosyaların %5'ini bulmamaktadır. Esastan inceleme halinde istinaf mahkemesinin ceza davasında verebileceği kararlar aşağıda açıklanmıştır.
+
+## İstinaf Mahkemesi Hangi Kararları Verebilir?
+
+İstinaf mahkemesi, yapılan istinaf başvurusununun niteliğine göre verebileceği kararlar ikiye ayrılmaktadır:
+
+1. Hukuk davasında istinaf mahkemesinin verebileceği kararlar
+2. Ceza davasında istinaf mahkemesinin verebileceği kararlar
+
+### 1. Hukuk Davasında İstinaf Mahkemesinin Verebileceği Kararlar
+
+Hukuk davası, boşanma, alacak, ticari vb. özel hukuk uyuşmazlıklarını içeren bir dava türüdür. Hukuk davalarında istinaf mahkemesine istinaf başvurusu yapılmakla hukuki niteliği itibariyle bir dava açılmaktadır. İstinaf mahkemesi, önüne gelen davada araştırma yapılması ve delil toplanması gerekiyorsa bu işleri yaptıktan sonra hüküm verme aşamasına gelecektir. tahkikatı yapıldıktan sonra karar verme aşamasına geçilecektir. İstinaf mahkemesine yapılan istinaf başvurusu hukuki niteliği itibariyle bir davadır. İstinaf mahkemesi, hüküm verirken hem önüne gelen uyuşmazlığı (davayı) çözmeye çalışmalı hem de üst bir mahkeme olması nedeniyle içtihat oluşturacak şekilde karar vermelidir.
+
+İstinaf mahkemesi, yaptığı istinaf incelemesi neticesinde şu kararları verebilir:
+
+#### a. Yerel Mahkeme Kararının Esası İncelenmeden Kaldırılması ve Dosyanın Geri Gönderilmesi (HMK md. 353/1)
+
+İstinaf mahkemesi, usuli bazı nedenler varsa istinaf başvurusunun esasını incelemeden yerel mahkeme kararının kaldırılmasına ve yeniden yargılama yapılması için dosyanın yerel mahkemeye gönderilmesine karar verebilir (HMK md. 353/1-a).
+
+İstinaf mahkemesi şu usuli gerekçelerle istinaf başvurusunun esasını incelemeden gönderme kararı verebilir: a-) Haklı bir hakimin reddi sebebi ileri sürülmesine veya hakimin davaya bakmasının yasak olduğu hallerin bulunmasına rağmen hakimin davaya bakması, b-) Görev ve yetki sorunu bulunması, b-) Yerel mahkemenin usule aykırı olarak davanın veya karşı davanın açılmamış sayılmasına karar vermesi, c-) Usule aykırı olarak davaların birleştirilmesine, ayrılmasına veya mercii tayinine karar verilmesi. d-) Yerel mahkemenin tarafların gösterdiği delilleri hiç toplamamış veya hiç değerlendirmemiş olması.
+
+#### b. Yerel Mahkeme Kararının Kaldırılması ve Kısmen veya Tamamen Davanın Kabulü Kararı (HMK md. 353/1-b)
+
+İstinaf mahkemesi, davanın esasına girerek yerel mahkeme kararını kaldırabilir. İstinaf mahkemesi, yerel mahkemenin verdiği kararı kaldırarak davanın kısmen veya tamamen kabulüne karar verebilir.
+
+Bu halde yerel mahkemenin davanın reddine karar vermiş olması gerekir. İstinaf mahkemesi, davanın haksız yere reddedildiği kanaatine varırsa, uyuşmazlığı esastan çözecek olan “davanın kısmen veya tamamen kabulüne” karar verir.
+
+#### c. Yerel Mahkeme Kararının Kaldırılması ve Davanın Esastan Reddine Kararı (HMK md. 353/1-b-1)
+
+*İstinaf mahkemesi*, yaptığı esastan inceleme neticesinde yerel mahkemenin hukuka aykırı bir şekilde davacının davasını kabul ettiği kanaatine varırsa, yerel mahkeme kararını kaldırır ve davacının hukuk davasının esastan reddine karar verir.
+
+Bu halde yerel mahkeme, davacının açmış olduğu hukuk davasının ya kısmen ya da tamamen kabulüne karar vermiştir. İstinaf mahkemesi, bu kabul kararını kaldırarak davayı esastan reddetmektedir.
+
+#### d. Yerel Mahkeme Kararının Kaldırılarak Düzeltilmesi (HMK md. 353/1-b-2)
+
+**İstinaf mahkemesi**, yerel mahkeme kararının usul ve esas açısından doğru olduğu kanaatine varıp da yeniden yargılama yapılmasına gerek olmayan hallerde veya hukuki gerekçede hata yapılmış olması halinde yerel mahkeme kararını tamamen kaldırmaz veya esastan yeni bir karar vermez. Bu halde bölge adliye mahkemesi, istinaf başvurusunu kabul ederek  yerel mahkeme kararını düzeltmekle yetinir.
+
+Düzelterek karar verme hususunda Yargıtay’ın içtihatlarında yer alan düzelterek onama halleri esas alınabilir. Örneğin, harç ve giderlerin noksan yazılması, maddi hatalar yapılması, basit hesap hataları yapılması, avukatlık ücretine hükmedilmemesi halinde istinaf mahkemesi yerel mahkeme kararındaki eksikliği gidererek hükme ekler, yani hükmü düzelterek karar verir.er, kanunun olaya uygulanmasında hata edilip de yeniden yargılama yapılmasına
+
+#### e. İstinaf Başvurusunun Reddi Kararı (HMK md. 353/1-b-1)
+
+İstinaf mahkemesi, bir üst derece mahkemesi olarak yerel mahkeme kararını denetleyerek, kararın usul veya esas açısından hiçbir eksiklik içermediği kanaatine varırsa istinaf başvurusunu reddeder.
+
+İstinaf mahkemesi, ön incelemede de dikkate alarak davayı reddedebileceği hallerde, yani istinaf başvurusunun süresinde yapılmamış olması, istinaf başvurusu için gereken şartlar yerine getirilmemiş, başvuru sebepleri ve gerekçesi gösterilmemişse istinaf başvurusunu reddedebilir.
+
+### 2. Ceza Davasında İstinaf Mahkemesinin Verebileceği Kararlar
+
+İstinaf mahkemesi, yapacağı istinaf incelemesi neticesinde ilk derece ceza mahkemesi kararına karşıe yapılan istinaf başvurusunu esastan inceleyerek şu kararları verebilir:
+
+- Dosya üzerinden inceleme yapılarak istinaf başvurusunun “*esastan reddine*”,
+- Yerel mahkeme kararındaki hukuka aykırılıklar dosya üzerinden düzeltilerek istinaf başvurusunun “*düzeltilerek esastan reddine*” (düzelterek onama olarak da adlandırılabilir),
+- İstinaf incelemesi neticesinde önemli bir hukuka aykırılık (CMK md.289) tespit edilmesi halinde “*hükmün bozulmasına ve dosyanın yeniden karar verilmek üzere yerel mahkemeye gönderilmesine*”,
+- “*Davanın istinaf mahkemesinde yeniden görülmesine*” ve duruşma hazırlığı işlemleri yapılmasına.
+
+**a. ESASTAN RED (ONAMA KARARI):** Aşağıdaki şartların gerçekleşmesi halinde başvurunun ESASTAN REDDİ kararı (CMK 280/1-a) verilir:
+
+- Usul ve esasa ilişkin bir hukuka aykırılık yoksa,
+- Delil değerlendirmesinde ve işlemlerde eksiklik yoksa,
+- İspat bakımından değerlendirme yerindeyse.
+
+**b. DÜZELTEREK ESASTAN RED:** Aşağıdaki şartların gerçekleşmesi halinde hukuka aykırılık DÜZELTİLEREK istinaf başvurusunun ESASTAN REDDİ kararı (CMK 280/1-a, 2. cümle) verilir:
+
+- Kararda suç ve ceza gösterilmiş; ancak kanun maddesi yanlış yazılmış ise (303/1-c),
+- Doğum ve suç tarihine göre yapılması gereken bir indirim yapılmamış ise (303/1-e),
+- Arttırma ve indirmede maddi hatta yapılmış ise (303/1-f),
+- TCK md. 61’deki sıraya uyulmaması nedeniyle eksik veya fazla ceza tayin edilmişse (303/1-g),
+- Yargılama giderlerinde yanlışlık varsa (303/1-h).
+
+**c. BOZMA KARARI:** CMK md. 289’deki hukuka aykırılık hallerinde istinaf incelemesi neticesinde yerel mahkeme kararı aleyhine dosya üzerinden BOZMA  kararı (CMK 280/1-a, 2. Cümle) verilir:
+
+- Mahkemenin kanuna aykırı oluşması (CMK 289/1-a),
+- Hakimin yasaklılığı hali varsa (CMK 289/1-b),
+- Hakimin reddi nedenlerinin ileri sürülmesi ve kabul edilmesine rağmen hakimin hükme katılması veya hakimin istemin kanuna aykırı olarak reddedilip hâkimin hükme katılması sözkonusu ise (CMK 289/1-c),
+- Mahkemenin görevi ve yetkisine dair uyuşmazlık varsa(CMK 289/1-d),
+- Kanunen hazır bulunması gerekenlerin yokluğunda duruşma yapılmış ise (CMK 289/1-e),
+- Duruşmanın açıklığı kuralı ihlal edilmişse (CMK 289/1-f),
+- Karar hukuka aykırı yöntemlerle elde edilen delillere dayanıyorsa (CMK 289/1-i).
+
+### Adli İstinaf Mahkemesinde Duruşma
+
+#### 1. İstinaf Mahkemesi Ceza Davası Duruşmalı İnceleme (İstinaf Duruşması)
+
+İstinaf mahkemesi, yaptığı istinaf incelemesi neticesinde yerel mahkeme kararının bozulmasına gerek olmadan yapacağı bir kovuşturmayla kendisinin yeniden bir karar vermesini mümkün görürse, ceza davasının istinaf mahkemesinde yeniden görülmesine karar verir. İstinaf mahkemesi ceza davasının yeniden görülmesine karar verdiğinde, duruşma hazırlığı işlemlerini yapar (CMK md. 281). Tutuksuz yargılanan sanığa tebligat gönderilerek kendisinin istinaf istemi üzerine istinaf mahkemesinde açılan davanın duruşmasına gelmediği takdirde istinaf başvurusunun reddedileceği bildirilir. Hemen belirtelim ki, tutuksuz sanık gelmese bile avukatı duruşmada hazır ise istinaf başvurusu sadece sanığın duruşmaya katılmaması yüzünden reddedilemez. Ancak, tutuksuz sanığın hem kendisi hem de avukatı mazeretsiz bir şekilde duruşmaya katılmazsa istinaf başvurusu reddedilecektir. İstinaf mahkemesi gerek gördüğünde yerel mahkeme tarafından yapılan işlemlerin tekrarlanmasına karar verebilir. Mahkeme yeniden keşif yapabilir, tanık veya bilirkişileri dinleyebilir. İstinaf mahkemesi, tutuklama, tahliye, adli kontrol kararı, el koyma, zorla getirme, yakalama vs. gibi koruma tedbirlerine karar verebilir. İstinaf mahkemesi ceza davası ile ilgili yeniden yaptığı yargılama neticesinde, ya istinaf başvurusu hakkınsa “esastan red” kararı verir ya da ilk derece mahkemesinin hükmünü kaldırarak “yeniden hüküm” verir. Her iki halde de şartları varsa, istinaf mahkemesi kararı aleyhine Yargıtay’a Temyiz Başvurusu yapılabilir.
+
+#### 2. İstinaf Mahkemesi Hukuk Duruşmalı İnceleme (İstinaf Duruşması)
+
+İstinaf mahkemesi, hukuk davasının esasını incelemeden kararın kaldırılmasına ve davanın yeniden görülmesi için dosyanın kararı veren mahkemeye veya görevli ve yetkili mahkemeye gönderilmesine karar verebilir. İstinaf başvurusunun esastan reddine veya düzelterek esastan reddine de karar verebilir. Tüm bu haller dışında istinaf incelemesi, duruşmalı olarak yapılır. Bu durumda duruşma günü taraflara tebliğ edilir (HMK m.356).
+
+### İstinaf Mahkemesi Kararlarına Karşı Temyiz Başvurusu
+
+Adli istinaf mahkemelerinin kararları aleyhine temyiz başvurusu yapılabilir (CMK md. 286). Kararı veren istinaf mahkemesinin niteliğine göre iki tür temyiz başvurusu yapılabilir:
+
+#### 1. İstinaf Mahkemesi Hukuk Davası Temyiz Başvurusu
+
+İstinaf mahkemesi hukuk dairelerinin temyiz edilebilen kararlarının temyiz süresi, kararların tebliği tarihinden itibaren iki haftadır (HMK m.361). Bölge adliye mahkemesi tarafından verilen kararlara karşı Yargıtay’a temyiz başvurusu koşulları şunlardır (HMK m.362):
+
+- Miktar ve değeri 682.000 TL’yi geçmeyen (2026 yılı için) davalara dair istinaf mahkemesi kararları kesin olup aleyhine Yargıtay’a temyiz başvurusu yapılmaz (HMK md.362/1-a).
+- Alacağın bir kısmının dava edilmiş olması durumunda, 682.000 TL'lik kesinlik sınırı alacağın tamamına göre belirlenir. Alacağın tamamının dava edilmiş olması hâlinde, kararda asıl talebinin kabul edilmeyen bölümü 682.000 TL'yi geçmeyen tarafın temyiz hakkı yoktur. Ancak, karşı taraf temyiz yoluna başvurduğu takdirde, diğer taraf da düzenleyeceği cevap dilekçesiyle kararı temyiz edebilir (HMK md.362/4) (2026 yılı için).
+- Sulh Hukuk Mahkemesinin görev alanına giren kira ilişkisinden doğan ve miktar veya değeri itibarıyla temyiz edilebilen alacak davaları hariç olmak üzere; HMK md.4'te gösterilen davalar ile (Kat Mülkiyeti Kanunundan doğup taşınmazın aynına ilişkin olan davalar hariç) özel kanunlarda sulh hukuk mahkemesinin görevine girdiği belirtilen davalar ile ilgili istinaf mahkemesi kararları kesin olup aleyhine Yargıtay’a temyiz başvurusu yapılmaz.
+- İcra ve İflas Kanunu uygulaması ile ilgili dava ve işlerle ilgili bölge adliye mahkemesi hukuk dairelerince verilen ve miktar veya değeri 682.000 TL'yi geçmeyen kararlara karşı temyiz başvurusu yapılamaz (İcra İflas K. md.364/1) (2026 yılı için).
+- İş mahkemelerinin görev alanına giren dava ve işlerle ilgili istinaf kanun yoluna gidilmesi üzerine; bölge adliye mahkemesi tarafından hakkında nihai karar verilen "miktar veya değeri 682.000 TL'yi geçmeyen davalar" aleyhine temyiz başvurusu yapılmaz (İş Mahkemeleri Kanunu md.8/3) (2026 yılı için). İş mahkemesinin görev alanına giren "para ile değerlendirilemeyen dava ve işler hakkındaki kararlar" ile miktar ve değeri 682.000 TL'yi geçen davalar hakkında bölge adliye mahkemesinin son kararlarına karşı "tebliğ" tarihinden başlayarak sekiz gün içinde temyiz kanun yoluna başvurulabilir.
+- İlk derece mahkemeleri arasındaki yetki, görev, merci tayinine dair istinaf mahkemesi tarafından verilen kararlar kesin olup aleyhine Yargıtay’a temyiz başvurusu yapılamaz.
+- Çekişmesiz yargı işlerine dair verilen yerel mahkeme kararlarına dair istinaf mahkmesi kararları kesin olup aleyhine Yargıtay’a temyiz başvurusu yapılamaz.
+- Soybağına ilişkin davalar hariç olmak üzere, nüfus kayıtlarının düzeltilmesine ilişkin davalara dair istinaf mahkemesi kararları aleyhine Yargıtay’a temyiz başvurusu yapılmaz.
+- İhtiyati tedbir, ihtiyati haciz gibi geçici koruma kararlarına dair istinaf mahkemesi kararları aleyhine Yargıtay’a temyiz başvurusu yapılamaz.
+
+#### 2. İstinaf Mahkemesi Ceza Davası Temyiz Başvurusu
+
+Hükmedilen cezanın miktarı dikkate alınarak istinaf mahkemesinin bazı ceza kararları aleyhine temyiz kanun yolu kapatılmıştır. Yani, bazı hallerde ilk derece mahkemesinin verdiği karar istinaf incelemesi neticesinde kesinleşir. İstinaf mahkemesinin aşağıdaki kararları aleyhine temyiz başvurusu yapılamaz:
+
+- Miktarı ne olursa olsun adli para cezasına karşı istinaf başvurusunun esastan reddine dair bölge adliye mahkemesi kararları temyiz edilemez (CMK md. 286/2-a).
+- 5 yıl (dahil) veya daha az hapis cezalarına karşı istinaf başvurusunun esastan reddine dair bölge adliye mahkemesi kararları temyiz edilemez (CMK md. 286/2-a). Ancak, yerel mahkeme 5 yıldan az ceza vermesine rağmen, istinaf başvurusu üzerine bölge adliye mahkemesi yerel mahkemenin verdiği cezayı arttırırsa, bu karara karşı temyiz başvurusu yapılabilir (CMK 286/2-b). Örneğin, herhangi bir bilişim suçu nedeniyle yerel mahkeme tarafından 3 yıl hapis cezası verilen bir kişinin cezası istinaf mahkemesi tarafından arttırılarak 4 yıla çıkartılırsa, ceza miktarı 5 yılın altında olmasına rağmen bu karara karşı temyiz başvurusu yapılabilir.
+- Aynı hükümde yer alan hapis cezalarının toplamı 5 yılı geçse dahi, istinaf mahkemesinin bu kararlarına karşı da temyiz kanun yoluna başvurulamaz (CMK md. 286/2-h). Örneğin, aynı istinaf mahkemesi hükmünde dolandırıcılık suçu nedeniyle 2 yıl 6 ay hapis cezası, resmi evrakta sahtecilik suçu nedeniyle 3 yıl 4 ay hapis cezası alan bir kişinin toplam ceza miktarı 5 yıl 10 ay olmasına rağmen temyiz kanun yoluna başvurma hakkı yoktur.
+- TCK veya diğer kanunlarda üst sınırı 2 yıl hapis cezası gerektiren suçlar ve bunlara bağlı adli para cezalarına dair her türlü bölge adliye mahkemesi (istinaf mahkemesi) kararları aleyhine temyiz kanun yoluna gidilemez (CMK md. 286/2-c).
+- On yıl veya daha az hapis cezasını veya adlî para cezasını gerektiren suçlardan, ilk derece mahkemesince verilen beraat kararları ile ilgili olarak istinaf başvurusunun esastan reddine ilişkin bölge adliye mahkemesi kararları aleyhine temyiz kanun yoluna gidilemez(CMK md. 286/2-f).
+- Eşya veya kazanç müsaderesine veya bunlara yer olmadığına ilişkin ilk derece mahkemesi kararları ile ilgili olarak istinaf başvurusunun esastan reddine dair istinaf mahkemesi kararları aleyhine temyiz kanun yoluna gidilemez (CMK md. 286/2-e).
+- Davanın düşmesine, ceza verilmesine yer olmadığına, güvenlik tedbirine ilişkin ilk derece mahkemesi kararları ile ilgili olarak bölge adliye mahkemesince verilen bu tür kararlar veya istinaf başvurusunun esastan reddine dair kararlar aleyhine temyiz kanun yoluna gidilemez (CMK md. 286/2-g).
+
+### İstinaf Mahkemesinin Karar Verme Süresi Ne Kadardır?
+
+İstinaf mahkemelerinin dosyaları karara çıkartması konusunda kategorik olarak belirlenmiş bir süre yoktur. Her dairenin iş yoğunluğu, duruşma sayısı ve dosyaların niteliği farklı olduğundan, bir dosyanın istinaf incelemesinde ne kadar kalacağı daireden daireye değişkenlik arz etmektedir. Bu nedenle, bir dosyanın ne kadar sürede karar çıkabileceği konusunda ancak tahmini bir süre verilebilir. Hali hazırda boşanma davalarının dosyaları yaklaşık 2 yıl, tazminat davası dosyaları yaklaşık 2-3 yıl gibi sürelerle istinaf mahkemesi tarafından incelenmektedir.
+
+Ceza davalarında dava dosyasında tutuklu sanık varsa, istinaf incelemesi daha erken yapılmaktadır. Tutuklu dosyalar, daireden daireye değişmekle birlikte 3 ay ile 1 yıl arasında bir süre içerisinde incelenmektedir. Tutuksuz ceza dosyaları ise istinaf mahkemesi tarafından 1 yıl ile 3 yıl arasında bir süre içerisinde incelenmektedir.
+
+### İstinaf Mahkemeleri ve Yargı Çevreleri
+
+İstinaf Mahkemeleri aşağıda yer almaktadır. Her istinaf mahkemesinin ayrı bir yargı çevresi vardır. İstinaf mahkemelerinin yargı çevresine aşağıdaki linkler tıklanarak ulaşılabilir:
+
+- ADANA ADLİ İSTİNAF MAHKEMESİ
+- ANKARA ADLİ İSTİNAF MAHKEMESİ
+- ANTALYA ADLİ İSTİNAF MAHKEMESİ
+- BURSA ADLİ İSTİNAF MAHKEMESİ
+- DİYARBAKIR ADLİ İSTİNAF MAHKEMESİ
+- ERZURUM ADLİ İSTİNAF MAHKEMESİ
+- GAZİANTEP ADLİ İSTİNAF MAHKEMESİ
+- İSTANBUL ADLİ İSTİNAF MAHKEMESİ
+- İZMİR ADLİ İSTİNAF MAHKEMESİ
+- KAYSERİ ADLİ İSTİNAF MAHKEMESİ
+- KONYA ADLİ İSTİNAF MAHKEMESİ
+- SAKARYA ADLİ İSTİNAF MAHKEMESİ
+- SAMSUN ADLİ İSTİNAF MAHKEMESİ
+- TRABZON ADLİ İSTİNAF MAHKEMESİ
+- VAN ADLİ İSTİNAF MAHKEMESİ
+
+
+## Adli İstinaf Mahkemesi Kararları
+
+### İstinaf Mahkemesi (Bölge Adliye Mahkemesi) Nedir?
+
+Bölge adliye mahkemelerinin Türk yargı sistemine dâhil olmasıyla kanun yolu yargılamasında yeni bir durum ve anlayış ortaya çıkmıştır. İlk derece mahkemelerinden verilen hükümlere karşı başvurulabilen, hatta başvuru olmasa da bir kısmı için resen öngörülen bir kanun yolu (CMK m. 272/1) olarak istinafta, hem maddi vakıa denetimi hem de hukuki denetim yapılabilmekte, sebep gösterilmese de ilk derece mahkemesi hükmü bir bütün olarak incelenmekte, varsa hukuka aykırılıklar resen belirlenerek, kural olarak yeniden yapılacak yargılama ile ıslah edilmekte iken, bölge adliye mahkemesi ceza dairelerinin bozma dışında kalan hükümlerini konu edinen temyiz kanun yolu, bir hukuki denetim mekanizması olarak öngörülmüş, temyiz merciinin yetkisi de kural olarak bölge adliye mahkemesi ceza dairelerince verilen kararların, maddi ceza hukuku ve muhakeme hukuku normlarının kullanılması bakımından hukuka aykırılık taşıyıp taşımadıklarının incelenmesi ile sınırlanmıştır (CMK m. 288/1, 294/2).
+
+Bu hâliyle bölge adliye mahkemesi hem ilk derece mahkemelerinden verilen hükümlere karşı bir denetim mercii hem de denetlediği hükmün hukuka aykırı olduğunu değerlendirdiğinde, hukuka aykırılığı ortadan kaldıracak ölçüde yeniden yargılama yapacak bir ikinci/üst derece mahkemesidir. Her iki halde de ilk derece mahkemelerine göre bir üst mahkeme olduğunda kuşku yoktur. Bu tespitlerden çıkan sonuç şudur:
+
+a. Bölge adliye mahkemesi kural olarak bir ıslah mahkemesidir. Yani varsa ilk derece mahkemelerinden verilen hükümlerdeki tüm hukuka aykırılıkları resen belirleyerek, yeniden yapacağı yargılama ile hükmü ıslah eder. Yoksa kural olarak bir bozma mahkemesi olan Yargıtay gibi davranamaz.
+
+b. İlk derece mahkemelerine göre bir üst mahkeme olması itibarıyla gerek denetim gerekse yeniden yargılama fonksiyonunu icra etsin, her halûkârda taraflar açısından başlı başına bir teminat oluşturur.
+
+c. Bölge adliye mahkemesi, aleyhine kural olarak bir kanun yolu öngörülmeyen ve direnilemeyen (duruşmasız/evrak üzerinden verdiği) bozma kararı ile ne tarafları bir üst mahkemede yargılanma teminatından yoksun bırakabilir ne de olay mahkemesine vicdani kanaati rağmına bir sonuca ulaşmasını amir bir müdahalede bulunabilir.
+
+Bölge adliye mahkemelerinin hükmün bozulmasına karar verebileceği hâller, CMK'nın 280. maddesinin birinci fıkrasının (e) ve (f) bentlerinde tahdidi olarak sayılmıştır. Bu düzenlemelere göre istinaf mahkemeleri şu hâllerde hükmün bozulması kararı verebilecektir:
+
+1.İlk derece mahkemesinin kararında CMK'nın 289. maddesinin (1) numaralı fıkrasının (g) ve (h) bentleri hariç diğer bentlerinde belirtilen bir mutlak hukuka aykırılık nedeninin bulunması,
+
+2.Soruşturma veya kovuşturma şartının gerçekleşmediğinin veya ön ödeme ve uzlaştırma usulünün uygulanmadığının anlaşılması ya da davanın ilk derece mahkemesinde görülmekte olan bir dava ile birlikte yürütülmesinin zorunlu olması.
+
+Hükmün bozulmasına karar verilen bu hâllerde bölge adliye mahkemesi ceza dairesi, dosyanın yeniden incelenmek ve hükmolunmak üzere hükmü bozulan ilk derece mahkemesine veya kendi yargı çevresinde uygun göreceği diğer bir ilk derece mahkemesine gönderilmesine karar verecektir. Bu karara karşı ilk derece mahkemesinin direnme kararı verme yetkisi bulunmadığı gibi tarafların da kanun yoluna başvurması mümkün değildir. Açıkça görüldüğü gibi bölge adliye mahkemesinin bozma kararı verebileceği hâller, kati surette davanın esasına ilişkin değil ve fakat yargılamaya dair usul kurallarının ağır ve açık ihlalleri ile hükme müteessir usul kurumlarının ihmali suretiyle hüküm kurulması durumlarına münhasırdır. Nitekim Yargıtay kararlarına karşı direnme yetkisi bulunan ilk derece mahkemesinin, bölge adliye mahkemelerinin bozma kararlarına direnememesinin temelinde yatan düşünce de buna dayanmaktadır. Direnme yasağına ilişkin normun, maddi ceza adaletiyle doğrudan bir ilgisinin bulunmadığı, esas itibariyle makul sürede yargılanma hakkı bakımından bir teminat alanı oluşturduğu söylenmelidir.
+
+Hukuki düzenlemeler ve yapılan açıklamalar karşısında, mesele tartışmaya ihtiyaç bırakmayacak açıklıktadır. Buna rağmen uygulama, bölge adliye mahkemelerinin iş yoğunluğu gibi mülahazalarla kanunun kendisine tanımadığı bir yetkiyi kullanarak bozma kararları verilegeldiği bilinen bir gerçektir. Bu uygulamanın, yukarıda yer verilen tespitler yanında, görevli/teminatlı mahkemede yargılanma ve mahkemeye erişim/ kanun yoluna etkin başvuru hakları yönünden ciddi sorunlar taşıdığı da tartışmadan varestedir. CMK'nın 286. maddesinin birinci fıkrası uyarınca bölge adliye mahkemesi ceza dairelerinin bozma dışında kalan kararları temyiz edilebileceğinden, bölge adliye mahkemesinin Kanun'un açık hükmüne aykırı şekilde verdiği bozma kararının temyiz edilebilmesi de mümkün değildir. Bu nedenle ilk derece mahkemesi hükmünün hukuka aykırılık taşıdığının tespit edilmesi durumunda bölge adliye mahkemesi ceza dairesince ilk derece mahkemesi hükmünün kaldırarak yeniden hüküm kurulması gerektiği hâlde bozma kararı verilmesi nedeniyle sanığın temyiz hakkının kısıtlanması da söz konusu olabilmektedir. Nitekim Anayasa Mahkemesi, 2023/33667 sayılı Ömer Oral başvurusu üzerine verdiği 09.01.2025 tarihli kararında özetle; İstinaf Dairesinin CMK'da açıkça ve sınırlı sayıda yazılı bulunan hâller dışında bir sebeple bozma kararı vermesiyle gerçekleşen müdahalenin kanuni dayanağının olmaması nedeniyle adil yargılama hakkının ihlâl edildiğine hükmetmiştir.
+
+Keza, Yargıtay Ceza Daireleri de AYM kararına konu teşkil eden benzer olay ve bozma üzerine ilk derece mahkemesince tesis edilen hükümlerin, esas itibariyle bölge adliye mahkemesi tarafından verildiği (Yargıtay 14. Ceza Dairesinin 04.03.2021 tarihli ve 6371-1851 sayılı, 9. Ceza Dairesinin 22.06.2023 tarihli ve 2981-4580 sayılı, 5. Ceza Dairesinin 18.04.2024 tarihli ve 5322-4330 sayılı, 6. Ceza Dairesinin 03.07.2024 tarihli ve 2388-8319 sayılı, 11. Ceza Dairesinin 11.03.2024 tarihli ve 6519-3057 sayılı kararları vb.) ya da bölge adliye mahkemesi ceza dairesinin kararı ile bozma üzerine verilen ilk derece mahkemesi kararının hukukî değerden yoksun ve yok hükmünde olduğu (Yargıtay 2. Ceza Dairesinin 24.04.2023 tarihli ve 12734-2067 sayılı ve 20.02.2024 tarihli ve 29761-2708 sayılı kararları vb.) gerekçeleriyle temyiz başvurularını esastan incelemişlerdir. Diğer taraftan bölge adliye mahkemesi ceza daireleri kanunda açıkça öngörülmüş hâller dışında bir nedenle bozma kararı vererek, dava dosyasını ilk hükmün devretme etkisiyle görevi sona eren ilk derece mahkemesine yeniden göndermiştir. Mahkemelerin görevleri kanunla belirlenir (CMK m. 3). CMK'nın 7. maddesine göre de, "Yenilenmesi mümkün olmayanlar dışında, görevli olmayan hakim veya mahkemece yapılan işlemler hükümsüzdür.". Şu hâle göre; bölge adliye mahkemelerinin, kanuni dayanağı bulunmayan (CMK'nın 280. maddesinin birinci fıkrasının (e) ve (f) bentlerinde sayılanlar hariç) bozma kararları ile iş bu bozma kararına istinaden ilk derece mahkemesince tesis edilen kararların, Kanun'da açıkça sayılmayan sebeplerle verilmiş olmaları nedeniyle "hukuka açık ve ağır aykırılıkla malul" olduklarının kabulü gerekir.
+
+B. Ön Soruna İlişkin Hukuki Değerlendirme;
+
+Sanıklar hakkında nitelikli yağma suçundan kurulan mahkûmiyet hükümlerine ilişkin sanıklar müdafileri tarafından istinaf yoluna başvurulması üzerine her ne kadar İstanbul Bölge Adliye Mahkemesi 6. Ceza Dairesince 17.09.2019 tarih ve 859-2146 sayı ile; CMK'nın 289/1-i ve 280/1-d maddeleri uyarınca bozulmasına, dosyanın bozma gereğince yeniden yargılama yapılmak üzere İlk Derece Mahkemesine gönderilmesine karar verilmiş ise de; hükme esas alınan delillerin duruşmada okunmaması hâlinin CMK’nın 289. maddesinin birinci fıkrasının (i) bendine değil (h) bendine aykırılık oluşturacağı, bu aykırılığın da CMK'nın 280. maddesinde açıkça ve sınırlı sayıda yazılı olan bozma sebeplerinden birini oluşturmadığı ve bu sebeple bozma kararı verme görev ve yetkisi bulunmaması karşısında; İstanbul Bölge Adliye Mahkemesi 6. Ceza Dairesinin 17.09.2019 tarihli ve 859-2146 sayılı bozma kararı ile iş bu karara istinaden tesis edilen Bakırköy 7. Ağır Ceza Mahkemesinin bozma üzerine verdiği 24.06.2021 tarihli ve 321-352 sayılı kararının "hukuka açık ve ağır aykırılıkla malul" oldukları anlaşılmakla; Bölge Adliye Mahkemesince, CMK'nın 280. maddesinde yazılı usule uygun şekilde; gerekirse duruşma açılması suretiyle İlk Derece Mahkemesince kurulan hükümlerin kaldırılması, sanıklar hakkında yeni bir hüküm kurulmasına, istinaf isteminin esastan reddine veya düzeltilerek esastan reddine karar verilerek istinaf incelemesinin sonlandırılması gerekirken; sanıklar hakkında kurulan mahkûmiyet hükümlerinin, hükme esas alınan delillerin duruşmada okunmadığından bahisle bozulmasına karar verilerek dosyanın İlk Derece Mahkemesine gönderilmesinin hukuka aykırı olduğu kabul edilmelidir (Ceza Genel Kurulu 2024/543 E. , 2025/583 K.).
+
+### Avukatlık Sözleşmesi Hakkında İstinaf Mahkemesi Kararı
+
+Dava, davacı avukat tarafından açılan vekalet ücreti alacağının tahsili istemine ilişkindir. Davacı, davalıyı vekili olarak temsil ettiğini, ancak vekalet ücretini alamadığını ileri sürerek, ücret alacağının tahsili için eldeki davayı açmıştır. Uyuşmazlık, taraflar arasındaki avukatlık sözleşmesinden kaynaklanmaktadır.
+
+Mahkemece de belirtildiği üzere; avukatlık sözleşmesinde avukatın görevinin yargının kurucu unsuru olan ve bağımsız savunmayı temsil eden yargısal bir faaliyet olduğu, avukatın, mal ve hizmet piyasalarında faaliyet gösteren ve hizmet sunan "satıcı" “sağlayıcı”, "girişimci" sıfatında bulunmadığı, yine sözleşmenin diğer tarafı olan “müvekkil”in, Tüketicinin Korunması Hakkında Kanun'un 3/1-k maddesindeki “tüketici” tanımına uymadığı, sözleşmenin bir “tüketici işlemi” olarak kabulünün mümkün olmadığı, Avukatlık Kanunu'nda düzenlenmiş olan avukatlık sözleşmesinin, Türk Borçlar Kanunu'nda düzenlenmiş olan vekalet sözleşmesinden farklı ve ayrı bir sözleşme türü olması ve bu sözleşmenin niteliği gereğince 6502 sayılı Tüketicinin Korunması Hakkında Kanun kapsamında bulunduğu kabul edilemeyeceğinden, mahkemece verilen görevsizlik kararında usul ve esas yönünden yasaya aykırılık bulunmadığı anlaşılmakla, davalıların istinaf başvurusunun esastan reddine karar vermek gerekmiş, aşağıdaki şekilde hüküm tesis edilmiştir.
+
+SONUÇ :
+
+Yukarıda açıklanan nedenlerle;
+
+1-Davalıların istinaf başvurusunun HMK'nın 353/1/b/1 maddesi gereğince ESASTAN REDDİNE,
+
+2-Davalı taraf, harçtan muaf olduğundan, peşin alınan istinaf kanun yoluna başvurma harcı ile istinaf karar ve ilam harcının davalılara iadesine,
+
+3-İstinaf yargılama giderlerinin istinaf kanun yoluna başvuran davalılar üzerinde bırakılmasına,
+
+4- İstinaf kararının yerel mahkemesince taraflara tebliğine, dosya üzerinde yapılan inceleme sonucunda, 07.07.2017 tarihince oybirliği ile kesin olarak karar verildi. (ANKARA BÖLGE ADLİYE MAHKEMESİ 4. HUKUK DAİRESİ - Karar No: 2017/993).
+
+### Yerel Mahkemenin Görevine İlişkin İstinaf Mahkemesi Kararı
+
+Dava; evlilik birliğinin temelinden sarsılması hukuki sebebine dayalı TMK'nun 166/1 maddesi uyarınca boşanma ve şahsi eşya alacağı davası niteliğindeki taleplere ilişkindir.
+
+Görev, kamu düzenine ilişkindir. Mahkemece yargılamanın her aşamasında kendiliğinden dikkate alınması gerekir. 4787 sayılı Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usullerine Dair Kanunun, 5133 s. kanunla değişik 4. maddesi; 4721 sayılı TMK.nun 2.kitabında 3. kısım hariç olmak üzere (m.118-395) kaynaklanan bütün davaların, aile mahkemeleri kurulan yerlerde bu mahkemelerce bakılacağını; aynı yasanın 2. maddesinde, aile mahkemesi kurulmayan yerlerde bu kanun kapsamına giren dava ve işlerin Asliye Hukuk(Aile) mahkemelerinde bakılacağı hükme bağlanmıştır. Şu halde aile mahkemesi kurulmayan yerlerde Hakimler ve Savcılar Yüksek Kurulunca belirlenen Asliye Hukuk Mahkemelerinde davanın aile mahkemesi sıfatıyla görülüp karara bağlanması gerekir. (H.G.K.nın 16/11/2005 tarih ve 2-673-617 sayılı kararı). Davaya "Aile Mahkemesi" sıfatıyla bakılması gerekirken, bu husus düşünülmeden Asliye Hukuk Mahkemesi olarak yargılamaya devam edilip yazılı şekilde karar verilmesi usul ve yasaya AYKIRIDIR. İstinaf başvurusu bu nedenle yerinde görüldüğünden HMK.nın 353/l-a-3 maddesine göre ilk derece mahkemesinin kararının esastan incelenmeksizin kaldırılmasına, davanın Aile Mahkemesi sıfatıyla görülmesi için dosyanın Karakoçan Asliye Hukuk Mahkemesine gönderilmesi gerektiği anlaşılmakla, aşağıdaki şekilde hüküm kurulmuştur.
+
+HÜKÜM:Yukarıda açıklanan nedenlerle;
+
+1-Davacıların istinaf başvurusunun KABULÜ İle, esası incelenmeksizin Karakoçan Asliye Hukuk Mahkemesinin 08/02/2017 tarih, 2014/511 esas ve 2017/23 karar sayılı kararının kaldırılmasına, davanın görevli mahkemede yeniden görülmesi için dosyanın kararı veren Karakoçan Asliye Hukuk Mahkemesine gönderilmesine,
+
+2-Davacı tarafından yatırılan 31,40 TL istinaf karar harcının istek halinde kendisine iadesine,
+
+3-Davacı tarafından yapılan istinaf yargılama giderlerinin İlk Derece Mahkemesince yeniden verilecek kararda dikkate alınmasına,
+
+4-İstinaf yargılaması sırasında duruşma açılmadığından davacı yararına vekalet ücreti takdirine yer olmadığına,
+
+5-Kararın tarafların bilgilendirilmeleri amacıyla İlk Derece Mahkemesince taraflara TEBLİĞİNE,
+
+Dair dosya üzerinde yapılan inceleme neticesinde, 6100 sayılı HMK'nın 353/1-a. maddesi uyarınca oy birliğiyle kesin olarak karar verildi. (GAZİANTEP BÖLGE ADLİYE MAHKEMESİ 2. HUKUK DAİRESİ - KARAR No: 2017/734).
+
+### İhtiyati Tedbirin Kaldırılmasının Hukuka Aykırılığına Dair İstinaf Mahkemesi Kararı
+
+taşınmazların tapu kayıtlarına konulan tedbirlerin HMK'nın 394/4 üncü maddesine uyulmadan, usul ve yasaya aykırı olarak kaldırıldığını belirterek, İlk Derece Mahkemesinin tedbirlerin kaldırılmasına dair kararların ortadan kaldırılmasına ve davalı tarafın tedbir kararlarının kaldırılması taleplerinin reddine karar verilmesi talebiyle istinaf kanun yoluna başvurmuştur.
+
+HMK'nın 394 üncü maddesinde "Karşı taraf dinlenmeden verilmiş olan ihtiyati tedbir kararlarına itiraz edilebilir. Aksine karar verilmedikçe, itiraz icrayı durdurmaz. İhtiyati tedbirin uygulanması sırasında karşı taraf hazır bulunuyorsa, tedbirin uygulanmasından itibaren; hazır bulunmuyorsa tedbirin uygulanmasına ilişkin tutanağın tebliğinden itibaren bir hafta içinde, ihtiyati tedbirin şartlarına, mahkemenin yetkisine ve teminata ilişkin olarak, kararı veren mahkemeye itiraz edebilir. İhtiyati tedbir kararının uygulanması sebebiyle menfaati açıkça ihlal edilen üçüncü kişiler de ihtiyati tedbiri öğrenmelerinden itibaren bir hafta içinde ihtiyati tedbirin şartlarına ve teminata itiraz edebilirler. İtiraz dilekçeyle yapılır. İtiraz eden, itiraz sebeplerini açıkça göstermek ve itirazının dayanağı olan tüm delilleri dilekçesine eklemek zorundadır. Mahkeme, ilgilileri dinlemek üzere davet eder; gelmedikleri takdirde dosya üzerinden inceleme yaparak kararını verir. İtiraz üzerine mahkeme, tedbir kararını değiştirebilir veya kaldırabilir. İtiraz hakkında verilen karara karşı, kanun yoluna başvurulabilir. Bu başvuru öncelikle incelenir ve kesin olarak karara bağlanır. Kanun yoluna başvurulmuş olması, tedbirin uygulanmasını durdurmaz." hükmü düzenlenmiştir.
+
+Dosyanın incelenmesinde; Davacı vekili tarafından 16/02/2017 havale tarihli dilekçe ile mal rejiminin tasfiyesiyle şimdilik 10.000,00 TL'nin yasal faiziyle tahsiline, davalı adına kayıtlı malvarlığına tedbir konulmasına karara verilmesi dava ve talep edilmiş, mahkeme tarafından 20/02/2017 tarihli tensip zabtının 9 nolu ara kararıyla davalı adına tapuda kayıtlı taşınmazlar ile bir kısım bankada bulunan hesaplarına ihtiyati tedbir konulmasına karar verilmiş, dava dilekçesi davalıya 06/03/2017 tarihinde tebliğ edilmiş, davalı vekilinin değişik tarihlerde müracaatı üzerine 20/03/2017 tarihli ara kararıyla Adana ili Yumurtalık ilçesi 566 nolu parsel üzerine konulan tedbirin kaldırılmasına, davalı vekilinin 22/03/2017 tarihli müracaat dilekçesi üzerine yazılan kararla Adana ili Yumurtalık ilçesi Köy civarı mevkiinde bulunan 73, 78, 80, 81 ve 82 nolu taşınmazların tapu kayıtlarına konulan tedbirin kaldırılmasına, yine davalı vekilinin 07/03/2017 tarihli müracaat dilekçesi üzerine yazılan kararla Ziraat Bankası Yumurtalık Şubesindeki banka hesaplarına konulan tedbirin kaldırılmasına karar verildiği görülmekle, mahkeme tarafından HMK'nın 394 üncü maddesinde belirtildiği şekilde taraflar çağrılmadan dosya üzerinde karar verilmesi doğru olmadığından, davacının istinaf talebinin kabulüne karar verilmesi gerekmiştir.
+
+HÜKÜM; Yukarıda açıklanan nedenlerle;
+
+1-Davacınınistinaf başvurusunun kabulü ile; Adana 8. Aile Mahkemesi'nin 2017/135 esas sayılı dosyasında verdiği ihtiyati tedbirlerin kaldırılmasıyla ilgili 07/03/2017, 20/03/2017 ve 22/03/2017 tarihli ara kararlarının kaldırılmasına,
+
+2-Dosyanın HMK'nın 394 üncü maddesinde belirtilen işlemlerin yapılarak yeniden bir karar verilmek üzere, Adana 8. Aile Mahkemesine iadesine,
+
+3-Davacı tarafından istinaf nedeniyle yatırılan 31,40 TL karar harcının istek halinde davacıya iadesine,
+
+4-Davacı tarafından istinaf kanun yolu nedeniyle yapılan giderlerin İlk Derece Mahkemesinde yeniden yapılacak yargılamada dikkate alınmasına,
+
+5-Kararın ilk derece mahkemesi tarafından bilgilendirilmeleri amacıyla taraflara tebliğine,
+
+Dair, dosya üzerinde yapılan inceleme sonunda, HMK.nun 394/son maddesi gereğince kesin olmak üzere oy birliğiyle karar verildi. (GAZİANTEP BÖLGE ADLİYE MAHKEMESİ 2. HUKUK DAİRESİ - KARAR NO:2017/699).
+
+### Yerel Mahkeme Kararının Ortadan Kaldırılmasına Dair İstinaf Mahkemesi Kararı
+
+Yapılan yargılama, toplanan deliller ve tüm dosya kapsamına göre; sanık tüm aşamalarında alınan savunma ve beyanlarında uyuşturucu madde ticareti yapmadığını, ele geçen uyuşturucu maddeyi kullanmak için bulundurduğunu beyan etmiştir. Sanıktan ele geçirilen uyuşturucu maddenin miktarı, bir kişinin yıllık kullanım sınırları dahilinde az olması, sanığın uyuşturucu madde ticareti yaptığına dair, fiziki ve teknik bir takibin olmaması, ayrıca uyuşturucu madde ticareti yaptığına dair fiili bir durum tespitinin de olmaması, aşamalardaki savunmalarında; kullanım sınırları içinde kalan miktardaki esrarı içmek için satın aldığını ifade eden ve bu savunmasını doğrular nitelikte dosyada mevcut Malatya Adli Tıp Kurumu’nca düzenlenmiş 12.06.2016 tarihli rapordan idrarında cannabinoid ve anfetamin bulunduğu saptandığı için hakkında ayrıca kullanmak için uyuşturucu madde bulundurma suçundan soruşturma yürütülen sanığın, geçmiş sabıkasının somut olayda da ticari amaçla hareket ettiğinin delili sayılamayacağı, savunmasının aksine, ele geçirilen üç parçadan ibaret net 2 gram 260 miligram esrarı kullanma dışında bir amaçla bulundurduğuna ilişkin kuşku sınırlarını aşacak derecede yeterli delil bulunmadığı, tüm cezalardan kurtulmak amacıyla kaçmasının ve suçlamayı kabul etmemesinin asıl eylemini değil, ikrarda bulunmamasını cezalandırmak anlamında bir uygulamaya yol açabileceği tüm dosya kapsamından tespit edilmiş olmakla, sanığın eyleminin esasen kullanmak amacıyla uyuşturucu madde bulundurmak suçunu oluşturduğu, ancak soruşturma aşamasında olay günü sanığın idrarında tespit edilen uyuşturucu madde nedeniyle sanık hakkında kullanmak amacıyla uyuşturucu madde bulundurmak suçundan dolayı dosyanın tefrik edilip bu suçtan dolayı ayrı bir soruşturmanın sanık hakkında yapılmış olduğu da nazara alınarak, sanık hakkında atılı suçtan açılan kamu davasında sanığın üzerine atılı uyuşturucu madde ticareti yapmak suçunu işlediğine ve savunmasının aksini ispatlar her türlü şüpheden uzak, mahkumiyetine yeter, kesin ve inandırıcı delil olmadığından sanığın yüklenen suçu işlediğinin sabit olmaması sebebiyle beraatına ve Elazığ 1. Ağır Ceza Mahkemesi’nin 2016/280-332 karar sayılı 11.08.2016 tarihli sanığın uyuşturucu madde ticareti yapmak suçundan mahkumiyetine dair usul ve yasaya aykırı olan kararının tüm sonuçlarıyla ortadan kaldırılmasına karar verilerek aşağıdaki şekilde hüküm kurulmuştur.
+
+Hüküm: Açıklanan gerekçelerle;
+
+A-) Elazığ 1. Ağır Ceza Mahkemesi’nin 2016/280 Esas 2016/332 Karar sayılı 11.08.2016 tarihli, sanık hakkında uyuşturucu madde ticareti yapmak suçundan verilen mahkumiyet kararının tüm sonuçlarıyla ORTADAN KALDIRILMASINA,
+
+B-) 1-) Sanık hakkında atılı uyuşturucu madde ticareti yapmak suçundan açılan kamu davasının, sanığın yüklenen suçu işlediğinin sabit olmaması sebebiyle CMK 223/2-e maddesi gereğince sanığın BERAATINA,
+
+2-) Elazığ Adli Emaneti’nin 2016/1521 sırasında kayıtlı bulunan sanıktan elde edilen uyuşturucu madde ve materyalleri ile Malatya Adli Tıp Kurumu Şube Müdürlüğü’nde bulunan şahit numunenin bizati suç teşkil etmesi nedeniyle TCK’nun 54. maddesi gereğince MÜSADERESİNE, karar kesinleştiğinde kararın bir suretinin Malatya Adli Tıp Kurumu Şube Müdürlüğü’ne gönderilmesine, aynı emanette kayıtlı bulunan sanıktan elde edilen paraların, suçtan elde edildiği kesin delille sabit olmadığından sanığa iadesine,
+
+3-) Elazığ Adli Emaneti’nin 2016/1675 sırasında kayıtlı bulunan 3 adet beyaz renkli çizgili kağıt parçasının karar kesinleştiğinde imhasına,
+
+4-) Yapılan yargılama giderlerinin kamu üzerine bırakılmasına,
+
+dair iddia makamının ifadesine uygun, sanık müdafiinin yüzüne karşı, Cumhuriyet Savcısının huzurunda CMK’nun 33. maddesine uygun olarak verilen karar duruşma zaptına geçen hüküm fırkası okundu, gerekçesi ana hatlarıyla anlatıldı, bu karara karşı sanık müdafiinin tefhimden itibaren 7 gün içerisinde mahkememize verilecek dilekçe veya tutanağa geçirilmek üzere katibe beyanda bulunmak suretiyle CMK’nun 272, 273. maddelerinde belirtilen temyiz yoluna başvurulabileceğine dair oybirliği ile verilen karar açıkça okunup, usulen anlatıldı.(GAZİANTEP BÖLGE ADLİYE MAHKEMESİ CEZA DAİRESİ KARARI - Karar No: 2016/2).
+
+### İstinaf Başvurusunun Düzeltilerek Esastan Reddine Dair Mahkeme Kararı
+
+Sanıkların terör örgütüne üye olmak, sanık İklim Ayfer K...'nin ayrıca adil yargılamayı etkilemeye teşebbüs ve özel hayatın gizliliğini ihlal suçlarını işledikleri iddiasıyla yapılan yargılama sonunda, Yerel Mahkemece atılı suçların işlendiğinin sabit olmadığı gerekçesiyle CMK 223/2-e maddesi gereğince sanıkların beraatlerine dair verilen karara yönelik sanıklar müdafii tarafından atılı suçların işlenmediğinin sabit olduğu suç kastının bulunmadığı gerekçeleriyle beraat kararı verilmesi gerektiğinden bahisle gerekçeye dayalı olarak istinaf talebinde bulunmuştur.
+
+Sanık İklim Ayfer K...'nin siyasi parti eski genel başkanı ile yaptığı konuşma ve görüşmelerin gazetecilik faaliyeti kapsamında olup suç unsuru teşkil etmediği, terör örgütüne üye olma suçuyla ilgili herhangi bir eyleminin bulunmadığı, konuşmaların içerikleri de gözetildiğinde örgüt üyeliği suçu olarak kabulünün mümkün olmadığı gibi sanığın adil yargılamayı etkilemeye teşebbüs yönünden herhangi bir eyleminin bulunmadığı, yaptığı telefon görüşmelerini ifşa etmediği dosya kapsamıyla anlaşılması karşısında atılı suçları işlemediğinin sabit olduğu,
+
+Sanık Hanefi A...'nın yazmış olduğu kitabın örgüt talimatıyla yazdırıldığma ilişkin olarak kitabını hazırlanmasında görev yapan kişilerin tanık sıfatıyla verdikleri ifadeler, iddianın dayanığı digital dosyalar hakkında verilmiş bilirkişi raporları karşısında sözü edilen verilerin sahte oluşturulduğu ve Yerel Mahkemece de bu hususta suç duyurusunda bulunulmuş olduğu dikkate alındığında sanığın üzerine atılı terör örgütü üyeliği suçunu işlemediğinin sabit olduğu;
+
+Yerel mahkemece sanıkların atılı suçları işlediklerinin sabit olmadığı gerekçesiyle verilen beraat kararın belirtilen sebeplerle gerekçe itibariyle yerinde olmadığı ancak bu hususun yeniden yargılamayı gerektirmediği anlaşıldığından hüküm fıkrasındaki sanıklar İkim Ayfer Kaleli ile Hanefi Avcı'yla ilgili olarak "....sanıklar tarafından işlendiğinin sabit olmaması nedeniyle sanıkların CMK nın 223/2-e maddesi gereğince ayrı ayrı BERAATLERİNE" ibareleri adı geçen sanıklar yönünden hükümden çıkartılarak yerine "sanık Hanefi Avcı ve İklim Ayfer Kaleli'nin terör örgütüne üye olmak, sanık İklim Ayfer Kaleli'nin adil yargılamayı etkilemeye teşebbüs ve özel hayatın gizliliğini ihlal suçlarını işlemedikleri sabit olduğundan CMK 223/2-b maddesi gereğince ayrı ayrı BERAATLERİNE" ibareleri eklenmek suretiyle sanıklar müdafiinin istinaf nedenleri bu itibarla yerinde görüldüğünden CMK 280/1-a maddesi gereğinde İSTİNAF BAŞVURUSUNUN DÜZELTİLEREK ESASTAN REDDİNE, dosyanın hükmü veren İstanbul 18. Ağır Ceza Mahkemesine gönderilmesine,
+
+Kararın sanıklar müdafiine tebliğine,
+
+CMK'nın 291/1. maddesi gereğince tebliğ tarihinden itibaren 15 gün içinde Dairemiz'e verilecek dilekçe veya tutanağa geçirilmek üzere zabıt katibine beyanda bulunmak, veya bir başka İlk Derece Ceza Mahkemesi veya Bölge Adliye Mahkemesi Ceza Dairesi aracılığı ile dilekçe gönderilmek sureti ile Yargıtay İlgili Ceza Dairesi tarafından incelenmek üzere TEMYİZ yolu açık olarak 20/11/2017 tarihinde oybirliğiyle karar verildi.İSTANBUL BÖLGE ADLİYE MAHKEMESİ 2. CEZA DAİRESİ - Karar No:2017/2029 - Tarih: 20.11.2017).
+
+### İstinaf Başvuru Süresi Aşılarak Yapılan Başvurunun Usulden Reddi Kararı
+
+İncelenen dosya kapsamına göre İlk Derece Mahkemesi tarafından tarafların hazır bulunduğu 09.08.2016 tarihli celsede tarafların yüzüne karşı kararın tefhim olunduğu, İ.İ.K 363.maddesine göre istinaf yoluna başvuru süresinin tefhim veya tebliğinden itibaren 10 gün olduğu, ve kararın tarafların yüzüne karşı tefhim olunması nedeni ile istinaf süresinin tefhimden itibaren başlayacağı ve başvurunun yapıldığı 10/10/2016 tarihi itibariyle yasada belirtilen başvuru süresinin geçtiği anlaşılmakla istinaf talebinin usulden reddine karar vermek gerekmiş ve aşağıdaki şekilde hüküm kurulmuştur.
+
+HÜKÜM: Yukarıda açıklanan nedenlerle;
+
+1-İstinaf talebini içerir dilekçenin yasal süresinde verilmediği anlaşıldığından, istinaf talebinin USULDEN REDDİNE;
+
+2-a)Harç peşin alındığından yeniden harç alınmasına yer olmadığına;
+
+b)İstinaf yargılama giderlerinin başvuran üzerinde bırakılmasına;
+
+3-Dair dosya üzerinde yapılan inceleme sonunda İ.İ.K 365/3.maddesi gereğince KESİN olarak oy birliği ile karar verildi.(İSTANBUL BÖLGE ADLİYE MAHKEMESİ 21. HUKUK DAİRESİ - KARAR NO : 2017/426 Karar).
+
+### Yerel Mahkemesi Kararının Kaldırılmasına Dair İstinaf Mahkemesi Kararı
+
+Star Gazetesi'nin 24/10/2015 tarihli internet adresinde ve 25/10/2015 tarihli gazetede Suriye'den Türkiye'ye geçen terör örgütü Işid'in üyesi canlı bombaları olarak müvekkillerinin kimlik fotokopileri ile T.C kimlik numaralarını yayınladıklarını belirterek manevi tazminat talep edildiği, dava dilekçesinde habere konu gazetenin suretlerinin Star Medya Yayıncılık A.Ş. Tarafından 02/05/2016 tarihinde yerel mahkemeye gönderildiği, ancak incelenmesinde gazete içeriside bazı sayfaların eksik olduğu ve haber içeriğine rastlanılmadığı, haberin Anadolu Ajansında da yayınlandığı, yayınlanan haber içeriğinin Anadolu Ajansından getirtilmediği, olaya ilişkin Küçükçekmece Cumhuriyet Başsavcılığının davacılardan H.T'nın şikayeti üzerine 2015/56584 Soruşturma no, 2016/4406 Karar no ile kovuşturmaya yer olmadığına dair karar verildiğinin davalı tarafça delil olarak ileri sürüldüğü ve kovuşturmaya yer olmadığına dair karar sureti ibraz edildiği halde kovuşturmaya yer olmadığına dair kesinleşmiş karar suretinin dosya arasına getirtilmediği, yerel mahkemece yapılması gereken habere konu gazetenin suretlerinin Star Medya Yayıncılık A.Ş.'den getirtilmesi, haberin Anadolu Ajansında da yayınlandığı, yayınlanan haber içeriğinin Anadolu Ajansından da getirtilmesi, Küçükçekmece Cumhuriyet Başsavcılığının davacılardan H...'ın şikayeti üzerine 2015/56584 Soruşturma no, 2016/4406 Karar no ile kovuşturmaya yer olmadığına dair kesinleşmiş karar suretinin getirtilmesi, haber içeriğinin incelenerek kimliği ve fotoğrafı yayınlanan kişilerin davacı kişiler olup olmadığı bilirkişi tarafından incelenerek, davacı kişilerin açıkça canlı bomba olarak tanıtılıp tanıtılmadığı, haberin daha önceden yazılı veya internette yayınlanarak aleniyet kazanıp kazanmadığı, davacıların direk hedef alınıp alınmadığı, güncel ve kamuoyunu ilgilendiren bir haber olup olmadığı, değerlendirilmeden ve deliller getirilmeden karar verildiğinden HMK.'nun 353/l-a-6 maddesi uyarınca dosyanın karar veren yerel mahkemeye iadesine karar verilmesi gerektiği tespit edilmekle aşağıdaki şekilde hüküm tesis edilmiştir.
+
+SONUÇ :Yukarıda açıklanan nedenlerle;
+
+Davacılar vekilinin istinaf talebinin kabulüne,
+
+1 - Hukuk Muhakemeleri Kanununun 353/1-a maddesi gereğince Gaziantep 6. Asliye Hukuk Mahkemesinin 2015/760 Esas, 2016/280 Karar sayılı kararının kaldırılmasına,
+
+2- İlk derece mahkemesinin kararının kaldırılmasına karar verildiğinden Gaziantep 6. Asliye Hukuk Mahkemesinin 2015/760 Esas, 2016/280 Karar sayılı dosyasının mahkemesine gönderilmesine,
+
+3-İstinaf başvuru harcı dışında istinaf peşin harcı olarak alınan 31,40 TL harcın istek halinde davacıya iadesine,
+
+4-İstinaf giderlerinin ilk derece mahkemesinde yapılacak yargılama sonucunda dikkate alınmasına,
+
+5-İstinaf incelemesi sırasında duruşma açılmadığından taraf vekilleri yararına vekalet ücreti takdirine yer olmadığına,
+
+Dair yapılan inceleme sonucunda, tarafların yokluğunda HMK 353 üncü maddesi uyarınca oy birliğiyle kesin olarak karar verildi. (GAZİANTEP BÖLGE ADLİYE MAHKEMESİ DÖRDÜNCÜ HUKUK DAİRESİ - KARAR NO: 2017/344 TARİH : 24.05.2017).
+
+### İstinaf Mahkemesi Kararları Arasında Uyuşmazlık
+
+Benzer olaylarda kesin nitelikteki bölge adliye mahkemesi kararları arasında uyuşmazlık bulunması halinde ve uyuşmazlığın giderilmesi için 5235 sayılı Kanun’un 35 inci maddesinde belirtilenler tarafından yapılacak gerekçeli başvuru sonrasında, bölge adliye mahkemesi hukuk daireleri başkanlar kurulu tarafından, hukuki uyuşmazlığın esasına ilişkin kendi görüşü de eklenmek suretiyle bu konuda bir karar verilmesi için talep Yargıtay’ın ilgili dairesine iletilecektir.
+
+Belirtmek gerekir ki 5235 sayılı Kanun’un 35 inci maddesinin birinci fıkrasının üçüncü bendine göre başvuru hakkı bulunanlar tarafından bölge adliye mahkemesi kararları arasındaki uyuşmazlığın giderilmesine ilişkin bir başvuru yapılması durumunda, bölge adliye mahkemesi hukuk daireleri başkanlar kurulu tarafından bölge adliye mahkemesi kararları arasında “uyuşmazlık bulunması halinde” kendi görüşlerini de ekleyerek talep Yargıtay’ın ilgili dairesine iletilmelidir. Bir başka ifadeyle uyuşmazlığın giderilmesine ilişkin talebin Yargıtay ilgili dairesine iletilmesinin ön şartı, kesin nitelikteki bölge adliye mahkemesi kararları arasında uyuşmazlık bulunması ve bu hususun bölge adliye mahkemesi hukuk daireleri başkanlar kurulu tarafından tespiti zorunluluğudur.
+
+Bu anlamda, kesin nitelikteki bölge adliye mahkemesi kararları arasında 5235 sayılı Kanun’un 35 inci maddesi kapsamında uyuşmazlık bulunmadığının tespiti halinde, bölge adliye mahkemesi hukuk daireleri başkanlar kurulu tarafından talebin Yargıtay ilgili dairesine iletilmesi zorunluluğu bulunmadığından, talebin reddine karar verilmelidir (Yargıtay 9. Hukuk Dairesi 2021/2072 E. , 2021/6376 K.).
+
+
+---
+
+## Ara Karar ve Nihai Karar Nedir?
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/medeni-hukuk/ara-karar-ve-nihai-karar-nedir (son güncelleme: 2026-09-04)*
+
+Mahkemeler ara kararı ve nihai karar (son karar) olmak üzere iki şekilde hüküm kurar. Nihai karar, ara karardan farklı olarak uyuşmazlığı usul ve esastan çözen karardır.
+
+
+## Ara Karar ve Nihai Karar Nedir?
+
+(HGK-K.2021/115)
+
+Hâkimin verdiği kararlar **ara kararları** ve **nihai kararlar** olmak üzere ikiyi ayrılır.
+
+**Ara kararları**, yargılamaya (davaya) son vermeyen, bilakis onu yürütmeye, ilerletmeye yarayan kararlardır. Hâkim, yargılamayı yürütmek (ilerletmek) için davada birçok ara kararı verir. Bütün bu kararların ortak niteliği, hâkimin ara kararı ile davadan (işten) elini çekmeyip, bilâkis davaya devam etmesidir (Kuru, B.: Hukuk Muhakemeleri Usulü, İstanbul 2001, Cilt III, s.2998). Bu kapsamda olmak üzere mahkemenin görev ve yetki itirazının, zamanaşımı defisinin reddine ilişkin kararları ara kararı olduğu gibi, taraflara delillerini göstermeleri, tanık, bilirkişi incelemesi ve keşif masraflarını yatırmaları için süre vermesine ilişkin kararları da birer ara kararıdır.
+
+Yargılamaya son veren ve hâkimin davadan elini çekmesi sonucunu doğuran kararlara **nihai karar** denir. Meselâ, yetkisizlik kararı, görevsizlik kararı, boşanma kararı, aylık kiranın tespiti kararı, dava sırasında (dava konusu) borcun ödenmiş olması nedeniyle esas hakkında karar verilmesine yer olmadığı kararı gibi.
+
+Hâkim nihai karar ile o davadan elini çeker, verdiği karardan dönemez ve onu değiştiremez. Fakat (ara kararlarının aksine) nihai kararlar temyiz edilebilir (m.427). İşte, nihaî kararlar temyiz edilip Yargıtayca bozulmadıkça, hâkimin nihai kararla sonuçlandırmış olduğu davaya tekrar bakması (el koyması) caiz değildir (Kuru, s.3004-3005).
+
+Nihai kararlar da esasa ilişkin ve usule ilişkin nihai kararlar olmak üzere iki grupta toplanabilir. Usule ilişkin nihai kararla hâkim davadan elini çekmekte ise de, bu kararla taraflar arasındaki uyuşmazlığın esası çözümlenmiş olmaz. Örneğin mahkemenin görevsiz veya yetkisiz olması nedeni ile verdiği kararlar, davanın takip edilmemesi nedeni ile davanın açılmamış sayılmasına ilişkin verilen kararlar, dava şartlarının noksanlığı nedeni ile davanın usulden reddine ilişkin olarak verilen kararlar nihai karar olmakla birlikte taraflar arasındaki uyuşmazlığı sonlandırılan, çözüme kavuşturan kararlar değildir.
+
+Mahkemeler, önlerine gelen uyuşmazlığı, tarafların sulh olması, davadan feragat edilmesi, davanın kabul edilmesi, yahut geri alınması gibi istisnalar dışında, esas hakkında verecekleri nihai kararla çözerler. Mahkemenin verdiği her karar, prensip olarak onun, önüne gelen somut uyuşmazlık hakkında, "Anayasa, kanunlar ve hukuk" çerçevesindeki vicdani kanaatini ifade eder. Bu vicdani kanaatin, söz konusu çerçeveye uygunluğu ise kararın gerekçesiyle ortaya konulur. Bundan dolayıdır ki, Anayasanın 141. maddesinin üçüncü fıkrasına göre, bütün mahkemelerin her türlü kararları gerekçeli olarak yazılmak zorundadır. Bu çerçevede yargısal karar, mahkemenin önüne gelen uyuşmazlık hakkında açıkladığı kanaatinden ibarettir. Diğer bir ifadeyle yargısal karar, mahkemenin somut bir hukuki soruna ilişkin kanaat açıklamasıdır.
+Yargısal karar olarak nitelendirdiğimiz bu kanaat açıklaması, muhatapları açısından bağlayıcı sonuçlar doğurur. Öyle ki, kararın gereğinin muhatabı tarafından yerine getirilmemesi hâlinde, eda hükmü içerenlerin ilâmlı icra yoluyla (zorla) yerine getirilmesi mümkündür (Pekcanıtez Usûl, Medeni Usûl Hukuku, Cilt III, İstanbul 2017, s.1967). Bu açıklamalardan yola çıkıldığında, **hüküm**, hâkimin dava yolu ile önüne getirilen uyuşmazlıkla ilgili yaptığı yargılama faaliyeti sonucunda verdiği, davayı esastan çözen, taraflar arasındaki uyuşmazlığı sonlandıran karar olarak tanımlanabilir.
+
+Nitekim 01.10.2011 tarihinde yürürlüğe giren 6100 sayılı Hukuk Muhakemeleri Kanunu'nun (6100 sayılı Kanun/6100 sayılı HMK/HMK) 294. maddesinin birinci fıkrasında, "Mahkeme, usule veya esasa ilişkin bir nihai kararla davayı sona erdirir. Yargılama sonunda uyuşmazlığın esası hakkında verilen nihai karar, hükümdür." şeklinde esasa dair, uyuşmazlığı çözen mahkeme kararının hüküm olduğu yönünde düzenleme yapılmıştır.
+
+Hüküm vermeden önceki yargılama aşamasında hâkim, öncelikle somut olaya uygulanacak bir hukuk kuralı bulunup bulunmadığını araştırır ve tespit eder. İkinci olarak soyut hukuk kuralındaki şartların somut olayda bulunup bulunmadığını inceler; ileri sürülen iddiaların ve savunmanın ispat edilip edilmediğini araştırır. Hâkimin bu görevi delillerin toplanması ve değerlendirilmesi ile gerçekleşir. Son aşamada ise hâkim yaptığı yargılama faaliyeti sonucunda objektif hukuk kuralını somut olaya uygulayarak uyuşmazlığın esası ile ilgili kararını verir. Hüküm hâkim tarafından açıklanmadıkça hiçbir sonuç doğurmaz. Kararın (hükmün) sonuç doğurması için taraflara açıklanması yani tefhim veya tebliğ edilmesi gerekir. Hükmün nasıl verileceği 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'nun (1086 sayılı Kanun/HUMK) 382., 6100 sayılı Kanun'un 294. maddesinde düzenlenmiştir. Hükmün neleri kapsayacağı ise 1086 sayılı Kanun'un 388., 6100 sayılı Kanun'un 297. maddesinde ayrıntılı olarak gösterilmiştir. Hüküm hâkim tarafından yazılıp imzalandıktan ve mahkeme mührü ile mühürlendikten sonra hükmün nüshaları taraflara makbuz karşılığında verilir ve ayrıca kendisine hüküm verilmeyen tarafa gecikmeksizin tebliğ edilir (6100 sayılı Kanun'un 301.; 1086 sayılı Kanun'un 392. maddeleri).
+
+Kanun yolu, davanın taraflarına tanınan bir hukuki yoldur ki, bununla yanlış olan kararların (daha doğrusu yanlış olduğu iddia edilen kararların) tekrar incelenmesi ve değiştirilmesi sağlanır. Hüküm mahkemelerinin karar verirken yanlış yapmaları ihtimali bulunduğundan, verilen kararların daha yüksek bir mahkeme tarafından kontrol edilmesi için, her hukuk sisteminde kanun yolları kabul edilmiştir (Kuru: s. 4483).
+
+Nihai kararların kesinleşmesine engel olan kanun yollarına normal kanun yolu denir. Yani, normal kanun yoluna başvurulması hâlinde, hakkında kanun yoluna başvurulan nihai karar bu yollardan geçmeden kesinleşmiş olmaz. Normal kanun yolu, henüz kesinleşmemiş olan nihai kararlar için tanınmış bir kanun yoludur. Bir karara karşı normal kanun yoluna başvurulursa, o kararın kesinleşmesi önlenmiş, yani kanun yoluna başvurmanın sonucuna kalmış olur. Normal kanun yolu süresi içinde bu yola gidilmezse veya gidildiği hâlde karar onanır ve başka bir kanun yolu da yok ise, nihai karar kesinleşir (Kuru: s.4484). Başka bir anlatımla kanun yolları sonsuz değildir. Kanunda hükme karşı öngörülen kanun yollarının tüketilmesi ile ya da kanun yollarına başvurma sürelerinin geçirilmesi ile karar kesinleşir. Artık o hükme karşı normal bir kanun yoluna başvurulması mümkün olmaz.Bununla birlikte kesinleşmiş hükümlere karşı tanınmış olan kanun yoluna olağanüstü kanun yolu denmekte olup, olağanüstü kanun yoluna konu karar esasında normal kanun yollarından geçerek ya da kanun yollarına başvurulmaksızın kesinleşmiştir. Ancak kanunda öngörülen bazı sebeplerin varlığı hâlinde kanun koyucu kesinleşmiş hükmün kaldırılması ya da değiştirilmesi imkânını tanımıştır.
+
+Türk Medeni Usul Hukukunda kanun yolları nihai kararlar için kabul edilmiştir. Mahkemelerin nihai olmayan kararlarına, başka bir deyişle ara kararlarına karşı öngörülmüş genel bir kanun yolu sistemi yoktur.
+
+
+---
+
+## Asliye Hukuk Mahkemesi ve Görevleri
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/medeni-hukuk/asliye-hukuk-mahkemesinin-gorevi-nedir (son güncelleme: 2026-09-04)*
+
+Asliye Hukuk Mahkemesi Nedir? Asliye Hukuk Mahkemesinin Görevine Giren Davalar Nelerdir? Asliye Hukuk Mahkemesi Hangi Davalara Bakmakla Görevlidir? Asliye Hukuk Mahkemesi Kararlarına İtiraz ve İstinaf, Asliye Hukuk Mahkemesinin Görevi Yargıtay Kararları
+
+
+## Asliye Hukuk Mahkemesi Nedir?
+
+**Asliye hukuk mahkemesi**; özel hukuk uyuşmazlıklarına bakmakla görevli asıl mahkemedir (6100 sayılı HMK m.2). *Asliye hukuk mahkemeleri*, tek hakimli olup her yargı çevresinde (adliyede) kurulması zorunlu mahkemelerdendir (5235 sayılı Kanun m.5).
+
+Özel hukuk davalarına bakan mahkemeler esasen üçe ayrılır:
+
+- Asliye Hukuk Mahkemesi,
+- Sulh Hukuk mahkemesi,
+- Özel Mahkemeler (Asliye Ticaret Mahkemesi, Tüketici Mahkemesi, Fikri ve Sınai Haklar Hukuk Mahkemesi, Aile Mahkemesi, Kadastro Mahkemesi, İş Mahkemesi vb. gibi).
+
+Asliye hukuk mahkemesi ve sulh hukuk mahkemesi özel hukuk uyuşmazlıklarına bakmakla görevli temel iki mahkemedir. Genel mahkemelerden olan asliye hukuk mahkemesinin görevi asıl, sulh hukuk mahkemesinin görevi ise istisnadır. Özel bir kanun hükmü ile açıkça sulh hukuk mahkemesinde bakılacağı bildirilmeyen bütün dava ve işler asliye hukuk mahkemesinde görülür. Kanunda belirli bir uyuşmazlık türü için açıkça özel bir mahkemenin görevli olduğu kabul edilmişse, uyuşmazlığı çözmeye görevli mahkeme kanunun belirlediği o özel görevli mahkemedir.
+
+## Asliye Hukuk Mahkemesinin Görevleri Nelerdir?
+
+*Asliye hukuk mahkemesi*, kanun başka bir mahkemeyi özellikle görevlendirmediği müddetçe dava konusunun değer ve miktarına bakılmaksızın aşağıdaki iki kategori içinde yer alan her türlü davaya bakmakla görevlidir (HMK m.2):
+
+- Malvarlığı haklarına ilişkin davalar,
+- Şahıs varlığına ilişkin davalar.
+
+Yukarıda açıkladığımız üzere, genel görevli mahkemeler Sulh Hukuk ve Asliye Hukuk mahkemeleridir. Sulh hukuk mahkemelerinin görevli olduğu davalar kanunda özel olarak sayılmış ve görevinin sınırları çizilmiştir. Sulh hukuk mahkemesinin görevi dışında kalan tüm davalara da asliye hukuk mahkemesi bakmakla görevlidir.
+
+Özellikle belirtelim ki; asliye ticaret mahkemeleri ile asliye hukuk mahkemeleri arasındaki ilişki, yeni HMK’ya göre iş bölümü ilişkisi olmaktan çıkarılıp görev ilişkisi haline getirildiğinden asliye ticaret mahkemeleri de genel mahkeme olmaktan çıkmış ve özel mahkeme haline gelmiştir.
+
+Aralarındaki bağlantı nedeniyle birlikte açılan davalarda bir kısım dava arkadaşları veya talepler yönünden özel mahkeme, bir kısmı yönünden de genel mahkeme görevli ise davaya bakmaya tümüyle özel mahkeme görevlidir. Davanın diğerine tabaen tümüyle özel mahkemede görüleceği ilkesi, yargısal uygulamalarda kararlılıkla kabul edilip sürdürülmektedir. (Yargıtay HGK –K.2015/1232). Örneğin, trafik kazası nedeniyle sigorta şirketine karşı açılacak dava asliye ticaret mahkemesinde, araç sürücüsüne karşı açılacak dava asliye hukuk mahkemesinde açılabilir. Ancak, her iki davanın neticesi birbirini etkiler mahiyette olduğu için, her iki davada özel mahkeme olan asliye ticaret mahkemesinde birlikte açılmalıdır.
+
+## Asliye Hukuk Mahkemesi Hangi Davalara Bakar?
+
+Asliye hukuk mahkemesinin görevine giren bazı davalar şunlardır:
+
+- Trafik kazası tespit tutanağına itiraz veya iptali (Tespit Davası mahiyetinde),
+- Tapu iptal ve tescil davası,
+- El atmanın önlenmesi davası,
+- Geçit hakkı davası,
+- Üst hakkı davası,
+- Haksız işgal tazminatı veya ecrimisil davası,
+- Muhdesatın aidiyetinin tespiti davası,
+- Şufa (önalım) davası,
+- Zilyetliğin tespiti ve korunmasına ilişkin davalar,
+- Menfi tespit ve istirdat davası,
+- Alacak davası,
+- Tapuya şerh verilmesi veya şerhin kaldırılması davası,
+- Maddi manevi tazminat davası,
+- Mirastan mal kaçırma davası,
+- Soy bağının düzeltilmesi ve babalık davası
+- İtirazın iptali davası
+- Kamulaştırmasız el atma davası,
+- Kamulaştırma nedeniyle tescil ve bedel davası,
+- Ad ve soyad değişikliği ile nüfus kaydının düzeltilmesine dair diğer her türlü dava,
+- Mirasta tenkis davası,
+- Vasiyetnamenin iptali davası,
+- Miras sözleşmesinin iptali,
+- Mirasçılıktan çıkarma veya çıkarmanın iptali davası,
+- Mirasçılık belgesinin iptali davası,
+- Mirasta istihkak davası
+- Derneğin feshi veya genel kurulun iptali davası,
+- Vakıflarla ilgili davalar.
+
+## Asliye Hukuk Mahkemesinde Dava Nasıl Açılır?
+
+Asliye hukuk mahkemesinde dava, mahkemeye dava dilekçesi verilerek açılmaktadır. Dava, dava dilekçesinin kaydedildiği tarihte açılmış sayılır. Dava dilekçesine davalı sayısı kadar örnek eklenir (HMK m.118). Örneğin, iki davalının bulunduğu bir davada 3 nüsha dava dilekçesi hazırlanarak mahkemeye sunulmalıdır.
+
+Dava dilekçesi, yetkili asliye hukuk mahkemesine verilmelidir. Örneğin, İstanbul ili Bahçelievler ilçesinde bulunan bir gayrimenkule ilişkin tapu iptal ve tescil davası açmak için dava dilekçesi Bakırköy Asliye Hukuk Mahkemesi'ne verilmelidir. Çünkü, Bahçelievler, Bağcılar, Esenler, Zeytinburnu vb. ilçeler Bakırköy Asliye Hukuk Mahkemesi'nin yargı çevresindedir.
+
+Dava dilekçesi davanın açılacağı yerin bağlı bulunduğu adliyenin Asliye Hukuk Mahkemesi'ne verilmelidir. Hangi asliye hukuk mahkemesinin davaya bakacağı yapılacak dosya dağıtımı (tevzi) neticesinde belirlenecektir. Hangi asliye hukuk mahkemesinin davaya bakması gerektiğini taraflar (davacı-davalı) belirleyemez.
+
+Asliye hukuk mahkemesine verilen dava dilekçesi bazı şekil koşullarına sahip olmalıdır. Dava dilekçesi şekil şartlarına uygun hazırlanmadığı takdirde usulüne uygun açılmamış davanın açılmamış sayılmasına karar verilebileceği gibi bazı hallerde davanın reddine karar verilebilir. HMK m.119'a göre asliye hukuk mahkemesine verilecek dava dilekçesinde aşağıdaki hususlar bulunmalıdır :
+
+- a) Asliye hukuk mahkemesinin adı. Örneğin, İstanbul Asliye Hukuk Mahkemesi.
+- b) Tarafların ad, soyad ve adesleri (Davacı ile davalının adı, soyadı ve adresleri).
+- c) Davacının Türkiye Cumhuriyeti kimlik numarası. Davacının TC kimlik numarasının yazılması zorunludur. Ancak, davalının TC kimlik numarasının yazılması zorunlu değildir.
+- ç) Tarafların varsa tarafların kanuni temsilcilerinin ve davacı vekilinin adı, soyadı ve adresleri. Örneğin, yaşı küçük kişinin velisi veya vesayet altındaki kişinin vasisinin ad, soyad ve adresi yazılmalıdır.
+- d) Davanın konusu ve malvarlığı haklarına ilişkin davalarda, dava konusunun değeri.
+- e) Davacının iddiasının dayanağı olan bütün vakıaların sıra numarası altında açık özetleri.
+- f) İddia edilen her bir vakıanın hangi delillerle ispat edileceği. Örn, tanıklar, yazılı deliller, başka kurumlardan getirtilecek deliller vs.
+- g) Dayanılan hukuki sebepler. Hukuki sebeplere değinilmemesi dava dilekçesinde usuli bir eksikliğe yol açmaz.
+- ğ) Açık bir şekilde talep sonucu. Her dava dilekçesi gibi asliye hukuk mahkemesine sunulacak dava dilekçesinde de talep sonucu açıkça belirtilmelidir.
+- h) Davacının, varsa kanuni temsilcisinin veya vekilinin imzası.
+
+## Asliye Hukuk Mahkemeleri Yargılama Süreci
+
+Asliye hukuk mahkemesi, kural olarak **yazılı yargılama** usulünün uygulandığı bir mahkemedir. Yazılı yargılama usulünde belli periyotlarla duruşmalar yapılmakla birlikte, esas olarak yargılama yazılı bir şekilde sürdürülmektedir. Örneğin, asliye hukuk mahkemesinde açılan bir davaya yazılı bir şekilde cevap verilmekte, deliller ve beyanlar prensip olarak yazılı bir şekilde mahkemeye sunulmaktadır.
+
+Yazılı yargılama usulünde yargılama çeşitli aşamalara ayrılmıştır. Her aşamada ayrı usul işlemleri yapılarak açılan davanın aşama aşama ilerlemesi sağlanmaya çalışlmıştır. Tüm aşamalar bittikten sonra karar aşamasında mahkeme esas hakkındaki kararını açıklayacaktır. Asliye hukuk mahkemesi yargılaması kural olarak şu aşamalardan oluşmaktadır:
+
+**1. Dilekçeler Teatisi Aşaması :** Dilekçeler teatisi aşamasında, davacının dava dilekçesi davalı tarafa tebliğ edilir, davalı tarafın sunduğu cevap dilekçesi ise davacı tarafa tebliğ edilir. Davacının, davalının sunduğu cevap dilekçesine cevap verme hakkı vardır. Davacının cevap dilekçesi davalıya tebliğ edildiğinde davalının ikinci cevap dilekçesi verme hakkı (cevaba cevap dilekçesi) vardır. Yani, dilekçeler teatisi aşamasında her iki taraf ikişer dilekçe verme hakkına sahiptir. Taraflar bu aşamada iddia ve savunmayı genişletebilir veya değiştirebilir. Örneğin, dava dilekçesinde 100.000 TL manevi tazminat isteyen davacı, davalının cevap dilekçesine karşı sunduğu cevaba cevap dilekçesiyle manevi tazminatı arttırak, 250.000 TL manevi tazminat talebinde bulunabilir. Bu aşama tamamlandıktan sonra karşı tarafın rızası veya ıslah olmadan iddia veya savunma genişletilemez.
+
+**2. Ön İnceleme Aşaması:**  Ön inceleme duruşması asliye hukuk mahkemesinde dilekçeler teatisi aşamasının tamamlanmasından sonra yapılan ilk duruşmadır. Hâkim, ön inceleme duruşmasında, dava şartları ve ilk itirazlar hakkında karar verebilmek için gerekli görürse tarafları dinler; daha sonra, tarafların iddia ve savunmaları çerçevesinde, anlaştıkları ve anlaşamadıkları hususları tek tek tespit eder (HMK m.140/1). Ön inceleme duruşmasında mutlaka tarafların üzerinde anlaştıkları ve anlaşmadıkları noktaların tespit edilmesi gerekir. Çübkü, sonraki aşama olan tahkikat aşaması ön inceleme duruşmasında yapılan tespit çerçevesinde yürüyecektir.
+
+**3.Tahkikat Aşaması:** Tahkikat aşaması, bütün iddia ve savunmaların araştırılarak **incelendiği** aşamadır. Bu aşamada mahkeme delilleri ve beyanları inceleyerek davayı hüküm vermeye hazır hale getirir (HMK m.143). Asliye hukuk mahkemesi gerekli gördüğünde davanın taraflarını (davacı ve davalı) da duruşmaya çağırarak dinleyebilir (HMK .143). Tahkikat aşamasında daha önceki aşamalarda toplanmayan deliller toplanır, bilirkişi incelemesi yapılır, tanıklar dinlenir. Tahkikat aşaması tamamlandıktan sonra sözlü yargılama ve hüküm aşamasına geçilir.
+
+**4. Sözlü Yargılama Aşaması ve Hüküm:** Sözlü yargılama aşamasında taraflara son sözleri sorulur ve hüküm verilir  (HMK m.186).  Asliye hukuk mahkemesi, usule veya esasa ilişkin bir nihai kararla davayı sona erdirir. Yargılama sonunda uyuşmazlığın esası hakkında verilen nihai karar, hükümdür. Hüküm, yargılamanın sona erdiği son duruşmada verilir ve tefhim olunur (öğrenmeleri sağlanır). Hükmün gerekçesinin son duruşmada açıklanmadığı hallerde, gerekçeli karar  duruşmada yapılan tefhim tarihinden başlayarak bir ay içinde yazılmalıdır.
+
+Asliye hukuk mahkemesinin bir davayı karara bağlama süresi davanın özelliğine göre değişmekle birlikte ortalama 1,5 - 3 yıl arasıdır.
+
+## Asliye Hukuk Mahkemesinin Görevsizlik Kararı
+
+Görevsizlik kararı veren asliye hukuk mahkemesi bu kararında dava dosyasının görevli mahkemeye gönderilmesine karar vermekle yetinir. Dava dosyasını kendiliğinden ( re'sen ) görevli mahkemeye gönderemez.
+
+6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 20. maddesi hükmü gereğince; taraflardan birinin görevsizlik kararının kesinleştiği tarihten itibaren iki hafta içinde kararı veren mahkemeye başvurarak dava dosyasının görevli mahkemeye gönderilmesini talep etmesi gerekir. Hemen belirtmek gerekir ki; bu süre hak düşürücü nitelikte olup mahkemece re'sen gözetilir. Hak düşürücü süre içerisinde dava dosyasının görevli mahkemeye gönderilmesi başvurusu yapılmadığı takdirde, *asliye hukuk mahkemesi* tarafından davanın açılmamış sayılmasına karar verilir.
+
+Asliye hukuk mahkemesinin görevsizlik kararına karşı 2 hafta içinde istinaf mahkemesine (bölge adliye mahkemesi) istinaf başvurusu yapılabilir. İstinaf mahkemesinin yerel mahkemenin görevi ile ilgili verdiği karar kesindir.
+
+## Asliye Hukuk Mahkemesinin Kararına Karşı İstinaf ve Temyiz Başvurusu
+
+Asliye hukuk mahkemesi kararlarına karşı istinaf başvurusu yapılması mümkündür. İstinaf, asliye hukuk mahkemesi tarafından verilen kararın hem maddi vakıa hem de hukuki açıdan bir üst mahkeme tarafından yeniden değerlendirilmesini sağlayan bir kanun yoludur. İstinaf kanun yoluna başvuru süresi, asliye hukuk mahkemesi kararının usulüne uygun bir şekilde taraflara tebliği edildiği günden itibaren 2 haftadır. İstinaf başvurusu, bölge adliye mahkemesine gönderilmek üzere kararı aleyhine başvuru yapılan asliye hukuk mahkemesine bir istinaf dilekçesi verilerek yapılır.
+
+Asliye hukuk mahkemesi kararlarına karşı istinaf başvurusu yapılabilmesi için şu şartların gerçekleşmesi gerekir:
+
+- Aleyhine istinaf başvurusu yapılan asliye hukuk mahkemesi kararında yer alan malvarlığı davasının miktar ve değeri 50.000 TL’yi aşmalıdır (HMK 341/2). Miktar ve değeri 50.000 TL’yi aşmayan asliye hukuk mahkemesi kararları kesin olduğundan aleyhine istinaf başvurusu yapılamaz (2026 yılı için).
+- Kural olarak ara kararlar aleyhine istinaf başvurusu yapılamaz. Ancak, ihtiyati tedbir ve ihtiyati gibi kararlar ara kararı olmasına rağmen son kararı beklemeden bu kararlar aleyhine istinaf başvurusu yapılması mümkündür (HMK 341/1).
+
+Temyiz, asliye hukuk mahkemesi kararı hakkında istinaf incelemesi neticesinde verilen hükmün, hukukun doğru uygulanıp uygulanmadığı açısıdan denetlenmesini sağlayan bir kanun yoludur. Asliye hukuk mahkemesi kararlarının temyiz edilmesi de mümkündür.
+
+Temyiz kanun yoluna başvurulabilmesi mümkün olan asliye hukuk mahkemesi kararlarının da şu şartları sağlaması gerekir:
+
+- Aleyhine temyiz başvurusu yapılan istinaf mahkemesi kararında yer alan miktar ve değer 682.000 TL’yi aşmalıdır (HMK 362/1-a). Miktar ve değeri 682.000 TL’yi aşmayan istinaf mahkemesi kararları kesin olduğundan aleyhine temyiz başvurusu yapılamaz (2026 yılı için).
+- İstinaf mahkemesinin ihtiyati tedbir ve ihtiyati haciz gibi kararlarına karşı temyiz kanun yoluna başvurulamaz.
+
+
+## Asliye Hukuk Mahkemesinin Görevi Yargıtay Kararları
+
+### Trafik Kazası Tespit Tutanağına İtiraz Asliye Hukuk Mahkemesinde Görülür
+
+A. Ankara 43. Asliye Hukuk Mahkemesinin 17.05.2023 Tarihli ve 2023/187 Esas, 2023/172 Karar Sayılı Kararı
+
+Talebin niteliğinin, talep eden hakkında meydana gelen maddi hasarlı trafik kazası nedeniyle Ankara Bölge Trafik Denetleme Şube Müdürlüğünce düzenlenen 01.05.2023 tarihli "Maddi Hasarlı Trafik Kazası Tespit Tutanağı"nda belirlenen kusur durumuna ve tutanağı itiraz mahiyetinde olduğu, trafik kazaları nedeniyle yetkili birimler tarafından düzenlenen suç tespit ve ceza tutanaklarına karşı tebliğden itibaren 15 gün içerisinde kazanın meydana geldiği yer Nöbetçi Sulh Ceza mahkemesine itirazda bulunulması gerektiği hususunun 2918 sayılı Karayolları Trafik Kanunu'nun (2918 sayılı Kanun) 81 ve 114 üncü maddelerinde açıkça düzenlendiği, ayrıca ceza veya hukuk davası (tazminat) açılması halinde yargılama aşamasında da kusur tespiti yapılmasının mümkün olduğu gerekçesiyle yetkisizlik kararı verilmiştir.
+
+B. Ankara 4. Sulh Ceza Hakimliğinin 07.09.2023 Tarihli ve 2023/8971 Değişik İş, 2023/8971 Karar Sayılı Kararı
+
+2918 sayılı Kanun'un ilgili maddelerinde tutanağın trafik zabıtasınca düzenleneceği belirtilmiş olup tutanağa Sulh Ceza Hakimliklerinin veya başka mahkemede itiraz edilebileceğine ilişkin hüküm olmadığı, Trafik Kazası Tespit Tutanağı delil gösterilerek açılacak olan ceza davası veya hukuk davasının görülmesi sırasında tutanağın gerçeği yansıtmadığı ileri sürülerek itiraz edilebileceği, açılmış bir dava yokken salt tutanağa itiraza edilebileceğine ilişkin hüküm mevcut olmadığı, yapılan başvurunun, konusu kaza tespit tutanağına itirazın Hakimlikçe incelenebilecek kararlardan olmaması gerekçesiyle yetkisizlik kararı verilmiştir.
+
+Uyuşmazlık, maddi hasarlı trafik kazası tespit tutanağına itiraz ve aleyhine düzenlenen tutanağın düzeltilmesi istemine ilişkindir.
+
+Somut olayda, Ankara Bölge Trafik Denetleme Şube Müdürlüğü-Trafik Düzenleme ve Denetleme Büro Amirliği'nin 01.05.2023 tarih, 97003 kaza sıra numaralı maddi hasarlı trafik kazası tespit tutanağının iptaline karar verilmesinin talep edildiği, talebin tespit davası niteliğinde olduğu anlaşıldığından, uyuşmazlığın Ankara 43. Asliye Hukuk Mahkemesince görülerek sonuçlandırılması gerekir (Yargıtay 5. Hukuk Dairesi 2024/5427 E. , 2024/9718 K.).
+
+### İdarenin Haksız Tahsil Ettiği Paranın İstirdatı Davasına Bakma Görevi
+
+2577 Sayılı İdare Yargılama Usulü Kanunu'nun "İdari Dava Türleri ve İdari Yargı Yetkisinin Sınırı" başlıklı 2. maddesinde2577 Sayılı İdare Yargılama Usulü Kanunu'nun "İdari Dava Türleri ve İdari Yargı Yetkisinin Sınırı" başlıklı 2. maddesinde; idari dava türleri sayılmıştır. Bu hükme göre, idari davalar; idari işlemler hakkında açılan iptal davaları, idari eylem ve işlemlerden dolayı kişisel hakları doğrudan muhtel olanlar tarafından açılan tam yargı davaları ve kamu hizmetlerinden birinin yürütülmesi için yapılan her türlü idari sözleşmelerden dolayı taraflar arasında çıkan uyuşmazlıklara dair davalardan ibarettir.Bir davanın tam yargı davası olarak nitelendirilebilmesi için, ortada öncelikle bir idari işlem veya eylemin bulunması ayrıca, bu işlem veya eylem sebebiyle kişisel bir hakkın ihlal edilmiş olması gerekir.
+
+Somut olayda; davacıdan tahsil edilen bedellerin hukuka aykırı bulunduğu ve sebepsiz zenginleşme hükümlerine göre tahsili talep edilmekte, isteme dair idari işlemin iptali talebinde bulunulmamaktadır. Hal böyle olunca, mahkemece; talebin 6098 Sayılı Türk Borçlar Kanunu'nun 77. maddesinde ifadesini bulan sebepsiz zenginleşmenin iadesi niteliğinde olduğu ve işin esasına girilerek, varılacak sonuca göre bir hüküm kurulması gerekirken, mahkemenin görevsiz olması sebebiyle davanın reddine karar verilmesi doğru görülmemiş ve kararın bozulması gerekmiştir. (Yargıtay 4. Hukuk Dairesi - Karar: 2017/112).
+
+### Trafik Sigortası Tazminat Davası Asliye Ticaret Mahkemesinde Görülür
+
+6102 Sayılı Türk Ticaret Kanunun 1483 vd. maddelerinde "zorunlu sorumluluk sigortaları" düzenlenmiştir. Bir hukuki işlemin veya fiilin kapsamında kaldığının kabul edilmesi için Kanun'un amacı içerisinde yukarıda tanımları verilen bu kanunda düzenlenen hususlarla, bir ticari işletmeyi ilgilendiren bir hukuki işlemin veya fiilin olması gerekir.
+
+Asliye mahkemeleri, Asliye Hukuk ve Asliye Ticaret Mahkemeleri olarak ikiye ayrılır. Asliye Ticaret Mahkemeleri, Asliye Hukuk Mahkemesi'nin görevine giren ticari davaların çözümlendiği mahkemelerdir. Asliye Ticaret Mahkemesi'nin görevine giren işler dışında kalan tüm uyuşmazlıklar Asliye Hukuk Mahkemesince çözümlenir. Dava tarihinde yürürlükte bulunan 4.maddesinde hangi davaların ticari dava olduğu sayılmıştır. Bundan başka, bir yerde ticaret mahkemesi varsa Asliye Hukuk Mahkemesi'nin görevi, içinde bulunan ve bu kanunun 4.maddesi hükmünce ticari sayılan davalarla hususi hükümler uyarınca ticaret mahkemesinde görülecek diğer işlere Asliye Ticaret Mahkemesinde bakılacağı düzenlenmiştir (m.5/2). Asliye ticaret mahkemesi bulunmayan yargı çevresindeki bir ticari davada görev kuralına dayanılmamış olması, görevsizlik kararı verilmesini gerektirmez; asliye hukuk mahkemesi, davaya devam eder (m.5/4).
+
+Somut olayda, davacının trafik sigorta şirketi, işleteni ve sürücüden trafik kazası sebebiyle trafik yön levhalarına çarpması sebebiyle tazminat talebini zorunlu trafik sigortası poliçesine dayanarak davalı işleten ve sürücü birlikte sigorta şirketinden talep ettiği, bu itibarla davanın, Türk Ticaret Kanunu'nun 1483 vd. maddelerinde sayılan hususlardan olduğu anlaşılmakla uyuşmazlığa ticaret mahkemesi sıfatıyla bakıldığından yetkisizlik kararı verilirken İstanbul Anadolu Ticaret Mahkemesine gönderilmesi yerine yazılı şekilde karar verilmesi doğru görülmemiştir (Yargıtay 17. Hukuk Dairesi - Karar: 2016/4343).
+
+### Ad-Soyadı Değişikliği Davası Asliye Hukuk Mahkemesinde Görülür
+
+4721 Sayılı Türk Medenî Kanununun uyarınca, haklı bir sebebe dayanmak kaydıyla, adın değiştirilmesi hâkimden istenebilir. Diğer yandan 5490 Sayılı Nüfus Hizmetleri Kanununun 36. maddesinin 1/a bendinde 1/a bendinde, nüfus kayıtlarına dair düzeltme davalarının düzeltmeyi isteyen şahısların yerleşim yeri adresinin bulunduğu yerdeki görevli asliye hukuk mahkemesinde açılacağı hükme bağlanmıştır. Aynı Kanunun ( b ) fıkrasında ise ad ve soyada dair düzenleme bulunmaktadır. Davacının talebinin çekişmesiz yargı kapsamında olmadığı, adı geçen Kanun maddeleri uyarınca Asliye Hukuk Mahkemesinde görüleceği Yargıtay Hukuk Genel Kurulunun 25.12.2013 gün ve 2013/18-464 E. - 2013/1698 K. sayılı ilâmıyla da benimsenmiştir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/7946).
+
+### Ticari Elektrik Aboneliği – Görevli Asliye Ticaret Mahkemesi
+
+Dava, elektrik abonelerinden tahsil edilen kayıp-kaçak bedelinin istirdatı istemine ilişkindir. Dava, 6335 Sayılı yasa ile değişik 6102 Sayılı TTK'nın 4., 5. maddelerinin yürürlüğe girdiği 01.07.2012 tarihinden sonra Asliye Hukuk Mahkemesinde açılmıştır.
+
+Dosyadaki bilgi ve belgelerden anlaşıldığı üzere, davaya konu abonelik ticarethane aboneliğine dair olduğundan uyuşmazlık; ticari mahiyette olup, davanın çözümü Asliye Ticaret Mahkemesi'nin görevi içerisindedir. Hal böyle olunca, mahkemece; uyuşmazlığın çözümünde Asliye Ticaret Mahkemesi'nin görevli olduğu gözetilerek, o yerde ayrı bir Asliye Ticaret Mahkemesi varsa görevsizlik kararı verilmesi, yok ise davaya Asliye Ticaret Mahkemesi sıfatıyla bakılacağına karar verilerek, Asliye Ticaret Mahkemesi sıfatıyla davaya bakılması gerekirken, yanılgılı değerlendirme sonucu yazılı şekilde Asliye Hukuk Mahkemesi olarak işin esasına girilerek hüküm kurulması usul ve yasaya aykırı olup bozmayı gerektirmiştir (Yargıtay 3. Hukuk Dairesi - Karar: 2016/15866).
+
+### Sigortacının Halefiyet Nedeniyle Açtığı Davada Asliye Hukuk Mahkemesi Görevlidir
+
+Buna göre, sigortalının halefi olan davacı, davalıların kusuru sebebiyle oluşan zararın rücuan tahsilini talep etmekte olup, bu şekilde uyuşmazlığın her ne kadar görevsizlik kararı veren mahkemeler arasında asliye hukuk mahkemesi bulunmamakta ise de HMK'nın 114. maddesi gereğince görev dava şartı olup, her aşamada re'sen gözetileceğinden, merci incelenmesinde doğru merciye davanın yönlendirilmesinin kamu düzeninden olduğu dikkate alınarak uyuşmazlığın asliye hukuk mahkemesinde görülerek sonuçlandırılması gerekmektedir. Buna göre, sigortalının halefi olan davacı, davalıların kusuru sebebiyle oluşan zararın rücuan tahsilini talep etmekte olup, bu şekilde uyuşmazlığın her ne kadar görevsizlik kararı veren mahkemeler arasında asliye hukuk mahkemesi bulunmamakta ise de HMK'nın 114. maddesi gereğince görev dava şartı olup, her aşamada re'sen gözetileceğinden, merci incelenmesinde doğru merciye davanın yönlendirilmesinin kamu düzeninden olduğu dikkate alınarak uyuşmazlığın asliye hukuk mahkemesinde görülerek sonuçlandırılması gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/6993).
+
+### Dükkanların Teslim Edilmemesi Nedeniyle Gelir Kaybı – Görevli Asliye Hukuk Mahkemesi
+
+Antalya 10. Asliye Hukuk Mahkemesi taraflar arasındaki ihtilafın 6502 Sayılı TKHK kapsamında kaldığı gerekçesiyle görevsizlik kararı vermiştir. Antalya 1. Tüketici Mahkemesi uyuşmazlık konusu bağımsız bölümün konut veya tatil amaçlı taşınmaz niteliğinde olmayıp, depolu dükkan olduğu ve 6502 Sayılı Kanun kapsamında mal vasfında olmayıp davacının yasa kapsamında tüketici konumunda bulunmadığı gerekçesiyle görevsizlik kararı vermiştir.
+
+Dosya kapsamından; davacı vekilinin, davacının davalı taraftan daire satın aldığı, ancak davalı yüklenicinin sözleşmede belirtilen tarihte bağımsız bölümü teslim etmediği, gecikme olması ve oturma izni alınamaması sebebiyle taşınmazın kiraya da verilemediği, bu sebeplerle davacının uğradığı gelir kaybının tahsili amacıyla yapılan icra takibine davalının itiraz ettiğini ileri sürerek itirazın iptalini talep ettiği anlaşılmıştır.
+
+Somut olayda, davacı, davalı ile aralarında taşınmaz alım satımına dair düzenlenen sözleşme gereğince taşınmazların zamanında teslim edilmediği iddiasıyla, uğradığı gelir kaybının tazminini talep ettiği ve tüketici sıfatı taşımayan davacının, tacir de olmadığı anlaşılmaktadır. Buna göre uyuşmazlığın, genel hükümler çerçevesinde asliye hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/6743).
+
+### Aile Mahkemesi ile Asliye Hukuk Mahkemesi Arasındaki Fark
+
+Davacılar, haksız eylemi gerçekleştiren davalı küçük aleyhine, cismani zarar sebebiyle uğradıkları maddi ve manevi zararın tazmini istemiyle dava açmışlardır. Haksız fiili gerçekleştiren davalının dava tarihinde reşit olmaması sebebiyle velayeti altında bulunduğu anne-babasının velayeten davaya dahil edilmiş oldukları, davacılarının aile başkanının kusursuz sorumluluğuna ilişkin, mahkemeye sundukları dava ve ıslah dilekçelerinde ayrıca bir taleplerinin olmadığı anlaşıldığından, davanın haksız fiilden kaynaklandığı ve Aile Mahkemelerinin Kuruluş, Görev ve Yargılama Usûllerine Dair 4787 Sayılı Kanun'un 4/1. maddesinde yer alan aile hukukundan kaynaklanan dava ve işlerden olmadığı anlaşıldığından, uyuşmazlığın asliye hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/6725).
+
+### Kira Sözleşmesinde Sulh Hukuk Mahkemesi ile Asliye Hukuk Mahkemesinin Görevi
+
+Dava, kira sözleşmesinin, irade sakatlığına dayalı olarak iptali istemine ilişkindir. Beylikova Sulh Hukuk mahkemesince, davanın, taraflar arasında düzenlenen sözleşmenin, irade fesadı sebebiyle kurulduğundan itibaren geçersizliğine yönelik olduğu gerekçesiyle görevsizlik kararı verilmiştir.
+6100 Sayılı HMK'nın 4/1-a maddesinde, kiralanan taşınmazların, 09.06.1932 tarihli ve 2004 Sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine dair hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalara, konuları ve değerlerine bakılmaksızın sulh hukuk mahkemelerinde bakılacağı hükmüne yer verilmiştir.
+
+Dosya kapsamından, davacı vekili, davalının müvekkilinin hile ile okuma yazma bilmemesinden faydalanarak müvekkiline ait taşınmazın az bir kira bedeli ile uzunca bir süre için kiraladığını ileri sürerek kira sözleşmesinin irade fesadı sebebiyle feshini istemiştir.
+6100 Sayılı Hukuk Muhakemeleri Kanunun 4. maddesinde düzenlendiği üzere, dava konusunun değer veya tutarına bakılmaksızın, kiralanan taşınmazların 09.06.1932 tarihli ve 2004 Sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine dair hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalara bakma görevinin sulh hukuk mahkemesine ait olduğu düzenlenmiş olup, davacı tarafın talebi, kira sözleşmesinin iptali olduğundan, HMK'nın 4/1. maddesi gereğince davaya bakma görevi dava konusunun değerine bakılmaksızın sulh hukuk mahkemesindir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/6241).
+
+### İhtisas Mahkemesi ile Asliye Ticaret Mahkemesi Arasında Görev Ayrımı
+
+Mahkemece tüm dosya kapsamına göre açılan tazminat davasının fikir ve sanat eserleri sahipliğinden kaynaklanan ticari nitelikte dava olduğu, m.4 gereğince davaya bakma görevinin Asliye Ticaret Mahkemesine ait olduğu, HSYK'nın 23.07.2015 gün ve 1157 sayılı kararı ile Gebze'de Asliye Ticaret Mahkemesi kurulup 07.09.2015 tarihinde faaliyete geçmiş olduğu, gerekçesiyle görevsizlik kararı verilmiştir. Kararı davalı İ... Ltd. Şti. vekili temyiz etmiştir.
+
+Dava, 5846 sayılı Fikir ve Sanat Eserleri Kanununa göre yazılım programının lisansız kullanımından dolayı tazminat istemine ilişkin olup, bu konudaki delillerin takdirinin ihtisas mahkemesine ait olacağı kuşkusuzdur.
+
+"5846 sayılı kanun ile 556 sayılı Kanun Hükmünde Kararnamelerden kaynaklanan hukuk davaları için ve Fikri ve Sınai Haklar Hukuk Mahkemesi kurulmayan yerlerde, bir ticaret mahkemesi varsa bu mahkemenin, birden fazla ticaret mahkemesi varsa eşit tevzi suretiyle ticaret mahkemelerinin, müstakil ticaret mahkemesi olmayıp, bir ve iki nolu asliye hukuk mahkemesi varsa 1 numaralı birden fazla asliye hukuk mahkemesi varsa 3 numaralı Asliye Hukuk Mahkemesinin görevli olduğuna" ilişkin Hakimler ve Savcılar Yüksek Kurulunun, 20.11.2003 tarih ve 537 sayılı kararından sonra, 556 sayılı KHK'nin, 22.06.2004 tarih ve 5194 sayılı Yasa ile değiştirilen hükmüne göre, bu Kanun Hükmünde Kararnamede öngörülen davalarda görevli mahkemenin ihtisas mahkemeleri olduğu, bu mahkemelerin tek hakimli olarak görev yapacağı hükme bağlanmıştır. Ayrıca, bu mahkemelerden hangilerinin ihtisas mahkemeleri olarak görevlendirileceğini ve bu mahkemelerin yargı çevresini Adalet Bakanlığı'nın teklifi üzerine Hakimler ve Savcılar Yüksek Kurulu'nun belirleyeceği düzenlenmiştir. Bu düzenlemeye uygun olarak, dava sırasında, Hakimler ve Savcılar Yüksek Kurulunun, 16.09.2004 tarih ve 396 sayılı kararı ve daha sonra alınan ve halen yürürlükte olan 24.03.2005 tarih ve 188 sayılı kararı ile Hükmünde Kararnamelere ilişkin davalar bakımından, Fikri ve Sınai Haklar Hukuk Mahkemesi kurulmayan yerlerde, Asliye Ticaret Mahkemesi kurulmuş olup olmamasına bakılmaksızın, bir ya da iki asliye hukuk mahkemesi olan yerlerde bir numaralı asliye hukuk mahkemesi, ikiden fazla asliye hukuk mahkemesi olan yerlerde 3 numaralı asliye hukuk mahkemesi görevlendirilmiş, bu mahkemelerin yargı çevresinin adli yargı adalet komisyonlarının merkez ve mülhakatları olan ilçeleri kapsadığı da belirtilmiştir. Mahkemelerin görevi kanunla düzenlenmiş olup, görev kuralları, kamu düzenine ilişkindir ve temyiz dahil, yargılamanın her aşamasında resen olup, görev kuralları, kamu düzenine ilişkindir ve temyiz dahil, yargılamanın her aşamasında resen dikkate alınır, İhtisas Mahkemeleri ile diğer hukuk mahkemeleri arasındaki ilişki, görev ilişkisidir. Bu durumda mahkemece, davanın esasına girilerek karar vermesi gerekirken Gebze Asliye Ticaret Mahkemesinin görevli olduğuna ilişkin hüküm tesisi doğru görülmemiştir (Yargıtay 11.Hukuk Dairesi - Karar: 2017/133).
+
+### Avukatlık Ücreti Talebi Halinde Asliye Hukuk Mahkemesi Görevlidir
+
+Dava, menfi tespit istemine ilişkindir. Mahkemece, tüketici mahkemesinin görevli olduğu gerekçesiyle görevsizlik kararı verilmiş; hüküm, davacı vekili tarafından temyiz edilmiştir.
+
+Dosya kapsamından, davalının avukat olduğu ve takip ettiği bir davada dava dışı müvekkili ile davacının sulh oldukları, davalının avukatlık ücretini alamadığı, 1136 Sayılı Avukatlık Kanunu'nun 165. maddesine göre ödenmesi gereken vekalet ücretinden her iki tarafın da müteselsilen sorumlu olduğu kabul edildiğinden davalı tarafından davacı ve dava dışı müvekkil aleyhine icra takibi başlatıldığı, yapılan icra takibine davacının borçtan sorumlu olmadığını düşünerek takibe itiraz etmemesi üzerine takibin kesinleşerek, davacıya ait araç ve taşınmaza haciz konulduğu, bunun üzerine davacı tarafından borçlu olmadığının tespiti istemine dair bu davanın açıldığı anlaşılmaktadır.
+
+Dava, 1136 sayılı Avukatlık Kanunu 165. maddesine dayalı olarak yapılan icra takibine yönelik menfi tespit davası olup Asliye Hukuk Mahkemesi görevlidir. Bu sebeple davaya tüketici mahkemesinde değil, genel mahkemede bakılması gerekir. Yerel mahkemece açıklanan yönler gözetilmeden, uyuşmazlığın genel hükümler uyarınca ve asliye hukuk mahkemesi tarafından çözümlenmesi gerektiği halde işin esasının incelenmeksizin görevsizlik kararı verilmesi usul ve yasaya uygun düşmediğinden kararın bozulması gerekmiştir (Yargıtay 4. Hukuk Dairesi - Karar: 2017/80).
+
+### Rücu Alacağının Tahsilinde Asliye Hukuk Mahkemesi Görevlidir
+
+Dava, davacının dava dışı E.S.'ye tedavi masrafı olarak ödediği 2307 Liranın yasal faizi ile davalı Kurumdan tahsili istemine ilişkindir.
+
+İş Mahkemeleri 5521 Sayılı Kanun ile kurulmuş olan istisnai nitelikteki özel mahkemelerdir. Yasal düzenleme 5521 Sayılı Yasa'nın 1.maddesidir. Anılan maddede; işçiyle iş veren veya işveren vekili arasında iş aktinden veya İş Kanununa dayanan her türlü hak iddialarından doğan hukuk uyuşmazlıklarının İş Mahkemelerinde çözümleneceği hükmü öngörülmüştür. Maddede belirtildiği üzere, İş Mahkemesi'nin görevli olması için şu iki unsurun birlikte gerçekleşmesi koşuldur. a )Uyuşmazlığın tarafları işçi ve işveren ( ya da işveren vekili ) olmalıdır. b )Uyuşmazlık iş sözleşmesinden veya İş Kanunundan kaynaklanmalıdır. Somut olayda, davacı şirketinin davalı Kurumdan 46 FH 566 plakalı aracın karıştığı kaza sonrasında dava dışı E.S. için ödenen tedavi giderinin tahsilini talep ettiği anlaşılmaktadır. Davacı ile davalı Kurum arasındaki uyuşmazlığın çözüm yerinin, gerek 5521 Sayılı İş Mahkemeleri Kanunu ve gerekse İş Kanunu 1.maddeleri uyarınca İş Mahkemeleri değil Genel Mahkemeler olduğu açıktır.
+
+Mahkemece, bu maddi ve hukuki olgular göz önünde tutulmaksızın uyuşmazlığın genel hükümlere göre Asliye Hukuk Mahkemesi'nin görev alanına girdiğinden dava dilekçesinin görev yönünden reddine karar verilmesi gerekirken, işin esasına girilerek yazılı şekilde karar verilmesi usul ve yasaya aykırı olup, bozma nedenidir (Yargıtay 21. Hukuk Dairesi - Karar: 2016/12413).
+
+### Asliye Hukuk Mahkemesi ile Asliye Ticaret Mahkemesi Arasındaki Fark Nedir?
+
+Davacı, davalı kurum ile arasında 2013 yılında hizmet alım sözleşmesi imzalandığını, sözleşmedeki tüm edimlerini yerine getirdiğini ancak hizmet bedelinin ödenmediğini ileri sürerek itirazın iptali ile takibin anapara ve cezai şart açısından devamına, davalının asıl alacağın % 20 sinden az olmamak üzere icra inkar tazminatı ödemesine karar verilmesini istemiştir. Davalı, davanın reddini istemiştir. Mahkemece, dava tarihinden önce yapılan ödeme sebebiyle davanın esası hakkında karar verilmesine yer olmadığına karar verilmiş; hüküm, davacı tarafından temyiz edilmiştir. 6102 Sayılı Türk Ticaret Kanunu'nun 5/3 fıkrası uyarınca dava tarihi itibariyle Asliye Hukuk Mahkemesi ile Asliye Ticaret Mahkemesi arasındaki ilişki görev ilişkisi olup, somut olayda uyuşmazlık, hizmet sözleşmesinden kaynaklanan alacak istemine ilişkindir. Davalı, tacir olmadığı gibi eldeki davada Ticaret Kanununda düzenlenen mutlak ticari davalardan değildir. Hal böyle olunca davaya bakmaya ticaret mahkemesi değil asliye hukuk mahkemesi görevlidir. Görevle ilgili düzenlemeler kamu düzenine dair olup, taraflar ileri sürmese dahi yargılamanın her aşamasında re'sen gözetilir. O halde mahkemece, davaya bakma görevinin Asliye Hukuk Mahkemesine ait olduğundan bahisle görevsizlik kararı verilmesi gerekirken davanın esasına girilerek karar verilmiş olması usul ve yasaya aykırı olup bozmayı gerektirir (Yargıtay 13. Hukuk Dairesi - Karar: 2017/4152).
+
+Bilindiği gibi asliye mahkemeleri, asliye hukuk ve asliye ticaret mahkemeleri olarak ikiye ayrılır. Asliye ticaret mahkemeleri, asliye hukuk mahkemesinin görevine giren ticari davaların çözümlendiği mahkemelerdir. Asliye Ticaret Mahkemesinin görevine giren işler dışında kalan tüm uyuşmazlıklar asliye hukuk mahkemesince çözümlenir. Dava tarihinde yürürlükte bulunan 6762 sayılı TTK'nın 4. maddesinde hangi davaların ticari dava olduğu sayılmıştır. Bundan başka, bir yerde ticaret mahkemesi varsa asliye hukuk mahkemesinin görevi içinde bulunan ve bu Kanunun 4. maddesi hükmünce ticari sayılan davalarla hususi hükümler uyarınca ticaret mahkemesinde görülecek diğer işlere asliye ticaret mahkemesinde bakılacağı düzenlenmiştir (TTK'nın 5/2). Asliye ticaret mahkemesi ile asliye hukuk mahkemesi arasındaki ilişki görev değil iş bölümü ilişkisidir. (TTK'nın 4 ve 5. maddeleri) Asliye ticaret mahkemesi kanunla belirtilmiş olan ticari davalara bakar. Asliye hukuk mahkemesi ise ticari davalar dışında kalan hukuk davalarına (dar anlamda hukuk davalarına) bakar (Yargıtay 20. Hukuk Dairesi 2019/2782 E. , 2019/4643 K.).
+
+### Kadastro Mahkemesi İle Asliye Hukuk Mahkemesi Arasında Görev Ayrımı
+
+3402 Sayılı Kadastro Kanununun 25/ son maddesi gereğince kadastro tutanağının düzenlendiği günden sonra doğan haklar ile mahkemeden yenilik doğurucu hüküm almayı gerektiren dava ile ilgili isteklerin incelenmesi kadastro mahkemesinin görevi dışındadır.
+
+Dosya kapsamından, davacının, kendisine ait olduğunu iddia ettiği ve dava sırasında yapılan arazi kadastrosu neticesinde 208 ada 2 parsel numaralarını alan taşınmazlara dair ecrimisil ve kal isteminin mahkemeden yenilik doğurucu hüküm almayı gerektirir istek olduğu ve bu tür davaların da kadastro mahkemesince incelenemeyeceği anlaşıldığından, davanın asliye hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/7525).
+
+### Kamulaştırma Neticesinde Oluşan Zararın Tazmini Görevli Asliye Hukuk Mahkemesi
+
+Dava, 2942 Sayılı Kamulaştırma Kanununun 12/6. maddesine dayanan baraj için yapılan kamulaştırma sonucu çevrenin sosyal, ekonomik ve yerleşme düzeninin bozulması nedeniyle, taşınmazdan ekonomik ve sosyal yönden yararlanma olanağı kalmadığı iddiasına ve Su Kirliliği Kontrolü Yönetmeliğinin 17,18. maddesine dayanan taşınmaz bedelinin tahsiline ilişkindir.
+
+Mahkemece, davaya bakmanın idari yargının görevi dahilinde olduğundan bahisle, yargı yolunun caiz olmaması sebebiyle dava dilekçesinin usulden reddine karar verilmiş; hüküm, davacılar vekilince temyiz edilmiştir. 2942 sayılı Kamulaştırma Kanununun 12. maddesinin 5. fıkrasındaki "baraj inşası için yapılan kamulaştırmalar sonucunda kamulaştırma sahasına mücavir taşınmaz mallar, çevrenin sosyal, ekonomik veya yerleşme düzeninin bozulması hallerinde sahiplerinin yazılı başvurusu üzerine kamulaştırmaya tabi tutulur" hükmü ile aynı maddenin son fıkrasındaki" Bu maddenin uygulanmasından doğacak anlaşmazlıklar adli yargıda çözümlenir" hükmü uyarınca açılan bu davanın taşınmazın bulunduğu yer Asliye Hukuk Mahkemesinde görüleceğinden işin esasına girilerek, taşınmazın; baraj inşası için yapılan, kamulaştırma sahasının mücavir alanında olup olmadığının; kamulaştırmanın kesinleşmesini takiben idarece ilan yapılıp yapılmadığı, yapılmış ise ilanın indirildiği günden itibaren taşınmaz mal sahibi tarafından bir yıl içerisinde kamulaştırma talebinde bulunup bulunmadığının incelenerek, sonucuna göre karar verilmesi gerekirken, yazılı şekilde görevsizlik kararı verilmesi, doğru görülmemiştir (Yargıtay 5. Hukuk Dairesi - Karar: 2017/572).
+
+### Elbirliği Mülkiyetini Paylı Mülkiyete Dönüştürme – Görevli Asliye Hukuk Mahkemesi
+
+Dava; elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi ve mirasçının hissedarlıktan çıkartılması istemine ilişkindir. 4721 Sayılı Türk Medenî Kanunun 644. maddesinde "Bir mirasçı, terekeye dahil malların tamamı veya bir kısmı üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi isteminde bulunduğu takdirde sulh hâkimi, diğer mirasçılara çağrıda bulunarak belirleyeceği süre içinde varsa itirazlarını bildirmeye davet eder.
+
+Elbirliği mülkiyetinin devamını haklı kılacak bir itiraz ileri sürülmediği veya mirasçılardan biri belirlenen süre içinde paylaşma davası açmadığı takdirde, istem konusu mal üzerindeki elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesine karar verilir. Terekeye dahil diğer hakların ve alacakların paylar oranında bölünmesi hususunda da yukarıdaki hükümler uygulanır." hükmüne yer verilmiştir. Somut olayda; dava elbirliği mülkiyetinin paylı mülkiyete dönüştürülmesi iddiasıyla açılmış olup mirasçılar arasında rızai taksim sözleşmesi imzalandığı ve bu sözlşemeye göre davalının hak talep etmeyeceği ileri sürülerek payının iptali talep edilmiş ve sulh hukuk mahkemesince davalının mirasçılıktan çıkarılması istemine yönelik tefrik kararı verildiğine göre malvarlığı hakkına dair olan davanın çözümünde asliye hukuk mahkemesi görevlidir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/7503).
+
+### Rehin Açığı – Menfi Tespit Davası – Görevli Asliye Hukuk Mahkemesi
+
+İpoteğin paraya çevrilmesi yoluyla başlatılan ilamlı takip sonucunda alınan rehin açığı belgesiyle ilamlı takip yapılabilir. Bu nitelikteki takip nedeniyle verilen rehin açığı belgesi takip hukuku açısından ilam niteliğinde olup içerisinde yazılı alacağın varlığı ve miktarı icra mahkemesince tartışılamaz ise de; borçlu dayanak belgedeki alacağın miktarını asliye hukuk mahkemesinde dava konusu yapmıştır. Bu durumda rehin açığı belgesinde yazılı olduğu kadar borcun bulunmadığı yönündeki bu dava, Asliye Hukuk Mahkemesi'ne açılan menfi tespit davası olup mahkemece incelenip karara bağlanması gerekir. Asliye Hukuk Mahkemesi'nce görevsizlik nedeniyle davanın usulden reddine karar verilmiş ise de; anılan bu karar temyiz edilmeksizin kesinleştiği için bağlayıcı değildir.
+
+İcra Mahkemesi'nce görevsizlik kararı verilmesi gerekirken işin esası incelenerek yazılı şekilde karar verilmesi doğru değildir (Yargıtay 8. Hukuk Dairesi - Karar: 2017/441).
+
+### Hizmet Alım Sözleşmesine Dayanan Dava Asliye Hukuk Mahkemesinde Görülür
+
+Mahkemece, taraflar arasındaki ilişkinin ticari nitelikte olduğu saptaması yapılıp Asliye Ticaret Mahkemesi'nin görevli olduğu gerekçesi ile görevsizlik kararı verilmiş; hüküm, davacı tarafından temyiz edilmiştir.
+
+Davacı Belediye ile davalılar arasında hizmet alım sözleşmesi imzalandığı ihtilafsız olup, davacı idare eldeki davada dava dışı işçilere ödediği bedelin davalılardan tahsilini istemektedir. Özel hukuk hükümlerine tabi olan ihtilafta, davacı idare tacir olmadığı gibi, yargılamaya konu olan davada Ticaret Kanununda belirtilen mutlak ticari dava niteliğinde değildir. Bu itibarla davanın görüm ve çözüm yerinin Asliye Hukuk Mahkemesi olduğunun kabulü zorunludur. Mahkemece, değinilen bu yön gözetilerek işin esasına girilmek suretiyle hasıl olacak sonuca uygun karar verilmesi gerekirken, yazılı şekilde görevsizlik kararı verilmiş olması usul ve yasaya aykırıdır. Bozmayı gerektirir (Yargıtay 13. Hukuk Dairesi - Karar: 2017/149).
+
+### Tereke Temsilcisinin Görevden Alınması Görevli Asliye Hukuk Mahkemesi
+
+Dava tereke temsilcisinin görevden alınmasına ilişkindir. Miras ortaklığı temsilcisi (MK m.640) özel kayyım niteliğindedir. Türk Medeni Kanununun uyarınca vasi tayininde usul kayyım (mümessil) için de uygulanır. Türk Medeni Kanununun gereğince vasinin sıfatına karşı yapılan itirazları veya vasinin ileri sürdüğü kaçınma sebeplerini (özürleri) inceleme görevi ile ilgili yasal hükümlerin mümessile yapılan itirazın ya da kaçınma sebeplerinin incelenmesinde de gözetilmesi zorunludur. Vesayet makamının itirazı ret etmesi halinde itirazı denetim makamının incelemesi gerekir. 4721 sayılı Türk Medeni Kanununun 397. maddesinde belirtilen denetim makamı görevi; Asliye Hukuk Mahkemesine aittir. (5133 S.K. md.2-3, TMK. Md.397/2)
+
+### Tapu İptal ve Tescil Davasın Asliye Hukuk Mahkemesinde Bakılır
+
+Dava, bağışlamadan rücu sebebine dayalı tapu iptal ve tescil, olmadığı takdirde genel hükümlere dayalı tapu iptal ve tescil, olmadığı takdirde aile emvalinin paylaşımı suretiyle tapu iptal ve tescil ve ecrimisil istemine ilişkindir.
+
+Asliye Hukuk Mahkemesi, davaya bakmaya aile mahkemesinin görevli olduğu gerekçesiyle görevsizlik kararı vermiştir. Aile Mahkemesi ise davanın, BK'nın 295. maddesinde düzenlenen bağışlamadan dönmeye dayalı tapu iptali ve tescil davası olduğu gerekçesi ile karşı görevsizlik yönünde hüküm kurmuştur.
+
+Somut olayda davacı, davaya konu taşınmazın evlilik birliği içerisindeyken kendisinin ...'da olması sebebiyle ücretinin kendisince verilmesine rağmen davalı adına tescil edildiğini, tarafların kesinleşmiş mahkeme kararı gereğince boşandığını, boşanmakla bağışlamadan rücu koşullarının oluştuğunu belirterek öncelikle bu sebeple, olmadığı takdirde genel hükümler uyarınca, bu da olmadığı takdirde aile emvalinin paylaşımı suretiyle taşınmazın tapusunun iptali ile ecrimisil talebinde bulunmuştur. Somut olayda uyuşmazlığın bağışlamadan rücu sebebine dayanan tapu iptal ve tescil istemine dair olduğu, TMK'nın aile ve mal rejimine dair hükümlerin tatbikini gerektiren bir husus bulunmadığı anlaşıldığından davada görevli mahkeme aile mahkemesi değil genel mahkemelerdir. Bu durumda uyuşmazlığın asliye hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/8016).
+
+### Soyadının Düzeltilmesi Davası Asliye Hukuk Mahkemesinde Açılır
+
+Davacı 23.10.2015 tarihli dilekçe ile; nüfus kayıtlarındaki soyisminin düzeltilmesi istemiyle asliye hukuk mahkemesinde dava açmıştır.Asliye Hukuk Mahkemesi; "... davacının evli ve çoçukları bulunduğundan kendi soyadının değişmesi halinde eşi ve çocuklarının da soyadının değişmesi ihtimali olduğundan davaya bakma görevinin aile mahkemesine ait olduğu..." gerekçesiyle görevsizlik kararı vermiş, temyiz edilmeksizin kesinleşmiştir. Aile Mahkemesi ise; "... ad ve soyad değiştirilmesine dair davalara bakma görevinin Nüfus Hizmetleri Kanunun uyarınca asliye hukuk mahkemesine ait bulunduğu..." gerekçesiyle görevsizlik kararı vermiş, temyiz edilmeksizin kesinleşmiştir.
+
+İsmin ve soyismin değiştirilmesi istemi, 6100 Sayılı HMK'nın 382/2-a-2 de çekişmesiz yargı işi olarak düzenlenmiştir. 383. maddeye göre çekişmesiz yargı işinde görevli mahkeme aksine bir düzenleme olmadığı surette sulh hukuk mahkemesidir.
+
+4721 Sayılı Türk Medenî Kanununun uyarınca, haklı bir sebebe dayanmak kaydıyla, adın değiştirilmesi hâkimden istenebilir. Diğer yandan 5490 Sayılı Nüfus Hizmetleri Kanununun 36. maddesinin 1/a bendinde 1/a bendinde, nüfus kayıtlarına dair düzeltme davalarının düzeltmeyi isteyen şahısların yerleşim yeri adresinin bulunduğu yerdeki görevli asliye hukuk mahkemesinde açılacağı hükme bağlanmıştır. Aynı Kanunun ( b ) fıkrasında ise ad ve soyada dair düzenleme bulunmaktadır. Davacının talebinin çekişmesiz yargı kapsamında olmadığı, adı geçen Kanun maddeleri uyarınca Asliye Hukuk Mahkemesinde görüleceği Yargıtay Hukuk Genel Kurulunun 25.12.2013 gün ve 2013/18-464 E. - 2013/1698 K. sayılı ilâmıyla da benimsenmiştir. Bu durumda 5490 Sayılı Kanun'un 36/1-a-b maddesi kapsamında olan uyuşmazlığın 5490 Sayılı Nüfus Hizmetleri Kanununun 36. maddesi uyarınca genel hükümlere göre Asliye Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/7946).
+
+### Asliye Hukuk Mahkemesi Yetki İtirazı
+
+Yetki, bir davanın hangi yerdeki mahkeme tarafından görüleceğini ifade eder ve mahkemelerin yetkileri kanunla düzenlenir. Yetki kuralları, bütün davalar açısından uygulanan yetki kuralları olan genel yetki kuralları ve yalnız belli davalar için uygulanan yetki kuralları olan özel yetki kuralları olarak ikiye ayrılmaktadır. Bundan başka bazı kanun hükümlerinde bazı davaların mutlaka belli bir yerdeki mahkemelerde açılması öngörülmüştür ki bu halde kesin yetkiden söz edilir (Örneğin 6100 sayılı HMK'nın 12. maddesi gereğince taşınmazın aynına ilişkin davalar, taşınmazın bulunduğu yer mahkemesinde görülmek zorundadır.). Kesin olmayan yetki hallerinde ise, davacının birden fazla mahkemeye başvurma konusunda seçimlik hakkı vardır. Yetkinin kesin olmadığı hallerde, tarafların yetki sözleşmesi ile başka bir mahkemeyi belirlemeleri mümkündür. Kesin olmayan yetki halinde yetki itirazı 6100 sayılı HMK'nın 116/1-a, 19/2 maddesi gereğince esasa cevap süresi içerisinde ilk itiraz olarak ileri sürülebilir. Kesin yetkinin sözkonusu olmadığı hallerde taraflar bir mahkemeyi yetki sözleşmesi ile ( 17. madde) yetkili kılabileceği gibi, bir tarafın yetkisiz mahkemede açtığı davaya karşı taraf itiraz etmeyerek ( 19/4) yetkisiz mahkemeyi yetkili hale getirebilecektir.
+
+Bu açıklamalar ışığında somut olayımıza gelince; öncelikle ve önemle belirtmek gerekir ki bu davada söz konusu olan yetki, kesin ya da münhasır yetki hali değildir. Bir başka deyişle kamu düzeninin ilgilendiren bir husus olmadığından re'sen nazara alınması gereken bir yetki hali söz konusu olmayıp, taraflarca ileri sürülmesi halinde değerlendirilmesi gereken bir yetki hali söz konusudur. Dava, öncelikle 28.01.2015 tarihinde Büyükçekmece 1. Asliye Hukuk Mahkemesi'ne açılmış, mahkemece yapılan yargılama sonucunda davalı tarafın ileri sürdüğü itirazı usul ve yasaya uygun bulunarak mahkemenin 08.10.2015 tarih, 2015/59 Esas, 2015/432 Karar sayılı kararı ile davanın usulden reddine dosyanın görevli ve yetkili İstanbul Tüketici Mahkemesi'ne gönderilmesine karar verilmiş ve bu karar taraflarca temyiz edilmemesi nedeniyle 14.12.2015 tarihinde kesinleşmiş ve dosya İstanbul Tüketici Mahkemesine gönderilmiş, bu mahkemece yapılan yargılama sonucunda ilk mahkeme yetki itirazı ileri sürülmediği ve yetkisizliği de içerecek şekilde karar verilmesi mümkün olmadığı gerekçesi ile 31.12.2015 tarih, 2015/2395 Esas, 2015/2210 Karar sayılı kararı ile Mahkemenin yetkisizliğine ve Bakırköy Tüketici Mahkemesi'ne dosyanın gönderilmesine karar verilmiştir. Büyükçekmece 1. Asliye Hukuk Mahkemesi'nin kararı taraflarca temyiz edilmeyerek kesinleşmiş bulunduğundan taraflar artık bu davanın İstanbul Mahkemesi'nde görülmesi konusunda yetkili mahkemeyi belirlemiştir. Bir başka deyişle taraflar verilen kararı temyiz etmeyerek yetkili olmayan İstanbul Mahkemelerini yetkili duruma getirmişlerdir. 6100 sayılı HMK'nın 19/4 maddesinde yer alan "Yetkinin kesin olmadığı davalarda, davalı, süresi içinde ve usulüne uygun olarak yetki itirazında bulunmazsa, davanın açıldığı mahkeme yetkili hale gelir." hükmü süresinde ve usulüne uygun bir itirazın bulunmadığı durumları düzenlemektedir. Somut olayımızda bu konuda karar verme yetkisini haiz mahkemece, usulüne uygun olarak yapılmış bir yetki itirazı var kabul edilerek yetkisizlik kararı verilmiş ve taraflar, bu karara karşı kanun yoluna başvurmayarak, bu karara rıza göstererek (bir anlamda zımnî bir yetki sözleşmesi yapmak suretiyle) davanın İstanbul Mahkemelerinde görülmesini istemişler ve dosyada bu mahkemeye intikal etmiş bulunmaktadır. Farklı düşünce ile yeniden yetkisizlik kararı verilmesi mümkün değildir.
+
+Mahkemece yapılması gereken iş; davanın ve bu davada ki mahkemenin yetkisinin niteliği gözetilerek, mahkemenin usulüne uygun kabul ederek verdiği ve taraflarca temyiz edilmeyerek kesinleşen yetkiye ilişkin karara uygun şekilde usulî işlemleri tamamlanarak önüne gelen davada esasa girmekten ibaret olmalıdır. Aksi düşüncelerle verilen karar usul ve yasaya aykırı olmuş, bozulması uygun bulunmuştur (Yargıtay 15. Hukuk Dairesi - Karar: 2017/187).
+
+### Fikri ve Sınai Haklar Hukuk Mahkemesi Sıfatıyla Asliye Hukuk Mahkemesinin Görevi
+
+Davacı vekili; müvekkili tarafından tasarlanan ve faydalı model belgesiyle korunan "Yalıtım odası" buluşunun davalılar tarafından haksız olarak kullanıldığını ve haksız kazanç elde edildiğini, buluşu kullanırken müvekkilinden izin alınmadığı gibi davalılar tarafından kendi buluşlarıymış gibi piyasaya arz edildiğini ileri sürerek 551 sayılı KHK'nın gereğince tecavüzün tespiti, durdurulması, tecavüzün men'i ile zarara uğradığı iddiasıyla maddi tazminata hükmedilmesini talep ve dava etmiştir. Davalı Vodafone Telekominikasyon A.Ş. vekili ve davalı M... Sistem Çözümleri Servis ve Tic. Ltd. Şti. vekili; ayrı ayrı haksız iddialara dayalı davanın reddini istemiştir.
+
+Mahkemece tüm dosya kapsamına göre; görülen tazminat davasının ticari niteliği bulunduğu davaya bakma görevinin asliye ticaret mahkemesine ait olduğu, HSYK'nın 23.07.2015 gün ve 1157 sayılı kararı ile Gebze'de Asliye Ticaret Mahkemesi kurulduğu gerekçesiyle mahkemenin görevine ilişkin dava şartı yokluğu nedeniyle HMK'nın 114/1-c, 115/2 maddeleri gereğince davanın usulden reddine, m. 20 uyarınca, süresi içerisinde başvurulması halinde dosyanın görevli Gebze Asliye Ticaret Mahkemesi'ne gönderilmesine karar verilmiştir. Kararı, davalı Vodafone Telekominikasyon A.Ş. vekili temyiz etmiştir.
+
+Dava, faydalı model belgesi ile korunan buluşun haksız kullanımı nedeniyle açılmış tecavüzün tespiti, durdurulması, maddi ve manevi tazminat istemine ilişkin olup, uyuşmazlığın bu niteliğine göre 551 sayılı KHK'nın, 22.06.2004 tarih ve 5194 sayılı Yasa ile değiştirilen 146. maddesi hükmü uyarınca davaya bakma görevi fikri ve sınai haklar hukuk mahkemesine aittir. Hâkimler ve Savcılar Yüksek Kurulu'nun, 16.09.2004 tarih ve 396 sayılı kararı ve daha sonra alınan ve halen yürürlükte olan 24.03.2005 tarih ve 188 sayılı kararı ile anılan Kanun Hükmünde Kararname ile düzenlenen hususlardan kaynaklanan uyuşmazlıklara ilişkin davalar bakımından, fikri ve sınai haklar hukuk mahkemesi kurulmayan yerlerde, asliye ticaret mahkemesi kurulmuş olup olmamasına bakılmaksızın, bir ya da iki asliye hukuk mahkemesi olan yerlerde bir numaralı asliye hukuk mahkemesi, ikiden fazla asliye hukuk mahkemesi olan yerlerde 3 numaralı asliye hukuk mahkemesi görevlendirilmiş olup, bu mahkemelerin yargı çevresinin adli yargı adalet komisyonlarının merkez ve mülhakatları olan ilçeleri kapsadığı da belirtilmiştir. Bu durumda, davayı görüp sonuçlandırmaya Gebze 3 nolu Asliye Hukuk Mahkemesi görevli bulunduğundan, mahkemece, işin esasına girilerek yargılamaya devam edilmesi gerekirken, yazılı gerekçelerle davanın görev yönünden usulden reddi doğru olmamış, bozmayı gerektirmiştir (Yargıtay 11. Hukuk Dairesi - Karar: 2016/7308).
+
+### Yabancı Bayraklı Gemide İş Akdinde Görevli Asliye Hukuk Mahkemesidir
+
+Dava, yabancı bayraklı gemi çalışanının hizmet sözleşmesinden kaynaklanan alacak istemine ilişkin olup, mahkemece İş Mahkemelerinin görevli olduğu gerekçesiyle görev yönünden davanın reddine karar verilmiştir. Ancak; hizmetin ifa edildiği geminin yabancı bayraklı olması nedeniyle uyuşmazlık, Türk bayraklı gemilerde bir hizmet akdi ile yapılan çalışmaları düzenleyen 854 sayılı Deniz İş Kanunu'nun 1. maddesi kapsamı dışında kalmaktadır. Bu durumda mahkemece, taraflar arasındaki temel ilişkinin hizmet akdinden kaynaklanıp, uygulanacak hükümlerin de hizmet sözleşmesine ilişkin hükümler olduğu, uyuşmazlığın Türk Ticaret Kanunu'nda öngörülen hususlardan da doğmadığı ve davacının alacaklarının hükümlerine göre tespiti gerektiği gözönüne alındığında davaya Asliye Hukuk Mahkemesinde bakılması gerekmekle görevsizlik kararı vermek gerekirken yazılı olduğu şekilde karar verilmesi doğru olmamış bozmayı gerektirmiştir (Yargıtay 11. Hukuk Dairesi - Karar: 2016/7310).
+
+### Haksız Fiil Tazminat Davası Asliye Hukuk Mahkemesinde Açılır
+
+Dava, haksız fiil nedeni ile tazminat istemine ilişkindir. Mahkemece, davanın yargı yolu nedeni ile reddine karar verilmiş; hüküm, davacı tarafından temyiz edilmiştir.
+
+Davacı, tekniker olarak çalıştığını, 2001-2013 yılları arasında şoför olarak görev yaptığı dönemde birçok defa çeşitli dönemlerde valilik yazı işleri müdürlüğünde geçici görevli olarak görevlendirildiğini, vali yardımcılarına makam şoförlüğü yaptığını, vali yardımcısının talimatıyla sosyal yardımlaşma ve dayanışma vakfından adına 00 TL avans çıkarıldığını ve kendisinin teslim aldığını, 5 günlük görev sonunda 00 TL harcandığını, kalan 00 TL'yi vakıf müdürüne teslim ettiğini, 3 yıl geçtikten sonra vakıf müdürü hakkında soruşturma başlatıldığını, kendisinin ifadeye çağrıldığını, iade ettiği avans paranın kayıtlarda görünmediğini ve kendisinden iade makbuzunun sorulduğunu, 3 yıl süre geçtiği için makbuzu bulamadığını, il idare kurulu tarafından hakkında dolandırıcılıktan suç duyurusunda bulunulduğunu; fakat takipsizlik kararı verildiğini, il idare kurulu raporunun el altından basına sızdırılarak, basın yayın yoluyla tüm kamuoyuna olayın duyurulduğunu, haysiyet ve şerefinin ayaklar altına alındığını belirterek manevi tazminat isteminde bulunmuştur.
+
+Davalı, davanın reddini savunmuştur. Mahkemece, davanın hizmet kusuruna dayandığı gerekçesiyle yargı yolu nedeni ile görevsizlik kararı verilmiştir.
+
+Davacı, haksız şikayet ve basına haber sızdırma nedenleri ile manevi tazminat isteminde bulunmuştur. Davacının bu istemleri haksız fiile dayandığından davanın yargılama yeri idari yargı olmayıp, adli yargıdır. Şu halde, davanın yargılama yeri genel görevli asliye hukuk mahkemesi olduğuna göre, işin esası incelenip varılacak sonuca göre bir karar verilmesi gerekirken, yerinde olmayan yazılı gerekçeyle yargı yolu bakımından görevsizlik kararı verilmiş olması usul ve yasaya uygun düşmediğinden kararın bozulması gerekmiştir (Yargıtay 4. Hukuk Dairesi - Karar: 2016/8287).
+
+### Eser Sözleşmesinde Görevli Asliye Hukuk Mahkemesidir
+
+Somut olayda; uyuşmazlık eser sözleşmesinden kaynaklanmakta olup, bu nevi davaların ticari dava olduğuna ya da asliye ticaret mahkemelerinde görüleceğine dair bir yasal düzenleme bulunmamaktadır. O halde, eldeki davanın ticari dava olarak kabulü ve asliye ticaret mahkemesinin uyuşmazlığı çözmesi için uyuşmazlık konusu işin her iki tarafın birden ticari işletmesi ile ilgili olması zorunludur. Bu durumda, eldeki davanın asliye ticaret mahkemesince görülüp karara bağlanabilmesi için uyuşmazlığın her iki tarafın ticari işletmesiyle ilgili olması ve bu bağlamda tarafların her ikisinin birden tacir olması zorunludur.
+
+Davacı şirketin uyuşmazlık konusu inşaat yapım işini ticari işletmesiyle ilgili olarak yaptığında tereddüt bulunmamaktadır. Buna karşılık davalı belediye uyuşmazlık konusu ihaleyi ticari işletmeleriyle ilgili olarak değil, kamu hizmetlerinin yürütülmesi amacıyla gerçekleştirmiştir. Kaldı ki, 6102 Sayılı Türk Ticaret Kanunu'nun 16/II. maddesi uyarınca belediyenin tacir olarak kabulü mümkün olmadığından, tacirin işlerinin ticari olması esasının da burada kullanılmasını imkansız hale getirmektedir.
+
+Yapılan açıklamalara göre, eldeki davaya bakma görevi 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 2. maddesi uyarınca asliye hukuk mahkemesine ait olup, görevli mahkeme asliye hukuk mahkemesi olduğundan, mahkemece işin esası incelenmeksizin davanın görev yönünden reddine karar verilerek talep halinde ..Asliye Hukuk Mahkemesi'ne gönderilmesi gerekirken, davanın niteliğinde ve görevli mahkemenin tayininde yanılgıya düşülerek yazılı şekilde karar verilmesi doğru olmamış, kararın bozulması gerekmiştir (Yargıtay 15. Hukuk Dairesi - Karar: 2016/3507).
+
+### Kamulaştırmasız El Atma Nedeniyle Doğan Zararda Görevli Mahkeme
+
+Davacı ilgili binada bulunan bir adet bağımsız bölümün kendisine ait olduğunu, davalı tarafından Bakanlar Kurulunun 05.07.2012 tarihli kararına dayanılarak 3.Asliye Hukuk Mahkemesi'nin 2013/138 D.İş sayılı dosyası kararıyla taşınmazının kamulaştırılmasına karar verildiğini, içinde ikamet ettiği taşınmazının davalı kurum tarafından 2010 yılı içerisinde fiili olarak boşaltılıp, afet riski altında yer alan bir sahada bulunduğundan daha sağlam yapıların tesis edilmesi için kamulaştırıldığını, evinin kamulaştırılmasından sonra zorunlu olarak ev kiraladığını, kiraladığı eve her ay ....TL kira ödediğini ileri sürerek, fazlaya dair hakları saklı kalmak kaydıyla ....TL kira alacağının davalıdan tahsili karar verilmesini istemiştir. Davalı, davanın konusunun idari karar ve eylemlerden doğan zararlar niteliğinde bulunduğunu, ilgili kurumun idari kurum olduğunu, bu davaların 2577 Sayılı idari yargılama usulü kanunun hükmünce idari yargı yerinde açılması gerektiğini savunarak görev itirazında bulunmuştur. Mahkemece, yargı yolu yönünden davanın usulden reddine, karar verilmiş; hüküm, davacı tarafça temyiz edilmiştir.
+
+Davacı maliki olduğu taşınmazın idarece acele kamulaştırılması sebebiyle kiralamak zorunda kaldığı ev için ödediği kira bedelinin tazmini istemiyle işbu davayı açmıştır. Mahkemece, "davanın idari kurumun idari hizmet kusuruna dair olduğu, davanın konusunun idari karar ve eylemlerden doğan zararlar niteliğinde bulunduğu, 6100 Sayılı HMK.nun 1 ve 2 Sayılı maddeleri gereğince ( .... )'nin idari kurum olduğu, bu davaların 2577 Sayılı İdari Yargılama Usulü Kanununun 2.maddesi hükmünce idari yargı yerinde açılması gerektiği" gerekçesiyle yargı yolu yönünden davanın reddine karar verilmiştir. Somut olayda 2942 Sayılı Kamulaştırma Kanununun 27.maddesine göre Bakanlar Kurulunca 05.07.2012 tarihinde, Van ili merkez ilçesi Şerefiye Mahallesinde yer alan ve ekli harita ile listede sınır ve koordinatları gösterilen sahadaki taşınmazların acele kamulaştırılmasına karar verildiği, bu kapsamda bir kısmı davacının mülkiyetinde olan taşınmaza dair olarak davalı idarenin Kamulaştırma kanunun 27. maddesi gereğince acele el koyma talebi üzerine 08.10.2013 tarihinde Van 3. Asliye Hukuk Mahkemesi'nin 2012/138 D. iş sayılı kararı ile bedel karşılığında el koyma kararı verildiği, davalı idarenin mahkeme kararına istinaden davacıya ait taşınmaza el attığı, dolayısıyla somut uyuşmazlıkta idari karar ve eylemlerden doğan bir zarar olmadığı ve idari yargıyı ilgilendiren idari bir işlem ve tasarruf bulunmadığı anlaşılmaktadır. Buna göre, uyuşmazlığın adli yargı mahkemelerinde çözümlenmesi gerekir. Hal böyle olunca, mahkemece işin esasına girilip taraf delilleri toplanarak sonucuna uygun bir karar verilmesi gerekirken, yanlış değerlendirme ile idari yargının görevli olduğu gerekçesiyle görev yönünden davanın reddine karar verilmiş olması usul ve yasaya aykırı olup, bozmayı gerektirir (Yargıtay 13. Hukuk Dairesi - Karar: 2016/23915).
+
+### Asliye Hukuk Mahkemesinin Görevsizlik Kararı Vermesi Halinde Yapılacaklar
+
+Görevsizlik kararı veren mahkeme, görevsizlik kararında dava dosyasının görevli mahkemeye gönderilmesine karar vermekle yetinir; dava dosyasını kendiliğinden görevli mahkemeye gönderemez. Dava dosyasının görevli mahkemeye gönderilebilmesi ve o mahkemede davaya devam edilebilmesi için taraflardan birinin, iki hafta içerisinde görevsizlik kararı veren mahkemeye başvurarak, dava dosyasının görevli mahkemeye gönderilmesini talep etmesi gerekir.
+
+Ancak, görevsizlik kararından sonra görevli mahkemede davaya devam edilebilmesi için öncelikle görevsizlik kararının kesinleşmesi gerektiği açıktır. Nitekim, HMK'nın 20/1. maddesinde iki haftalık başvuru süresinin görevsizlik kararı verildiği anda kesin ise bu tarihten, süresi içinde kanun yoluna başvurulmayarak kesinleşmiş ise kararın kesinleştiği tarihten; kanun yoluna başvurulmuşsa bu başvurunun reddi kararının tebliğ tarihinden itibaren başlayacağı hüküm altına alınmıştır.
+
+Somut olayda ise görevsizlik kararını veren Çardak Asliye Hukuk Mahkemesi tarafından görevsizlik kararı taraflardan sadece davacıya tebliğ edilmiş, davacının temyiz talebinde bulunmaması üzerine kararın 05.11.2012 tarihinde kesinleştiğine dair şerh verilerek dosya kendiliğinden Çardak Sulh Hukuk Mahkemesine göndermiştir.
+
+Görüleceği üzere görevsizlik kararı davalı ... Müdürlüğüne tebliğ edilmediği gibi taraflardan birinin gönderme talebi de aranmaksızın dosya görevli mahkemeye gönderilmiştir. Bu durumda ortada usulüne uygun şekilde kesinleşmiş bir görevsizlik kararının varlığından söz etme olanağı bulunmamaktadır. Görevsizlik kararı kesinleşmediğinden görevli mahkemede davaya devam edilmesi de mümkün değildir.
+
+O halde; öncelikle görevsizlik kararının davalıya usulüne uygun şekilde tebliğ edilerek kesinleşmesinin sağlaması için dosyanın görevsizlik kararını veren mahkemeye iadesi ile kararın anılan mahkemece kesinleştirilmesi ve taraflardan birinin talepte bulunması üzerine görevli mahkemeye gönderilmesi gerekmektedir. Tarafların, kararın kesinleşmesinden itibaren yasal süresi içerisinde gönderme talebinde bulunmaması hâlinde ise HMK'nın 20/1. maddesi uyarınca görevsizlik kararını veren mahkemece davanın açılmamış sayılmasına karar verileceğinden direnme kararının bu gerekçe ile bozulması gerektiği Kurul çoğunluğu tarafından benimsenmiştir (Hukuk Genel Kurulu 2017/1237 E. , 2019/453 K.).
+
+
+---
+
+## Hukukta İstinaf Kanun Yolu
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/medeni-hukuk/istinaf-ve-temyiz-nedir-hmk (son güncelleme: 2026-01-18)*
+
+İstinaf Nedir? HMK İstinaf Mahkemesine Başvuru Süresi, Hukukta İstinaf İncelemesi Şartları, HMK istinaf sebepleri/nedenleri Duruşmalı İstinaf İncelemesi, Esastan Red, Düzelterek Esastan Red, Onama, Bozma kararı
+
+
+## İstinaf Kanun Yolu Nedir? (HMK 341-360)
+
+**İstinaf,** ilk derece mahkemeleri tarafından verilen kararların hem olay yönünden hem de hukuki yönden üst dereceli mahkeme tarafından denetlenmesidir. İstinaf kanun yoluna başvurulduğunda hukuk davası üst dereceli İstinaf Mahkemesi tarafından ikinci kere incelenerek yerel mahkemenin kararı denetlenir.
+
+İstinaf bir kanun yolu olmakla birlikte temyiz kanun yolundan farklı olarak ilk derece mahkemesinin kararının denetlenmesi yanında aynı zamanda gerektiğinde yeni bir yargılama yapılması ve hüküm mahkemesi gibi karar verilmesi söz konusudur. İstinafın kapsamını Kanun'un 355. maddesi belirlemiş olup bu madde hükmü dikkate alındığında kamu düzenine aykırılık hâlleri dışında istinaf dilekçesinde belirtilen istinaf sebepleri ile sınırlı olarak inceleme yapılır; bu kapsamda istinaf sebebi ile bağlı kalınmak kaydı ile bu konudaki delillerin toplanması ve incelenmesi söz konusu olur. İlk derece mahkemesince yapılan yargılama tümüyle tekrarlanmayıp sadece yanlışlık ya da eksiklik tespit edilen noktalarda yargılama yapılarak deliller toplanıp değerlendirildikten sonra, kararın düzeltilmesi sağlanmaktadır. Nitekim Kanun'un 357. madde hükmüne göre, bölge adliye mahkemesince resen göz önünde tutulacaklar dışında, ilk derece mahkemesinde ileri sürülmeyen iddia ve savunmalar dinlenemez, yeni delillere dayanılamaz (HGK-K.2020/919).
+
+Temyiz, istinaf mahkemesi kararlarının hukuki denetim açısından incelenmesini amaçlayan bir kanun yoludur. İstinaf mahkemesi, tarafından istinaf incelemesi sonucunda verilen karara karşı, belli yasal koşullar varsa, temyiz incelemesi için Yargıtay’a temyiz başvurusu yapılabilir. Böylece üç dereceli bir inceleme sistemi kurularak hukuk veya ceza davası neticesinde verilen kararın yeterince denetlenmesi sağlanmak istenmiştir.
+
+"Ceza Davası İstinaf Kanun Yolu başvuru şartları Ceza Muhakemesi Kanunu'nda (CMK), bu yazımızın konusu olan hukuk davaları için istinaf kanun yolu başvuru şartları ise Hukuk Muhakemeleri Kanunu'nda (HMK) düzenlenmiştir.
+
+## İstinaf Mahkemesine Nasıl Başvurulur?
+
+Davasız yargılama olmaz ilkesi gereği, istinaf incelemesi için mutlaka bir istinaf başvurusu yapılmış olması gerekir. İlk derece mahkemesi bir hükmü kendiliğinden istinaf incelemesi için istinaf mahkemesine göndermez.
+
+**İstinaf başvurusu,**  kararı veren yerel mahkemeye bir  **istinaf dilekçesi** verilerek yapılabilir. Ayrıca, kararı veren mahkemenin katibine beyanda bulunularak da istinaf başvurusu yapılabilir. Kararı veren ilk derece mahkemesinin katibine beyanda bulunulduğunda, katip istinaf başvurusu talebini bir tutanağa bağlar ve tutanak hakim tarafından onaylanarak istinaf başvurusu alınmış olur.
+
+## İstinaf Başvuru Süresi Nedir?
+
+İstinaf başvuru süresinin başlaması için hükmün usulüne uygun bir şekilde taraflara tebliğ veya tefhim edilmesi gerekir. Usulüne uygun yapılmayan tefhim (duruşmada hazır olan tarafa kararı bildirme) veya tebliğ, istinaf başvuru süresinin işlemeye başlamasını engeller.
+
+Hukuk davası için istinaf başvuru süresi, hükmün usulüne uygun tebliğinden itibaren iki haftadır (HMK md. 345).
+
+## İstinaf ile Temyiz Arasındaki Farklar Nelerdir?
+
+İstinaf kanun yoluna başvurulduğunda, istinaf mahkemesi dava ile ilgili hem vakıaları el alır hem de hukuki denetim yapar. Yani, istinaf mahkemesi yerel mahkeme tarafından toplanmamış bir delili toplayabilir, yeniden tanık dinleyebilir veya keşif yapabilir. İstinaf mahkemesi, hukuk veya ceza dava dosyasında mevcut olan ve topladığı diğer tüm delillerle birlikte hukuki denetim de yaparak istinaf incelemesi netcesinde kararını verir.
+
+Temyiz incelemesi ise, Yargıtay’ın istinaf mahkemesi tarafından verilen kararı sadece hukuki yönden denetlemesi anlamına gelmektedir. Yargıtay, temyiz incelemesi ile kanunun olaya doğru uygulanıp uygulanmadığını denetler. Yani, yargıtay ilgili kanun maddelerinin dosyadaki delillerle oluşan maddi vakıaya yerinde uygulanıp uygulanmadığı yönünde hukuki bir denetim yapar. Yargıtay temyiz incelemesi aşamasında delil toplayamaz, tanık dinleyemez, keşif yapamaz.
+
+İstinaf mahkemesi, *istinaf incelemesi* ile yeniden bir karar verir. Teknik açıdan yerel mahkeme kararının bozulması veya onanması söz konusu değildir. İstinaf mahkemesi, hukuk veya ceza davasını yeniden ele alarak yeni bir karar verir. Temyiz incelemesi ile Yargıtay, istinaf mahkemesi kararını sadece hukuki yönden değerlendirerek onama veya bozma kararı verir. Yargıtay, istinaf mahkemesi tarafından verilen kararı bozduğunda, yeni bir karar verilmek üzere dava dosyasını geri gönderir.
+
+Hemen belirtmek gerekir ki, istinaf ve temyiz olağan kanun yolları olduğundan, hukuk davası için “karar düzeltme” kanun yolu ortadan kalkmıştır.
+
+### İstinaf Dilekçesinde İstinaf Nedenleri Gösterilmeli midir?
+
+6100 sayılı Hukuk Muhakemeleri Kanunu'na göre yapılan istinaf başvurularında istinaf nedenleri gösterilmelidir. İstinaf dilekçesinde istinaf sebepleri gösterildiği takdirde, istinaf mahkemesi istinaf incelemesini bu nedenlere hasrederek yapacaktır.
+
+İstinaf dilekçesinde hiçbir sebep gösterilmediği taktirde, istinaf mahkemesi sadece kamu düzenini ilgilendiren konularla sınırlı bir istinaf incelemesi yapacaktır (HMK m.355).
+
+HMK 342/2. maddesi istinaf dilekçesinde bulunması gereken hususları düzenlemektedir. Anılan maddenin e fıkrasına göre, istinaf yoluna başvuran taraf istinaf dilekçesinde, başvuru sebeplerini ve gerekçesini göstermek zorundadır. İstinaf yoluna başvuran vekili, istinaf dilekçesinde başvuru sebeplerini ve gerekçesini göstermemiştir. HMK 342/3. maddesi uyarınca, istinaf sebebi içermeyen dilekçeler, HMK 355. maddesine göre değerlendirilir. HMK 355. maddesi uyarınca istinaf incelemesi, istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılır. Ancak, kamu düzenine aykırılık varsa, resen dikkate alınır. HMK nun 352/1 maddesi ise, "Bölge Adliye Mahkemesi Hukuk Dairesince .... başvuru sebeplerinin veya gerekçesinin hiç gösterilmediği tespit edilen dosyalar hakkında öncelikle gerekli karar verilir" hükmünü düzenlemiştir. Bu kapsamda, ilk derece mahkemesince verilen kararda kamu düzenine aykırılık bulunmadığı, istinaf dilekçesinde istinaf sebeplerinin de bulunmadığı anlaşıldığından, HMK 352. maddesi gereğince istinaf başvurusunun usulden reddine karar verilmiştir (İstanbul BAM 13 HD-Karar:2018/738).
+
+
+Kural olarak istinaf sebeplerinin istinaf dilekçesinde gösterilmesi gerekir. Ancak istinaf süresi içinde verilecek bir ek dilekçe ile istinaf dilekçesindeki sebeplere ek sebepler ilave edilebilir. İstinaf süresi içinde yapılan ek talepler istinaf incelemesine konu edilmek zorundadır (Y9HD-K.2022/5207)
+
+### Hukuk Davası İçin İstinaf Başvuru Şartları
+
+Hukuk davaları için istinaf kanun yoluna başvuru şartları HMK md. 341’de düzenlenmiştir. İlk derece mahkemelerinden verilen nihai kararlar ile ihtiyati tedbir, ihtiyati haciz taleplerinin reddi ve bu taleplerin kabulü hâlinde, itiraz üzerine verilecek kararlara karşı istinaf yoluna başvurulabilir. Buna göre;
+
+- İlk derece hukuk mahkemelerinin, miktar veya değeri 50.000 TL'yi (2026 yılı için) geçmeyen malvarlığı davalarına ilişkin kararları kesindir. Ancak manevi tazminat davalarında verilen kararlara karşı, miktar veya değere bakılmaksızın istinaf kanun yoluna başvurulabilir (HMK md. 341/2).
+- Alacağın bir kısmının dava edilmiş olması durumunda 50.000 TL'lik kesinlik sınırı alacağın tamamına göre belirlenir (HMK md. 341/3).
+- Alacağın tamamının dava edilmiş olması durumunda, kararda asıl talebinin kabul edilmeyen bölümü 50.000 TL'yi geçmeyen taraf, istinaf kanun yoluna başvuramaz (HMK md. 341/4).
+- Kural olarak yerel mahkemelerin verdiği ara kararlara karşı istinaf kanun yoluna başvuru yapılamaz. Ancak, bu ara kararları da son karar aleyhine istinaf başvurusu yapılması halinde istinaf incelenmesinde hüküm ile birlikte denetlenir.
+- İhtiyati haciz, ihtiyati tedbir birer ara karar olmasına rağmen bu ara kararlara karşı istinaf kanun yoluna başvurulabilir (HMK md. 341/1).
+
+İstinaf dilekçesinde istinaf sebebi ve gerekçesi mutlaka açıklanmalıdır (HMK md. 342/2). Çünkü, istinaf incelemesi, istinaf dilekçesinde belirtilen sebeple sınırlı olmak üzere yapılır. İstinaf mahkemesi, ancak kamu düzenini ilgilendiren bir durum varsa kendiliğinden inceleme yapabilir (HMK md. 355). Kamu düzenine ilişkin hususları taraflar da her zaman ileri sürebilirler.
+
+İstinaf başvurusu süresini kaçıran veya istinafa başvuru hakkı olmayan taraf, diğer tarafın istinaf başvurusu üzerine, iki hafta içerisinde vereceği cevap dilekçesi ile katılma yoluyla istinaf başvurusu yapabilir. Ancak, istinaf yoluna asıl başvuran kişi bu isteminden vazgeçerse veya istinaf mahkemesi istinaf istemini esasa girmeden reddederse katılma yolu ile istinafa başvuran kişinin de talebi reddedilmiş olur (HMK md. 349).
+
+### İstinaf İncelemesinin Aşamaları
+
+Hukuk davası istinaf incelemesi şu aşamalardan oluşur:
+
+**1. Ön İnceleme Aşaması:** İstinaf mahkemesi, esasa girmeden önce hukuk dava dosyası üzerinden ön inceleme yapar. Ön inceleme neticesinde gerekli şartlar varsa davanın esası ile ilgili incelemeye geçecektir. İstinaf mahkemesi, aleyhine istinaf başvurusu yapılan kararın kesin bir karar olup olmadığı, başvurunun süresinde yapılıp yapılmadığı, dilekçenin asgari şartlara sahip olup olmadığı, harç ve giderlerinin usulüne uygun yatırılıp yatırılmadığını inceler. Kamu düzenini ilgilendiren nedenler yoksa, istinaf kanun yolu başvuru dilekçesinde istinaf sebebi ve gerekçesi gösterilmelidir. İstinaf mahkemesi, istinaf başvuru dilekçesinde istinaf sebebi ve gerekçesinin gösterip gösterilmediğini ön inceleme aşamasında değerlendirir. Şartlar yerine getirilmemişse istinaf başvurusu esasa girilmeden reddedilir. Eksiklik bulunmayan dosya istinaf incelemesine alınır (HMk md. 352).
+
+**2. Esastan İstinaf İncelemesi Aşaması:** İstinaf başvurusu yoluyla bölge adliyesi mahkemesine getirilen dosyanın ön inceleme aşaması tamamlandıktan sonra, inceleme mahkeme heyetince veya görevlendirilecek üye tarafından yapılabilir. İstinaf incelemesinin heyet veya üye tarafından yapılacağına, dava dosyasının özelliğine göre bölge adliye mahkemesi ilgili hukuk dairesi tarafından karar verilecektir (HMK md. 354). İstinaf mahkemesi, esastan incelemeyi kural olarak istinaf başvurusundaki sebeplere bağlı olarak yapar (HMK md. 354). Mahkeme, kamu düzenini ilgilendiren hallerde kendiliğinden de istinaf incelemesi yapabilir. İlk derece mahkemesinin açıkça hatalı ve yeniden duruşma yapılmasına gerek olmayan kararlarına ilişkin istinaf incelemesi dosya üzerinden duruşma açılmadan yapılır.
+
+**3. Esastan İstinaf İncelemesinde Duruşma:** Kural olarak her türlü istinaf incelemesi duruşmalı olarak yapılmalıdır (HMK md. 356). İstinaf başvurusu yapsın veya yapmasına davanın tarafı olan herkes duruşmaya davet edilerek savunma hakkı tanınmalıdır. Duruşma davetiyesine mazeretsiz gelmemenin sonuçları yazılmalı, tarafların mazereti varsa duruşma başka bir güne bırakılmalıdır. Ancak, uygulamada duruşmalı yapılan istinaf incelemesi oranı %5'i bile bulmamaktadır.
+
+### Hukuk Davası İstinaf İncelemesine Konu Olamayacak İşler
+
+HMK’nın kabul ettiği istinaf incelemesi sistemi “dar istinaf sistemi” olarak nitelendirilmektedir. Bu nedenle, istinaf mahkemesi istinaf incelemesi yaparken ilk derece mahkemesinin yaptığı gibi bir vakıa incelemesi ve yargılama yapamaz. Aşağıdaki hususlar hukuk davasının istinaf incelemesinde ileri sürülemez:
+
+#### 1. İstinaf Aşamasında Yeni Vakıalar İleri Sürülemez
+
+İlk derece mahkemesinde usulüne uygun bir şekilde ileri sürülmeyen vakıalar, istinaf incelemesini yapacak olan istinaf mahkemesi önünde de ileri sürülemez. Karşı tarafın muvafakati veya ıslah dahi yeni vakıa ileri sürme imkanı vermez. Yerel mahkemede ileri sürülmeyen vakıaların istinaf mahkemesinde ileri sürülememesi kuralı temel kural olmakla birlikte birkaç istisnası mevcuttur. Kendiliğinden araştırma ilkesinin uygulandığı davalarda (örneğin, aile mahkemesinin görev alanına giren davalarda), kamu düzenine ilişkin hususlar, ilk derecede yargılama yapılırken mevcut olmayıp istinaf aşamasında ortaya çıkan vakıalar, yerel mahkemede ileri sürülmese bile istinaf incelemesine konu edilebilirler.
+
+#### 2. İstinaf Aşamasında Yeni Deliller İleri Sürülemez
+
+Yerel mahkemedeki yargılamada dayanılmayan delillere istinaf mahkemesindeki incelemede de artık dayanılmaz. Ancak, yerel mahkemede usulüne uygun bir şekilde gösterilen, ama yerel mahkemece reddedilen delillere istinaf mahkemesindeki inceleme sırasında da dayanılabilir. Zorunlu haller (mücbir sebepler) nedeniyle yerel mahkemede gösterilemeyen delillere istinaf mahkemesindeki incelemede dayanılabilir.
+
+#### 3. İstinaf Aşamasında Islah, Davaya Müdahale, Birleştirme, Ayırma
+
+- Islah, ilk derece mahkemesinde ileri sürülmesi gereken usuli bir araçtır. İstinaf mahkemesinde ıslah yapılamaz.
+- İstinaf mahkemesinde karşı dava açılamaz, çünkü istinaf incelemesi açılmış bir dava ile ilgili yerel mahkemenin vermiş olduğu karar ile ilgilidir.
+- İlk derece mahkemesinde birleştirilmeyen davalar, istinaf mahkemesinde istinaf aşamasında birleştirilemez.
+- İstinaf mahkemesinin istinaf incelemesi sırasında “davaya müdahale” talebinde bulunulamaz.
+
+#### 4. İstinaf Aşamasında İddia ve Savunmanın Değiştirilmesi veya Genişletilmesi Yasaktır
+
+İstinaf kanun yolu, daha önce açılmış davanın sınırları çerçevesinde, üst derece mahkemesinde yeni bir yargılama yapılması imkanı verir. Taraflar, ilk derece mahkemesi aşamasında iddia ve savunmalarını ortaya koymuşlardır. Daha önce ileri sürülen iddia ve savunmaya ilişkin talep sonucu istinaf incelemesi sırasında değiştirilemez veya genişletilemez. İstinaf incelemesinde talep arttırılamaz, ancak talebin azaltılması mümkündür.
+
+### İstinaf Mahkemesinin İstinaf İncelemesi Neticesinde Verebileceği Kararlar
+
+İstinaf mahkemesi önüne gelen davanın tahkikatı yapıldıktan sonra karar verme aşamasına geçilecektir. İstinaf mahkemesine yapılan istinaf başvurusu hukuki niteliği itibariyle bir davadır. Ancak, istinaf başvurusu ile açılan bu davanın şartları ve sınırları HMK (Hukuk Muhakemeleri Kanunu) ile yukarıda açıkladığınız şekilde çizilmiştir. İstinaf mahkemesi, hüküm verirken hem önüne gelen uyuşmazlığı (davayı) çözmeye çalışmalı hem de üst bir mahkeme olması nedeniyle içtihat oluşturacak şekilde karar vermelidir.
+
+İstinaf mahkemesi istinaf incelemesi neticesinde şu kararları verebilir:
+
+#### 1. Yerel Mahkeme Kararının Esası İncelenmeden Kaldırılması ve Dosyanın Geri Gönderilmesi (HMK md. 353/1)
+
+İstinaf mahkemesi, usuli bazı nedenler varsa istinaf başvurusunun esasını incelemeden yerel mahkeme kararının kaldırılmasına ve yeniden yargılama yapılması için dosyanın yerel mahkemeye gönderilmesine karar verebilir (HMK md. 353/1-a).
+
+İstinaf mahkemesi şu usuli gerekçelerle istinaf başvurusunun esasını incelemeden gönderme kararı verebilir: a-) Haklı bir hakimin reddi sebebi ileri sürülmesine veya hakimin davaya bakmasının yasak olduğu hallerin bulunmasına rağmen hakimin davaya bakması, b-) Görev ve yetki sorunu bulunması, b-) Yerel mahkemenin usule aykırı olarak davanın veya karşı davanın açılmamış sayılmasına karar vermesi, c-) Usule aykırı olarak davaların birleştirilmesine, ayrılmasına veya mercii tayinine karar verilmesi. d-) Yerel mahkemenin tarafların gösterdiği delilleri hiç toplamamış veya hiç değerlendirmemiş olması.
+
+#### 2. Yerel Mahkeme Kararının Kaldırılması ve Kısmen veya Tamamen Davanın Kabulü Kararı (HMK md. 353/1-b)
+
+İstinaf mahkemesi, davanın esasına girerek yerel mahkeme kararını kaldırabilir. İstinaf mahkemesi, yerel mahkemenin verdiği kararı kaldırarak davanın kısmen veya tamamen kabulüne karar verebilir.
+
+Bu halde yerel mahkemenin davanın reddine karar vermiş olması gerekir. İstinaf mahkemesi, davanın haksız yere reddedildiği kanaatine varırsa, uyuşmazlığı esastan çözecek olan “davanın kısmen veya tamamen kabulüne” karar verir.
+
+#### 3. Yerel Mahkeme Kararının Kaldırılması ve Davanın Esastan Reddine Kararı (HMK md. 353/1-b-1)
+
+*İstinaf mahkemesi*, yaptığı esastan inceleme neticesinde yerel mahkemenin hukuka aykırı bir şekilde davacının davasını kabul ettiği kanaatine varırsa, yerel mahkeme kararını kaldırır ve davacının hukuk davasının esastan reddine karar verir.
+
+Bu halde yerel mahkeme, davacının açmış olduğu hukuk davasının ya kısmen ya da tamamen kabulüne karar vermiştir. İstinaf mahkemesi, bu kabul kararını kaldırarak davayı esastan reddetmektedir.
+
+#### 4. Yerel Mahkeme Kararının Kaldırılarak Düzeltilmesi (HMK md. 353/1-b-2)
+
+**İstinaf mahkemesi**, yerel mahkeme kararının usul ve esas açısından doğru olduğu kanaatine varıp da yeniden yargılama yapılmasına gerek olmayan hallerde veya hukuki gerekçede hata yapılmış olması halinde yerel mahkeme kararını tamamen kaldırmaz veya esastan yeni bir karar vermez. Bu halde istinaf mahkemesi, istinaf başvurusunu kabul ederek  yerel mahkeme kararını düzeltmekle yetinir.
+
+Düzelterek karar verme hususunda Yargıtay’ın içtihatlarında yer alan düzelterek onama halleri esas alınabilir. Örneğin, harç ve giderlerin noksan yazılması, maddi hatalar yapılması, basit hesap hataları yapılması, avukatlık ücretine hükmedilmemesi halinde istinaf mahkemesi yerel mahkeme kararındaki eksikliği gidererek hükme ekler, yani hükmü düzelterek karar verir.er, kanunun olaya uygulanmasında hata edilip de yeniden yargılama yapılmasına
+
+#### 5. İstinaf Başvurusunun Reddi Kararı (HMK md. 353/1-b-1)
+
+İstinaf mahkemesi, bir üst derece mahkemesi olarak yerel mahkeme kararını denetleyerek, kararın usul veya esas açısından hiçbir eksiklik içermediği kanaatine varırsa istinaf başvurusunu reddeder.
+
+İstinaf mahkemesi, ön incelemede de dikkate alarak davayı reddedebileceği hallerde, yani istinaf başvurusunun süresinde yapılmamış olması, istinaf başvurusu için gereken şartlar yerine getirilmemiş, başvuru sebepleri ve gerekçesi gösterilmemişse istinaf başvurusunu reddedebilir.
+
+### İstinaf Mahkemesinde İhtiyati Tedbir ve İhtiyati Haciz Kararı
+
+İhtiyati tedbir veya ihtiyati haciz geçici koruma kararlarıdır. İhtiyati tedbir veya ihtiyati haciz, davanın esasını çözmemekte sadece geçici olarak talep eden tarafa dava sonundaki hakkını alabilmesini temin amacıyla imkan tanımaktadır.
+
+Yerel mahkemenin verdiği ihtiyati tedbir veya ihtiyati haciz kararına karşı öncelikle kararı veren mahkemeye 7 gün içinde itiraz edilmelidir (HMK md. 394). Yerel mahkeme, itiraz başvurusu üzerine ihtiyati tedbir veya ihtiyati haciz kararını kaldırabilir. Ancak, yerel mahkeme itiraz başvurusunu reddettiğinde bu karara karşı istinaf mahkemesine istinaf başvurusu yapma hakkı doğar (HMK md.391/3). İhtiyati tedbir veya ihtiyati haciz kararlarına karşı, iki haftalık istinaf kanun yoluna süresi içinde istinaf mahkemesine istinaf başvurusu yapılabilir. İlk derece mahkemesinin ihtiyati tedbir veya ihtiyati haciz kararlarına karşı yapılan istinaf başvurusu öncelikli olarak incelenir ve istinaf mahkemesinin bu konuya dair verdiği karar kesindir.
+
+İstinaf mahkemesinden de ihtiyati tedbir veya ihtiyati haciz şeklindeki koruma kararları vermesi istenebilir. Daha önce yerel mahkemede ihtiyati tedbir veya ihtiyati haciz talep edilip edilmemesinin önemi yoktur, ilk kez istinaf mahkemesinden de geçici koruma kararı niteliğindeki bu kararlar talep edilebilir.
+
+
+## İstinaf Sebepleri, İnceleme Usulü ve Kapsamı Yargıtay Kararları
+
+### İstinaf Nedir? İstinaf Sebepleri ve İstinaf İncelemesinin Kapsamı
+
+(Hukuk Genel Kurulu 2021/365 E. , 2023/74 K.)
+
+Bir davanın, talepler ve belirtilen sebeplerle sınırlı olarak, bir üst derece yargı yerince, yeniden görülmesini, gerekiyorsa yeniden hükme bağlanmasını amaçlayan kanun yoluna istinaf denir. Hemen belirtilmelidir ki istinafta, davanın bir üst derece yargı yerince, tüm boyutları itibari ile değil; sadece tarafların talepleri ve ileri sürmüş oldukları sebeplerle sınırlı bir biçimde ikinci kez ele alınıp görülür.
+
+Gerek Türk hukukunda gerekse mukayeseli hukukta, istinaf kanun yolu incelemesi somut olay adaletinin sağlanması ihtiyacı üzerine doğmuş ve uygulanmaya başlanmıştır. Hukuk yargılamasında istinaf; ilk derece mahkemelerinin henüz kesinleşmemiş kararlarının, hem maddi vakıa incelemesi yapan hem de hukukilik denetimi yapma yetkisi bulunan daha üst dereceli mahkemece tekrar incelenmesini, taleplerle belirlenen sınırlar içerisinde ikinci kez görülerek, hatalı hâllerin düzeltilmesi suretiyle karara bağlanmasını istemek olarak tanımlanabilir. İstinaf kavramı, incelemenin içeriği itibari ile dar ve geniş anlamda istinaf olarak ikiye ayrılır. Türk hukuk sisteminde kanun koyucu tercihini dar anlamda istinaf sisteminden yana kullanmıştır. Buna göre; ilk derece mahkemesi tarafından verilen kararın denetlenmesi anlamında sadece gerekli ve itiraz konusu edilen hususlarda inceleme yapılarak bir karar verilir.
+
+Kanun yolları düzeltici ve bozucu kanun yolları olmak üzere ikiye ayrılır. Düzeltici kanun yolunda, ilk derece mahkemesi tarafından verilen kararda hukuka aykırılık tespit edildikten sonra dosya yeniden karar verilmesi için yerel mahkemeye gönderilmez, aksine üst mahkeme kendisi karar verir. Bozucu kanun yolunda ise, hukuka aykırılık tespit edilirse karar bozulur ve fakat yüksek mahkeme kendisi bir karar veremez, yeni bir karar verilmesi için dosyayı genellikle bölge adliye mahkemesine istisnai hâllerde de ilk derece mahkemesine geri gönderir. Buradan hareketle; temyiz kanun yolu bozucu kanun yolu olup, buna karşılık istinaf kanun yolu ise hüküm mahkemesi sıfatı nedeniyle düzeltici kanun yoludur. Diğer bir söylemle Yargıtay; hukuka aykırı alt derece mahkemesinin hükmünü sadece bozar, yeniden yargılama yapıp bir karar veremez. Bölge adliye mahkemesi ise; ilk derece mahkemesi kararı üzerinde yaptığı denetleme sonucunda hukuka aykırılık tespit ettiği takdirde veya Yargıtayın bozma kararı sonucunda dosyanın kendisine gönderilmesi hâlinde yeniden yargılama yaparak karar vermek zorundadır.
+
+İstinaf kanun yolu, 6100 sayılı Kanun'un sekizinci kısmının birinci bölümünün 341 ilâ 360 ıncı maddeleri arasında, temyiz kanun yolu da ikici bölümünün 361 ilâ 373 üncü maddeleri arasında düzenleme altına alınmıştır.
+
+Kanun koyucu temyiz sebeplerinin tek tek gösterilmesinin (HMK md. 371, HUMK md. 428) aksine, istinaf sebeplerini tek tek saymamış, istinaf sebepleri şunlardır şeklinde bir düzenlemede bulunmamıştır. Bunun yerine istinaf kanun yolunun niteliğine uygun olarak genel bir sebep göstermiştir (HMK md. 342-2/e, md. 353/6). İstinaf başvurusunda bulunan, istinaf dilekçesinde, dayanmış olduğu istinaf sebebiyle birlikte bölge adliye mahkemesinden nasıl bir karar verilmesi gerektiğine ilişkin iradesini açık ve kesin bir dille ortaya koymalıdır. Zira başvurucuyu haklı bulan bölge adliye mahkemesi, ilk derece mahkemesi kararını, istinaf talebinde çizilen çerçeve içerisinde kalmak kaydıyla değiştirebilir; talepten daha fazlasına karar veremez. Bu kuralın istisnasını kamu düzenine aykırılık hâlleri oluşturur (HMK md. 357).
+
+Hukuk Muhakemeleri Kanunu’nun özellikle 353 üncü maddesine bakıldığında istinaf sebebinin ilk derece mahkemesi kararının usul veya esas yönünden hukuka uygun olmaması şeklinde düzenlenmiş olduğu söylenebilir. Dolayısıyla istinaf sebepleri, temyiz sebeplerinden çok daha geniş bir çerçeve çizmektedir. Buradan hareketle istinaf dilekçesinde yer alan istinaf sebepleri bölge adliye mahkemesince yapılacak olan incelemenin sınırlarını çizmesi bakımından büyük önem taşımaktadır. Nitekim istinaf sebebinin gösterilmemesi hâlinde, hükümde kamu düzenine aykırı bir husus da bulunmuyorsa, istinaf talebinin ön inceleme aşamasında reddedileceği hususu tartışmasızdır.
+
+İstinaf başvurusu üzerine, dosya kendisine gelen bölge adliye mahkemesi dairesinin yapacağı ilk iş, ön incelemeyi gerçekleştirmektir (HMK md. 352). Ön inceleme evresinde, istinaf başvurusunun dinlenebilir olduğu sonucuna ulaşan bölge adliye mahkemesinin gerçekleştireceği ikinci inceleme asıl inceleme olarak adlandırılır (HMK md. 354). Burada inceleme sözcüğü ile kastedilen esasen 6100 sayılı Kanun anlamında tahkikattır.
+
+İstinaf incelemesinin kapsamı ise 6100 sayılı Kanun'un 355 inci maddesi ile düzenlenmiş olup buna göre inceleme istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılır. Ancak bölge adliye mahkemesi kamu düzenine aykırılık gördüğü takdirde bunu kendiliğinden gözetir. Buna göre; bölge adliye mahkemesi, incelemesini istinaf dilekçesinde belirtilen sebeplere bağlı olarak yapmak zorundadır. Temyiz incelemesinden farklı olarak, bölge adliye mahkemesinde yapılacak incelemede tarafların ileri sürdüğü sebeplerle bağlı kalınmasının nedeni, bölge adliye mahkemesinin ilk derece mahkemesinin kararının kanuna aykırılığını tespit etmesi hâlinde, çoğu zaman yeniden yargılama yaparak yeni bir karar verebilmesidir. Tercih edilen istinaf sisteminde, ilk derecedeki yargılama tümüyle tekrarlanmamaktadır. Bu sebeple, istinaf sebepleri ile sınırlı tutulmuştur. Zira, istinaf incelemesi ilk derece mahkemesi kararını denetleyerek ondan sonra yapılan yargılama özelliği taşımaktadır. Bununla beraber, kamu düzenini ilgilendiren hususlarda bölge adliye mahkemesi istemle bağlı olmaksızın re’sen inceleme yapar. Örnek vermek gerekirse kamu düzenini ilgilendiren görev kuralına aykırılık veya dava şartlarının var olup olmadığı bölge adliye mahkemesince re’sen araştırılır. Dolayısıyla re’sen araştırma ilkesinin geçerli olduğu davalarda bölge adliye mahkemesi tarafların istemiyle bağlı olmaksızın ilk derece mahkemesinin kararını inceleme yetkisine sahiptir.
+
+Özetle; 6100 sayılı Kanun ile düzenlenen istinaf sebeplerinin kamu düzenine aykırılık ve taraflarca ileri sürülen nedenler olmak üzere iki ayrımda incelenmesi gerekmektedir. Kamu düzenine aykırılık mutlak istinaf sebebidir ve bölge adliye mahkemesince kendiliğinden gözetilir. Bu nedenle kamu düzenine aykırı bir sebebin istinaf dilekçesinde ileri sürülüp sürülmemesinin de bir önemi bulunmamaktadır. Ne var ki kamu düzenine aykırı olmayan istinaf sebeplerinin istinaf dilekçesinde mutlaka gösterilmesi gerekmektedir. Kamu düzenine aykırı olmayan bir istinaf sebebi istinaf dilekçesinde gösterilmemiş ise bölge adliye mahkemesince kendiliğinden dikkate alınamaz. Çünkü istinaf incelemesi, istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılır.
+
+Eldeki davada; ilk derece mahkemesince boşanmaya sebep olan olaylarda erkeğin ağır kadının ise az kusurlu olduğu gerekçesiyle tarafların boşanmalarına ve kadın eş yararına maddi ve manevi tazminat ödenmesine karar verilmiştir. Bu karara karşı davalı kadın eş tarafından istinaf kanun yoluna başvurulmuş, istinaf incelemesi yapan bölge adliye mahkemesince boşanmaya neden olan olaylara davacı erkeğin tam kusurlu davranışları ile neden olduğu, hâl böyle olunca tam kusurlu davacının açtığı davanın kabulüne karar verilmesinin mümkün olmadığı gerekçesiyle ilk derece mahkemesi kararı kaldırılmış ve yeniden esas hakkında hüküm kurulmak suretiyle davanın reddine karar verilmiştir.
+
+Yukarıda ayrıntılarıyla açıklandığı üzere 6100 sayılı Kanun’un 342 nci maddesinin 2 nci fıkrasının e bendine göre istinaf dilekçesinde; istinaf sebeplerinin, somut bir şekilde temellendirilmek suretiyle gerekçeleri ile birlikte gösterilmesi gerektiği hususuna açıkça işaret edilmiştir. Yine aynı Kanun'un 355 inci maddesinin 1 inci cümlesinde, istinaf incelemesinin, ilke olarak, istinaf dilekçesinde ileri sürülmüş bulunan istinaf sebeplerine hasren gerçekleştirileceği belirtilmiştir. Özellikle işaret edilen bu son nokta bağlamında, istinaf dilekçesinde, istinaf sebeplerinin belirtilmesi özel bir anlam ve önem taşımakta, üzerinde hassasiyetle durulması gereken hususlardan birisini teşkil etmektedir. İstinaf başvurusunda bulunanın, bu başvurudan tatmin edici bir sonuç elde edebilmesi, özellikle davanın ikinci kez görülmesini ve yeni bir hüküm verilmesini temin edebilmesi için, istinaf dilekçesinde dayanmış olduğu istinaf sebeplerini somut bir biçimde gerekçelendirmek suretiyle belirtmesi şarttır. Kanun'da temyiz sebeplerinden farklı olarak, dayanılabilecek istinaf sebeplerinin neler olduğuna dair herhangi bir belirlemede bulunulmadığı için, dayanılacak istinaf sebeplerinin somutlaştırılması bağlamında 6100 sayılı Kanun'un 353 üncü maddesinin 1 inci fıkrasında yer alan düzenlemeden yararlanılmalıdır.
+
+Genel olarak istinaf sebebinden maksat, ilk derece mahkemesi kararının ve buna dayanak oluşturan yargılamanın neden hatalı veya eksik olduğunu gösteren, somut bir biçimde temellendirilmiş bulunan iddialardır. İstinaf yargılaması, hem hukuka uygunluk hem de vakıalara uygunluk denetimi yapılmasını konu almaktadır. Bu bağlamda, hukuka uygunluk denetimiyle ilişkili bir istinaf sebebi ileri sürülmek isteniyor, yani hangi hukuk kuralının hiç uygulanmadığı ya da yanlış uygulandığı iddia ediliyorsa, dayanakları ile birlikte buna, istinaf sebebi olarak, istinaf dilekçesinde açıkça işaret edilmesi gerekir. Burada sözü edilen hukuk kuralı, usul hukukuna ilişkin olabileceği gibi maddi hukuku da ilişkin olabilir. İstinaf dilekçesinde, vakıalara uygunluk denetimiyle ilişkili bir husus, istinaf sebebi olarak ileri sürülmek isteniyorsa, ilk derece mahkemesince hükme esas alınan vakıaların tespitindeki hataların ve eksikliklerin neler olduğunun yahut hangi delilin ya da delillerin değerlendirilmesinde yanlışlıklar yapıldığının olabildiğince somut ve kristalize biçimde belirtilmesi bir zorunluluk arz eder.
+
+İstinaf başvurusunda bulunan, istinaf dilekçesinde, dayanmış olduğu istinaf sebebiyle uyum içerisinde olacak şekilde bölge adliye mahkemesinden nasıl bir karar verilmesi gerektiğine ilişkin iradesini açık ve kesin bir dille ortaya koymalı ve belirtmelidir. Dayanılan istinaf sebepleri, bölge adliye mahkemesinin yapacağı inceleme sonucu vereceği karar içeriğinin belirlenmesinde belirleyici bir işlev görecektir. İstinaf talebi olarak yapılan bu tespit çerçevesinde, istinaf başvurusunda bulunan, dilekçesinde ilk derece mahkemesi kararının kaldırılmasını mı, yoksa değiştirilmesini mi istediğini; değiştirilmesini istiyorsa, hangi kapsamda ve nasıl değiştirilmesi gerektiğine ilişkin iradesini, açıkça ortaya koymalıdır. Buna karşılık, istinaf başvurusunda bulunan, ilk derece mahkemesinin hükmüne dayanak yaptığı maddi vakıaların tespitinde yahut delillerin değerlendirilmesinde hatalı davrandığını ileri sürüyorsa, bölge adliye mahkemesinden bu kapsamda yeni bir yargılama yapmasını ve uyuşmazlığın esası hakkında yeni bir hüküm vermesini, ilk derece mahkemesi hükmünün değiştirilmesini istemelidir. Başvurucuyu haklı bulan bölge adliye mahkemesi, ilk derece mahkemesi kararını, istinaf talebinde çizilen çerçeve içerisinde kalmak kaydıyla değiştirebilir; talepten daha fazlasına karar veremez.
+
+### Katılma Yoluyla İstinaf Nedir?
+
+(Hukuk Genel Kurulu 2023/359 E. , 2024/122 K.)
+
+Bir davanın, talepler ve belirtilen sebeplerle sınırlı olarak, bir üst derece yargı yerince, yeniden görülmesini, gerekiyorsa yeniden hükme bağlanmasını amaçlayan kanun yoluna "istinaf" denir. Hukuk yargılamasında istinaf; ilk derece mahkemelerinin henüz kesinleşmemiş kararlarının, hem maddi vakıa incelemesi yapan hem de hukukilik denetimi yapma yetkisi bulunan daha üst dereceli mahkemece tekrar incelenmesini, taleplerle belirlenen sınırlar içerisinde ikinci kez görülerek, hatalı hâllerin düzeltilmesi suretiyle karara bağlanmasını istemek olarak tanımlanabilir. Katılma yolu ile istinaf ise hükmün kendi lehine değiştirilmesini talep eden tarafın daha önce başlatmış olduğu sürece, diğer tarafın katılmasını ifade eder. Dolayısıyla katılma yolu ile istinaftan bahsedebilmek için her şeyden önce ortada, incelenebilir ve hâlen derdest bir istinaf başvurusu bulunmalıdır. İşte incelenebilir bir istinaf sürecini başlatan başvuruya "asıl istinaf", diğer tarafın bu sürece dahil olmasını sağlayan yola da "katılma yolu ile istinaf" denilmektedir.
+
+**Katılma yolu ile istinaf**; 6100 sayılı Kanun'un 348 inci maddesinde "katılma yolu ile başvurma" başlığı altında "(1) İstinaf dilekçesi kendisine tebliğ edilen taraf, başvurma hakkı bulunmasa veya başvuru süresini geçirmiş olsa bile, vereceği cevap dilekçesi ile istinaf yoluna başvurabilir. İstinaf yoluna asıl başvuran taraf, buna karşı iki hafta içinde cevap verebilir. (2) İstinaf yoluna başvuran, bu talebinden feragat eder veya talebi bölge adliye mahkemesi tarafından esasa girilmeden reddedilirse, katılma yolu ile başvuranın talebi de reddedilir" şeklinde hüküm altına alınmıştır.
+
+Görüldüğü üzere 6100 sayılı Kanun; kendisine istinaf dilekçesi tebliğ edilen tarafa, daha önce istinafa başvurmamış veya başvuru süresini kaçırmış ve hatta kanun yoluna başvuru hakkı olmasa dahi, asıl istinaf talebine vereceği cevap dilekçesi ile kendi istinaf sebeplerini ileri sürerek istinaf yoluna başvuru hakkı tanımıştır.
+
+Kanun koyucunun, başvurma hakkı bulunmayan veya başvuru süresini geçirmiş olan tarafa bile, kendine özgü nedenler ileri sürerek katılma yoluyla istinaf yoluna başvuru hakkı tanımasının asıl sebebi; istinaf ve temyiz kanun yolları bütünü içinde yer alan, aleyhe bozma yasağı ile aleyhe hüküm verme yasaklarının işlerlik kazanıp kazanmayacağı noktasında, adil yargılanma hakkı ve silahların eşitliği prensiplerini ihlâl etmeksizin belirginleştirmektir.
+
+Anılan maddenin gerekçesinde; istinaf dilekçesi kendisine tebliğ edilen taraf, başvurma hakkı bulunmasa veya başvuru süresini geçirmiş olsa bile süresi içinde cevap vermekle yetinmeyip, bu cevap dilekçesiyle kendine özgü nedenler ileri sürerek istinaf yoluna başvurabileceği belirtilmiştir. Ne var ki bu başvuru asıl başvuruya bağımlı bir istinaf yolu başvurusudur. Bu nedenle katılma yolu ile istinaf yoluna başvuru, asıl başvuran taraf başvurusundan feragat eder veya istemi esasa girilmeden önce reddedilirse, hüküm doğurmaz. Çünkü kural olarak asıl istem incelenmezse, ona bağlı olan istemin de incelenmemesi gerekir. Fakat istinaf yoluna başvuran tarafın istemi esasa girildikten sonra reddedilirse, bu durum katılan tarafın isteminin incelenmesine engel olmaz. Bunun gibi, taraflar bölge adliye mahkemesindeki uyuşmazlığı sona erdirirlerse, katılma yolu ile istinaf yoluna başvuru da etkisini kaybeder. Asıl istinaf yoluna başvuru isteminin esasına girilip inceleme yapılmadan, katılan tarafın istemi hakkında bir inceleme yapılamaz.
+
+### İstinaf Sebepleri, İstinaf İncelemesinin Kapsamı ve Sonuçları
+
+6100 sayılı HMK'nın 341. maddesi uyarınca, ilk derece mahkemelerinden verilen nihai kararlar ile ihtiyati tedbir, ihtiyati haciz taleplerinin reddi ve bu taleplerin kabulü hâlinde, itiraz üzerine verilecek kararlara karşı istinaf yoluna başvurulabilir. Görüldüğü üzere taraflar arasındaki uyuşmazlığın esasını çözen nihai kararlar yanında usuli nihai kararlara karşı istinaf kanun yoluna başvuru mümkün olduğu gibi, geçici hukuki koruma tedbirlerinden olan ihtiyati tedbir ve ihtiyati haciz taleplerinin reddi veya bu taleplerin kabulü hâlinde itiraz üzerine verilecek kararlara karşı da istinaf başvurusu yapılabilecektir. Kanun'un 341. maddesinin devam eden fıkralarında ise hangi kararlara karşı istinaf kanun yoluna başvurabileceği, hangi hâllerde bu kanun yolunun kapalı olduğu ayrıntıları ile düzenlenmiştir.
+
+6100 sayılı Kanun'da istinaf sebepleri gösterilmemiştir. Bununla birlikte istinaf kanun yolunu düzenleyen 341 ila 360. maddelerden hareketle istinaf sebeplerini tespit etmek mümkündür. Şöyle ki, özellikle 342, 352, 353 ve 355. maddelerdeki hükümler birlikte değerlendirildiğinde, genel olarak istinaf sebeplerinin, ilk derece mahkemesince vakıaların incelenmesi, vakıaların ispatı için ileri sürülen ve toplanan delillerin değerlendirilmesi, yargılama usulü ve hukukun uygulanması ile ilgili noktalardaki kabulüne ilişkin eksiklik ya da yanlışlıklar sebebi ile istinaf kanun yoluna başvurulabileceği sonucu çıkmaktadır. Başka bir anlatımla, vakıaların tespit ve değerlendirilmesindeki hatalar ile hukukun uygulanmasından kaynaklanan yanlışlıklar istinaf sebebi olacaktır.
+
+İstinaf bir kanun yolu olmakla birlikte temyiz kanun yolundan farklı olarak ilk derece mahkemesinin kararının denetlenmesi yanında aynı zamanda gerektiğinde yeni bir yargılama yapılması ve hüküm mahkemesi gibi karar verilmesi söz konusudur. İstinafın kapsamını Kanun'un 355. maddesi belirlemiş olup bu madde hükmü dikkate alındığında kamu düzenine aykırılık hâlleri dışında istinaf dilekçesinde belirtilen istinaf sebepleri ile sınırlı olarak inceleme yapılır; bu kapsamda istinaf sebebi ile bağlı kalınmak kaydı ile bu konudaki delillerin toplanması ve incelenmesi söz konusu olur. İlk derece mahkemesince yapılan yargılama tümüyle tekrarlanmayıp sadece yanlışlık ya da eksiklik tespit edilen noktalarda yargılama yapılarak deliller toplanıp değerlendirildikten sonra, kararın düzeltilmesi sağlanmaktadır. Nitekim Kanun'un 357. madde hükmüne göre, bölge adliye mahkemesince re’sen göz önünde tutulacaklar dışında, ilk derece mahkemesinde ileri sürülmeyen iddia ve savunmalar dinlenemez, yeni delillere dayanılamaz.
+
+Duruşma yapılmasına gerek olmayan, usuli hataların bulunduğu Kanun'un 353. maddesinin (a) fıkrasının 1 ila 6. bentleri arasında düzenlenen durumlarda bölge adliye mahkemesi istinaf incelemesi yaparak ilk derece mahkemesinin kararını kaldırıp dosyanın ilgili mahkemeye gönderilmesine karar verir.
+
+Bölge Adliye Mahkemesince yapılacak istinaf incelemesi sonucunda ilk derece mahkemesi kararının usul ve esas yönünden hukuka uygun olduğu kanaatine varılması hâlinde istinaf başvurusunun esastan reddine karar verilecektir (6100 sayılı HMK m. 353/b-1).
+
+Bölge Adliye Mahkemesi istinaf başvurusunda ileri sürülen sebeplerin doğru olduğuna kanaat getirirse bu durumda ilk derece mahkemesinde dava reddedilmiş ise, red kararını kaldırarak davanın kısmen ya da tamamen kabulüne; dava kabul edildiği hâlde reddi gerekmekte ise kabul ya da kısmen kabul kararını kaldırarak red kararı verir (Hukuk Genel Kurulu- Karar: 2021/396).
+
+### İstinaf Başvurusu Yapmayan Tarafın Talepleri Dikkate Alınmaz
+
+Davacı vekili bilirkişi raporuna itiraz dilekçesinde, müvekkilinin tek zararının bundan ibaret olmadığını, davacının yurt dışındaki müşterisine davalının taklit ve düşük kalitede mal satması nedeniyle müvekkilinin bu pazarı kaybetmiş olması nedeniyle de zararının oluştuğunu, bu zararın hesaplanması gerektiğini ileri sürmüş ise de yukarıda belirtildiği gibi istinaf başvurusunu sadece davalı taraf yapmış, davacı taraf istinaf kanun yoluna başvurmamıştır. Böylece davacı taraf ilk derece mahkemesinde hükme esas alınan bilirkişi raporundaki hesaplama tarzını belirlemiş olup o raporda ve ilk derece mahkemesi kararında yer almayan bir tazminat kalemini istinaf aşamasında talep etmesi hukuken mümkün değildir. Çünkü HMK.m. 355 uyarınca istinaf incelemesi istinaf sebepleriyle sınırlı olarak yapılır ve istinaf yoluna başvuran aleyhine değerlendirme yapılamayacağı gibi davacı tarafın istinaf sebebi yapmadığı bir hususta istinaf mahkemesinin karar vermesi mümkün değildir. Bu nedenle davacı vekilinin bu konudaki ek bilirkişi incelemesi talepleri reddedilmiştir. (İstanbul BAM 15. HD - Karar : 2018/763).
+
+### İstinaf Dilekçesinde İstinaf Sebebi Gösterilmelidir
+
+HMK 342.maddenin e fıkrası gereğince istinaf yoluna başvuran başvuru sebep ve gerekçelerini dilekçesinde göstermek zorundadır. Somut olayda ise başvuran davacının gerekçeli kararın tebliğine rağmen istinaf başvuru sebeplerini gösterir dilekçe sunmadığı anlaşılmaktadır. Davalı HMK 342/2/e hükmünden kaynaklanan somut sebep ve gerekçe gösterme yükümlülüğünün yerine getirmemiştir. Dilekçe görülebilirlik koşullarına sahip olmadığı için HMK 352.madde gereğince red edilmelidir. Hal böyle olunca HMK 355.madde çerçevesi içerisinde yapılan incelemede de kamu düzenine aykırı herhangi bir sebep bulunmadığından davalının istinaf talebinin HMK 352.madde gereğince usulden reddine karar verilerek aşağıdaki şekilde hüküm tesis edilmiştir. Gerekçesi yukarda açıklandığı üzere HMK 355.madde çerçevesi içerisinde yapılan incelemede de kamu düzenine aykırı herhangi bir sebep bulunmadığından davalının istinaf dilekçesinin HMK 352-342/e maddeleri gereğince REDDİNE karar verilmiştir (İstanbul Bölge Adliye Mahkemesi 22. Hukuk Dairesi - Karar: 2017/1201).
+
+İstinaf incelemesinin kapsamı 6100 sayılı Kanun'un 355 inci maddesi ile düzenlenmiş olup buna göre inceleme istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılır. Ancak bölge adliye mahkemesi kamu düzenine aykırılık gördüğü takdirde bunu kendiliğinden gözetir. Buna göre; bölge adliye mahkemesi, incelemesini istinaf dilekçesinde belirtilen sebeplere bağlı olarak yapmak zorundadır. Temyiz incelemesinden farklı olarak, bölge adliye mahkemesinde yapılacak incelemede tarafların ileri sürdüğü sebeplerle bağlı kalınmasının nedeni, bölge adliye mahkemesinin ilk derece mahkemesinin kararının kanuna aykırılığını tespit etmesi hâlinde, çoğu zaman yeniden yargılama yaparak yeni bir karar verebilmesidir. Tercih edilen istinaf sisteminde, ilk derecedeki yargılama tümüyle tekrarlanmamaktadır. Bu sebeple, istinaf sebepleri ile sınırlı tutulmuştur. Zira, istinaf incelemesi ilk derece mahkemesi kararını denetleyerek ondan sonra yapılan yargılama özelliği taşımaktadır. Bununla beraber, kamu düzenini ilgilendiren hususlarda bölge adliye mahkemesi istemle bağlı olmaksızın resen inceleme yapar. Örnek vermek gerekirse kamu düzenini ilgilendiren dava şartlarının var olup olmadığı bölge adliye mahkemesince resen araştırılır. Dolayısıyla resen araştırma ilkesinin geçerli olduğu davalarda bölge adliye mahkemesi tarafların istemiyle bağlı olmaksızın ilk derece mahkemesinin kararını inceleme yetkisine sahiptir. Özetle; 6100 sayılı Kanun ile düzenlenen istinaf sebeplerinin kamu düzenine aykırılık ve taraflarca ileri sürülen nedenler olmak üzere iki ayrımda incelenmesi gerekmektedir. Kamu düzenine aykırılık mutlak istinaf sebebidir ve Bölge Adliye Mahkemesince kendiliğinden gözetilir. Bu nedenle kamu düzenine aykırı bir sebebin istinaf dilekçesinde ileri sürülüp sürülmemesinin de bir önemi bulunmamaktadır. Ne var ki kamu düzenine aykırı olmayan istinaf sebeplerinin istinaf dilekçesinde mutlaka gösterilmesi gerekmektedir. Kamu düzenine aykırı olmayan bir istinaf sebebi istinaf dilekçesinde gösterilmemiş ise bölge adliye mahkemesince kendiliğinden dikkate alınamaz. Çünkü istinaf incelemesi, istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılır (Yargıtay 7. Hukuk Dairesi 2022/6640 E. , 2023/6433 K.).
+
+### İstinaf Sebebinin Gösterilmemesi ve Kamu Düzeniyle Sınırlı İnceleme
+
+E) Bölge Adliye Mahkemesi Kararının Özeti:
+
+Bölge adliye mahkemesince; davalı vekilinin gerekçeli kararın tebliğinden sonra kanun yoluna başvurma nedenlerini belirteceklerini bildirir dilekçe sunduğu, dilekçede gerekçeli kararın tebliğinden sonra gerekçeli temyiz sebeplerinin bildirileceğinin belirtildiği, davalı vekiline 12.08.2016 tarihinde gerekçeli kararın tebliğ edilmesine rağmen gerekçeli kanun yoluna başvurma nedenlerini gösterir dilekçenin sunulmadığı, Uyap sisteminde de böyle bir dilekçenin bulunmadığı, istinaf yolu sebepleri ve gerekçeleri belirtilmediğinden HMK’nun 355. Maddesi uyarınca kamu düzenine bir aykırılık da tespit edilemediği gerekçesiyle davalı vekilinin istinaf başvuru talebinin reddine karar verilmiştir.
+
+F) Temyiz:
+
+Bölge adliye mahkemesi kararını davalı temyiz etmiştir.
+
+G) Gerekçe
+
+Davalının ilk derece mahkemesi kararına karşı istinaf sebeplerini açıkça belirtmeden yalnızca gerekçeli kararın tebliğinden sonra gerekçelerini bildireceğini belirtmek suretiyle istinaf yoluna başvurduğu, gerekçeli kararın tebliğinden sonra da gerekçeli dilekçenin sunulmadığı, Bölge Adliye Mahkemesince istinaf başvurusunun bu nedenle reddedildiği, 6100 sayılı HMK’nun 352. ve 355. maddeleri uyarınca Bölge Adliye Mahkemesi kararının usul ve yasaya uygun olduğu anlaşıldığından, hükmün onanmasına şekilde karar verilmiştir (Yargıtay 22. HD - Karar : 2017/1463).
+
+### İstinaf İncelemesi ve Gerekçeli Karar Zorunluluğu
+
+İstinaf incelemesi yapılabilmesi için delillerin değerlendirildiğini gösterir biçimde usulüne uygun gerekçeli karar bulunması zorunludur. Talep, gerekçeyle hüküm arasında çelişki bulunması halinde istinaf incelemesi yapılabilecek usulüne uygun bir karar bulunmadığı için delillerin hiç değerlendirilmediğinin kabulü gerekir. Hal böyle olunca, HMK'nın 353/l-a-6 maddesi uyarınca tarafların istinaf başvurularının kabulüne, istinaf başvurusunun kabul sebebine göre kararın esası ve diğer istinaf sebepleri incelenmeksizin ilk derece mahkemesinin kararının kaldırılmasına, davanın yeniden görülmesi için dosyanın kararı veren mahkemeye gönderilmesine karar verilmiştir (Gaziantep Bölge Adliye Mahkemesi 2. Hukuk Dairesi - Karar:2017/738).
+
+### İstinaf Mahkemesinin Eksikliği Gidererek Karar Vermesi
+
+Bölge Adliye Mahkemesi, "davacının iş akdinin feshi tarihindeki gerçek ücretinin; meslekte geçirdiği süre, işyerinde çalıştığı süreler, meslek ünvanı ve fiilen yaptığı iş bildirilerek sendikalarla, TÜİK, ilgili işçi ve işveren kuruluşlarından ve özellikle ilgili meslek odalarından araştırıldıktan sonra karar verilmek üzere MAHKEMESİNE İADESİNE, ilk derece mahkemesi kararının 6100 sayılı yasanın 353/1-a.6 maddesi hükmü gereğince ESASI İNCELENMEDEN KALDIRILMASINA" karar verilmiştir.
+
+6100 sayılı HMK'un 353/a-6 maddesi uyarınca Bölge Adliye Mahkemesinin, yerel mahkeme kararının esasını incelemeden kararın kaldırılmasına ve davanın yeniden görülmesi için dosyanın kararı veren mahkemeye veya kendi yargı çevresinde uygun göreceği başka bir yer mahkemesine ya da görevli ve yetkili mahkemeye gönderilmesine duruşma yapmadan kesin olarak karar verebilmesi için “Mahkemece, tarafların davanın esasıyla ilgili olarak gösterdikleri delillerin hiçbiri toplanmadan veya gösterilen delilleri hiç değerlendirilmeden karar verilmiş olması" gerekir. İstinafın amacı ilk derece yargılanmasını ve mahkemenin nihai kararlarını denetleyerek tespit edilen hataları ve eksiklikleri maddi vakıa ve hukuki açıdan denetleyerek gidermektir. İstinaf mahkemesi bir hata veya eksiklik olmadığı müddetçe, ilk derece mahkemenin vakıa tespitleri ve dava malzemesi ile bağlıdır. Eksik delil toplama veya eksik değerlendirme var ise maddi vakıa denetimi kapsamında bunları gidermeli, toplamalı ve karar vermelidir. Somut uyuşmazlıkta yerel mahkeme tazminat ve alacaklara esas ücreti belirlemiş ve hesaplayıp hüküm altına almıştır. Hesabın unsuru olan tazminat ve alacaklara esas ücret hatalı veya eksik belirlenmiş ise Bölge Adliye Mahkemesi bu eksikliği kendisi gidermeli, tamamlamalı ve sonuca göre karar verilmelidir. Bu usul ekonomisinin gereği olduğu gibi ikinci derece yargılama yapmanın da sonucudur. Madde yerel mahkemenin kararının kaldırılmasını ve yeniden görülmesi için dosyanın gönderilmesini, delillerin hiçbiri toplanmadan veya gösterilen deliller değerlendirilmeden karar verilmesine bağlamıştır. Emsal ücret araştırılmamasında delillerin hiç toplanmadığından veya değerlendirilmediğinden söz edilemez. O nedenle Bölge Adliye Mahkemesinin bu yöndeki nitelendirmesi hatalı ise de anılan mahkeme uyarınca Bölge Adliye Mahkemelerinin yerel mahkemeye geri gönderme kararı kesin olduğundan ve kesin kararların temyiz incelemesi yapılamayacağından, temyiz isteminin açıklanan bu gerekçe ile REDDİNE, 27.03.2017 tarihinde oy birliği ile karar verildi.(Yargıtay 9.HD - 2017/5190 Karar).
+
+### Dava Arkadaşlığı Varsa İstinaf Kesinlik Sınırı Nasıl Belirlenir?
+
+İstinaf sebepleriyle bağlı kalınarak yapılan değerlendirmede; dava trafik kazasından kaynaklı destekten yoksun kalma tazminatı talebine ilişkindir.
+
+6456 sayılı Kanunun 45.maddesi ile değişik 5684 sayılı kanunun 30/12.maddesi gereğince; Beşbin Türk Lirası altındaki uyuşmazlıklar hakkında verilen hakem kararları kesindir. Beşbin türk lirası ve daha üzerindeki uyuşmazlıklar hakkında verilen hakem kararlarına karşı komisyonca ilgiliye bildirimden itibaren 10 gün içerisinde bir defaya mahsus olmak üzere komisyon nezdinde itiraz edilebilir. İtiraz üzerine Sigorta Tahkim İtiraz Hakem Heyetinin 40.000,00 Türk Lirasını geçmeyen uyuşmazlıklar hakkında verdiği kararlar ise kesindir. 40.000,00-TL'nin üzerindeki kararlar için temyize gidilebilir" hükmünü içermektedir.
+
+Bunun yanında başvuru dava sahipleri zorunlu dava arkadaşı olmayıp ihtiyari dava arkadaşı olduklarından kesinlik sınırı her bir davacı için ayrı ayrı belirlenir (Yargıtay 17.HD 15.06.2017 tarih ve 2015/821E-2017/6811K ilamı)
+
+Temyize konu olan alacağın her bir davacı yönünden 40.000,00-TL'nin altında olduğu, İtiraz Hakem Heyetince de bu yönde karar verildiği, kararın davalı vekili tarafından istinafa getirildiği, bu sebeple ihtilaf miktarının davada ihtiyari dava arkadaşlığı bulunması sebebiyle her bir davacı yönünden 40.000,00-TL'nin altında olduğu anlaşıldığından karar kesin niteliktedir.
+
+Kesin olan kararların temyiz istemleri hakkındahakem heyetince bir karar verilebileceği gibi 01/06/1990 gün 3/4 sayılı içtihadı birleştirme kararı uyarınca Yargıtay (istinaf dairesince) de istinaf isteminin reddine karar verilebildiği anlaşıldığından, davalı vekilinin *istinaf* talebinin reddine karar vermek gerekmiştir (Bölge Adliye Mahkemesi 8. Hukuk Dairesi - Karar : 2018/315).
+
+### İstinaf İncelemesi, İstinaf Sebebi Gösterilmemesi ve Kamu Düzeni
+
+6100 sayılı Kanun'da istinaf sebepleri gösterilmemiştir. Bununla birlikte istinaf kanun yolunu düzenleyen 341 ila 360'ncı maddelerden hareketle istinaf sebeplerini tespit etmek mümkündür. Şöyle ki, özellikle 342, 352, 353 ve 355'inci maddelerdeki hükümler birlikte değerlendirildiğinde, genel olarak istinaf sebeplerinin ilk derece mahkemesince vakıalar, vakıaların ispatı için ileri sürülen ve toplanan delillerin değerlendirilmesi, yargılama usulü ve hukukun uygulanması ile ilgili noktalardaki kabulüne ilişkin eksiklik ya da yanlışlıklar sebebi ile istinaf kanun yoluna başvurulabileceği sonucu çıkmaktadır. Başka bir anlatımla, vakıaların tespit ve değerlendirilmesindeki hatalar ile hukukun uygulanmasından kaynaklanan yanlışlıklar istinaf sebebi olacaktır.
+
+İstinaf bir kanun yolu olmakla birlikte temyiz kanun yolundan farklı olarak ilk derece mahkemesinin kararının denetlenmesi yanında aynı zamanda gerektiğinde yeni bir yargılama yapılması ve hüküm mahkemesi gibi karar verilmesi söz konusudur.
+
+İstinafın kapsamını Kanun'un 355'inci maddesi belirlemiş olup bu madde hükmü dikkate alındığında kamu düzenine aykırılık hâlleri dışında istinaf dilekçesinde belirtilen istinaf sebepleri ile sınırlı olarak inceleme yapılır; bu kapsamda istinaf sebebi ile bağlı kalınmak kaydı ile bu konudaki delillerin toplanması ve incelenmesi söz konusu olur. İlk derece mahkemesince yapılan yargılama tümüyle tekrarlanmayıp sadece yanlışlık ya da eksiklik tespit edilen noktalarda yargılama yapılarak deliller toplanıp değerlendirildikten sonra, kararın düzeltilmesi sağlanmaktadır. Nitekim Kanun'un 357'nci madde hükmüne göre, bölge adliye mahkemesince resen göz önünde tutulacaklar dışında, ilk derece mahkemesinde ileri sürülmeyen iddia ve savunmalar dinlenemez, yeni delillere dayanılamaz.
+
+Bölge Adliye Mahkemesince yapılacak istinaf incelemesi sonucunda ilk derece mahkemesi kararının usul ve esas yönünden hukuka uygun olduğu kanaatine varılması hâlinde istinaf başvurusunun esastan reddine karar verilecektir (6100 sayılı HMK m. 353/b-1).
+
+Duruşma yapılmasına gerek olmayan, usuli hataların bulunduğu Kanun`un 353`üncü maddesinin (a) fıkrasının 1 ila 6'ncı bentleri arasında düzenlenen durumlarda bölge adliye mahkemesi istinaf incelemesi yaparak ilk derece mahkemesinin kararını kaldırıp dosyanın ilgili mahkemeye gönderilmesine karar verir.
+
+Bölge Adliye Mahkemesi istinaf başvurusunda ileri sürülen sebeplerin doğru olduğuna kanaat getirirse bu durumda ilk derece mahkemesinde dava reddedilmiş ise, red kararını kaldırarak davanın kısmen ya da tamamen kabulüne; dava kabul edildiği hâlde reddi gerekmekte ise kabul ya da kısmen kabul kararını kaldırarak red kararı verir (Yargıtay HGK - Karar : 2018/1607).
+
+### İstinaf Süresi İçinde İkinci Kere İstinaf Dilekçesi Verilebilir
+
+Bölge Adliye Mahkemesi tarafından istinaf incelemesi, istinaf dilekçesinde belirtilen sebeplerle sınırlı olarak yapılır. Ancak, Bölge Adliye Mahkemesi kamu düzenine aykırılık gördüğü takdirde bunu resen gözetir. (HMK mad. 355)
+
+Davalı-birleşen dosyada davacı vekiline, İlk Derece Mahkemesinin gerekçeli kararı 02.11.2017 tarihinde tebliğ edilmiş, karar, davalı-birleşen dosyada davacı vekili tarafından, süresi içinde 15.11.2017 tarihinde istinaf edilmiş, davalı-birleşen dosyada davacı vekili tarafından istinaf başvuru süresi içinde verilen 16.11.2017 havale tarihli ek dilekçe ile ilk dilekçede ileri sürmediği, davacı-birleşen dosyada davalının banka hesabının İsviçre Frangı hesabı olduğu, bu banka hesabı üzerinden, davalı-birleşen dosyada davacı lehine banka hesabının Türk Lirası hesabı olarak kabul edilerek katılma alacağı hesabı yapıldığı, İsviçre Frangının günümüz güncel kuru üzerinden TL’ye çevrilerek, faiziyle tahsil edilmesi gerektiği itirazını da ileri sürerek, İlk Derece Mahkemesi kararının bu yönüyle de kaldırılması gerektiğini talep etmiş, Bölge Adliye Mahkemesince, istinaf yoluna başvuran tarafın yasal süre içerisinde olsa dahi sunacağı diğer dilekçelerin, istinaf dilekçesi mahiyetinde olmayıp, bu dilekçelerle belirtilen istinaf sebeblerinin Bölge Adliye Mahkemesince değerlendirilmeye alınmasının mümkün olmadığı, bu nedenle 15.11.2017 tarihli istinaf sebepleri doğrultusunda inceleme yapılırken ek istinaf sebeplerini içerir 16.11.2017 tarihli dilekçedeki itirazların dikkate alınmayacağı değerlendirmesini yapmış ise de, davalı-birleşen dosyada davacı vekilince istinaf başvuru süresi içinde sunduğu ikinci bir dilekçe ile ilk dilekçede ileri sürmediği vakıa hakkında istinaf talebinde bulunmasında yasal bir engel olmadığından, davalı-birleşen dosyada davacı vekilinin ek istinaf dilekçesi içeriğindeki banka hesabına yönelik itirazı hakkında olumlu veya olumsuz bir değerlendirme yapılarak sonucuna göre karar verilmesi gerekirken, yazılı gerekçeyle davalı-birleşen dosyada davacı vekilinin banka hesabına yönelik istinaf başvurusunun değerlendirilmemesi doğru görülmemiştir (Yargıtay 8. Hukuk Dairesi - Karar: 2019/9846).
+
+### İstinaf Mahkemeleri ve Yargı Çevreleri
+
+İstinaf mahkemeleri, "Adli İstinaf Mahkemesi Kuruluş Kanunu" ile kurulmuştur.
+
+Türkiye'de kurulan istinaf mahkemelerinin web adresleri aşağıdadır:
+
+- ADANA ADLİ İSTİNAF MAHKEMESİ
+- ANKARA ADLİ İSTİNAF MAHKEMESİ
+- ANTALYA ADLİ İSTİNAF MAHKEMESİ
+- BURSA ADLİ İSTİNAF MAHKEMESİ
+- DİYARBAKIR ADLİ İSTİNAF MAHKEMESİ
+- ERZURUM ADLİ İSTİNAF MAHKEMESİ
+- GAZİANTEP ADLİ İSTİNAF MAHKEMESİ
+- İSTANBUL ADLİ İSTİNAF MAHKEMESİ
+- İZMİR ADLİ İSTİNAF MAHKEMESİ
+- KAYSERİ ADLİ İSTİNAF MAHKEMESİ
+- KONYA ADLİ İSTİNAF MAHKEMESİ
+- SAKARYA ADLİ İSTİNAF MAHKEMESİ
+- SAMSUN ADLİ İSTİNAF MAHKEMESİ
+- TRABZON ADLİ İSTİNAF MAHKEMESİ
+- VAN ADLİ İSTİNAF MAHKEMESİ
+
+
+---
+
+## Hukukta Temyiz Kanun Yolu
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/medeni-hukuk/temyiz-basvurusu-suresi-nedeni-hmk (son güncelleme: 2026-01-19)*
+
+Hukukta Temyiz Nedir? Yargıtay Temyiz Başvuru Süresi, Şartları ve Temyiz Edilebilen/Edilemeyen Kararlar Nelerdir? 6100 sayılı HMK temyiz sebepleri/nedenleri ve duruşmalı temyiz incelemesi nasıl yapılır? Onama, Düzelterek Onama, Bozma Kararı
+
+
+## Temyiz Kanun Yolu Nedir? (HMK 361-373)
+
+**Temyiz**, İstinaf Mahkemesi tarafından verilen nihai kararların hukuka uygunluğunun denetlendiği bir kanun yoludur (HMK m.361). Temyiz başvurusu üzerine hukuki denetim, bir yüksek mahkeme olan Yargıtay tarafından yapılır.
+
+İstinaf mahkemesi tarafından istinaf incelemesi sonucunda verilen nihai karara karşı, belli yasal koşullar varsa, temyiz incelemesi için Yargıtay’a *temyiz başvurusu* yapılabilir. Böylece üç dereceli bir inceleme sistemi kurularak hukuk davaları neticesinde verilen kararın yeterince denetlenmesi sağlanmak istenmiştir.
+
+"Ceza Temyiz Kanun Yolu" başvuru şartları Ceza Muhakemesi Kanunu'nda (CMK), bu yazımızın konusu olan hukuk davaları için temyiz kanun yolu başvuru şartları ise Hukuk Muhakemeleri Kanunu'nda (HMK) düzenlenmiştir.
+
+## Hukukta İstinaf ile Temyiz Arasındaki Farklar Nelerdir?
+
+İstinaf kanun yolu başvurusu yapıldığında, istinaf mahkemesi dava ile ilgili hem vakıaları el alır hem de hukuki denetim yapar. Yani, istinaf mahkemesi yerel mahkeme tarafından toplanmamış bir delili toplayabilir, yeniden tanık dinleyebilir veya keşif yapabilir. İstinaf mahkemesi, hukuk veya ceza dava dosyasında mevcut olan ve topladığı diğer tüm delillerle birlikte hukuki denetim de yaparak istinaf incelemesi netcesinde kararını verir.
+
+Temyiz incelemesi ise, Yargıtay’ın istinaf mahkemesi tarafından verilen kararı sadece hukuki yönden denetlemesi anlamına gelmektedir. Yargıtay, temyiz incelemesi ile kanunun olaya doğru uygulanıp uygulanmadığını denetler. Yani, yargıtay ilgili kanun maddelerinin dosyadaki delillerle oluşan maddi vakıaya yerinde uygulanıp uygulanmadığı yönünde hukuki bir denetim yapar. Yargıtay temyiz incelemesi aşamasında delil toplayamaz, tanık dinleyemez, keşif yapamaz.
+
+İstinaf mahkemesi, istinaf incelemesi ile yeniden bir karar verir. Teknik açıdan yerel mahkeme kararının bozulması veya onanması söz konusu değildir. İstinaf mahkemesi, hukuk veya ceza davasını yeniden ele alarak yeni bir karar verir. Temyiz incelemesi ile Yargıtay, istinaf mahkemesi kararını sadece hukuki yönden değerlendirerek onama veya bozma kararı verir. Yargıtay, istinaf mahkemesi tarafından verilen kararı bozduğunda, yeni bir karar verilmek üzere dava dosyasını geri gönderir.
+
+Hemen belirtmek gerekir ki, istinaf ve temyiz olağan kanun yolları olduğundan, hukuk davası için “karar düzeltme” kanun yolu ortadan kalkmıştır.
+
+### Temyiz Süresi Nedir?
+
+İstinaf mahkemesi hukuk dairelerinin temyiz edilebilen kararlarına karşı **temyiz başvuru süresi**, kararların ilgilisine tebliği tarihinden itibaren **iki haftadır** (HMK m.361/1).
+
+Temyiz başvuru süresinin başlaması için hükmün usulüne uygun bir şekilde taraflara tebliğ edilmesi gerekir. Usulüne uygun yapılmayan tebliğ, temyiz başvuru süresinin işlemeye başlamasını engeller.
+
+Temyiz süresini kaçıran taraf, hükmü katılma yoluyla temyiz edebilir (HMK m.366 atfıyla m.348). Ancak, katılma yoluyla temyiz halinde;
+
+asıl temyiz eden kişi  temyiz talebinden feragat eder veya talebi Yargıtay tarafından esasa girilmeden reddedilirse, katılma yolu ile başvuranın temyiz talebi de reddedilir (HMK m.348/2).
+
+Temyize cevap dilekçesi ile (katılma yoluyla) temyiz usulü 1086 Sayılı HUMK. nun 433 ve 6100 Sayılı HMK. nun 348. Maddelerinde düzenlenen temyiz süresini kaçıran tarafa sınırlı olarak kararı temyiz etme imkanı sağlayan bir müessese olup, bu usule göre katılma yoluyla temyiz hakkının kullanılabilmesi için kararı temyiz eden tarafın temyizinin usulüne uygun olması gerekir. Başka bir deyişle kararın temyiz edilebilir olması ve temyizin süresinde yapılması şarttır. Yargıtay’ ın tüm Dairelerinin uygulaması bu yoldadır. Somut olayda; davacı vekili kararı normal temyiz süresi geçtikten sonra davalı vekilinin temyiz dilekçesinin tebliği üzerine katılma yoluyla temyiz etmiştir. Katılma yolu ile temyiz imkanını doğuran davalı vekilinin asıl kararı temyiz talebi Mahkemece süresinde temyiz dilekçesi verilmediğinden reddedilmiş, bu ret kararı davalı vekili tarafından temyiz edilmediğinden reddedilmiştir. Katılma yolu ile temyize dayanak olan davalının temyiz talebi süresinde yapılmadığından davacı vekilinin bu talebe dayalı katılma yolu ile temyiz talebinin değerlendirilme imkanı kalmamış, davacı vekilinin dayanağı kalmayan katılma yolu ile temyiz talebinin reddine karar vermek gerekmiştir (Y9HD-K.2015/19138).
+
+
+### Temyiz Başvurusu Nasıl Yapılır?
+
+Davasız yargılama olmaz ilkesi gereği, temyiz incelemesi yapılabilmesi için mutlaka yazılı bir temyiz başvurusu yapılmış olması gerekir. İstinaf Mahkemesi, bir hükmü kendiliğinden temyiz incelemesi için üst mahkeme olan Yargıtay'a göndermez.
+
+*Temyiz başvurusu*,  kararı veren İstinaf Mahkemesi'ne bir temyiz dilekçesi verilerek yapılır.
+
+25.01.1985 gün ve 5/1 sayılı İçtihadı Birleştirme Kararı hükmü gereğince, temyiz isteği, dilekçenin temyiz defterine kaydettirildiği tarihte yapılmış sayılır ve temyiz dilekçesi verilirken gerekli harç ve giderlerin tamamı ödenir. Temyiz harç ve giderlerinin eksik ödenmiş veya hiç ödenmemiş olduğunun sonradan anlaşılmış bulunması halinde, karar veren Hakim tarafından yedi günlük kesin süre tanınarak, bu süre içerisinde tamamlanması veya ödenmesi, aksi halde temyizden vazgeçmiş sayılacağı temyiz edene yöntemince ve yazılı olarak bildirilir. Ancak, temyiz harcının mahkeme kalemince hesaplanıp temyiz edenden istendiği halde süresinde ödenmediği belgelendirilmiş ise temyiz isteğinin reddi gerekir (Y10HD-K.2017/4053).
+
+
+### Temyiz Başvurusunda Gerekçe Gösterilmesi Gerekir mi?
+
+Kural olarak temyiz dilekçesi temyiz nedenlerini ve gerekçesini içermelidir (HMK m.364/1-f). Ancak, İstinaf Mahkemesi'nin aksine, Yargıtay, tarafların ileri sürdükleri temyiz sebepleriyle bağlı olmayıp, kanunun açık hükmüne aykırı gördüğü diğer hususları da kendiliğinden inceleyebilir (HMK m.369/1).
+
+Tarafların temyiz konusu etmediği konular kanunun açık hükmüne aykırı değilse, Yargıtay tarafından kendiliğinden inceleme konusu yapılamaz. Örneğin, maddi ve manevi tazminat davasında davalı aleyhine tazminat miktarı düşük belirlenmesine rağmen, davacı bu durumu temyiz konusu yapmadığı taktirde Yargıtay tazminat miktarını kendiliğinden bozma konusu yapamayacaktır.
+
+Davalı-davacı kadın tarafından açılmış bir boşanma davası mevcut değildir.Bu durum karşısında kadının karşı davasında boşanma talebi olmadığı halde karşı dava yönünden boşanmaya karar verilmesi kanunun ağır ihlali niteliğinde olup, taraflarca temyiz edilmemiş olsa bile hükmün bozulması imkan dahilinde olduğundan (HMK m. 369/1, HUMK m. 435/1), mahkemece verilen hükmün açıklanan sebeple bozulmasına karar vermek gerekmiştir (Y2HD-K.2017/15148).
+
+
+Davacı erkek Türk Medeni Kanununun 166/1 maddesi uyarınca evlilik birliğinin sarsılması hukuki sebebine dayanarak boşanma isteminde bulunmuş, davalı kadın cevap dilekçesi ile erkeğin davasının reddini istemiş ve maddi ve manevi tazminat talebinde bulunmuştur. Mahkemece yapılan yargılama sonucunda kadının da boşanma davası varmış gibi tarafların boşanma davalarının kabulüne karar verilmiştir. Davalı kadın tarafından açılmış usulüne uygun bir boşanma davası mevcut değildir. Bu durum karşısında kadının davası yönünden boşanmaya karar verilmesi kanunun ağır ihlali niteliğinde olup, taraflarca temyiz edilmemiş olsa bile hükmün bozulması imkan dahilinde olduğundan (HMK m. 369/1, HUMK m.435/1), mahkemece verilen hükmün açıklanan sebeple bozulmasına karar vermek gerekmiştir. (Y2HD-K.2018/3240).
+
+
+### Temyiz Edilebilecek/Edilemeyecek Kararlar Nelerdir?
+
+Yargıtay’a temyiz başvurusu koşulları şunlardır (HMK m.362):
+
+- Miktar ve değeri 682.000 TL’yi geçmeyen (2026 yılı için) davalara dair istinaf mahkemesi kararları kesin olup aleyhine temyiz başvurusu yapılamaz (HMK md.362/1-a).
+- Kira ilişkisinden doğan ve miktar veya değeri itibarıyla temyiz edilebilen alacak davaları hariç olmak üzere 4 üncü maddede gösterilen davalar ile (634 sayılı Kat Mülkiyeti Kanunundan doğup taşınmazın aynına ilişkin olan davalar hariç) özel kanunlarda sulh hukuk mahkemesinin görevine girdiği belirtilen davalarla ilgili kararlar kesin olup aleyhine temyiz başvurusu yapılamaz. ((HMK md.362/1-b).
+- Alacağın bir kısmının dava edilmiş olması durumunda, 682.000 TL'lik kesinlik sınırı alacağın tamamına göre belirlenir. Alacağın tamamının dava edilmiş olması hâlinde, kararda asıl talebinin kabul edilmeyen bölümü 682.000 TL'yi geçmeyen tarafın temyiz hakkı yoktur. Ancak, karşı taraf temyiz yoluna başvurduğu takdirde, diğer taraf da düzenleyeceği cevap dilekçesiyle kararı temyiz edebilir (HMK md.362/4)
+- İcra ve İflas Kanunu uygulaması ile ilgili dava ve işlerle ilgili istinaf mahkemesi hukuk dairelerince verilen ve miktar veya değeri 682.000 TL'yi geçmeyen kararlara karşı temyiz başvurusu yapılamaz (İcra İflas K. md.364/1).
+- İş mahkemelerinin görev alanına giren dava ve işlerle ilgili istinaf kanun yoluna gidilmesi üzerine; bölge adliye mahkemesi tarafından hakkında nihai karar verilen "miktar veya değeri 682.000 TL'yi geçmeyen davalar" aleyhine temyiz başvurusu yapılmaz (7036 sayılı İş Mahkemeleri Kanunu md.7/3). İş mahkemesinin görev alanına giren "para ile değerlendirilemeyen dava ve işler hakkındaki kararlar" ile miktar ve değeri 682.000 TL'yi geçen davalar hakkında istinaf mahkemesinin son kararlarına karşı "tebliğ" tarihinden başlayarak 2 hafta içinde temyiz kanun yoluna başvurulabilir. İşe iade davaları neticesinde verilen istinaf mahkemesi kararları da temyiz edilemez (7036 sayılı İş Mahkemeleri Kanunu md.8/1-a).
+- İlk derece mahkemeleri arasındaki yetki, görev, merci tayinine dair istinaf mahkemesi tarafından verilen kararlar kesin olup aleyhine Yargıtay’a temyiz başvurusu yapılamaz.
+- Çekişmesiz yargı işlerine dair verilen yerel mahkeme kararlarına dair istinaf mahkemesi kararları kesin olup aleyhine Yargıtay’a temyiz başvurusu yapılamaz.
+
+Tevdi mahallinin belirlenmesi, 01.10.2011 tarihinde yürürlüğe giren 6100 sayılı HMK'nun 382. maddesinin ikinci fıkrasının (d) bendinin (3.) alt bendinde sayılan hallerden olup; bu kararlara karşı 387.madde uyarınca ilgililerin istinaf kanun yoluna başvurabilmeleri öngörülmektedir. Ayrıca, HMK'nun 361. maddesinde temyiz edilebilen kararlar, 362. madedesinde ise temyiz edilemeyen kararlar duraksamaya yer bırakmayacak şekilde tek tek sayılmıştır. HMK 361. maddede, çekişmesiz yargıya ilişkin verilen kararların temyize konu edileceğine dair bir düzenlemeye yer verilmezken 362. maddenin birinci fıkrasının (ç) bendinde çekişmesiz yargı işleri hakkında verilen kararların açıkça temyiz edilemeyeceği hüküm altına alınmıştır. 6100 sayılı Yasa'ya göre de, çekişmesiz yargı işlerinden olan "tevdi mahalli belirlenmesi kararlan" hakkında bölge adliye mahkemeleri için öngörülen Kanun yolunun, yasal bir dayanak olmadan temyiz yolu şeklinde yorumlanması yasanın amacına ve müessesenin getiriliş gerekçelerine uygun bir sonuç olmayacaktır. Tevdi mahalli tayini kararına itiraz üzerine verilen ek kararın temyizi kabil olmadığından karşı taraf vekilinin temyiz dilekçesinin REDDİNE karar verilmiştir (Y8HD-Karar : 2015/12231)
+
+
+- Soybağına ilişkin davalar hariç olmak üzere, nüfus kayıtlarının düzeltilmesine ilişkin davalara dair istinaf mahkemesi kararları aleyhine Yargıtay’a temyiz başvurusu yapılmaz.
+- İhtiyati tedbir, ihtiyati haciz gibi geçici koruma kararlarına dair istinaf mahkemesi kararları aleyhine Yargıtay’a temyiz başvurusu yapılamaz.
+
+6100 sayılı HMK'nun 341 maddesinde göre; İlk derece mahkemelerinden verilen nihai kararlar ile ihtiyati tedbir, ihtiyati haciz taleplerinin reddi ve bu taleplerin kabulü halinde, itiraz üzerine verilecek kararlara karşı istinaf yoluna başvurulabileceği, aynı kanunun 362/1-f) bendine göre "Geçici hukuki korumalar hakkında verilen kararlara" karşı temyiz kanunu yoluna başvuru yapılamayacağı belirtilmiştir. Bu durumda, HMK 389 ve sonraki maddelerinde düzenlenen tedbir kararları, söz konusu Kanunun 341 vd. maddelerine göre temyiz yolu ile incelenemediğinden, mahkeme kararına yönelik davacı vekilinin temyiz hakkı bulunmadığından temyiz talebinin REDDİNE karar verilmiştir (Y10HD-K.2018/6871).
+
+
+### İstinaf Yoluna Başvurmayan Temyiz Yoluna Başvurabilir mi?
+
+6100 sayılı HMK'nun 361. maddesi uyarınca kural olarak istinaf yoluna başvurmayan taraf temyiz yoluna başvuramaz. Ancak hukuki yararının bulunması halinde temyiz yoluna başvurabilecektir. Bir başka deyişle, diğer tarafın istinaf başvurusu üzerine İstinaf Mahkemesi tarafından aleyhine hüküm kurulması halinde temyiz yoluna başvurabilecektir (Y12HD-K.2019/17711).
+
+Özellikle belirtelim ki, ilk derece mahkemesinin kararına karşı yapılan istinaf başvurusunu esastan reddine, istinaf başvurusunun usulden reddine ilişkin İstinaf Mahkemesi kararlarına karşı istinaf etmeyen taraf temyiz başvurusu yapamaz.
+
+6100 sayılı Hukuk Muhakemeleri Kanunu'nun öngördüğü yargılama sistemine göre ilk derece mahkemesinin kesin olmayan kararına karşı önce istinaf yoluna başvurulabilmektedir. İstinaf başvurusu üzerine bölge adliye mahkemesince, başvuran tarafın istinaf başvurusunun usulden ya da esastan reddine karar verilebilir veya ilk derece mahkemesi kararı kaldırılarak yeniden hüküm kurulabilir. Bu durumda bölge adliye mahkemesi kararına karşı, istinaf başvurusu reddedilen tarafın ya da istinaf incelemesi sonucunda ilk derece mahkemesi kararı kaldırılarak yeni hüküm kurulması hâlinde aleyhine karar verilen tarafın temyiz hakkı bulunmaktadır. Başka bir deyişle istinaf başvurusunun reddi hâlinde bölge adliye mahkemesi kararına karşı temyiz hakkı sadece istinaf başvurusu reddedilen tarafa ait olup bu hâlde ilk derece mahkemesi kararını istinaf etmeyen tarafın temyiz hakkı bulunmamaktadır (Y5HD-K.2023/525).
+
+## Yargıtay Temyiz İncelemesi ve Kararları
+
+Yargıtay’a temyiz yolu kapalı olan ilk derece mahkemesi kararları, bölge adliye mahkemesinin kararı ile kesinleşir. Temyiz yolu açık olan istinaf mahkemesi hukuk dairelerinin kararlarına karşı 2 hafta içinde yapılan temyiz başvurusu üzerine Yargıtay temyiz incelemesi yapar. Temyiz incelemesi şu aşamalardan oluşur:
+
+- **Temyizde Ön İnceleme:** Ön inceleme aşaması, istinaf mahkemesinin yaptığı ön incelmeye benzer şekilde yapılır. Yani, Yargıtay temyiz başvurusu yapılan dava dosyasında usuli eksiklik bulunup bulunmadığını, temyiz süresine uyulup uyulmadığı, harç ve giderlerin yatırılıp yatırılmadığı gibi meselelerle ilgili bir temyiz ön incelemesi yaparak bu aşamada verilmesi gereken kararları verir (HMK md. 366).
+- **Temyizde Esastan İnceleme:** Temyiz başvurusu ile ilgili ön inceleme aşaması bittikten sonra Yargıtay, dava dosyasının esastan temyiz incelemesini yapar. Yargıtay tarafların temyiz talebinde bulunurken ileri sürdüğü temyiz sebepleri ile bağlı değildir. Yargıtay, kanunun açık hükmüne aykırı gördüğü huşuları temyiz dilekçesinde ileri sürülmese bile kendiliğinden değerlendirerek karar verir.
+
+Yargıtay, temyiz incelemesi neticesinde üç şekilde karar verir:
+
+- Onama kararı,
+- Bozma kararı,
+- Düzelterek onama kararı.
+
+### Yargıtay’da Temyiz Duruşması
+
+Yargıtay, temyiz incelemesini kural olarak dosya üzerinden yapar (HMK md. 369/2). İstisnai hallerde temyiz incelemesi duruşmalı da yapılabilir. Temyiz duruşması, Yargıtay’ın hukuk davasını esastan görüşmeye karar verdiği hallerde mümkün olabilir. Aşağıdaki hallerde temyiz incelemesi duruşmalı yapılabilir:
+
+- Miktar veya değeri 1.023.000 TL’yi (2026 yılı için) aşan alacak ve ayın davalarının temyiz incelemesi duruşmalı yapılabilir. (HMK 369/2).
+- Alacağın bir kısmının dava edilmiş olması durumunda, 567.250 TL'lik kesinlik sınırı alacağın tamamına göre belirlenir. Alacağın tamamının dava edilmiş olması hâlinde, kararda asıl talebinin kabul edilmeyen bölümü 1.023.000 TL'yi geçmeyen tarafın temyiz hakkı yoktur. Ancak, karşı taraf temyiz yoluna başvurduğu takdirde, diğer taraf da düzenleyeceği cevap dilekçesiyle kararı temyiz edebilir (HMK md.369/3).
+- Tüzel kişiliğin feshine veya genel kurul kararlarının iptali ile ilgili davaların temyiz incelemesi duruşmalı yapılabilir.
+- Evlenmenin butlanına ve iptaline ilişkin davaların temyiz incelemesi duruşmalı yapılabilir.
+- Boşanma veya ayrılığa, velayete, soybağına ve kısıtlamaya ilişkin davaların temyiz incelemesi duruşmalı yapılabilir.
+
+Yukarıda sayılan hallerde taraflardan birinin temyiz veya temyize cevap dilekçesinde duruşma talep etmesi halinde Yargıtay temyiz incelemesini duruşmalı yapar. Yargıtay, yukarıda saydığımız koşullar olmasa bile gerek gördüğünde kendiliğinden de duruşma yapabilir (HMK md. 369/4).
+
+### Yargıtay Onama Kararı
+
+Yargıtay, istinaf mahkemesi tarafından verilen karar hakkında yaptığı temyiz incelemesi neticesinde onama kararı verebilir. Yargıtay onama kararı verirken onadığı kararın hukuk normlarına uygunluk gerekçelerini göstermek zorundadır (HMK md. 370/1).
+
+Onama kararı ile birlikte dava dosyası kesinleşir ve dosya gerekli işlemlerin yapılması için ilk derece mahkemesine gönderilir.
+
+### Yargıtay Düzelterek Onama Kararı
+
+Yargıtay, istinaf mahkemesi tarafından verilen kararı temyiz incelemesi neticesinde “düzelterek onama” yetkisine de sahiptir (HMK md. 370/2). Şu hallerde istinaf mahkemesi kararları için düzelterek onama yolu mümkündür:
+
+- Temyiz edilen karar esas yönünden yasaya uygun, ama yasa olaya uygulanırken hatalı uygulanmış ve bu durum için yeniden yargılama yapılması şart değilse Yargıtay temyiz incelemesi neticesinde düzelterek onama kararı verebilir.
+- Tarafların kimlik bilgilerine dair hatalar varsa, hesap hataları, açık ifade hataları veya yazı yanlışlıkları varsa Yargıtay düzelterek onama kararı verebilir.
+- İstinaf mahkemesi kararı yerinde olup da gerekçesi yanlışsa gerekçe değiştirilerek “düzelterek onama” kararı verilebilir.
+
+### Yargıtay Bozma Kararı
+
+Yargıtay, istinaf mahkemesi kararına karşı yapılan temyiz başvurusu üzerine, hukukun veya taraflar arasındaki sözleşmenin yanlış uygulanması, dava şartlarına aykırılık, taraflardan birinin davasını ispat için dayandığı delillerin kanuni bir sebep olmaksızın kabul edilmemesi, karara etki eden yargılama hatası veya eksiklikleri bulunması gerekçeleriyle bozma kararı verebilir (HMK md. 371).
+
+Adli istinaf mahkemesi, ilk derece mahkemesinin kararına karşı yapılan istinaf başvurusunu esastan reddedebilir. Bu durumda, adli istinaf mahkemesi ile ilk derece mahkemesinin aynı kanaatte olmaktadır. Yargıtay’ın bozma kararı, bölge adliye mahkemesinin istinaf başvurusunu esastan reddine dair kararına ilişkinse, adli istinaf mahkemesinin kararı bozma kararı ile kaldırılır, dava dosyası ilk derece mahkemesine gönderilir ve kararın bir sureti de adli istinaf mahkemesine gönderilir (HMK md. 373).
+
+Adli istinaf mahkemesi, istinaf başvurusu üzerine incelediği kararı “düzelterek yeniden karar” verebilir veya ilk derece mahkemesinin kararını kaldırarak yeniden karar verebilir. Yargıtay’ın bozma kararı, bölge adliye mahkemesinin bu tür kararlarına ilişkinse bozma kararı verilerek dosya yeniden ilgili adli istinaf mahkemesine veya uygun görülecek başka bir adli istinaf mahkemesine gönderilir (HMK md. 373).
+
+- **Bozma Kararına Uyma:** Yargıtay temyiz incelemesi neticesinde verilen bozma kararına karşı, dosya kendisine gönderilen ilgili mahkeme “bozmaya uyma” kararı verebilir.Temyiz incelemesi üzerine verilen bozma kararları üzerine dosya kendilerine gönderilen ilk derece mahkemeleri veya adli istinaf mahkemeleri “bozmaya uyma” kararı verdiğinde,  bu kararlara karşı doğrudan temyiz yoluna başvurulabilir (HMK md. 373/4). Yargıtay’ın bozma kararına karşı “bozmaya uyma” şeklinde karar veren mahkeme isterse istinaf mahkemesi isterse ilk derece mahkemesi olsun, “bozmaya uyma” kararına karşı nacak temyiz yoluna gidilebilir. Bozmaya uyma kararına karşı artık istinaf başvurusu yapılamaz.
+- **Bozma Kararına Karşı Direnme** Yargıtay'ın temyiz incelemesi neticesinde verilen bozma kararına karşı, dosya kendisine gönderilen ilgili mahkeme “direnme” kararı da verebilir. Yargıtay’ın bozma kararı üzerine, dosya kendisine gönderilen adli istinaf mahkemesi veya ilk derece mahkemesi direnme kararı verdiğinde, direnme kararlarına karşı da doğrudan temyiz yoluna gidilir. İlk derece mahkemesi veya adli istinaf mahkemesi kararında direnirse, bu kararın temyiz edilmesi durumunda inceleme, kararına direnilen dairece yapılır. Direnme kararı öncelikle incelenir. Daire, direnme kararını yerinde görürse kararını düzeltir; görmezse dosyayı Yargıtay Hukuk Genel Kuruluna gönderir. (HMK md. 373/5-6).
+
+
+## Temyiz Başvurusu ve İncelemesi (HMK) Yargıtay Kararları
+
+### Temyiz Başvurusu Nasıl Yapılır? Posta Yoluyla Temyiz Başvurusu
+
+Temyiz dilekçesi, temyiz edilen kararı vermiş olan mahkemeye veya başka bir yer mahkemesine verilebilir. Temyiz dilekçesi, kararı vermiş olan mahkemeden başka bir mahkemeye verilmişse, o mahkemece temyiz defterine kaydolunur ve durum derhâl kararı temyiz edilen mahkemeye bildirilir.
+
+Temyiz dilekçesi posta ile de (mahkemeye) gönderilebilir. Fakat bu hâlde, temyiz talebi temyiz dilekçesinin (postaya verildiği tarihte değil) mahkemeye geldiği (temyiz defterine kaydedildiği, harca tabi ise harcın yatırıldığı) tarihte yapılmış sayılır. Yani, temyiz dilekçesinin postaya (PTT’ye) veriliş tarihi temyiz süresini kesmez (Kuru, B.: Hukuk Muhakemeleri Usulü, 6. Baskı, İstanbul 2001, C. V, s. 4583).
+
+Yukarıda yapılan açıklamalar doğrultusunda somut olayda, davanın esastan reddine ilişkin Özel Daire kararının davacıya Münster Başkonsolosluğu tarafından usulüne uygun şekilde 06.02.2020 tarihinde tebliğ edildiği, davacının kararı temyiz ettiğine ilişkin 07.02.2020 tarihli dilekçesini, herhangi bir mahkemeden havale ettirmeksizin, kararı veren Yargıtay 4. Hukuk Dairesine doğrudan posta yoluyla gönderdiği, temyiz talebini içeren postanın 24.02.2020 tarihinde Yargıtay 4. Hukuk Dairesine ulaştığı, aynı gün (24.02.2020 tarihinde) havale edildiği, iş yoğunluğu ve pandemi nedeniyle adli hizmetlere ara verilmesinden dolayı temyiz defterine kaydının hemen yapılamadığı ve ancak 24.06.2020 tarihinde temyiz defterine kaydedildiği anlaşılmaktadır.
+
+Belirtildiği üzere, temyiz yoluna posta marifetiyle gönderilen bir dilekçe ile başvurulması mümkün ise de, temyiz tarihi dilekçenin postaya verildiği tarih değil, Özel Daireye ulaştığı tarihtir. Özel Daire kararı davacıya 06.02.2020 tarihinde tebliğ edilmiş ve davacı tarafından posta yoluyla gönderilen 07.02.2020 tarihli temyiz dilekçesi Özel Daireye 24.02.2020 tarihinde ulaşmıştır. Buna göre; temyiz talep tarihinin 24.02.2020 olarak kabulü zorunludur. Hâl böyle olunca, temyiz istemi HMK’nın 361/1. maddesinde düzenlenen iki haftalık süreden sonra yapıldığından davacının temyiz isteminin süreden reddine karar vermek gerekmiştir (Hukuk Genel Kurulu-Karar:2021/124).
+
+### Temyiz Nedenleri ve Temyiz İncelemesinin Kapsamı
+
+Temyiz kanun yolunda, hüküm mahkemesinin kararı sadece hukuka uygunluk bakımından inceleme konusu yapılır. Bu nedenle temyiz sadece hukukun yanlış uygulanmış olduğu sebebine dayanabilir. Temyiz talebinde yeni vakıalar ileri sürülürse, bunların Yargıtay'ca incelenmesi caiz olmadığından Yargıtay sadece hukukun yanlış uygulanmış olup olmadığını incelemekle yetinir (Kuru: s. 4502). Başka bir deyişle, temyiz kanun yolunda mahkemenin kararı temyiz mercii olan Yargıtay tarafından hukuka uygunluk bakımından denetlenir; dava yolu ile önüne gelen uyuşmazlık hakkında mahkemenin verdiği kararın hukuka ve kanuna uygunluğu denetim konusu yapılır. Kural olarak temyiz incelemesinde daha önce ileri sürülmeyen yeni vakıaların ve delillerin ileri sürülmesi mümkün değildir.
+
+Temyiz kanun yolu 1086 sayılı Kanun'un 427 ilâ 439'uncu maddeleri arasında düzenlenmiştir. Buna göre mahkemelerce verilen nihaî kararlara karşı temyiz yoluna başvurulması mümkündür. Ancak kanunlardaki özel hükümler gereği kesin olduğu belirtilen kararlar ile miktar veya değeri Kanunda öngörülen sınırın altında kalan kararların temyizi kabil değildir.
+
+Temyiz kanun yoluna başvuru belli bir süreye tabi olup, bu süre kararı veren mahkemeye göre farklılık göstermektedir.
+
+Temyiz sebepleri ise Kanun'un 428'inci maddesinde düzenlenmiştir.Madde hükmü dikkate alındığında öncelikle kanunun yanlış uygulanması ya da hiç uygulanmamış olması temyiz (bozma) nedenidir. Kanun yanında (kanunlara aykırı olmayan) tüzüklerin, (kanunlara ve tüzüklere aykırı olmayan) yönetmeliklerin, örf ve âdet hukukunun yanlış uygulanması ya da hiç uygulanmaması da kuşkusuz temyiz nedenidir. Bunların yanında taraflar arasında yapılmış sözleşmenin somut olaya uygulanmasında yapılan yanlışlık da temyiz nedeni olacaktır.
+
+Öte yandan mahkemenin görevsiz olması, tarafları, dava sebebi ve konusu aynı olan davalar hakkında birbirine çelişik kararlar verilmiş olması, delillerin kanuni sebep olmaksızın reddedilmesi, mahkemenin yani adli yargı içindeki hukuk mahkemesinin değil de örneğin idari yargı içinde yer alan bir mahkemenin görevli olması, hakimin davaya bakmasının yasak olması, bir usul kuralının yanlış uygulandığına ilişkin itirazın incelenmemiş olması, usul kurallarına muhalefet edilmesi (bu temyiz nedeni kapsamında olmak üzere hükmün gerekçe içermemesi, dava şartlarının bulunmaması tek başına bozma nedeni ise de tek başına bozma nedeni oluşturan usuli hataların dışındaki usul kurallarına aykırılıkların temyiz (bozma) nedeni oluşturabilmesi için, Kanun'un 428'inci maddesinin ikinci fıkrasında belirtildiği üzere bu usuli yanlışlığın, yapılmasaydı verilen kararı değiştirebilecek nitelikte esaslı olmasına bağlıdır.) ve maddi meselenin takdirinde hata edilmiş olması temyiz nedenleri arasında sayılmıştır. Kanun'da yazılı olduğu şekli ile "meselei maddiyenin takdirinde hatâ edilmesi" temyiz nedenine dayanarak Yargıtay'ın delillerin takdirinin doğru yapılıp yapılmadığını inceleyerek böylece istinafın boşluğunu doldurmaya çalıştığı bilinmektedir.
+
+Yargıtay ileri sürülen veya kendisinin tespit ettiği temyiz sebeplerini yerinde görürse mahkeme kararını kısmen ya da tamamen bozar. Yargıtay hükmü bozmakla yetinir ve kararında bozma nedeni veya nedenlerini gerekçesi ile belirtir. Yoksa ilk derece mahkemesinin yerine geçerek bir karar veremez veya yeniden yargılama yapamaz. (Pekcanıtez, s.2363). Yargıtay hükmü usul ve kanuna uygun bulursa temyiz itirazlarını reddederek mahkeme kararının onanmasına karar verir. (Yargıtay HGK - Karar : 2018/1610).
+
+### Temyiz Sebepleri, Temyiz İnceleme Usulü ve Sonuçları
+
+Temyiz kanun yolu 6100 sayılı HMK'nın 361 ve devam eden maddelerinde düzenlenmiştir. Kanunun 361. maddesine göre, "Bölge adliye mahkemesi hukuk dairelerinden verilen temyizi kabil nihai kararlar ile hakem kararlarının iptali talebi üzerine verilen kararlara karşı tebliğ tarihinden itibaren iki hafta içinde temyiz yoluna başvurulabilir." Görüldüğü üzere temyiz kural olarak bölge adliye mahkemelerinin kararlarına karşı başvurulabilen bir kanun yoludur. Kanun'un 362. maddesi ile hangi kararlara karşı temyiz yoluna gidilemeyeceği düzenlenmiştir.
+
+Temyiz sebepleri Kanun'un 371. maddesinde sayılmıştır. Bunlar; hukukun veya taraflar arasındaki sözleşmenin yanlış uygulanmış olması; dava şartlarına aykırılık bulunması; taraflardan birinin davasını ispat için dayandığı delillerin kanuni bir sebep olmaksızın kabul edilmemesi ve karara etki eden yargılama hatası veya eksiklikler bulunması olarak belirtilmiştir. Yargıtay taraflarca ileri sürülen veya kendisinin tespit ettiği temyiz sebeplerini yerinde görürse, bozma kararı verecektir. Ancak, temyiz başvurusu bölge adliye mahkemesi tarafından verilen istinaf başvurusunun esastan reddi kararına ilişkin ise bölge adliye mahkemesi kararı kaldırılarak dosya, kararı veren ilk derece mahkemesine veya uygun görülecek diğer bir ilk derece mahkemesine, kararın bir örneği de bölge adliye mahkemesine gönderilir. Bölge adliye mahkemesinin düzelterek veya yeniden esas hakkında verdiği karar Yargıtayca tamamen veya kısmen bozulduğu takdirde dosya, kararı veren bölge adliye mahkemesi veya uygun görülen diğer bir bölge adliye mahkemesine gönderilir. Yargıtayın bozma kararı üzerine ilk derece mahkemesince bozmaya uygun olarak karar verildiği takdirde, bu karara karşı temyiz yoluna başvurulabilir. Öte yandan dosyanın bölge adliye mahkemesine gönderildiği durumlarda bölge adliye mahkemesi, Kanun'un 344. maddesi uyarınca peşin alınmış olan gideri kullanmak suretiyle, kendiliğinden tarafları duruşmaya davet edip dinledikten sonra Yargıtayın bozma kararına uyulup uyulmayacağına karar verir. Gerek ilk derece mahkemesi gerek bölge adliye mahkemesi kararında direnirse, bu kararın temyiz edilmesi durumunda inceleme, kararına direnilen dairece yapılır. Direnme kararı öncelikle incelenir. Daire, direnme kararını yerinde görürse kararını düzeltir; görmezse dosyayı Yargıtay Hukuk Genel Kuruluna gönderir (Hukuk Genel Kurulu- Karar: 2021/396).
+
+### İstinaf Mahkemesinin Kesin Nitelikte Kararı Temyiz Edilemez
+
+Taraflar arasındaki davanın yapılan muhakemesi sonunda bölge adliye mahkemesi hukuk dairesince verilen, yukarıda tarihi ve numarası gösterilen hüküm temyiz edilmekle, evrak okunup gereği görüşülüp düşünüldü:
+
+Davacı kadın tarafından açılan anlaşmalı boşanma davasının kabulüne karar verilmiş, hükme yönelik davacı kadın tarafından istinaf talebinde bulunulmuş, bölge adliye mahkemesi tarafından davacı kadının istinaf talebinin kabulüne, ilk derece mahkemesinin kararının kaldırılmasına ve dosyanın HMK m.353/l-a-6 uyarınca çekişmeliye dönüşen boşanma davası hakkında hüküm kurulmak üzere yerel mahkemesine iadesine karar verilmiş, davalı erkek tarafından temyiz talebinde bulunulmuştur. Bölge adliye mahkemesi tarafından Hukuk Muhakemeleri Kanunu'nun 353/1-a -6 maddesi gereğince verilen kararlar kesin niteliktedir. Bu sebeple temyiz dilekçesinin reddine karar vermek gerekmiştir. (Yargıtay 2.HD - Karar:2018/13786).
+
+### İstinaf Mahkemesinin Yargıtay Dairesi Kararına Direnmesi
+
+02.12.2016 tarihinde yayımlanarak yürürlüğe giren 6763 sayılı Kanunun 43. maddesi ile değişik 6100 sayılı Hukuk Muhakemeleri Kanununun 373. maddesinin 5.fıkrası “İlk derece mahkemesi veya bölge adliye mahkemesi kararında direnirse, bu kararın temyiz edilmesi durumunda inceleme, kararına direnilen dairece yapılır. Direnme kararı öncelikle incelenir. Daire, direnme kararını yerinde görürse kararını düzeltir; görmezse dosyayı Yargıtay Hukuk Genel Kuruluna gönderir” hükmünü içermektedir.
+
+Aynı Yasanın Geçici 4. maddesinin ikinci fıkrası da “Bu maddeyi ihdas eden Kanunun yürürlüğe girdiği tarih itibarıyla Yargıtay Hukuk Genel Kurulunda bulunan dosyalar, kararına direnilen daireye gönderilir.” hükmünü getirmiştir.
+
+Anılan Yasa maddeleri gereğince, yerel mahkemece verilen direnme kararına yönelik olarak yeniden öncelikle inceleme yapılarak; Dairenin direnmeyi yerinde görmesi halinde kararını düzeltmesi, yerinde görmez ise Yargıtay Hukuk Genel Kuruluna göndermesi için dosyanın bozma kararını veren Daireye gönderilmesi gerekmiştir (YHGK - Karar : 2017/1441).
+
+### Temyiz Sınırının Altında Kalan Davanın Temyiz Edilmesi
+
+Dava, 80.788,45 TL alacak için başlatılan icra takibine itirazın iptali talebine ilişkindir. Bölge Adliye Mahkemesi karar tarihi olan 02/02/2021 itibariyle Bölge Adliye Mahkemesi temyiz kesinlik sınırı 78.630,00 TL olup bu meblağın altında kalan hükümlerin 6100 sayılı HMK'nın 362/1-a. bendi uyarınca kesin nitelikte olduğu, mahkemece davanın kısmen kabülü ile 38.932,55 TL alacağa ilişkin itirazın iptaline karar verildiği, davalı aleyhine hükmedilen miktar ile davacı taraf için reddedilen 41.855,90 TL’nin temyiz sınırı altında kaldığı anlaşılmaktadır. 6100 sayılı HMK'nın 366. maddesi delaletiyle kıyasen uygulanması gereken aynı Kanunun 346/2. maddesi hükmü uyarınca, kesin olan kararların temyiz istemleri hakkında Bölge Adliye Mahkemesince bir karar verilmesi gerekmekle birlikte, Yargıtay tarafından da bu yolda karar verilebileceğinden, davacı ve davalı vekillerinin temyiz isteminin ayrı ayrı reddine karar vermek gerekmiştir (Yargıtay 11. Hukuk Dairesi-K.2021/5221).
+
+### İcra İflas Hukuku Davalarında Temyiz Sınırı
+
+26.9.2004 tarih ve 5235 sayılı Adli Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında Kanuna paralel olarak, 2004 sayılı İcra ve İflas Kanunu'nun temyiz ve karar düzeltmeye ilişkin hükümlerinde değişiklik yaparak istinaf ve temyiz ile ilgili hükümleri yeniden düzenleyen 18.3.2005 tarih ve 5311 sayılı Kanun ile İcra İflas Kanunu'na eklenen geçici 7.maddeye göre, 5311 sayılı Kanun hükümleri Bölge Adliye Mahkemelerinin göreve başladığı 20.07.2016 tarihinden sonra verilen kararlar hakkında uygulanır.
+
+2.3.2005 tarih ve 5311 sayılı Kanunun 25.maddesi ile değişik 2004 sayılı İcra ve İflas Kanunu'nun 364/1.maddesine göre Bölge Adliye Mahkemesi Hukuk Dairesince verilen ve miktar ve değeri Onbin Türk Lirası’nı geçen nihai kararlara karşı temyiz yoluna başvurulabilir. Bu hükümde öngörülen kesinlik sınırı, 02.12.2016 tarih ve 6763 sayılı Kanun'un 4. maddesi ile kırk bin Türk Lirası’na çıkarılmıştır.
+
+Somut olayda, Bölge Adliye Mahkemesinin 13.03.2017 karar tarihine göre uyuşmazlık konusu değerin, yukarıda belirtilen kesinlik sınırını geçmediği anlaşıldığından, anılan Bölge Adliye Mahkemesi kararının temyiz kabiliyeti yoktur (Yargıtay 12. Hukuk Dairesi - Karar : 2017/7432).
+
+### Gerekçesiz Mahkeme Kararının Temyiz İncelemesi Sonucu Bozulması
+
+HUMK’nun 388.maddesinin 3-5 bentleri (HMK’nın 297/1-c) hükümlerine göre, mahkeme kararlarının asgari olarak iki tarafın iddia ve savunmalarının özetlerini mahkemece incelenen maddi ve hukuki olay ve meselelerin özüne mahkemeyi sonuca götüren gerçeklerin ne olduğu hususlarını içermesi zorunludur. Yine Anayasanın 141/3 maddesi hükmü de tüm mahkeme kararlarının gerekçeli olması gereğini düzenlemektedir.
+
+Kararlara konulması gereken gerekçeler sayesinde taraflar hükmün hangi maddi ve hukuki sebebe dayandırıldığı anlayabilecekleri gibi, karar aleyhine kanun yoluna başvurulduğunda da HUMK’nun 428. (HMK’nın 369.) maddesi uyarınca Yargıtay incelemesi sırasında ancak bu gerekçe sayesinde kararın usul ve yasaya uygun olup olmadığı saptanır. Diğer bir ifadeyle Yargıtay denetimi ancak bir kararın gerekçe taşıması halinde mümkün olabilir.
+
+Somut olayda mahkemenin davanın kabulüne yönelik vermiş olduğu hükmünün gerekçesi, davalı ...A.Ş. yönünden davanın hangi nedenlerle kabul edildiği ve anılan davalının sorumluluğunun hangi sebeplerden ibaret olduğu hususunu da içermediğinden Anayasa’nın 141/3, HUMK'nun 388/3-5 (HMK’nın 297/1-c) maddelerine aykırı olduğu gibi HUMK’nun 428. (HMK’nın 369.) maddesi gereğince Yargıtay denetimi olanağını da ortadan kaldırdığından hükmün bozulması gerekir (Yargıtay 17.HD - Karar : 2017/8560).
+
+### Temyiz Harcının Eksik Yatırılması
+
+Yukarıda da belirtildiği üzere 5521 sayılı İş Mahkemeleri Kanunu'nun 8 inci maddesine göre iş mahkemesinden verilen kararlar tefhim ve tebliğ tarihinden itibaren 8 gün içinde (not:yeni düzenlemeyle 2 hafta) temyiz olunabilir. Bu süre içinde temyiz dilekçesinin hakime havale ettirildikten sonra temyiz defterine kaydının yaptırılması ve temyiz harç ve giderlerinin yatırılması gerekir. Temyiz süresi içinde temyiz dilekçesi temyiz defterine kaydedilmiş, ancak temyiz harç ve giderleri yatırılmamış ise, temyiz harç ve giderlerinin yatırılması için ilgili tarafa HUMK nun 434/3. maddesi gereği 7 günlük kesin süre verilmesi gerekir. Sekiz günlük temyiz süresi içinde temyiz edilmeyen (HUMK.432/4) veya temyiz defterine kaydı yapılmayan (HUMK. 434/2) yahut verilen kesin süre içinde temyiz harç ve giderleri yatırılmayan (HUMK. 434/3) kararlar kesinleşmiş olur.
+
+Temyiz süresi içinde temyiz dilekçesi temyiz defterine kaydedilmiş, ancak temyiz harç ve giderleri yatırılmamış veya eksik yatırılmış ise, temyiz harç ve giderlerinin yatırılması veya tamamlanması için ilgili tarafa HUMK nun 434/3. maddesi gereği bir muhtıra ile 7 günlük kesin süre verilmesi gerekir. Mahkemece ilgili tarafa gönderilen temyiz harç ve giderlerinin yatırılması veya tamamlanmasına dair iş bu muhtıranın mutlaka müzekkere şeklinde yazılması ve muhtırada verilen kesin süre içinde temyiz harç ve giderlerinin yatırılmaması ya da tamamlanmaması halinde mahkeme kararının temyiz edilmemiş sayılacağına karar verileceğinin açıkça yazılması gerekir. Yine bu muhtırada yatırılması veya tamamlanması istenen temyiz harç ve giderleri kalem kalem ve miktar olarak belirtilmeli, temyiz harç ve giderlerinin nereye yatırılacağı açıkça yazılmalıdır. Usulüne uygun muhtıraya rağmen, muhtırada belirtilen temyiz harç ve giderlerinin tamamlanmaması halinde mahkemece, temyiz talebinde bulunan tarafın temyiz talebi ile ilgili olarak; " ...mahkeme kararını temyiz etmemiş sayılmasına" şeklinde karar verilmelidir.
+
+Yargılama harçları (temyiz harçları da dahil) 492 sayılı Harçlar Kanunu'nda ve çeşitli özel yasalarda düzenlenmiştir. Yargıtay tarafından temyiz incelemesi yapılabilmesi için, temyiz harç ve giderlerinin temyiz eden tarafından mutlaka tam olarak yatırılması gerekir. Temyiz giderleri, dava dosyasının Yargıtay'a gönderilmesi ve temyiz incelemesinden sonra Yargıtay tarafından dosyanın mahkemeye iadesi için gereken giderler ile temyiz incelemesi sırasında Yargıtay'da ve temyiz incelemesi sonrası yerel mahkemede yapılması gereken tebligatlar için gerekli giderleri kapsar. Temyiz harçları ise (mahkemece alınması gereken temyiz harçları) başvurma harcı ile karar ve ilam harcından oluşmaktadır. Başvurma harcı harçlar yasasında düzenlenmiş, her yıl miktarı değişen maktu bir harç olup temyiz eden tarafından yatırılması zorunludur. Temyiz karar ve ilam harcı ise ikiye ayrılmaktadır. Buna göre;
+
+1- Maktu karar ve ilam harcına bağlı davaların kabul ve reddine ilişkin kararların ve nispi harca tabi davaların reddine ilişkin kararların temyizi halinde alınması gereken temyiz karar ve ilam harcı maktu olup bu harcın tamamı peşin olarak temyiz edenden alınır.
+
+2- Nispi karar ve ilam harcına tabi davaların kabulüne (ya da kısmen kabulüne) ilişkin kararların temyiz edilmesi halinde alınması gereken temyiz karar ve ilam harcı nispi olup, mahkemece alınmasına karar verilen nispi karar ve ilam harcının dörtte biri peşin olarak (nispi temyiz karar ve ilam harcı olarak) alınır.
+
+Bunun yanında, mahkemece verilen ek kararların temyiz edilmesi halinde de (örneğin temyiz talebinin süreden reddine dair ek karar) mahkemece temyiz harç ve giderlerinin alınması gerekir. Ek kararların temyizi halinde, ek kararı temyiz edenden öncelikle başvurma harcı alınmalı ayrıca bunun yanında mahkemece verilen asıl karar ister maktu karar ve ilam harcına tabi olsun isterse nispi karar ve ilam harcına tabi olsun temyiz edenden maktu temyiz karar ve ilam harcı alınmalıdır.
+
+Somut olay açısından yapılan tespit ve değerlendirmede; mahkemece verilen kararın davalılar tarafından temyiz edildiği, ancak nispi olarak yatırılması gereken temyiz karar ve ilam harcının davalı .... tarafından maktu olarak yatırıldığı, diğer davalı ... Taşımacılık .... .... Hizmetleri .... Ve Tic. Ltd. Şti.’nin ise temyiz harçlarını yatırmadığı anlaşılmıştır. Bu nedenle, mahkemece kararı temyiz eden davalılardan eksik temyiz harç ve giderlerinin yukarıda yazılı usul ve esaslar dairesinde alınarak buna dair belgelerin dosyaya konması ve bu şekilde gönderilmesi için dosyanın yerel mahkemesine GERİ ÇEVRİLMESİNE, 20.09.2018 gününde oybirliğiyle karar verildi (Yargıtay 9. Hukuk Dairesi - Karar : 2018/16292).
+
+### Temyiz Süresinin Kararda Yanlış Gösterilmesi
+
+09/06/1932 tarih ve 2004 sayılı İcra İflas Kanunu’nun 02/03/2005 tarih ve 5311 sayılı Kanunla değişmeden önceki 363. maddesine göre icra mahkemesinin nihai kararları tefhim veya tebliğinden itibaren 10 gün içinde temyiz edilebilir. Maddedeki “tefhim” kavramının "hükme ilişkin tüm hususların gerekçesi ile birlikte açıklandığı hal" olarak anlaşılması zorunludur. Bu nedenle, yukarıda açıklanan nitelikte bir tefhim varsa temyiz süresi tefhim tarihinden itibaren, aksi halde gerekçeli kararın tebliğinden itibaren başlayacaktır.
+
+Mahkemece temyiz talebinin süresinde olmaması nedeniyle temyiz dilekçesinin reddine karar verdiği 13.02.2015 tarihli kararında iş bu kararın tebliğ tarihinden itibaren 10 gün içinde Yargıtay'da temyiz yoluna başvurulacağı yazılmış ve ek kararı tebliğ alan alacaklı vekili de 10.gün kararı temyiz etmiştir. HUMK. m.432/son hükmü gereğince bu ret kararına karşı temyiz süresi ise kararın tebliğinden itibaren 7 gündür. Fakat Mahkemece '' tebliğ tarihinden itibaren 10 gün içinde '' denilmek suretiyle istinaf süresi konusunda tarafları yanıltacak şekilde hüküm oluşturulmuştur. Anayasa Mahkemesi'nin 20/1/2016 gün, 2013/7114 başvuru numaralı kararında da belirtildiği üzere kararda temyiz süresinin hatalı gösterilerek hukuki belirsizliğe yol açılması, Anayasa'nın 36. maddesinde güvence altına alınan adil yargılanma hakkının ihlal edilmesi sonucunu doğurmaktadır. 6100 sayılı HMK’nın 297/1-ç maddesi ve Anayasa’nın 40. maddesi hükümlerine göre de kararda yasa yolu, süresi, mercii ve şeklinin açıkça gösterilmesi gerekmektedir.
+
+Yukarıda açıklanan mevzuat hükümleri ve Anayasa Mahkemesi’nin kararı ışığında Mahkemenin kanun yolunu ve süresini taraflara doğru gösterme yükümlülüğü göz önüne alındığında alacaklı vekilinin temyiz dilekçesinin süre yönünden reddine dair karara yönelik temyiz talebinin süresinde olduğu oyçokluğu ile kabul edilerek, temyize konu ... İcra Hukuk Mahkemesi'nin 2014/51 Esas sayılı dosyasında hükmün tefhim edildiği 15.01.2015 tarihli duruşmada belirtilen yasa maddelerine uygun karar verilmediğinden ve yasa yolu süresinin tefhimle işlemeye başlayacağından söz edilemeyeceğinden, davalı alacaklının temyiz dilekçesinin süresinde kabulü gerekir. Bu nedenle mahkemenin temyizin süresinde bulunmadığından temyiz dilekçesinin süre yönünden reddine dair verdiği 13.02.2015 tarihli kararın kaldırılmasına oybirliği ile karar verildi (Yargıtay 8. HD-Karar : 2018/233).
+
+
+---
+
+## İhtiyari ve Zorunlu Arabuluculuk Şartları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/arabuluculuk/arabuluculuk-kanunu-nedir (son güncelleme: 2023-04-07)*
+
+Arabuluculuk Nedir? İhtiyari ve Zorunlu Arabuluculuk Nedir? Ticari Davalar ve İş Hukukunda Dava Şartı Arabuluculuk Yasası Başvuru Şartları Nelerdir? Kıdem ve İhbar Tazminatı, Fazla Mesai (çalışma) Alacağı, Yıllık Ücretli İzin Arabuluculuk Zorunluluğu
+
+
+## Arabuluculuk Nedir?
+
+**Arabuluculuk**;  bir özel hukuk uyuşmazlığının tarafı olan kişilerin, özgür iradeleriyle seçtikleri tarafsız ve uzman bir üçüncü kişinin (arabulucu)  hakemliğinde, dava açılmadan önce veya dava açıldıktan sonra başvurdukları bir uyuşmazlık çözüm yöntemidir. *Arabuluculuk*, uyuşmazlığın mahkeme dışı, hızlı ve kesin bir şekilde çözülmesini amaçlayan bir usul hukuku kurumudur.
+
+*Arabuluculuk*, "zorunlu arabuluculuk" ve "ihtiyari arabuluculuk" olmak üzere ikiye ayrılmaktadır:
+
+- **Zorunlu Arabuluculuk:** Bazı uyuşmazlıklar için mahkemeye dava açmadan önce arabulucuya gitme zorunluluğu vardır. Zorunlu arabuluculuk, bu uyuşmazlıklar açısından dava şartıdır. Yani, arabulucuya gitmeden açılan dava, dava şartı yokluğu nedeniyle reddedilir. Ticari davalar ve iş davalarına konu olan bazı talepler (kıdem tazminatı, ihbar tazminatı, fazla mesai ücreti, maaşlar vb.) zorunlu arabuluculuk kapsamına alınmıştır.
+- **İhtiyari Arabuluculuk:** İhtiyari arabuluculuk, tarafların bir arabulucuya gitme zorunluluğu olmadığı halde uyuşmazlığın çözümü için  dava açmadan önce arabulucuya başvurmayı tercih etmesidir. Taraflar üzerinde tasarruf edebilecekleri her türlü özel hukuk uyuşmazlığıyla ilgili ihtiyari arabuluculuk yoluna başvurabilir.
+
+Suç teşkil eden fiillerle bağlantılı uyuşmazlıklar, arabuluculuk yoluyla değil; Ceza Muhakemesi Kanunu’na göre uzlaştırma/uzlaşma hükümleri uygulanarak her savcılık bünyesinde bulunan uzlaştırma büroları tarafından çözülür.
+
+## Arabulucu Kimdir? Nasıl Arabulucu Olunur?
+
+*Arabulucu*; hukuk fakültesi mezunu, mesleğinde  en az 5 yıllık deneyime sahip olan, arabuluculuk, iletişim ve görüşme teknikleri konularında uzmanlık eğitimi almış kişidir (Arabuluculuk Kanunu md. 20). Avukatlar da arabulucu olabildiğinden halk arasında "*arabulucu avukat*" şeklinde deyimler de kullanıldığı görülmektedir.
+
+Arabulucular, hukuk fakültesinden mezun olduktan sonra arabuluculuk faaliyeti ile ilgili temel bilgiler, iletişim teknikleri, müzakere ve uyuşmazlık çözüm yöntemleri, davranış psikolojisi vb. gibi teorik ve pratik bilgileri içeren bir mesleki eğitim alırlar. Mesleki eğitimden sonra yapılan arabuluculuk sınavı ile mesleki yeterlilik ölçülür. Arabuluculuk sınavını başarıyla geçen arabulucular faaliyette bulunabilmek için arabuluculuk listesine kayıt yapmak zorundadır.
+
+Özellikle belirtelim ki; sadece Adalet Bakanlığı tarafından tutulan arabuluculuk listesine kayıtlı kişiler) arabuluculuk faaliyeti yürütebilir.
+
+## Tüketici Uyuşmazlıklarında Dava Şartı Arabuluculuk
+
+6502 sayılı Tüketicinin Korunması Hakkında Kanunu'nun 73/A maddesiyle Tüketici mahkemelerinde görüşen uyuşmazlıklar açısından arabulucuya başvuru zorunluluğu getirilmiştir. Dava şartı olarak arabuluculuk
+
+MADDE 73/A – (1) Tüketici mahkemelerinde görülen uyuşmazlıklarda dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır. Şu kadar ki, aşağıda belirtilen hususlarda dava şartı olarak arabuluculuğa ilişkin hükümler uygulanmaz:
+
+a) Tüketici hakem heyetinin görevi kapsamında olan uyuşmazlıklar
+
+b) Tüketici hakem heyeti kararlarına yapılan itirazlar
+
+c) 73/A üncü maddenin altıncı fıkrasında belirtilen davalar
+
+ç) 74 üncü maddede belirtilen davalar
+
+d) Tüketici işlemi mahiyetinde olan ve taşınmazın aynından doğan uyuşmazlıklar
+
+## Ticari Davalarda Zorunlu Arabuluculuk
+
+6102 sayılı Türk Ticaret Kanununun 5/a maddesine göre, TTK'nın 4. maddesinde belirtilen tüm ticari davalar ile diğer özel kanunlarda yer alan ticari davalardan, konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri hakkında dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır. Yani, arabulucuya başvurulmadan bu tür davalar doğrudan asliye ticaret mahkemesine açılamaz.
+
+Arabulucu, yapılan başvuruyu görevlendirildiği tarihten itibaren altı hafta içinde sonuçlandırır. Bu süre zorunlu hâllerde arabulucu tarafından en fazla iki hafta uzatılabilir.
+
+## Gayrimenkul Hukukunda Arabuluculuk
+
+Yürürlük Tarihi: 01.09.2023
+
+Taşınmazın **devrine** veya taşınmaz üzerinde **sınırlı ayni hak** kurulmasına ilişkin uyuşmazlıklar arabuluculuğa elverişlidir (6325 sayılı Kanun m.17/B). Bu uyuşmazlıklarda, tarafların yazılı olarak kararlaştırması ve arabulucunun bu kararı tutanak altına alması halinde arabulucunun talebiyle, arabuluculuk süreciyle sınırlı olmak ve konulduğu tarihten itibaren üç ayı geçmemek üzere tasarruf yetkisinin kısıtlandığına dair tapu siciline şerh verilir. Bu şerh, tarafların anlaşamaması veya tarafların şerhin kaldırılması konusunda anlaşması halinde arabulucunun talebiyle, üç aylık sürenin sonunda ise kendiliğinden kalkar.
+
+Gayrimenkul hukukuna ilişkin aşağıdaki uyuşmazlıklarda da dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır (6325 sayılı Kanun m.18/B):
+
+- Kiralanan taşınmazların 2004 sayılı Kanuna göre ilamsız icra yoluyla tahliyesine ilişkin hükümler hariç olmak üzere, kira ilişkisinden kaynaklanan uyuşmazlıklar.
+- Taşınır ve taşınmazların paylaştırılmasına ve ortaklığın giderilmesine ilişkin uyuşmazlıklar.
+- 23/6/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanunundan kaynaklanan uyuşmazlıklar.
+- Komşu hakkından kaynaklanan uyuşmazlıklar.
+
+## İş Hukukunda Zorunlu Arabuluculuk
+
+İş hukukunda işçi ve işveren arasındaki yıllık izin ücreti, fazla çalışma (fazla mesai) ücreti, maaş vb. gibi işçilik alacakları ile ihbar tazminatı, kıdem tazminatı vb. gibi tazminatlardan kaynaklanan uyuşmazlıklar 01.01.2018 tarihinden itibaren zorunlu arabuluculuk yoluyla çözülecektir (7036 sayılı İş Mahkemeleri Kanunu m.3).
+
+İşçi ve işveren aralarındaki hukuki sorunu gidermek için öncelikle zorunlu olarak arabulucuya başvurmak zorundadır. Arabulucuya başvurmadan iş mahkemesinde açılan iş davaları "dava şartı yokluğu" nedeniyle usulden reddedilecektir.
+
+İşçi ve işveren, iş hukuku ile ilgili hukuki sorunun çözümü için bir arabulucu üzerinde anlaştıkları takdirde, uyuşmazlığı her iki tarafın da kabul ettiği arabulucu çözmeye çalışır. Taraflar, bir arabulucu üzerinde uzlaşamadıkları takdirde, her adliyede bulunan "arabuluculuk merkezi" listeye kayıtlı arabulucular arasından seçeceği bir arabulucuyu uyuşmazlığı çözmek üzere görevlendirir.
+
+İş hukukunda "dava şartı" olarak kabul edilen arabuluculuğun uygulama alanları şu şekildedir:
+
+**İşe İade Davalarında Zorunlu Arabuluculuk:** İşe iade davaları, iş sözleşmesinin hukuka aykırı feshedilmesi halinde işçinin işine geri dönmesini sağlayan bir iş davası türüdür. İşçi, iş akdi feshedildikten sonra işe iade davası açmadan önce uyuşmazlığın *arabuluculuk* yoluyla çözülmesi için arabulucuya başvurmak zorundadır. İş sözleşmesi feshedilen işçi, fesih bildiriminde sebep gösterilmediği veya gösterilen sebebin geçerli bir sebep olmadığı iddiası ile fesih bildiriminin tebliği tarihinden itibaren bir
+ay içinde işe iade talebiyle, İş Mahkemeleri Kanunu hükümleri uyarınca arabulucuya başvurmak zorundadır. Arabuluculuk faaliyeti sonunda anlaşmaya varılamaması hâlinde, son tutanağın düzenlendiği tarihten itibaren, iki hafta içinde iş mahkemesinde dava açılabilir.
+Taraflar anlaşırlarsa uyuşmazlık aynı sürede iş mahkemesi yerine özel hakeme de götürülebilir. Arabulucuya başvurmaksızın doğrudan dava açılması sebebiyle davanın usulden reddi hâlinde ret kararı taraflara resen tebliğ edilir. Kesinleşen ret kararının da resen
+tebliğinden itibaren iki hafta içinde arabulucuya başvurulabilir (4857 sayılı İş Kanunu m.20/1).
+
+Arabuluculuk faaliyeti sonunda tarafların, işçinin işe başlatılması konusunda anlaşmaları hâlinde;
+
+- İşe başlatma tarihini,
+- Ücret ve diğer hakların parasal miktarını,
+- İşçinin işe başlatılmaması durumunda tazminatın parasal miktarını,
+
+belirlemeleri zorunludur. Aksi takdirde anlaşma sağlanamamış sayılır ve son tutanak buna göre düzenlenir. İşçinin kararlaştırılan tarihte işe başlamaması hâlinde fesih geçerli hâle gelir ve işveren sadece bunun hukuki sonuçları ile sorumlu olur (4857 sayılı İş Kanunu m.21/5).
+
+Asıl işveren-alt işveren ilişkisinin varlığı hâlinde işe iade talebiyle arabulucuya başvurulduğunda, anlaşmanın gerçekleşebilmesi için işverenlerin arabuluculuk görüşmelerine birlikte katılmaları ve iradelerinin birbirine uygun olması aranır (7036 sayılı İş Mahkemeleri Kanunu m.3/15).
+
+**Kıdem Tazminatında Zorunlu Arabuluculuk:** Kıdem tazminatı, belli koşulların sağlanması halinde işyerinde çalıştığı süre boyunca kazandığı kıdeminin karşılığı olarak işverence işçisine ödenen tazminattır. Kıdem tazminatına hak kazanabilmek için aynı işverenin işyerlerinde en az 1 yıl çalışmak gereklidir. Kıdem tazminatı hakkı elde ettiği halde, alacağını işverenden alamayan işçi öncelikle arabulucuya başvurarak uyuşmazlığın giderilmesini talep edecektir.
+
+**İhbar Tazminatında Zorunlu Arabuluculuk:** İhbar tazminatı, önceden bildirimde bulunulmaksızın iş akdi haksız feshedilen işçiye işyerinde sahip olduğu kıdeme göre değişen oranlarda ödenen tazminattır. İhbar tazminatı alacağına hak kazanılıp kazanılmadığı, tazminatın miktarı ve ödeme şekli nedeniyle işçi ile işveren arasında  çıkan uyuşmazlıklar dava açılmadan önce “*zorunlu arabuluculuk*” kurumu yoluyla çözülecektir.
+
+**Fazla Çalışma (Mesai) Ücretinde Zorunlu Arabuluculuk:** Fazla çalışma ücreti, iş kanununun belirlediği çerçevede ve şartlarda işçinin işyerinde haftalık 45 saati aşan çalışmalarıdır. İşveren, haftalık 45 saati aşan her saatlik çalışma için normal saat ücretinin %50 fazlası kadar fazla mesai ücreti ödemek zorundadır. Fazla çalışma ücreti, uygulamada mahkemeleri en çok meşgul eden uyuşmazlıktır. Fazla çalışma ücreti alacağı için de iş mahkemesinde dava açmadan önce “zorunlu arabuluculuk”  kurumuna başvurulması gerekir.
+
+**Yıllık ücretli izin, maaş (işçilik aylık ücreti veya yevmiye ücreti), genel tatil ücretleri, milli ve dini bayram tatil ücretleri** için de dava açılmadan önce uyuşmazlığın “zorunlu arabuluculuk” yoluyla çözümü için başvurulması zorunludur.
+
+**İşçi ile İşverenin Birbirine Hakaret Etmesi:** Çalışma hayatında işçi ve işveren arasında en sık yaşanan sorunlardan biri tarafların birbirine hakaret etmesidir. İşçi ve işverenin birbirine hakaret etmesinden kaynaklanan tazminat istemleri de zorunlu arabuluculuk kapsamına alınmıştır. Taraflar, iş ilişkisinden kaynaklanan nedenlerle birbirine hakaret etmişse doğrudan dava açamayacak, önce arabuluculuk yöntemiyle sorunu çözmeye çalışacaktır.
+
+İşyerindeki iş malzemelerine veya mallara zarar verilmesinden kaynaklanan tazminat istemleri de öncelikle zorunlu arabuluculuk yoluyla çözülmelidir.
+
+Hemen belirtelim ki; iş kazaları veya meslek hastalığından kaynaklanan maddi ve manevi tazminat davaları ile bu konulara ilişkin tespit, itiraz ve rücu davalarında arabuluculuk yoluna gidilmesi zorunluluğu aranmamaktadır. Bu davalar doğrudan iş mahkemesine açılabilir.
+
+Arabuluculuk bürosu tarafından yapılması gereken zaruri giderler; arabuluculuk faaliyeti sonunda anlaşmaya varılması hâlinde anlaşma uyarınca taraflarca ödenmek, anlaşmaya varılamaması hâlinde ise ileride haksız çıkacak taraftan tahsil olunmak üzere Adalet Bakanlığı bütçesinden karşılanır (7036 sayılı İş Mahkemeleri Kanunu m.3/16).
+
+### Arabuluculuk Bürosuna Başvurulması Halinde İş Davalarında Zamanaşımı
+
+İş sözleşmesinden kaynaklanmak kaydıyla hangi kanuna tabi olursa olsun, aşağıda belirtilen tazminat ve ücretlere ilişkin zamanaşımı süresi 5 yıldır (4857 sayılı İş Kanunu Ek Madde):
+
+- Yıllık izin ücreti,
+- Kıdem tazminatı,
+- İş sözleşmesinin bildirim şartına uyulmaksızın feshinden kaynaklanan ihbar tazminatı,
+- Kötüniyet tazminatı,
+- İş sözleşmesinin eşit davranma ilkesine uyulmaksızın feshinden kaynaklanan tazminat.
+
+Arabuluculuk bürosuna başvurulmasından, son tutanağın düzenlendiği tarihe kadar geçen sürede zamanaşımı durur ve hak düşürücü süre işlemez. Uyuşmazlığın arabulculuk yoluyla çözülemediğine ilişkin son tutanağın düzenlendiği tarihte zamanaşımı süresi yeniden işlemeye başlar.
+
+### İş Davalarında Arabuluculuk Başvurusu Nereye ve Nasıl Yapılır?
+
+İşçi ve işveren arabuluculuk siciline kayıtlı bir arabulucu üzerinde anlaşamadıkları takdirde, arabuluculuk bürosu, iş hukuku uyuşmazlığını çözecek arabulucuyu kendisi görevlendirir.
+
+*Zorunlu arabuluculuk için başvuru*, şu şekilde yapılır (7036 sayılı İş Mahkemeleri Kanunu m.3/5):
+
+- Arabuluculuk için başvuru işçi tarafından yapılacaksa; işverenin ikametgahının bulunduğu veya işin yapıldığı yerdeki arabuluculuk bürosuna başvurulabilir.
+- Arabuluculuk için başvuru işveren tarafından yapılacaksa; işçinin ikametgahının bulunduğu veya işin yapıldığı yerdeki arabuluculuk bürosuna başvurulabilir.
+- Arabuluculuk bürosu olmayan adliyelerde arabuluculuk bürosunun görevi sulh hukuk mahkemesi yerine getirir.
+
+Arabuluculuk bürosu kendisine gelen başvuru üzerine uyuşmazlığı çözmek için bir arabulcu görevlendirir. **Arabulucu**, görevlendirmeyi yapan büronun yetkili olup olmadığını kendiliğinden dikkate alamaz. Karşı taraf en geç ilk toplantıda, yerleşim yeri ve işin yapıldığı yere ilişkin belgelerini sunmak suretiyle arabuluculuk bürosunun yetkisine itiraz edebilir. Bu durumda arabulucu, dosyayı derhâl ilgili sulh hukuk mahkemesine gönderilmek üzere büroya teslim eder. Mahkeme, harç alınmaksızın dosya üzerinden yapacağı inceleme sonunda yetkili büroyu kesin olarak karara bağlar ve dosyayı büroya iade eder. Mahkeme kararı büro tarafından taraflara tebliğ edilir. Yetki itirazının reddi durumunda aynı arabulucu yeniden görevlendirilir. Yetki itirazının kabulü durumunda ise kararın tebliğinden itibaren bir hafta içinde yetkili büroya başvurulabilir. Bu takdirde yetkisiz büroya başvurma tarihi yetkili büroya başvurma tarihi olarak kabul edilir. Yetkili büro, yeniden arabulucu görevlendirir.
+
+### İş Davasının Arabuluculuk Yoluyla Çözülmesi Ne Kadar Sürer?
+
+*Arabulucu*, yapılan başvuruyu görevlendirildiği tarihten itibaren üç hafta içinde sonuçlandırır. Bu süre zorunlu hallerde arabulucu tarafından en fazla bir hafta uzatılabilir (7036 sayılı İş Mahkemeleri Kanunu m.3/10).
+
+*Arabuluculuk*, hızlı ve etkin bir uyuşmazlık çözüm yolu olduğundan uyuşmazlığın süresi içinde çözülememesi halinde dosya kapatılır. Arabulucu, taraflara ulaşılamaması, taraflar katılmadığı için görüşme yapılamaması yahut yapılan görüşmeler sonucunda anlaşmaya varılması veya varılamaması hallerinde arabuluculuk faaliyetini sona erdirir (7036 sayılı Kanun m.3/11).
+
+### Arabuluculuk Toplantısına Katılmayan Tarafın Hukuki Sorumluluğu Nedir?
+
+Arabuluculuk görüşmelerine taraflar bizzat, kanuni temsilcileri veya avukatları aracılığıyla katılabilirler. İşverenin yazılı belgeyle yetkilendirdiği çalışanı da görüşmelerde işvereni temsil edebilir ve son tutanağı imzalayabilir (7036 sayılı İş Mahkemeleri Kanunu m.3/18).
+
+Arabuluculuğa tabi iş hukuku uyuşmazlıkları ile ilgili bir tarafın arabuluculuk yapılması için başvurması halinde, her iki tarafın da belirlenen ilk toplantıya katılması yükümlülüğü vardır. Taraflardan birinin geçerli bir mazeret göstermeksizin ilk toplantıya katılmaması sebebiyle arabuluculuk faaliyetinin sona ermesi durumunda toplantıya katılmayan taraf, son tutanakta belirtilir ve bu taraf iş mahkemesinde dava açılması halinde kısmen veya tamamen haklı çıksa bile yargılama giderinin (dava avukatlık ücreti, harçlar, bilirkişi ücreti vb. giderler) tamamından sorumlu tutulur. Ayrıca ilk toplantıya katılmayan bu taraf lehine avukatlık vekalet ücretine de hükmedilmez.
+
+Her iki tarafın da ilk toplantıya katılmaması sebebiyle sona eren arabuluculuk faaliyeti üzerine açılacak davalarda tarafların yaptıkları yargılama giderleri kendi üzerlerinde bırakılır. Yani, her iki taraf yaptığı masrafları ve harçları kendisi öder. Ancak bu halde haklı çıkan taraf lehine yasal avukatlık ücretine hükmedilebilir.
+
+### İş Hukuku Uyuşmazlıklarında Arabuluculuk Ücretinin Ödenmesi
+
+Tarafların arabuluculuk faaliyeti sonunda anlaşmaları hâlinde, arabuluculuk ücreti, aksi kararlaştırılmadıkça taraflarca eşit şekilde karşılanır. İşe iade talebiyle yapılan görüşmelerde tarafların anlaşmaları durumunda, arabulucuya ödenecek ücretin belirlenmesinde işçiye işe başlatılmaması hâlinde ödenecek tazminat miktarı ile çalıştırılmadığı süre için ödenecek ücret ve diğer haklarının toplamı dikkate alınarak arabuluculuk asgari ücret tarifesi ikinci kısmına göre belirlenir.
+
+Arabuluculuk faaliyeti sonunda taraflara ulaşılamaması, taraflar katılmadığı için görüşme yapılamaması veya iki saatten az süren görüşmeler sonunda tarafların anlaşamamaları hallerinde, iki saatlik ücret tutarı Adalet Bakanlığı bütçesinden ödenir. İki saatten fazla süren görüşmeler sonunda tarafların anlaşamamaları hâlinde ise iki saati aşan kısma ilişkin ücret aksi kararlaştırılmadıkça taraflarca eşit şekilde karşılanır.
+
+Hemen belirtelim ki, Adalet Bakanlığı bütçesinden ödenen ve taraflarca karşılanan arabuluculuk ücreti, iş mahkemesinde dava açılması halinde yargılama giderlerinden sayılır (7036 sayılı İş Mahkemeleri Kanunu m.3/14).
+
+### Arabuluculuk Aşamasından Sonra İş Mahkemesinde Dava Açılması
+
+Arabuluculuk yoluyla uyuşmazlığın çözülememesi halinde iş mahkemesine dava açılabilir. Davacı, arabuluculuk yoluyla uyuşmazlığın çözülemediğinde dair tutulan son tutanağı veya tutanağın örneğini dava dilekçesine ekleyerek iş mahkemesinde dava açmalıdır.
+
+Uyuşmalığın arabuluculuk yoluyla çözülemediğine ilişkin son tutanak dava dilekçesine eklenmediği takdirde iş mahkemesi davacıya son tutanağın bir haftalık kesin sürede mahkemeye ibraz edilmesini, aksi takdirde davanın reddedileceğini ihtar eder. Mahkeme ihtarının gereği yerine getirilmezse dava dilekçesi karşı tarafa gönderilmeden dava usulden reddedilir.
+
+## İhtiyari Arabuluculuk: Hangi Uyuşmazlık ve Davalar İçin Arabuluculuğa Başvurulabilir?
+
+İş davalarında zorunlu arabuluculuk uygulaması dışında herhangi bir özel hukuk uyuşmazlığının tarafları da zorunlu olmadığı halde arabulucuya başvurabilir. Tarafların üzerinde serbestçe tasarruf edebilecekleri tüm özel hukuk uyuşmazlıkları, işleri ve davaları ihtiyari arabuluculuk uygulaması ile çözüme kavuşturulabilir (Arabuluculuk Kanunu md.1/2).
+
+Tarafların üzerinde serbestçe tasarruf edebilecekleri uyuşmazlıklar, genel olarak kamu düzenini ilgilendirmeyen, taraflar dışındaki kişilerin, özellikle kamu kurumlarının haklarına zarar vermeyen uyuşmazlıklardır. Örneğin, iş hukukunda kıdem tazminatı arabuluculuk konusu olabilirken, hizmet tespiti davasının konusu olan uyuşmazlıklar arabuluculuk yoluyla çözülemez. Çünkü, hizmet tespiti davası kişinin üzerinde tasarruf edemeyeceği sosyal güvenlik haklarının yanı sıra kamu idaresinin bazı haklarını (prim alma vs.) da etkileyecek niteliktedir.
+
+Tarafların üzerinde serbestçe tasarruf edebilecekleri ve ihtiyari arabuluculuğa elverişli bazı dava ve işler şunlardır:
+
+- Kural olarak ticaret hukuku ve sigorta hukukuna ilişkin her türlü iş ve dava,
+- Maddi ve manevi tazminat davası,
+- Mirasta mal paylaşımı, miras hukukundan kaynaklanan saklı pay nedeniyle tenkis davası, muris muvazaası gibi hukuki uyuşmazlıklara dair davalar,
+- Boşanmada mal paylaşımı, boşanma davası kesinleşmişse boşanmada maddi ve manevi tazminat talepleri, katkı veya katılma alacağına dair talep ve davalar,
+- İş hukukundan kaynaklanan, kıdem tazminatı , ihbar tazminatı, fazla mesai ücreti alacakları; iş kazası nedeniyle maluliyet veya ölümden kaynaklanan tazminat, destekten yoksun kalma tazminatı vb. gibi her türlü tazminat talepleri,
+- Gayrimenkul hukukundan kaynaklanan; vekalet görevinin (vekillik yetkisinin) kötüye kullanılması, muris muvazaası nedeniyle açılan davalar, usulsüz tasarruf vb. gibi nedenlerle açılan tapu iptal ve tescil davası, gayrimenkule yapılan müdahalenin men-i (tecavüzün önlenmesi) davası, işgal tazminatı (ecrimisil) davası, önalım (Şufa) davası , ortaklığın giderilmesi/izale-i şüyu davaları, kat karşılığı inşaat sözleşmesi ve gayrimenkul satış vaadi sözleşmesi ile ilgili uyuşmazlıklar.
+
+## Hangi Uyuşmazlık ve Davalar İçin Arabuluculuğa Başvurulamaz?
+
+Tarafların üzerinde serbestçe tasarruf edemeyecekleri hukuki sorunlara ilişkin uyuşmazlıklar arabuluculuk yoluyla çözülemez. Tarafların üzerinde tasarruf edemeyeceği uyuşmazlıklar çoğunlukla kamu hukukundan kaynaklanan uyuşmazlıklardır. Kamu hukukunun yanı sıra aile hukuk gibi özel hukuk alanlarına ilişkin bazı hukuki problemler de arabuluculuk yoluyla çözülemez.
+
+Önemle belirtelim ki, Ceza Muhakemesi Kanunu’na göre uzlaştırma/uzlaşma kapsamında olan bir suç ile bağlantılı uyuşmazlıklar da arabuluculuk kanunu dışındadır. Bu uyuşmazlıklar için Ceza Muhakemesi Kanunu hükümlerine göre uzlaşma yoluna gidilerek tüm uyuşmazlık savcılıklara bağlı uzlaştırma büroları tarafından çözülmelidir.
+
+Tarafların arabulucuya gidemeyecekleri diğer uyuşmazlıklar şunlardır:
+
+- Ceza davaları ,
+- Nüfus kaydının düzeltilmesi veya değiştirilmesi davaları,
+- Çocuğun velayeti,
+- Aile içi şiddet iddiasını içeren uyuşmazlıklar,
+- İdari yargının yetkisine giren tam yargı davası ve iptal davası,
+- Vergi hukukundan kaynaklanan uyuşmazlıklar,
+- İş hukukundan kaynaklanan hizmet veya iş kazasının tespiti vb. gibi tüm tespit davaları.
+
+### Arabulucuya Başvuru Süresi Nedir?
+
+Uyuşmazlığın tarafları gerek dava açılmadan önce gerekse dava açıldıktan sonra arabulucuya başvurmak konusunda anlaşabilirler (6325 sayılı Arabuluculuk Kanunu md.13). Bu nedenle, taraflar arabulucuya gitme konusunda anlaştığı müddetçe uyuşmazlığın her aşamasında arabuluculuk kurumuna başvurulabilir.
+
+Dava açılması halinde mahkeme de tarafları arabulucuya başvurmak konusunda bilgilendirebilir veya teşvik edebilir. Uyuşmazlığın taraflarından biri, dava açılmadan önce veya dava açıldıktan sonra, diğer tarafa arabulucuya başvurma konusunda bir teklif sunabilir. Arabulucuya başvurma konusunda karşı tarafa iletilen teklif, 30 gün içinde olumlu cevaplanmazsa reddedilmiş kabul edilir. (md.13)
+
+Dava açıldıktan sonra tarafların birlikte arabulucuya başvuracaklarını beyan etmeleri halinde yargılama, mahkemece üç ayı geçmemek üzere ertelenir. Bu süre, tarafların mahkemeye yeniden birlikte başvurusu üzerine üç aya kadar uzatılabilir (md.15).
+
+### Arabuluculuk Sürecinde Tarafların Hak ve Yükümlülükleri Nelerdir?
+
+Arabuluculuk, mahkeme dışı bir çözüm yöntemi olmasına rağmen, tarafların uzlaşma sürecinde bazı hak ve yükümlülükleri vardır. Arabuluculuk sürecinin bir anlaşmayla neticelenmesi halinde anlaşmanın uygulanabilesi; anlaşma sağlanamadığı takdirde, tarafların ileride dava hakkını hak kaybına yol açmadan kullanabilmesi için bazı güvence mekanizmaları oluşturulmuştur.
+
+**Arabuluculuk sürecine katılan tarafların hak ve yükümlülükleri şunlardır:**
+
+### Arabuluculuk Sürecinde Gizlilik İlkesi
+
+Arabuluculuk süreci gizli yürütülmelidir (Arabuluculuk Kanunu md.4). Arabulucu, arabuluculuk yapması nedeniyle kendisine verilen veya başka bir şekilde elde ettiği tüm bilgi, belge ve kayıtları gizli tutmak zorundadır. Taraflar da gizliliğe riayet etmek zorundadır. Arabuluculuk faaliyeti sırasında hiç kimse fotoğraf çekemez, ses veya görüntü kaydedemez (Arabuluculuk Yönetmeliği md. 6). Arabuluculuk faaliyeti yapılırken gizliliğe aykırı hareket eden ister arabulucu olsun ister taraflar olsun 6 aya kadar hapis cezası ile cezalandırılır (Arabuluculuk Kanunu md.33). Ayrıca, arabulucunun arabuluculuk sicilinden silinmesi de gündeme gelecektir. Müzakereler sırasında veya tarafların bir araya geldiği herhangi bir ortamda ses veya görüntülerin kaydedilmesi halinde, Kişiler Arasındaki Konuşmaların Dinlenmesi veya Kayda Alınması Suçu işlenmiş olur. Arabulucunun yanında çalışan veya ilişkili olduğu kişileri de gizlilik ilkesine riayet etmek zorundadır.
+
+### Arabuluculuk Uygulamasında Eşitlik ve İradilik İlkesi
+
+Arabuluculuk sürecin tarafların özgür iradesiyle başlayan bir süreçtir. Taraflar, arabulucuya başvurmak veya başvurduktan sonra süreci devam ettirip ettirmemek konusunda tamamen özgürdür. Taraflar, hiçbir şekilde bu sürece katılmaya zorlanamayacağı gibi uyuşmazlığı arabuluculuk yoluyla çözmekten her aşamada vazgeçebilirler. Taraflar, gerek arabulucuya başvururken gerekse süreç boyunca eşit haklara sahiptirler. Taraflardan biri arabuluculuk sürecinin dışında bırakılamayacağı gibi söz hakkı da diğerine göre kısıtlanamaz (Arabuluculuk Kanunu md.5).
+
+### Arabulucunun Seçimi, Tarafsızlığı ve Arabuluculuk Sürecinin Yürütülmesi
+
+Arabulucu, arabuluculuk siciline kayıtlı arabulucular arasında tarafların özgür iradesiyle seçilir. Taraflar hangi arabulucu ile çalışmak istiyorlarsa, o arabulucu ile çalışabilirler.
+
+Arabulucu, arabuluculuk sürecine katılan herkese tarafsız ve eşit davranmak zorundadır. Arabulucu, tarafsızlığı hakkında şüphe doğuracak işlem, tutum ve davranışlarda bulunamaz (6325 sayılı Arabuluculuk Kanunu md.8).
+
+Arabulucu, arabuluculuk faaliyeti başlar başlamaz, tarafları arabuluculuğun ne anlama geldiği, temel ilkeleri, sürecin nasıl yürütüleceği ve sonuçları hakkında bilgilendirmekle yükümlüdür (Arabuluculuk Kanunu md.11).
+
+Arabulucu tarafların her biriyle ayrı ayrı görüşebileceği gibi her iki tarafla birlikte de görüşebilir. Önemli olan tarafların hak ve menfaatlerinin dengelenmesi, uyuşmazlığın çözülmesi için en uygun metodla hakemlik yapılmasıdır. Taraflar, bu görüşmelere avukatları ile birlikte de katılabilirler (Arabuluculuk Yönetmeliği md.11/1).
+
+Mahkemeler tarafından kullanılması gereken yargısal bir yetkinin kullanımı şeklindeki işlemler arabulucu tarafından yapılamaz (Arabuluculuk Kanunu md.15). Örneğin, tanık dinleme, keşif yapma, bilirkişi raporu alma gibi işlemler ancak mahkemeler tarafından yerine getirilebilir, arabulucunun bu işlemleri yapma yetkisi yoktur.
+
+Arabulucu görevini bizzat kendisi yerine getirmek zorundadır. Arabulucu bu görevini kısmen dahi olsa bir başkasına devredemez, arabuluculuk görevinin başkası tarafından yerine getirilmesini . Arabulucu, tarafsızlığından şüpheye düşülmesine neden olabilecek durumların varlığı hallerinde tarafları bilgilendirmekle yükümlüdür. Örneğin; arabulucu ile uyuşmazlık konusu iş arasında sosyal bir ilişki olması, taraflardan birini tanıması vs. gibi sayısız sebeple tarafsızlık konusunda şüphe doğabilir. Arabulucunun bilgilendirmesine rağmen taraflar, arabulucunun görevine devam etmesini birlikte talep isterlerse, arabulucu görevine devam edebilir (Arabuluculuk Yönetmeliği md.12).
+
+Arabulucu, bu sıfatla görev yaptığı uyuşmazlık ile ilgili olarak açılan davada, daha sonra, bilirkişilik veya avukatlık yapamaz.
+
+Arabuluculuk faaliyetinin sona ermesi halinde, arabulucu, elinde bulunan belgeleri ve arabuluculuk faaliyeti neticesinde düzenlenen tutanağı beş yıl süre ile saklamak zorundadır (Arabuluculuk Yönetmeliği md. 15).
+
+### Arabuluculuk Neticesinde Tarafların Anlaşması (Arabuluculuk Kanunu md.18)
+
+Arabuluculuk faaliyeti sonunda tarafların anlaştıkları, anlaşamadıkları veya arabuluculuk faaliyetinin nasıl sonuçlandığı bir tutanak ile belgelendirilir. Arabulucu tarafından düzenlenecek bu belge, arabulucu, taraflar, kanuni temsilcileri veya avukatlarınca imzalanır. Belge taraflar, kanuni temsilcileri veya avukatlarınca imzalanmazsa, sebebi belirtilmek suretiyle sadece arabulucu tarafından imzalanır (Arabuluculuk Kanunu m.17/2).
+
+Arabuluculuk neticesinde taraflar uyuşmazlığın çözümü noktasında bir anlaşmaya varmışsa, arabulucu tarafından bu anlaşmanın tüm unsurları yazılı hale getirilir. Arabuluculuk yasası, tarafların üzerinde uzlaştığı konuların yer aldığı belgeyi “anlaşma belgesi” olarak tarif etmektedir. Arabulucu tarafından düzenlenen anlaşma belgesi, taraflar ve arabulucu tarafından imzalanarak hukuki değer kazanır (6325 sayılı Arabuluculuk Yasası md. 18).
+
+### Arabuluculuk Anlaşmasına İcra Edilebilirlik Şerhi
+
+Kanunlarda icra edilebilirlik şerhi alınmasının zorunlu kılındığı haller hariç, taraflar ve avukatları ile arabulucunun, ticari uyuşmazlıklar bakımından ise avukatlar ile arabulucunun birlikte imzaladıkları anlaşma belgesi, icra edilebilirlik şerhi aranmaksızın ilam niteliğinde belge sayılır (6325 sayılı Kanun m.18).
+
+Kanunlarda icra edilebilirlik şerhi alınmasının zorunlu kılındığı hallerde, taraflar, anlaşma belgesinin icra edilebilirliğine ilişkin şerh verilmesini görevli ve yetkili mahkemeden talep edebilirler. Anlaşma belgesi, *icra edilebilirlik şerhi* olmadan da geçerlidir. Ancak, icra edilebilirlik şerhi içeren anlaşma belgesi, mahkeme tarafından verilen bir karar gibi, yani ilam niteliğindeki bir belge gibi işlem görür.
+
+Anlaşma belgesine *icra edilebilirlik şerhi vermeye yetkili ve görevli mahkeme*; Dava açılmadan önce arabuluculuğa başvurulmuşsa,  arabulucunun görev yaptığı yer sulh hukuk mahkemesi olarak belirlenmiştir (Arabuluculuk Kanunu m.17/2).
+
+Davanın görülmesi sırasında arabuluculuğa başvurulması durumunda ise anlaşmanın icra edilebilirliğine ilişkin şerh verilmesi, davanın görüldüğü mahkemeden talep edilebilir.
+
+***İcra edilebilirlik şerhi***, çekişmesiz yargı işi olup inceleme dosya üzerinden yapılarak  şerh konusunda karar verilir. (6325 sayılı Arabuluculuk Yasası md.18/3). Mahkemenin inceleme yetkisi sadece anlaşma içeriğinin arabuluculuğa ve cebri icraya elverişli olup olmadığıyla sınırlıdır. Mahkemenin anlaşma içeriğini değiştirme, hüküm ekleme veya çıkarma yetkisi yoktur.
+
+Taraflar ve avukatları ile arabulucunun birlikte imzaladıkları anlaşma belgesi, icra edilebilirlik şerhi aranmaksızın ilam niteliğinde belge sayılır (Arabuluculuk Yasası m.18/4). İcra edilebilirlik şerhinin fonksiyonu arabuluculuk anlaşma belgesine mahkeme kararı (ilam) niteliği kazandırmasıdır. Tarafların avukatları ile birlikte imzaladıkları arabuluculuk anlaşması belgesi kendiliğinden mahkeme kararı gibi bir işlevi yerine getirmketedir.
+
+Özellikle belirtelim ki, arabuluculuğa elverişli olan aile hukukuna ilişkin uyuşmazlıklarda inceleme mutlaka duruşmalı olarak yapılır.
+
+### Arabuluculuk Konusu Beyan veya Belge Davalarda Kullanılamaz
+
+Arabuluculuk faaliyetinin gizli yapılmasının neticesi olarak; taraflar arabuluculuk süreci sonunda bir anlaşmaya ulaşamadıklarında, arabuluculuk sürecinde ifade edilen beyanlar veya ileri sürülen belgeler mahkemelerde delil olarak kullanılamaz. Uyuşmazlığın arabulucudan sonra tahkim yoluna götürülmesi halinde dahi bu belge ve beyanlar delil olarak kullanılamaz (6325 sayılı Arabuluculuk Yasası md.5).
+
+Taraflar, arabulucu veya üçüncü bir kişi, uyuşmazlıkla ilgili olarak hukuk davası açıldığında veya tahkim yoluna başvurulduğunda, aşağıdaki beyan veya belgeleri delil olarak ileri süremez ve bunlar hakkında tanıklık yapamaz (md.5):
+
+- Taraflarca yapılan arabuluculuk daveti veya bir tarafın arabuluculuk faaliyetine katılma isteği,
+- Uyuşmazlığın arabuluculuk yolu ile sona erdirilmesi için taraflarca ileri sürülen görüşler ve teklifler,
+- Arabuluculuk faaliyeti esnasında, taraflarca ileri sürülen öneriler veya herhangi bir vakıa veya iddianın kabulü,
+- Sadece arabuluculuk faaliyeti dolayısıyla hazırlanan belgeler.
+
+Hukuk davasında veya tahkim yolunda delil olarak ileri sürme yasağı, beyan veya belgenin şekline bakılmaksızın uygulanır.
+
+Arabuluculuk sürecinde ileri sürülen beyan veya belgelerin açıklanması mahkeme, hakem veya herhangi bir idari makam tarafından istenemez. Bu beyan veya belgeler, arabuluculuk yasası hükümlerine aykırı bir şekilde delil olarak sunulmuş olsa dahi sunulan mahkeme tarafından hükme esas alınamaz.
+
+Beyan veya belgelere dair yukarıda açıkladığımız unsurlar saklı kalmak koşuluyla, hukuk davası ve tahkimde ileri sürülebilen deliller, sadece arabuluculukta sunulmaları sebebiyle kabul edilemeyecek deliller haline gelmez (6325 sayılı Arabuluculuk Yasası md.5/5).
+
+### Arabulucunun Ücreti Nasıl Ödenir?
+
+Arabulucu, yaptığı hizmet karşılığında bir ücret alır (Arabuluculuk Kanunu md.7). Taraflar başka türlü kararlaştırmamış ise; arabulucunun ücreti, faaliyetin sona erdiği tarihte yürürlükte bulunan Arabulucu Asgari Ücret Tarifesi uygulanarak belirlenir.
+
+Arabulucunun ücreti ve diğer tüm masraflar aksi taraflarca kararlaştırılmamışsa eşit olarak karşılanır. Örneğin; konusu para ile ölçülebilen uyuşmazlıklarda her iki taraftan toplam uyuşmazlık konusunun %6’sı kadar bir oranla başlayan ve taraflarca eşit miktarda ödenen bir arabuluculuk ücreti söz konusudur.
+
+## Aile Hukukuna İlişkin Arabuluculuk Sistemi
+
+Arabuluculuk, Türkiye'de henüz gelişim aşamasındadır. Tasarı halinde olup henüz kanunlaşmayan düzenlemeye göre aile hukukuna ilişkin uyuşmazlıklar da arabuluculuk yoluyla çözülecektir. Aile hukukuna ilişkin arabulucuk; kadına karşı şiddet içeren vakıalar hariç olmak üzere şu uyuşmazlıkları kapsamaktadır:
+
+- Boşanma davası,
+- Velayet davası,
+- Nafaka davası,
+- Boşanmada maddi ve manevi tazminat,
+- Boşanmada mal paylaşımı, yani katılma alacağı, katkı payı alacağı veya değer artış payı alacağı,
+- Ev eşyalarının paylaşımı.
+
+
+## Arabuluculuk Kanunu Yargıtay Kararları
+
+### Dava Şartı Arabuluculuğa Tabi Olan ve Olmayan Talepler İçin Birlikte Dava Açılması
+
+Anayasamızın 9. maddesinde yer alan düzenleme uyarınca, ülkemizde yargı yetkisi, Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılacağı ve 36. maddesinde de, herkes, meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma ile adil yargılanma hakkına sahip olduğu, mahkemelerin, görev ve yetkisi içindeki davaya bakmaktan kaçınamayacakları esası benimsenmiştir. Bununla birlikte, 07.06.2012 tarih ve 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu ile; bazı hukuk uyuşmazlıkları yönünden, bir yandan tarafların kendi iradeleriyle kendi çözümlerini üretebilmeleri ve daha hızlı sonuç elde edilebilmeleri, öte yandan da mahkemelerin iş yükünün azaltılması amacıyla, yine mahkemeler aracı kılınarak bazı tür hukuk uyuşmazlıklarında alternatif uyuşmazlık çözüm yöntemi olarak “Arabuluculuk” müessesesi benimsenmiştir.
+
+Hukuk uyuşmazlıklarının arabuluculuk yöntemi ile çözülmesi ihtiyari olmakla birlikte, 6325 sayılı Kanun’da, 06.12.2018 tarih ve 7155 sayılı Kanun ile yapılan değişiklikle, mahkemelerin iş yükünün azaltılması için bazı tür uyuşmazlıklar için mahkemeye başvurmadan önce bir dava şartı olarak “zorunlu arabuluculuk” şartı getirilmiştir. Bu bağlamda aynı kanun ile 6102 sayılı TTK’ya 5/A maddesi ile, getirilen düzenleme ile, konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri hakkında dava açılmadan önce arabulucuya başvurulması bir dava şartı olarak kabul edilmiştir. Davanın konusunun birden fazla olması ve bunlardan bir kısmının bir miktar para alacağına, bir kısmının ise miktara tabi olmaması halinde, yani HMK 110. maddesi anlamında bir dava yığılması ve talepler arasında da HMK 166. maddesi anlamında bağlantı bulunması halinde, uyuşmazlığın ne şekilde çözümleneceğine ilişkin bir hüküm bulunmamakta ise de, Anayasamız uyarınca, uyuşmazlığın çözümünde asıl olanın mahkeme yargısı olduğu dikkate alındığında, aralarında bağlantı bulunan ve miktara tabi olan ve olmayan talepleri bir arada içeren, talep yığılmasının söz konusu olduğu davaların ticari arabuluculuğa tabi olmaksızın mahkemece çözüme kavuşturulması gerekir (aynı yönde bkz. Dairemizin 10.02.2020 tarih ve 2019/3048 – 2020/1093; 17.02.2020 T. ve 2020/197-2020/1578).
+
+Somut olayda davacı taraf, bir nispi ticari dava olarak, 5846 sayılı Fikir ve Sanat Eserleri Kanunu kapsamında, maddi ve manevi tazminat talepleri yanında, eser sahipliğinin tespiti, tecavüzün ortadan kaldırılması (ref’i) taleplerini bir arada ileri sürdüğünden, bu nitelikteki davaların bir bütün olarak ve işin esasına girilerek mahkemece çözüme kavuşturulması gerektiği halde, İlk Derece Mahkemesince uyuşmazlığın zorunlu arabuluculuğa tabi olduğu gerekçesiyle davanın usulden reddine, bölge adliye mahkemesince de aynı gerekçeyle davacı tarafın istinaf isteminin esastan reddine karar verilmesi doğru olmamış ve hükmün bu nedenle davacı taraf yararına bozulması gerekmiştir (Yargıtay 11. Hukuk Dairesi - Karar No: 2020/4734).
+
+### Dava Şartı Zorunlu Arabuluculukta Alacak Kalemlerinin Tek Tek Belirtilmemesi
+
+Dava şartı olan zorunlu arabuluculuk uygulamalarında başlangıçta hem talepte bulunanlar ve hem de arabulucular tarafından yapılan bu tür hatalar tarafların mağduriyetlerine sebebiyet verdiği gibi arabuluculuk uygulamasının amaçlandığı gibi uygulanmasına engel olduğundan, 6325 Sayılı Kanun’a dayanılarak çıkartılan ve 02.06.2018 tarihinde yürürlüğe giren yönetmeliğin ve aksaklıkları gidermek amacı ile uygulamaya sokulan arabuluculuğa hangi konularda başvurulduğuna ilişkin “ başvuru formu “ uygulamasının başladığı 02.08.2018 tarihine kadar arabuluculuk anlaşamama tutanağında arabuluculuğa konu alacaklar tek tek belirtilmeden “ işçilik alacakları” veya “işçi-işveren uyuşmazlığı” gibi soyut ifadeler kullanılmış ise taraflar arasındaki işçilik alacaklarının tamamının arabuluculuğa konu edildiği kabul edilmelidir.
+
+Başka bir deyişle "başvuru formu" uygulamasının başladığı 02.08.2018 tarihinden önceki dönem için taraflardan kaynaklanmayan bu tür uygulama hataları aşılarak arabuluculuk müessesinin amaca uygun yürütülmesi sağlanmalıdır. Başvuru formu uygulamasının başladığı 02.08.2018 tarihinden sonraki başvurularda ise hangi alacak veya tazminat kalemleri konusunda anlaşma sağlandığı veya sağlanamadığını açıkça belirtmeyen son tutanağa göre dava şartının gerçekleştiği kabul edilemeyecektir. Belirtilen sebeplerle; somut uyuşmazlıkta, taraflar arasındaki işçilik alacaklarının tamamının arabuluculuğa konu edildiği kabul edilerek dava şartı olarak zorunlu arabulucuya başvurma şartının yerine getirildiği kabul edilerek işin esasına girilmelidir. Zorunlu Arabuluculuk Son Tutanağı yönetmelik tarihinden önce düzenlenmiş olmasına rağmen, her bir alacak kaleminin tek tek belirtilmediği gerekçesiyle zorunlu arabuluculuk dava şartının yerine getirilmediği kabul edilerek davanın usulden reddine karar verilmesi hatalı olup bozmayı gerektirmiştir (YARGITAY 22. Hukuk Dairesi Esas: 2019/4419 Karar: 2019/11594).
+
+### Arabuluculuk Sonuç Tutanağında Sulh Sözleşmesi Niteliğindeki İbare
+
+Davacı vekili tarafından sunulan; 20.04.2016 tarihli dilekçe ve ekindeki "Arabuluculuk Sonuç Tutanağı" başlıklı belge ile taraflar arasındaki uyuşmazlığın arabuluculuk yolu ile çözümlenmiş olduğu, 22.06.2016 tarihli dilekçe ile de arabuluculuk sonuç tutanağındaki yükümlülüklerin yerine getirildiği bildirilmiş ise de, arabuluculuk sonuç tutanağı başlıklı belgenin içeriği itibariyle davanın taraflarının mahkeme dışında yapmış oldukları şarta bağlı bir sulh sözleşmesi olduğu anlaşılmıştır.
+
+HMK'nun 315. maddesinde; sulh sözleşmesinin, ilgili bulunduğu davayı sona erdireceği ve kesin hüküm gibi sonuç doğuracağı açıklanmıştır.
+
+Aynı kanunun 314. maddesine göre; sulh, hüküm kesinleşinceye kadar her zaman yapılabilir. Ancak, hükümden sonra ortaya çıkan ve temyiz incelemesine usulen engel oluşturan sulh sözleşmesi hakkında bir karar verme yetkisi ise hükmü veren mahkemeye aittir.
+
+Yukarıda açıklanan nedenlerle, bildirilen sulh sözleşmesi nedeniyle bir karar verilmek üzere hükmün HUMK'nun 428. maddesi gereğince BOZULMASINA karar verilmiştir (Yargıtay 3.Hukuk Dairesi - Karar : 2017/5059).
+
+### Arabuluculukta İcra Edilebilirlik Şerhi ve Karar Düzeltme
+
+Davacı vekili tarafından davalı aleyhine açılan arabuluculukta İcra edilebilirlik şerhi verilmesi davasının yargılaması sonunda; Mahkemece, davanın kabulüne karar verilmiş, hüküm davalı vekili tarafından temyiz edilmiş, Dairece hükmün onanmasına karar verilmesi üzerine, davalı vekilince karar düzeltme talebinde bulunulmuştur.
+
+Hüküm, Sulh Hukuk Mahkemesi'nce verilmiştir. 6100 sayılı HMK'nun Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nun 440/III-2. maddesinde; Sulh Hukuk Mahkemesi'nce verilen hükümlere ilişkin Yargıtay kararları hakkında karar düzeltme yoluna başvurulamayacağı açıklanmıştır. Bu nedenle davalı vekilinin karar düzeltme isteğinin REDDİNE karar verilmiştir (Yargıtay 8. Hukuk Dairesi - Karar : 2017/351).
+
+### İşçilik Alacaklarında İbra Niteliğinde Arabuluculuk Tutanağı Düzenlenemez
+
+Somut uyuşmazlıkta davacı şirket vekili davalı işçi ile işçi alacaklarının belirlenmesi ve ödenmesine ilişkin arabulucu nezaretinde anlaşmaya varıldığını, bu konuda 04.02.2016 tarihli tutanağın düzenlendiğini belirterek bu belgeye icra edilebilirlik şerhi verilmesini talep etmiştir.
+
+Davalı işçi ise davacı işverence işten çıkarıldığını, çıkış esnasında muhasebeci gelecek ve evrakları hazırlayacak diyerek 7-8 saat bekletildiğini, sonra daha önce görmediği bir şahsın gelip bir masa etrafına oturup işten çıkışı ile ilgili belgeleri imzalattıklarını, arabulucunun kendisiyle hiç konuşmadığı gibi kendisine bir soru sormadığını imzalatılan belgeyi okumasına müsaade edilmediğini, bir örneğinin kendisine verilmediğini, bankaya yatan kısım dışındaki bedelin 2 gün sonra elden ödeneceği söylenmesine rağmen ödenmediğini, sözleşmeyi kabul etmediğini beyan etmiştir.
+
+Mahkemece bu beyan nedeniyle arabuluculuk tutağının kanuna uygun düzenlenmediğinin iddia edildiği, taraflar arasında bu konuda ihtilaf olduğu bu nedenle arabuluculuk icra edilebilirlik şerhinin verilmesinin uygun bulunmadığı gerekçesiyle istemin reddine verilmiştir.
+
+Yasal düzenleme karşısında arabuluculuk süreci sonunda düzenlenen anlaşma belgesine icra edilebilirlik şerhi verilip verilmeyeceğine ilişkin inceleme anlaşma içeriğinin arabuluculuğa ve cebri icraya elverişli olup olmadığı hususlarıyla sınırlıdır.
+
+Ancak dosyada mevcut arabulucu nezaretinde düzenlenen anlaşma belgesinin iş sözleşmesinin 03.02.2016 tarihinde sonlanması üzerine aynı gün arabulucu ile birlikte görüşüldüğü ve bir gün sonra 04.02.2016 tarihinde düzenlendiğinin belirtildiği,
+
+Tutanakta içeriğinden arabuluculuğa kimin hangi tarihte başvurduğu, anlaşmanın nerede ve ne şekilde sağlandığı konularının belirtilmediği, ikinci maddesinde kıdem ve ihbar tazminatları toplamından oluşan 11.668,82 TL. ödeme dışında işveren nezdindeki kıdem, ihbar, fazla çalışma, genel tatil hafta tatili, yıllık izin prim, ikramiye, ulusal bayram ve genel tatil ücreti alacakları dahil olmak üzere hiçbir hak ve alacağı kalmadığı kalmış olsa bile bu miktarın dışındaki alacaklardan feragat ettiğini, işvereni her şekilde ibra ettiğini kabul ettiği yönünde ibare bulunduğu anlaşılmaktadır.
+
+6325 sayılı Arabuluculuk Kanunu’nun 1. maddesinin ikinci fıkrasında “Bu Kanun, yabancılık unsuru taşıyanlar da dâhil olmak üzere, ancak tarafların üzerinde serbestçe tasarruf edebilecekleri iş veya işlemlerden doğan özel hukuk uyuşmazlıklarının çözümlenmesinde uygulanır. Şu kadar ki, aile içi şiddet iddiasını içeren uyuşmazlıklar arabuluculuğa elverişli değildir.” hükmü düzenlenmiştir. Diğer taraftan 6098 sayılı Türk Borçlar Kanunu’nun 420. maddesinin ikinci fıkrasında “…ibra tarihi itibarıyla sözleşmenin sona ermesinden başlayarak en az bir aylık sürenin geçmiş bulunması, ibra konusu alacağın türünün ve miktarının açıkça belirtilmesi, ödemenin hak tutarına nazaran noksansız ve banka aracılığıyla yapılması şarttır. Bu unsurları taşımayan ibra sözleşmeleri veya ibraname kesin olarak hükümsüzdür.” düzenlemesine yer verilmiştir. 6098 sayılı TBK.’un bu düzenlemesi emredici niteliktedir. Bu düzenleme nedeni ile işveren ve işçi arasında, işçilik alacakları konusundaki uyuşmazlığa ilişkin arabuluculuk tutanağının düzenlendiği tarih ve ibra beyanının içeriği dikkate alındığında, tarafların üzerinde serbestçe tasarruf edemeyecekleri bir zamanda uyuşmazlık konusu olmadan ve işçinin başvurusu bulunmadan ibra niteliğinde arabuluculuk tutanağı düzenlemişlerdir. Alınan bu ibra niteliğindeki tutanak, tarih ve içeriği itibari ile arabuluculuğa ve niteliği itibari ile de cebri icraya elverişli değildir. Açıklanan nedenlerle dosyada bulunan anlaşma belgesine icra edilebilirlik şerhinin de verilemeyeceği anlaşıldığından, davalının temyiz itirazlarının reddiyle sonucu itibariyle doğru olan yerel mahkeme kararın bu gerekçeyle ONANMASINA karar verilmiştir (Yargıtay 9. Hukuk Dairesi - Karar : 2016/21744).
+
+### Arabuluculuk İcra Edilebilirlik Şerhi Dava Dilekçesinin Davalıya Tebliğ Zorunluluğu
+
+Arabulucuk Kanunu'nun 18. maddesi ile HMK. nun hukuki dinlenilme hakkına ilişkin 27 ve basit yargılamaya ilişkin 385 vd. maddeleri birlikte değerlendirildiğinde "icra edilebilirlik şerhi verilmesi" istemi halinde, ister dosya üzerinden, ister duruşma yapılarak karar verilsin talep dilekçesinin karşı tarafa tebliği şarttır. Bu hukuki dinlenilme hakkının gereğidir.
+
+Somut uyuşmazlıkta, Mahkemenin gerekçesinde de belirtildiği üzere arabuluculuk kararının diğer tarafı olan işçiye tebligat yapılamamış, Mahkemece tebligat yapılamadığı halde varsayıma dayalı gerekçe ile talep reddedilmiştir. Dava dilekçesi tebliğ edilmeden verilen gerekçeli karar davalının mernis adresine tebliğ edilmiştir. Yukarıda belirtilen yasal düzenlemeler ve açıklamalar karşısında dava dilekçesi davalının mernis adresine “ mernis adresi olduğu belirtilerek “ teblige çıkarılarak taraf teşkilinin sağlandıktan sonra karar verilmesi gerekirken taraf teşkili sağlanmadan karar verilmesi hatalı olup kararın bozulması gerekmiştir. (Yargıtay 9. Hukuk Dairesi - Karar : 2016/21368).
+
+### Arabuluculuk İcra Edilebilirlik Şerhinde Karar Düzeltme
+
+Davacı vekili tarafından davalı aleyhine açılan arabuluculukta İcra edilebilirlik şerhi verilmesi davasının yargılaması sonunda; Mahkemece, davanın kabulüne karar verilmiş, hüküm davalı vekili tarafından temyiz edilmiş, Dairece hükmün onanmasına karar verilmesi üzerine, davalı vekilince karar düzeltme talebinde bulunulmuştur.
+
+Hüküm, Sulh Hukuk Mahkemesince verilmiştir. 6100 sayılı HMK'nun Geçici 3. maddesi yollamasıyla 1086 sayılı HUMK'nun 440/III-2. maddesinde; Sulh Hukuk Mahkemesince verilen hükümlere ilişkin Yargıtay kararları hakkında karar düzeltme yoluna başvurulamayacağı açıklanmıştır. Bu nedenle davalı vekilinin karar düzeltme isteğinin REDDİNE karar verilmiştir (Yargıtay 8. Hukuk Dairesi - Karar : 2017/351).
+
+Arabuluculuk Kanunu, mahkeme dışı bir uyuşmazlık çözüm yöntemi olarak arabuluculuğun genel çerçevesini; Arabuluculuk Yönetmeliği ise konunun ayrıntılarına yer vermiştir.
+
+
+---
+
+## Sulh Hukuk Mahkemesi ve Görevleri
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/medeni-hukuk/sulh-hukuk-mahkemesinin-gorevi-nedir (son güncelleme: 2026-09-04)*
+
+Sulh Hukuk Mahkemesi Nedir? Sulh Hukuk Mahkemesinin Görevine Giren Davalar Nelerdir? Sulh Hukuk Mahkemesi Hangi Davalara Bakmakla Görevlidir? Sulh Hukuk Mahkemesi Kararlarına İtiraz ve İstinaf, Sulh Hukuk Mahkemesinin Görevi Yargıtay Kararları
+
+
+## Sulh Hukuk Mahkemesi Nedir?
+
+**Sulh hukuk mahkemesi**; belirli özel hukuk davalarına bakmak üzere kurulmuş olan, asıl görevli mahkeme olan asliye hukuk mahkemesi ile birlikte iki genel mahkemeden biridir (5235 sayılı Kanun m.4). *Sulh hukuk mahkemeleri*, tek hakimli olup her yargı çevresinde (adliyede) kurulması gereken mahkemelerdendir.
+
+Özel hukuk uyuşmazlıklarını yargılayan mahkemeler genel ve özel mahkemeler olmak üzere ikiye ayrılır:
+
+- Asliye hukuk mahkemesi (genel mahkeme),
+- Sulh hukuk mahkemesi (genel mahkeme),
+- Özel Mahkemeler (Asliye Ticaret Mahkemesi, Tüketici Mahkemesi, Fikri ve Sınai Haklar Hukuk Mahkemesi, Aile Mahkemesi, Kadastro Mahkemesi, İş Mahkemesi vb. gibi).
+
+Asliye hukuk mahkemesi ve sulh hukuk mahkemesi özel hukuk uyuşmazlıklarına bakmakla “genel görevli” temel iki mahkemedir. Genel mahkemelerden olan asliye hukuk mahkemesinin görevi asıl, sulh hukuk mahkemesinin görevi ise istisnadır. Özel bir kanun hükmü ile açıkça sulh hukuk mahkemesinde bakılacağı bildirilmeyen bütün dava ve işler asliye hukuk mahkemesinde görülür. Kanunda belirli bir uyuşmazlık türü için açıkça özel bir mahkemenin görevli olduğu kabul edilmişse, uyuşmazlığı çözmeye görevli mahkeme kanunun belirlediği o “özel görevli” mahkeme olduğu kabul edilir.
+
+## Sulh Hukuk Mahkemesinin Görevleri Nelerdir?
+
+Sulh hukuk mahkemesi, dava konusunun değer veya tutarına bakmaksızın aşağıdaki uyuşmazlıklara bakmakla görevlidir (6100 sayılı HMK m.4):
+
+- Çekişmesiz yargı işleri (HMK m.383). Özellikle belirtelim ki, HMK m.282'de katalog şeklinde yer alan çekişmesiz yargı işleri kural olarak sulh hukuk mahkemesi tarafından yerine getirilir.
+- Arabuluculuk faaliyeti neticesinde tanzim edilen anlaşma belgesine icra edilebilirlik şerhi verilmesi,
+- Arabuluculuk bürosunun yetkisine yapılan itiraz hakkında karar vermek (7036 sayılı Kanun m.3/9),
+- Arabuluculuk büroları, Hâkimler ve Savcılar Kurulu tarafından belirlenen sulh hukuk hâkiminin gözetim ve denetimi altında görev yapar. Arabuluculuk bürosunun olmadığı yerlerde büronun görevinin sulh hukuk mahkemesi yazı işleri müdürlüğü tarafından hakimin gözetimi ve denetimi altında yerine getirilir (7036 sayılı Kanun m.28/3),
+- Kiralanan taşınmazların, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine ilişkin hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalar,
+- Taşınır ve taşınmaz mal veya hakkın paylaştırılmasına ve ortaklığın giderilmesine ilişkin davalar,
+- Taşınır ve taşınmaz mallarda, sadece zilyetliğin korunmasına yönelik olan davalar,
+- 6100 sayılı HMK ile diğer kanunların, sulh hukuk mahkemesi veya sulh hukuk hâkimini görevlendirdiği davalar.
+
+Aralarındaki bağlantı nedeniyle birlikte açılan davalarda bir kısım dava arkadaşları veya talepler yönünden özel mahkeme, bir kısmı yönünden de genel mahkeme görevli ise davaya bakmaya tümüyle özel mahkeme görevlidir. Davanın diğerine tabi olarak tümüyle özel mahkemede görüleceği ilkesi, yargısal uygulamalarda kararlılıkla kabul edilip sürdürülmektedir. (Yargıtay HGK – Karar: 2015/1232).
+
+Davada bir kısım dava arkadaşları veya talepler yönünden farklı özel mahkemeler görevli ise davanın açıldığı mahkeme bu özel mahkemelerden biri ise davaya o mahkemede bakılmalıdır. Dava genel mahkemede açılmış ancak birden fazla özel mahkeme görevli ise ağırlıklı hukuki ilişkiye göre görevli mahkeme olan özel mahkemede dava görülmek üzere görevsizlik kararı verilmelidir. Davadaki talepler hem asliye hukuk mahkemesinin hem de sulh hukuk mahkemesinin görevine girmekte ise dava tümüyle asliye hukuk mahkemesinde görülmelidir.
+
+## Sulh Hukuk Mahkemesi Hangi Davalara Bakmakla Görevlidir?
+
+*Sulh hukuk mahkemesi*, aşağıda yazılı bazı özel hukuk davalarına bakmakla görevlidir:
+
+- Kat mülkiyetinden kaynaklanan davalar,
+- İzale-i şuyu (ortaklığın giderilmesi) davası,
+- Kiralananın tahliyesi davası,
+- Kira ilişkisinden kaynaklanan tespit davası,
+- Kira bedelinin uyarlanması davası,
+- Kira sözleşmesinin iptali,
+- Terekenin tespiti davası,
+- Miras ortaklığına temsilci atanması,
+- Mirasın reddi davası,
+- Terekenin borca batık olduğunun tespiti davası,
+- Kayyım atanması ve kayyımlık ile ilgili diğer davalar,
+- Vasi atanması veya vasinin görevinden çekilmesi davası,
+- Vasiyetnamenin açılması,
+- Tek başına açılan zilyetliğin korunması davası, (Zilyetliğin tespiti ile birlikte açılırsa Asliye Hukuk Mahkemesi görevlidir).
+- Arabuluculuk uygulamasında icra edilebilirlik şerhi verilmesi,
+- Çocuk mallarının korunması davası.
+
+## Sulh Hukuk Mahkemesinin Görevsizlik Kararı
+
+Görevsizlik kararı veren sulh hukuk mahkemesi bu kararında dava dosyasının görevli mahkemeye gönderilmesine karar vermekle yetinir. Dava dosyasını kendiliğinden ( re'sen ) görevli mahkemeye gönderemez.
+
+6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 20. maddesi hükmü gereğince; taraflardan birinin görevsizlik kararının kesinleştiği tarihten itibaren iki hafta içinde kararı veren mahkemeye başvurarak dava dosyasının görevli mahkemeye gönderilmesini talep etmesi gerekir. Hemen belirtmek gerekir ki; bu süre hak düşürücü nitelikte olup mahkemece re'sen gözetilir. Hak düşürücü süre içerisinde dava dosyasının görevli mahkemeye gönderilmesi başvurusu yapılmadığı takdirde, sulh hukuk mahkemesi tarafından davanın açılmamış sayılmasına karar verilir.
+
+Sulh hukuk mahkemesinin görevsizlik kararına karşı 2 hafta içinde istinaf mahkemesine (bölge adliye mahkemesi) istinaf başvurusu yapılabilir. İstinaf mahkemesi tarafından yerel mahkemenin görevi ile ilgili verilen karar kesindir.
+
+## Sulh Hukuk Mahkemesinin Kararına Karşı İstinaf ve Temyiz Başvurusu
+
+Sulh hukuk mahkemesi kararlarına karşı istinaf başvurusu yapılması mümkündür. İstinaf, sulh hukuk mahkemesi tarafından verilen kararın hem maddi vakıa hem de hukuki açıdan bir üst mahkeme tarafından yeniden değerlendirilmesini sağlayan bir kanun yoludur. İstinaf kanun yoluna başvuru süresi, sulh hukuk mahkemesi kararının usulüne uygun bir şekilde taraflara tebliği edildiği günden itibaren 2 haftadır. İstinaf başvurusu, bölge adliye mahkemesine gönderilmek üzere kararı aleyhine başvuru yapılan sulh hukuk mahkemesine bir istinaf dilekçesi verilerek yapılır.
+
+Sulh hukuk mahkemesi kararlarına karşı istinaf başvurusu yapılabilmesi için şu şartların gerçekleşmesi gerekir:
+
+- Aleyhine istinaf başvurusu yapılan sulh hukuk mahkemesi kararının dava konusununun miktar ve değeri 50.000 TL’yi aşmalıdır (HMK 341/2). Miktar ve değeri 50.000 TL’yi aşmayan sulh hukuk mahkemesi kararları kesin olduğundan aleyhine istinaf başvurusu yapılamaz (2026 yılı için).
+- Kural olarak ara kararlar aleyhine istinaf başvurusu yapılamaz. Ancak, ihtiyati tedbir ve ihtiyati gibi kararlar ara kararı olmasına rağmen son kararı beklemeden bu kararlar aleyhine istinaf başvurusu yapılması mümkündür (HMK 341/1).
+
+Kural olarak sulh hukuk mahkemesi kararları ile ilgili verilen istinaf mahkemesi kararları kesin olup bu kararlar aleyhine temyiz kanun yoluna başvurulamaz. Temyiz, sulh hukuk mahkemesi kararı hakkında istinaf incelemesi neticesinde verilen hükmün, hukukun doğru uygulanıp uygulanmadığı açısıdan denetlenmesini sağlayan bir kanun yoludur.
+
+Sulh Hukuk Mahkemesinin görev alanına giren kira ilişkisinden doğan ve miktar veya değeri itibarıyla temyiz edilebilen alacak davaları hariç olmak üzere; HMK md.4'te gösterilen davalar ile (Kat Mülkiyeti Kanunundan doğup taşınmazın aynına ilişkin olan davalar hariç) özel kanunlarda sulh hukuk mahkemesinin görevine girdiği belirtilen davalar ile ilgili istinaf mahkemesi kararları kesin olup aleyhine Yargıtay’a temyiz başvurusu yapılmaz.
+
+Kira ilişkisinden doğan ve miktar veya değeri itibariyle temyiz kanun yoluna başvurulabilmesi mümkün olan alacak davası ile ilgili sulh hukuk mahkemesi kararlarının şu şartları sağlaması gerekir:
+
+- Aleyhine temyiz başvurusu yapılan istinaf mahkemesi kararında yer alan miktar ve değer 682.000 TL’yi aşmalıdır (HMK 362/1-a). Miktar ve değeri 682.000 TL’yi aşmayan istinaf mahkemesi kararları kesin olduğundan aleyhine temyiz başvurusu yapılamaz (2026 yılı için).
+- İstinaf mahkemesinin ihtiyati tedbir ve ihtiyati haciz gibi kararlarına karşı temyiz kanun yoluna başvurulamaz.
+
+
+## Sulh Hukuk Mahkemesi Görevleri Yargıtay Kararları
+
+### Veraset Belgesinin İptali Davası Sulh Hukuk Mahkemesinde Görülemez
+
+Genel hüküm niteliğinde bulunan TMK'nın 598/1 maddesinde de veraset belgesinin sulh hukuk mahkemesince verilmesi öngörülmüştür. 6100 sayılı ...'nın "çekişmesiz yargı işleri" başlığını taşıyan 382/2-c maddesinin 6. bendine göre mirasçılık belgesi verilmesi sulh hukuk mahkemesinin görev alanına girmekte ve çekişmesiz yargı kapsamında kalmaktadır. Yukarıda açıklandığı gibi ...'nın 8/II-6. maddesi uyarınca mirasçılık belgesinin verilmesi, değiştirilmesi veya iptal davaları ile ilgili görev sulh hukuk mahkemesine verildiği halde ...'nın 382/2-c maddesinin 6. bendine göre sulh hukuk mahkemeleri sadece veraset belgesi verilmesiyle ilgili istekler konusunda görevlidir. Buradan hareketle veraset belgesinin değiştirilmesi veya daha önce verilen veraset belgesinin iptali davalarının sulh hukuk mahkemesinde görülemeyeceği sonucuna varılmaktadır. Kaldı ki veraset belgesinin iptali davalarının hasımlı olarak açılması zorunlu bulunduğundan çekişmesiz yargı kapsamından çıkıp çekişmeli yargı mahiyetini aldığı da bir gerçektir.
+
+Mahkemece, davanın esasının incelenerek sonucuna göre bir karar verilmesi gerekirken mirasçılık belgesinin iptali davalarında görevli mahkemenin sulh hukuk mahkemesi olduğu gerekçesiyle görevsizlik kararı verilmesi doğru görülmemiş, bu sebeple hükmün bozulması gerekmiştir (Yargıtay 14. Hukuk Dairesi 2016/2125 E. , 2016/8540 K.).
+
+### Mirasta İstihkak Davası Sulh Hukuk Mahkemesinde Görülmez
+
+Olayları açıklamak taraflara, hukuki nitelendirme Hakime aittir (HMK.m.33). Dava dilekçesi içeriğine göre dava, mirasta adi istihkak isteğine ilişkindir (TMK.605/2 m.). 6100 sayılı Hukuk Muhakemesi Kanunu ve 4721 sayılı Türk Medeni Kanununda bu tür uyuşmazlıklarda Sulh Hukuk Mahkemesi'nin görevli olduğu konusunda bir düzenleme bulunmamaktadır. Davanın açıldığı tarihten önce yürürlüğe giren 6100 sayılı HMK ise Asliye Hukuk ve Sulh Hukuk Mahkemesi'nin görevli olup olmadığını, tayin ve tespitte dava konusunun değeri ve miktarı ölçüsünü kaldırmış, dava konusunun değer ve miktarına bakılmaksızın mal varlığı haklarına ilişkin davalarda, görevli mahkemenin aksine bir düzenleme bulunmadıkça Asliye Hukuk Mahkemesi olduğu hükme bağlanmıştır (HMK.m.2/1).
+
+Kanunda bu konuda aksine bir düzenleme bulunmadığına göre, mirasta adi istihkak isteğine ilişkin davalarda davanın değerine bakılmaksızın Asliye Hukuk Mahkemesi görevlidir (Yargıtay 14. Hukuk Dairesi 2016/8887 E. , 2019/3901 K.).
+
+### Kira İlişkisinden Kaynaklanan Uyuşmazlıklar Sulh Hukuk Mahkemesinde Çözülür
+
+Dava, eksik ödenen stopaj bedelinin tahsili istemine ilişkindir. Mahkemece dava dilekçesinin görevsizlik sebebiyle reddine, dosyanın görevli Asliye Hukuk Mahkemesi' ne gönderilmesine karar verilmiş, hüküm davacı vekili tarafından temyiz edilmiştir. 6100 Sayılı Sulh Hukuk Mahkemelerinin görevini düzenleyen maddesi gereğince kiralanan taşınmazların İcra ve İflas Kanunu'na göre ilamsız icra yolu ile tahliyesine dair hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dahil tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalar Sulh Hukuk Mahkemesi'nin görevine girmektedir. Mülga 1086 Sayılı HMUK’dan farklı olarak bu düzenlemede miktar ayırımı yapılmaksızın tahliye, alacak, tazminat, kiracılık sıfatının tespiti gibi tüm kira ilişkisinden kaynaklanan uyuşmazlıkların çözüm yeri Sulh Hukuk Mahkemesi olarak gösterilmiştir.
+
+Dava, 01.04.2006 başlangıç tarihli ve on yıl süreli kira sözleşmesi ile kiralanan taşınmaz için ödenmesi gereken stopaj bedelinin tahsili istemine ilişkindir. Davacı vekili, taraflar arasındaki kira ilişkisine dayanarak talepte bulunmuş olup bu hususun değerlendirilerek sonucuna göre karar verilmesi görevi Sulh Hukuk Mahkemesi'ne aittir. Bu sebeple mahkemece işin esasına girilerek sonucuna göre karar verilmesi gerekirken yazılı şekilde görev yönünden davanın reddine karar verilmesi doğru değildir (Yargıtay 6. Hukuk Dairesi - Karar: 2016/6098).
+
+### Taşınmazı Yeni Satın Alan Malik ile Eski Kiracının İlişkisi / Görevli Sulh Hukuk Mahkemesi
+
+Dava, kira sözleşmesinden kaynaklanan alacak istemine ilişkindir. Mahkemece davanın reddine karar verilmiş, hüküm davacı tarafından temyiz edilmiştir.
+
+Somut olayda; Davacı ecrimisil bedelinin tahsilini talep etmiş, davalı ise taşınmazda kiracı olduğunu ileri sürerek önceki malikle aralarında imzalanmış olan kira sözleşmesine dayanmıştır. Davacı yeni malik taşınmazı satın almakla 310.maddesi uyarınca kira sözleşmesinin tarafı olur. Taraflar arasındaki uyuşmazlık kira sözleşmesinden kaynaklanmaktadır. Dava, 6100 Sayılı yürürlüğe girmesinden sonra 20.06.2014 tarihinde Asliye Hukuk Mahkemesinde açılmıştır. Bu durumda mahkemenin yukarıda belirtilen yasal düzenleme gereği dava dilekçesini görev yönünden reddederek görevsizlik kararı ile dosyayı görevli Sulh Hukuk mahkemesine göndermesi gerekirken, işin esasının incelenerek yazılı şekilde karar verilmesi doğru değildir (Yargıtay 6. Hukuk Dairesi - Karar: 2016/135).
+
+### Lojman Yakıt Bedelinin Ödenmemesi / Görevli Sulh Hukuk Mahkemesi
+
+Dava, lojman yakıt bedeli farkından kaynaklanan alacağın tahsili istemine ilişkindir. Mahkemece görevsizlik kararı verilmesi üzerine hüküm davacı vekili tarafından temyiz edilmiştir.
+
+01.10.2011 tarihinde yürürlüğe giren 6100 Sayılı HMK'nun 4/1-a maddesine göre "Kiralanan taşınmazların, 09.06.1932 tarihli ve 2004 Sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine dair hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalarda" Sulh Hukuk Mahkemesi görevlidir. Mahkemelerin görevi kamu düzenine dair kurallardan olup, yargılamanın her aşamasında istek üzerine ya da re'sen gözetilmesi gerekir.
+
+Kira sözleşmesi, kiraya verenin bir şeyin kullanılması veya ondan yarar elde edilmesinin kiracıya bırakıldığı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir. Davacı vekili davalının görev yaptığı sırada oturduğu kamu konutundan kaynaklanan yakıt bedelinin tahsilini talep etmektedir. 2946 Sayılı Kamu Konutları Kanunu, kamu konutlarının tahsis biçimi, oturma süresi, kira, bakım, onarım ve yönetimine dair temel ilkeleri belirlenmiş olup kanunun 4. Maddesinde oturma süreleri, 5. Maddesinde aylık kira bedelinin ne şekilde tahsil edileceği düzenlenmiştir. Kamu Konutları Yönetmeliğinin 21. Maddesinde ise yakıt bedellerinin ne şekilde tespit edileceği belirtilmektedir. Taraflar arasındaki uyuşmazlık, lojman tahsisi şeklindeki kira ilişkisinden kaynaklanan yan giderin tahsili talebine dair olup görevli mahkeme sulh hukuk mahkemesidir. Mahkemece yazılı şekilde görevsizlik kararı verilmiş olması doğru görülmediğinden hükmün bu sebeple bozulması gerekmiştir (Yargıtay 6. Hukuk Dairesi -Karar: 2016/250) .
+
+### Kat Mülkiyetinden Kaynaklanan Davalar Sulh Hukuk Mahkemesinde Açılmalıdır
+
+634 sayılı Kanunun 35/b maddesinde634 sayılı Kanunun 35/b maddesinde ise "Ana gayrimenkulün gayesine uygun olarak kullanılması, korunması, bakımı ve onarımı için gereken tedbirlerin alınması" hükmüne, 16. maddesinde "Kat malikleri ana gayrimenkulün bütün ortak yerlerine, arsa payları oranında, ortak mülkiyet hükümlerine göre malik olurlar." hükmüne, ayrıca 19/3. maddesinde de "Her kat maliki ana gayrimenkule ve diğer bağımsız bölümlere, kusuru ile verdiği zarardan dolayı diğer kat maliklerine karşı sorumludur." hükmüne yer verilmiş, diğer yandan aynı Kanunun Ek madde 1. maddesi ile de "Bu Kanunun uygulanmasından doğacak her türlü anlaşmazlık sulh mahkemelerinde çözümlenir." düzenlemesine yer verilmiştir.
+
+Somut olayda, bağımsız bölüm malikinin halefi olan davacı sigorta şirketi, davalı bağımsız bölüm malikinin dairesinden gelen su sızıntısı nedeniyle sigortalıya ödenen tazminatın rücuan tahsili amacıyla yapılan icra takibine itirazın iptalini talep etmekte olup, bu şekilde Kat Mülkiyeti Kanunu hükümlerinin uygulanması gerektiği anlaşılan uyuşmazlığın İstanbul 15. Sulh Hukuk Mahkemesinde görülmesi gerektiği anlaşılmaktadır (Yargıtay 20. Hukuk Dairesi - Karar: 2016/10231).
+
+### Çocuğun Ergin Kılınması Kararı Sulh Hukuk Mahkemesi Tarafından Verilir
+
+6100 sayılı Hukuk Muhakemeleri Kanunu'nun 382/2-a-l maddesinde, ergin kılınma (kaza-i rüşt) kararı verilmesine ilişkin davanın çekişmesiz yargıya ilişkin olduğu düzenlenmiş aynı Kanun'un 383. maddesinde çekişmesiz yargıda aksine bir düzenleme bulunmadığı sürece sulh hukuk mahkemesinin görevli olduğu belirlenmiştir. Bu durumda uyuşmazlığın sulh hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir (Yargıtay 8. Hukuk Dairesi - Karar: 2017/734).
+
+### Tapu Kayıt Malikinin Tespiti Davası Sulh Hukuk Mahkemesinde Görülür
+
+Dava, tapu kayıt maliki ile davacı mirasbırakanının aynı kişi olduğunun tespitine ilişkindir. Bilindiği üzere, HMK'nın 382/1. maddesinde; "Çekişmesiz yargı, hukukun, mahkemelerce, aşağıdaki üç ölçütten birine veya birkaçına göre bu yargıya giren işlere uygulanmasıdır" hükmüne yer verilmiş; bu ölçütler ise ilgililer arasında uyuşmazlık olmayan haller, ilgililerin ileri sürebileceği herhangi bir hakkın bulunmadığı haller ve hakimin re'sen harekete geçtiği haller olarak ifade edilmiştir. Diğer taraftan, 382. maddenin 2-ç/1. fıkrasında "Taşınmaz üzerinde taraf oluşturulmasına ve hak ihlaline sebebiyet vermeyecek düzeltmelerin yapılması" çekişmesiz yargı işi olarak sayılmış olup, niteliği itibariyle tapu kayıt maliki ile davacıların murisinin aynı kişi olduğunun tespiti işleri de bu tanıma uymaktadır.
+
+Bu talepler, 4721 Sayılı Türk Medeni Kanunu'nun 1027. maddesi gereğince mahkemeye yapılırsa, 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 382/2-ç-1 maddesi gereğince çekişmesiz yargı usulüne göre Sulh Hukuk Mahkemesinde ve taşınmazın aynına dair bulunduğundan, aynı Kanunun 12. maddesi uyarınca taşınmazın bulunduğu yer sulh hukuk mahkemesinde görülür.
+
+6100 Sayılı HMK'nın 1. maddesi gereğince görev kamu düzeni ile ilgili olup taraflarca ileri sürülmese dahi yargılamanın her aşamasında mahkemece re'sen gözetilmesi zorunlu bir usul kuralıdır. Hâl böyle olunca, işin esasının görevli Sulh Hukuk Mahkemesinde değerlendirilmesi gerektiğinden bahisle görevsizlik kararı verilmesi gerekirken, yanılgılı değerlendirme ile işin esası hakkında hüküm kurulması doğru değildir (Yargıtay 1. Hukuk Dairesi - Karar: 2016/9245).
+
+### Tapu Kayıt Malikinin Mirasbırakan Olduğunun Tespiti Sulh Hukuk Mahkemesinden İstenir
+
+Dava, tapu kayıt malikinin davacının miras bırakanı ile ayni kişi olduğunun tespiti istemine ilişkindir. 6100 Sayılı Hukuk Muhakemeleri Kanununun 382/1 maddesinde; "Çekişmesiz yargı, hukukun mahkemelerce, aşağıdaki üç ölçütten birine veya birkaçına göre bu yargıya giren işlere uygulanmasıdır" hükmüne yer verilmiş; bu ölçütler ise ilgililer arasında uyuşmazlık olmayan haller, ilgililerin ileri sürebileceği herhangi bir hakkın bulunmadığı haller ve hakimin re'sen harekete geçtiği haller olarak ifade edilmiştir.
+
+Kanunda çekişmesiz yargı işlerinin neler olduğu önce genel çerçevesi belirlenerek, daha sonra da mümkün olduğunca sayılarak belirtilmiştir. Ancak bu sayma sınırlı olmadığından yasa maddesinde sayılmayan fakat çekişmesiz yargı ölçütlerini taşıyan diğer işlerin de çekişmesiz yargı işi olarak kabulü gerekir. Yani, 382. maddede sayılmamakla beraber çekişmesiz yargının ölçütlerinden birini veya birkaçını taşıyan bir iş de çekişmesiz yargı işi olarak değerlendirilebilir.
+
+Tapu kayıt maliki ile davacının miras bırakanının aynı kişi olduğunun tespiti davaları da 6100 Sayılı Hukuk Muhakemeleri Kanununun 382. maddesinde belirtilen çekişmesiz yargı işlerinden sayılmalıdır. Kaldı ki, 382. maddenin 2-ç/1 fıkrasında "Taşınmaz üzerinde taraf oluşturulmasına ve hak ihlaline sebebiyet vermeyecek düzeltmelerin yapılması" çekişmesiz yargı işi sayılmış olup, niteliği itibariyle tespit taleplerinden başka bu tarife uyacak bir dava türü de bulunmamaktadır.
+
+Talep tarihi itibariyle yürürlükte bulunan 6100 Sayılı Hukuk Muhakemeleri Kanununun 383. maddesine göre de, çekişmesiz yargı işlerinde görevli mahkeme, aksine bir düzenleme bulunmadığı sürece Sulh Hukuk Mahkemeleridir. Bu itibarla, çekişmesiz yargı işi olan tespit taleplerine Sulh Hukuk Mahkemelerince bakılması gerekir. Anılan Kanunun 114/1-c ve 115. maddeleri gereğince, görev dava şartlarından olup mahkeme, dava şartlarının mevcut olup olmadığını davanın her aşamasında kendiliğinden araştırmalıdır.
+
+Somut uyuşmazlıkta davacı; 6100 Sayılı yürürlük tarihinden sonra 19.11.2013 tarihli dava ile 944 ada 6 parsel sayılı taşınmazda malik gözüken '... ... oğlu ...'' ile kendi mirasbırakanı ''... oğlu ..."in aynı kişi olduklarının tespiti isteğiyle eldeki davayı açmıştır. Hâl böyle olunca anılan isteğin Asliye Hukuk Mahkemesinde yazılı yargılama usulüne göre görülmesi mümkün olmadığından, görevsizlik kararı verilmesi gerekirken aksi düşünce ile yazılı şekilde davanın esası hakkında karar verilmesi doğru değildir (Yargıtay 1. Hukuk Dairesi - Karar: 2016/4073).
+
+### Veraset İlamındaki Murisin Tapu Maliki Olarak Tespiti Davası
+
+Davacı, 19 Sayılı parselin paydaşlarından olan A. ile Sulh Hukuk Mahkemesi'nin veraset ilamına konu muris A.'nın aynı kişi olduğunun tespitine karar verilmesini istemiştir. Mahkemece, davanın çekişmesiz yargıya konu olduğundan bahisle görevsizlik kararı verilmiş, hüküm davalı vekili tarafından süresinde temyiz edilmiştir.
+
+Bilindiği üzere; 01.10.2011 tarihinde yürülüğe giren 6100 Sayılı Hukuk Muhakemeleri Kanunu'nun ''Tespit Davası'' başlıklı 1. fıkrasında; Tespit davası yoluyla mahkemeden, bir hakkın veya hukuki ilişkinin varlığının ya da yokluğunun yahut bir belgenin sahte olup olmadığının belirlenmesi talep edilir'' hüküm altına alınmıştır.
+
+6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 383. maddesinde de; Çekişmesiz yargı işlerinde görevli mahkemenin, aksine bir düzenleme bulunmadığı sürece Sulh Hukuk Mahkemeleri '' olduğu belirlenmiş, çekişmesiz yargı işlerinin nelerden ibaret olduğu ise aynı Kanunun 382. maddesinde düzenlenmiştir. Anılan madde düzenlemesinde de; Kanunda çekişmesiz yargı işlerinin neler olduğu önce genel çerçevesi belirlenerek, daha sonra da mümkün olduğunca sayılarak belirtilmiştir.
+
+Öte yandan; aynı Kanunun 2. maddesinde de; ''Dava konusunun değer ve miktarına bakılmaksızın malvarlığı haklarına dair davalarla, kişi varlığına dair davalarda görevli mahkeme, aksine bir düzenleme bulunmadıkça Asliye Hukuk Mahkemesidir. Bu Kanunda ve diğer kanunlarda aksine düzenleme bulunmadıkça, Asliye Hukuk Mahkemesi diğer dava ve işler bakımından da görevlidir. '' hüküm altına alınmıştır.
+
+Somut olaya gelince, iddianın ileri sürülüş biçiminden, davanın 6100 Sayılı HMK'nın 106. maddesine dayanılarak açılan tespit davası olduğu ve mutlaka hasımlı olarak görülmesi gerektiği gözetildiğinde, davanın HMK'nın 2. maddesi kapsamında kaldığı ve görevli mahkemenin Asliye Hukuk Mahkemesi olduğu açıktır (Yargıtay 1. Hukuk Dairesi - Karar: 2016/9107).
+
+### Kat Mülkiyetinden Kaynaklanan Maddi Zarar Davası / Sulh Hukuk Mahkemesinin Görevi
+
+Dava, su tesisatından sızan sular nedeniyle uğranılan maddi zararların tazmini istemine ilişkin olup, ana taşınmazın tek ada ve tek parsel üzerinde bulunduğu ve kat mülkiyeti kurulu olduğu anlaşılmakla, olayda Kat Mülkiyeti Kanunu uygulanacaktır.
+
+634 sayılı Kat Mülkiyeti Kanununun Ek 1. maddesi uyarınca, bu kanundan doğan her türlü uyuşmazlığın değerine bakılmaksızın sulh hukuk mahkemesince çözümleneceği gözetilerek taraflar arasındaki davaya sulh hukuk mahkemesinde bakılmak üzere görevsizlik kararı verilmesi gerekirken uyuşmazlığın esası hakkında karar verilmesi doğru görülmemiştir (Yargıtay 18. Hukuk Dairesi - Karar: 2016/10569).
+
+### Site Yöneticisinin Neden Olduğu Zararın Tahsili / Görevli Sulh Hukuk Mahkemesi
+
+Davacı vekili dava dilekçesinde, davalıların 05.08.2003 ve 31.07.2004 tarihleri arasında yönetici olarak görev yaptıkları dönemde birçok usulsüz harcama yaparak siteyi zarara uğrattıklarını, davalılardan 25.000 TL nin haksız zenginleştikleri tarihten itibaren müştereken ve müteselsilen alınarak müvekkiline verilmesini; birleşen davada ise davacı A. Ö., yönetici olarak görev yaptığı dönemde gelir ve gider arasındaki 11.185,00 TL farkın tarafından harcandığından, bu miktarın dava tarihinden itibaren yasal faizi ile birlikte site yönetiminden alınarak tarafına verilmesini istemiş, mahkemece asıl davanın kısmen kabulüne, birleşen davanın ise reddine karar verilmiştir.
+
+Dosyadaki bilgi ve belgeler ile özellikle tapu kayıt örneğinden; anataşınmazın tek parsel üzerinde olduğu ve üzerinde kat irtifakı kurulduğu anlaşıldığından; anlaşmazlığın değerine bakılmaksızın sulh hukuk mahkemesinde çözümleneceğini düzenleyen Kat Mülkiyeti Kanununun Ek.1 maddesi gereğince görevsizlik kararı verilmesi yerine, asliye hukuk mahkemesince davaya bakılıp işin esası hakkında karar verilmesi doğru görülmemiştir (Yargıtay 18. Hukuk Dairesi - Karar: 2016/1509).
+
+### Nüfus Kaydının Düzeltilmesi Davası Asliye Hukuk Mahkemesinde Açılmalıdır
+
+4721 Sayılı Türk Medenî Kanununun uyarınca, haklı bir sebebe dayanmak kaydıyla, adın değiştirilmesi hâkimden istenebilir. Diğer yandan 5490 Sayılı Nüfus Hizmetleri Kanununun 36. maddesinin 1/a bendinde 1/a bendinde, nüfus kayıtlarına dair düzeltme davalarının düzeltmeyi isteyen şahısların yerleşim yeri adresinin bulunduğu yerdeki görevli asliye hukuk mahkemesinde açılacağı hükme bağlanmıştır. Aynı Kanunun ( b ) fıkrasında ise ad ve soyada dair düzenleme bulunmaktadır. Davacının talebinin çekişmesiz yargı kapsamında olmadığı, adı geçen Kanun maddeleri uyarınca Asliye Hukuk Mahkemesinde görüleceği Yargıtay Hukuk Genel Kurulunun 25.12.2013 gün ve 2013/18-464 E. - 2013/1698 K. sayılı ilâmıyla da benimsenmiştir.
+
+Bu durumda 5490 Sayılı Kanun'un 36/1-a-b maddesi kapsamında olan uyuşmazlığın 5490 Sayılı Nüfus Hizmetleri Kanununun 36. maddesi uyarınca genel hükümlere göre Asliye Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/7946).
+
+### Kira İlişkisinden Kaynaklanmayan Alacak Davaları Asliye Hukuk Mahkemesinde Görülür
+
+Asliye hukuk mahkemesi, uyuşmazlığın kira sözleşmesinden kaynaklandığı, davaya bakma görevinin sulh hukuk mahkemesine ait olduğu gerekçesiyle, davanın görev yönünden reddine karar verilmiştir.
+
+Dava açıldığı tarihte yürürlükte olan 6100 Sayılı HMK'nun 4/1-a maddesiyle "Kiralanan taşınmazların, 09.06.1932 tarihli ve 2004 Sayılı İcra ve İflas Kanununa göre ilamsız icra yoluyla tahliyesine dair hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dâhil olmak üzere tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davaların Sulh Hukuk Mahkemesinde görüleceği" hüküm altına alınmıştır.
+
+Dava konusu olayda, davacı ile davalılar arasında bir kira ilişkisi mevcut değildir. Uyuşmazlık, tarafların müşterek malik oldukları taşınmazlarda hisselerine düşen kira alacaklarının birbirlerine ödenmemiş olmasından kaynaklanmaktadır. Yukarıda anılan yasa gereği, kiraya veren ile kiracı arasındaki uyuşmazlıklar Sulh Hukuk Mahkemesi'nin görev alanına girmektedir. Taraflar arasında böyle bir kira ilişkisi mevcut olmaması ve davanın konusunun alacak istemine dayalı olması hususları birlikte değerlendirildiğinde uyuşmazlığın çözümünde asliye hukuk mahkemeleri görevlidir. Mahkemece bu husus gözönüne alınmaksızın sulh Mahkemesi görevli kabul edilerek, yazılı gerekçe ile görevsizlik kararı verilmesi doğru görülmemiş; hükmün bu sebeple bozulması gerekmiştir (Yargıtay 4. Hukuk Dairesi - Karar: 2016/8299).
+
+### Kira İlişkisinden Kaynaklanan Zararlar Sulh Hukuk Mahkemesinde Talep Edilir
+
+Dava, kira sözleşmesine dayalı menfi zarar istemine ilişkindir. 01.10.2011 tarihinde yürürlüğe giren 6100 Sayılı HMK'nın Sulh Hukuk Mahkemelerinin görevini düzenleyen 4. maddesinin 1/a bendi 1/a bendi gereğince kiralanan taşınmazların İcra ve İflas Kanununa göre ilâmsız icra yolu ile tahliyesine dair hükümler ayrık olmak üzere, kira ilişkisinden doğan alacak davaları da dahil tüm uyuşmazlıkları konu alan davalar ile bu davalara karşı açılan davalar sulh hukuk mahkemesinin görevine girmektedir. Mülga 1086 Sayılı HMUK'dan farklı olarak bu düzenlemede miktar ayırımı yapılmaksızın tahliye, alacak, tazminat, kiracılık sıfatının tespiti gibi tüm kira ilişkisinden kaynaklanan uyuşmazlıkların çözüm yeri sulh hukuk mahkemesi olarak gösterilmiştir.
+
+Somut olayda davacı vekili, müvekkilinin 05.07.2014 başlangıç tarihli işletme sözleşmesi ile davalı ile sözleşme yaptığını, bu sözleşmeye göre davacıya ait kuaförü davalıya ait imza kuaförüne dönüştüreceğini, 6 aylık deneme süresi olacağını, deneme süresi içinde imza kuaför istediği ciroya ulaşır ise sözleşmenin 7 yıl devam edeceğini, her ayın 5 inde davalının davacıya devir hakkı olan aylık 2.500,00.-TL ödeyeceğini, ancak davalının 4 aylık devir bedelini ödemediğini ve aynı şekilde dükkanın tüm elektrik, su, telefon, internet, alarm giderleri ile aylık vergi, KDV, stopaj ve buna benzer giderlerinde davalıya ait olacağının kararlaştırıldığını, ancak ödenmeyen aylık kiralar ile diğer giderlerin müvekkilince yapılması nedeni ile toplam 14.795,00.-TL'nin yasal faizi ile birlikte davalıdan tahsilini talep ettiği anlaşılmış olup uyuşmazlığın Antalya 2. Sulh Hukuk Mahkemesinde görülüp, sonuçlandırılması gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/6767).
+
+### Site Yönetiminin Haksız Fiili Nedeniyle Tazminat Davası Asliye Hukuk Mahkemesinde Açılır
+
+Dava, haksız fiilden kaynaklı maddi-manevi tazminat isteminden ibarettir. İstanbul Anadolu 5. Asliye Hukuk Mahkemesince, taraflar arasındaki uyuşmazlığın Kat Mülkiyeti Kanunu hükümlerinden kaynaklandığı, üzerinde kat mülkiyeti kurulu bulunan ana taşınmazlarla ilgili her türlü davaya değerine bakılmaksızın sulh hukuk mahkemelerinde bakılacağı gerekçesiyle görevsizlik kararı verilmiştir. İstanbul Anadolu 18. Sulh Hukuk Mahkemesi ise 6100 Sayılı HMK'nın 4. maddesiyle sulh hukuk mahkemesinin görev alanına giren işlerin tek tek belirtildiği, HMK'nın 2. maddesiyle de malvarlığı ve kişi varlığına dair uyuşmazlılaksine düzenleme bulunmadıkça için genel görevli olarak asliye hukuk mahkemelerinin düzenlendiği gerekçesiyle görevsizlik kararı vermiştir.
+
+Somut olayda; davacı, ... sakini iken, 15.05.2013 tarihinde çocuğunu okula götürmek üzere bloktan çıktığında binanın deposunda bulunan şahsına ait bir kısım eşyaların kırmızı bir kamyonete yüklenmiş olarak gördüğünü, yöneticiye sorduğunda apartman sakinlerince karar alındığını ve ilân panosuna asıldığını söylediğini, ilânı görmediği hususunda tartıştıklarını ve kamyonete yüklü eşyalarını araçtan indirdiğini, ancak, manevi değeri olan diğer bir takım eşyalarını ise bulmak için depoyu aradığında bulamaması üzerine, yöneticiden hurdacının adresini istediğini, kendisine bitti gitti denmek suretiyle yanıt verildiğini beyan ederek, apartman yönetiminin ağır ihmal ve kusurunun bulunduğunu beyanla site yönetimi adına yönetici davalıdan maddi ve manevi tazminat talebinde bulunmuştur.
+
+4721 Sayılı Türk Medenî Kanununun 24. maddesinde; "Hukuka aykırı olarak kişilik hakkına saldırılan kimse, hâkimden, saldırıda bulunanlara karşı korunmasını isteyebilir. Kişilik hakkı zedelenen kimsenin rızası, daha üstün nitelikte özel veya kamusal yarar ya da kanunun verdiği yetkinin kullanılması sebeplerinden biriyle haklı kılınmadıkça, kişilik haklarına yapılan her saldırı hukuka aykırıdır." denilmektedir. Kat Mülkiyeti Kanununun 38. maddesinde yöneticinin sorumluluğu "Yönetici, kat maliklerine karşı aynen bir vekil gibi sorumludur." şeklinde düzenlenmiştir. Her ne kadar davalı yönetici, davacıya karşı KMK'nın 38. maddesi gereği kat maliklerine karşı uğradıkları cismani ve maddi zararlara karşı sorumlu bulunsa da, davacının kiracı olduğu, ayrıca, sulh hukuk mahkemelerinin yalnızca Kat Mülkiyeti Kanunundan doğan maddi zararlara dair davalara bakmakla görevli olduğu bilindiğinden, sulh hukuk mahkemelerinin görevli olduğundan bahsedilemez (Yargıtay 20. Hukuk Dairesi - Karar: 2016/6713).
+
+### Mevcut İsme Yeni İsim Eklenmesi / Görevli Asliye Hukuk Mahkemesi
+
+Davacı vekili dava dilekçesinde, davacının Nazife olan adına Ebru adının eklenmesini istemiş; mahkemece, davanın çekişmesiz yargı işlerinden olup sulh hukuk mahkemesinin görevi kapsamında olduğundan görevsizlik kararı verilmiştir.
+
+6100 sayılı Hukuk Muhakemeleri Kanununun 382. maddesinde6100 sayılı Hukuk Muhakemeleri Kanununun 382. maddesinde ad ve soyadı düzeltilmesi işlerinin çekişmesiz yargı kapsamında bulunduğu; 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 383. maddesinde ise çekişmesiz yargı işlerinde görevli mahkemenin aksine bir düzenleme bulunmadığı sürece sulh hukuk mahkemesi olduğu; 5490 Sayılı Nüfus Hizmetleri Kanununun 36. maddesinde de nüfus kayıtlarına dair düzeltme davalarının düzeltmeyi isteyen şahıslar ile ilgili resmî dairenin göstereceği lüzum üzerine Cumhuriyet Savcıları tarafından yerleşim yeri adresinin bulunduğu yerdeki görevli asliye hukuk mahkemesinde açılacağı hükme bağlandığından; mahkemece, işin esasına girilerek gösterilecek deliller toplanıp oluşacak sonuca göre bir karar verilmesi yerine, uygun bulunmayan gerekçe ile görevsizlik kararı verilmesi doğru görülmemiştir (Yargıtay 18. Hukuk Dairesi -Karar: 2016/1389).
+
+### Vasiye İtiraz / Sulh Hukuk Mahkemesi Kararına İtiraz ve Temyiz
+
+Vasinin şahsına dair itiraz talebi Ankara 12. Sulh Hukuk Mahkemesi'nin 06.02.2015 tarihli kararı ile itirazın reddi görüşüyle dosyayı değerlendirme için denetim makamına gönderilmiştir. Denetim makamı sıfatıyla Ankara 20. Asliye Hukuk Mahkemesi 16.02.2015 gün ve 2015/14-14 D.iş sayılı kararı ile Ankara 12.Sulh Hukuk Mahkemesi'nin 05.11.2014 gün ve 2013/1794-2014/1196 Sayılı kararına yapılan itirazın reddine, diğer hususlar yönünden dosyanın temyizen incelenmesi için Yargıtaya gönderilmek üzere vesayet makamı olan Ankara 12. Sulh Mahkemesine gönderilmesine karar verilmiştir.
+
+4721 Sayılı Türk Medeni Kanunu'nun 422. maddesi gereğince vasinin şahsına-sıfatına karşı yapılan itirazları veya vasinin ileri sürdüğü kaçınma sebeplerini (özürleri) inceleme görevi, öncelikle vesayet makamı olan sulh hukuk mahkemesine, onun kabul etmemesi halinde denetim makamına aittir. Aynı Kanun'un 488. maddesi uyarınca ise, vesayet makamının kararlarına dair itiraz üzerine verilen denetim makamı kararları kesindir (Yargıtay 18. Hukuk Dairesi - Karar: 2016/1047).
+
+### Toplu Yapı Yönetimine Geçmeyen Site / Görevli Asliye Hukuk Mahkemesi
+
+Davada, birden çok parsel üzerinde kurulu sitede 20.01.2013 tarihli genel kurul toplantısının iptali ve hakimin müdahalesi istenilmiş, mahkemece davanın reddine karar verilmiştir.
+
+Dosyadaki bilgi ve belgelerle tapu kayıtlarının incelenmesinden; davaya konu sitenin birden fazla parsel üzerinde olduğu ve Kat Mülkiyeti Yasasında değişiklik yapılmasına dair 5711 Sayılı Kanununun 22. maddesiyle Kat Mülkiyeti Yasasının 66 vd. maddelerinde düzenlenen Toplu Yapılara İlişkin Özel Hükümler uyarınca sitede henüz toplu yapı yönetimine geçilmediği anlaşıldığından; uyuşmazlığa genel hükümlerin uygulanması görev hususunun da genel hükümlere göre belirlenmesi gerekir.
+
+Hukuki uyuşmazlıklarda asliye hukuk mahkemesinin görevi asıl, sulh hukuk mahkemesinin görevi ise istisnadır. Özel bir kanun hükmü ile açıkça sulh hukuk mahkemesinde bakılacağı bildirilmeyen bütün dava ve işler asliye hukuk mahkemesinde görülür. Bu sebeple mahkemece, genel hükümlere göre asıl görevli mahkeme olan asliye hukuk mahkemesinde bakılmak üzere dava dilekçesinin görev yönünden reddi yerine esas hakkında karar verilmesi doğru görülmemiştir (Yargıtay 18.Hukuk Dairesi - Karar: 2016/783).
+
+### İcra Hukuk Mahkemesi ve Sulh Hukuk Mahkemesi Görev Ayrımı
+
+Alacaklı tarafından borçlu aleyhine yönetim ücreti, kıdem ve ihbar tazminatına dayalı olarak genel haciz yoluyla başlatılan ilamsız takipte borçlunun borca itirazı üzerine, alacaklının itirazın kaldırılması talebiyle icra mahkemesine başvurduğu; mahkemece, icra takibine konu edilen kat malikleri kurulu kararlarının geçerli olup olmadığı genel mahkemelerin görevi dahilinde olduğundan, dava dilekçesinin görev nedeni ile reddine, karar kesinleştiğinde ve talep halinde dosyanın Küçükçekmece Nöbetçi Sulh Hukuk Mahkemesine gönderilmesine karar verildiği anlaşılmaktadır.
+
+İcra mahkemeleri önlerine gelen takip hukukuna yönelik şikayet, itiraz ve itirazın kaldırılması talepleri hakkında ya kabul ya da ret kararı verebilirler. Ancak görevsizlik kararı veremezler. 68. maddesine göre itirazın kaldırılması isteminde icra mahkemesi görevlidir.
+
+O halde mahkemece, takip ve dava tarihi itibariyle davacı C. Ö.'ün apartman yöneticiliğini temsil yetkisinin bulunup bulunmadığı, dayanak belgelerin 68. maddesinde sayılan belgelerden olup olmadığı yönünde işin esasının incelenerek oluşacak sonuca göre karar verilmesi gerekirken, sulh mahkemelerinin görevli olduğu gerekçesi ile yazılı şekilde görevsizlik yönünde hüküm tesisi isabetsizdir (Yargıtay 12. Hukuk Dairesi - Karar: 2017/577).
+
+### Tapu Kaydındaki Kimlik Bilgilerinin Düzeltilmesi Davası
+
+Dava, tapu kaydında yanlış yazılan kimlik bilgilerinin düzeltilmesi istemine dair olup, dava 09.06.2010 tarihinde Asliye Hukuk Mahkemesinde açılmış, Asliye Hukuk Mahkemesince 11.10.2012 tarihinde davanın çekişmesiz yargı işi olduğundan bahisle Sulh Hukuk Mahkemesi'ne görevsizlik kararı verilmiş, görevsizlik kararının itiraz edilmeksizin 27.02.2013 tarihinde kesinleşmesi ve süresinde başvuru üzerine Sulh Hukuk Mahkemesince işin esasına girilerek karar verildiği anlaşılmıştır.
+
+Ne var ki, eldeki davanın 1086 Sayılı HUMK'nın yürürlüğü zamanında 09.06.2010 tarihinde açıldığı sabittir. Bilindiği üzere, 6100 Sayılı HMK'nın geçici 1. maddesinin ilk fıkrası; "Bu Kanunun yargı yolu ve göreve dair hükümleri, Kanunun yürürlüğe girmesinden önceki tarihte açılmış olan davalarda uygulanmaz." düzenlemesini içermektedir.
+
+Bu durumda, tapu kaydında kimlik bilgilerinin düzeltilmesine dair uyuşmazlık 6100 Sayılı HMK'nın 01.10.2011 tarihinde yürürlüğe girmesinden önce Asliye Hukuk Mahkemesine getirilmiş olup Asliye Hukuk Mahkemesinde görülüp, sonuçlandırılması gerekmektedir (Yargıtay 1. Hukuk Dairesi - Karar: 2016/9807).
+
+
+---
+
+## Tensip Zaptı (Tutanağı) Nedir? Tensip Zaptı Hazırlandı Ne Demek?
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/tensip-zapti-hazirlandi-ne-demek (son güncelleme: 2025-12-30)*
+
+Tensip zaptı, diğer bir deyişle tensip tutanağı; hukuk ve ceza mahkemesinin ilk duruşmadan önce yapılacak işlemleri tespit etmek üzere tuttuğu tutanaktır.
+
+
+## Tensip Zaptı (Tutanağı) Nedir?
+
+**Tensip zaptı**, diğer bir deyişle tensip tutanağı; davanın açıldığı mahkemenin ilk duruşmadan önce, duruşmaya kadar yapılacak iş ve işlemleri belirlemek için tuttuğu bir tutanaktır. Tensip zaptı, davanın açıldığı mahkemenin hakimi tarafından hazırlanır. Tensip zaptıyla genellikle duruşma günü de belirlenir. Uyap veya e-devlette görünen "*tensip zaptı hazırlandı*" ibaresi davanın görülmeye başlanması için gerekli hazırlık işlemlerinin yapıldığı anlamına gelmektedir.
+
+UYAP veya E-devlet üzerinde görünen "**tensip zaptı hazırlandı**" ibaresi, mahkeme hakiminin dava dosyasını incelediğini, yapılacak işleri veya duruşma gününü belirleyen "tensip zaptı" adlı tutanağı hazırladığını gösterir. Yerel mahkemelere açılan tüm davaların görülmeye başlanabilmesi için hakim tarafından bir tensip zaptı (tutanağı) düzenlenmesi zorunludur.
+
+Mahkemelerin tensip zaptı düzenlediği davalar genel olarak ikiye ayrılmaktadır:
+
+1. Hukuk davaları
+2. Ceza davaları
+
+## 1. Hukuk Davalarında Tensip Zaptı Hazırlanması
+
+Hukuk davalarında (boşanma davası, tazminat davası, miras, alacak, tapu iptal davası vb.) düzenlenen tensip zaptı davanın gidişatını önemli ölçüde etkiler. Hukuk davalarında yapılacak işlemlerin dava başlamadan önce bir düzene konulması tensip zaptıyla mümkün hale gelir. Mahkeme tensip zaptı ile şu kararları verebilir:
+
+- Davanın taraflarının birbirlerinin dilekçelerine cevap süresi içinde cevap verebileceklerine tensip zaptında belirtir.
+- İlk duruşmaya kadar toplanması gereken delillerin toplanmasına karar verebilir.
+- Tarafların her türlü delillerini bildirmesinin taraflardan istenmesine karar verebilir.
+- Tarafların veya üçüncü kişilerin yapması gereken başkaca bir yükümlülük varsa bu durumun kendilerine bildirilmesine karar verebilir.
+- Duruşma gününü belirleyebilir.
+
+Tensip zaptının tebliğiyle birlikte dava dilekçesi de tebliğ edildiğinden davalının cevap süresi de tensip tutanağının tebliğinden itibaren başlamaktadır.
+
+Hemen belirtelim ki, delillerin gösterilmesi için tensip zaptı ile verilen süre bağlayıcı değildir. Yargılamanın tensip zaptı düzenlenmesinden sonraki aşamalarından biri olan ön inceleme aşamasında dahi delillerin bildirilmesi mümkündür.
+
+Hukuk davalarında basit yargılama usulünün uygulandığı mahkemelerde (İş Mahkemesi, Sulh Hukuk Mahkemesi, Tüketici Mahkemesi, İcra Mahkemeleri vb.) *tensip zaptı hazırlanması* ile birlikte duruşma günü de belirlenmektedir. Ancak, yazılı yargılama usulünün  uygulandığı mahkemeler (Aile Mahkemesi, Asliye Hukuk Mahkemesi, Asliye Ticaret Mahkemesi vb.) öncelikle tarafların karşılıklı dilekçelerini birbirine göndererek bir tarafın dilekçesinin diğer tarafça cevaplanmasından sonra duruşma günü belirlemektedir. Basit veya yazılı yargılama usullerinden hangisi uygulanırsa uygulansın, her iki halde de duruşma gün ve saati belirlendikten sonra, taraflar davetiye ile duruşmaya çağrılır.
+
+## 2. Ceza Davalarında Tensip Zaptı (Tutanağı) Hazırlanması
+
+Tüm ceza mahkemeleri şüpheli hakkında düzenlenen iddianameyi kabul ettiklerinde, ilk duruşmaya kadar yapılacak işlemleri belirlemek ve şikayetçi ile sanığı duruşmaya çağırmak üzere bir tensip zaptı hazırlar. Sanık tutuklu ise, sanığın tutukluluk halinin devam edip etmeyeceği konusunda da tensip zaptıyla bir karar verilir. Sanık tutuklu ise, tensip zaptıyla tahliye kararı verilmediği takdirde sanığın cezaevinden duruşmaya getirtilmesi için yazı yazılır. Tensip zaptı ile ayrıca varsa tanıklar, bilirkişiler ve işlem tutanağı imzacıları (örneğin, yakalama veya arama tutanağını imzalayanlar) gibi kişiler de duruşmaya çağrılır.
+
+Taraflar da ilk duruşmadan önce mahkeme vasıtasıyla yazı yazdırarak ilgili kurumlardan getirtmek istedikleri belgelerin getirtilebilmesi için tensip tutanağı hazırlanmadan önce gerekli bilgileri ceza mahkemesine sunabilirler. Mahkeme, taraflarca ileri sürülen talebin iddianamedeki olayı ispatlamaya yarayan bir talep olduğunu gördüğünde talebin kabulüne karar vererek ilgili kurumlara yazı yazarak belgelerin gönderilmesini ister.
+
+Ceza davalarında tensip zaptı düzenlemesi gereken bazı ceza mahkemeleri şunlardır:
+
+### Tensip Zaptı (Tutanağı) Aşaması Ne Kadar Sürer?
+
+Tensip zaptı, esasen mahkemenin duruşmaya yaptığı hazırlıkları içerir. Hukuk davalarında birkaç günde tensip zaptı hazırlanır. Hukuk davalarında genellikle dosyannın incelenmesi daha kolaydır. Mahkeme hakimi dosyayı inceleyerek kısa bir sürede yapılacak işlemleri belirler.
+
+Ceza davalarında iddianamenin kabulü süreci de bulunduğundan, tensip zaptının düzenlenmesi iddianamenin mahkemeye verilmesinden sonra 15-20 günü bulmaktadır. Ceza mahkemesi iddianame kendisine sunulduktan sonra 15 gün içinde iddianamenin iadesine karar verebilir (CMK m.174/1). İddianamenin iade edilmesine karar verildiğinde tesnsip zaptı düzenlenmez. İddianamenin iadesi üzerine savcılık yeniden soruşturma işlemleri yapar. İddianamenin kabulüne karar verildiğinde tensip zaptının mümkün olan en kısa sürede hazırlanması gerekir. Ancak ceza dava dosyalarının bazen çok sanıklı olması veya karmaşık niteliği nedeniyle dosyanın hakim tarafından incelenerek tensip zaptı (tutanağı) hazırlanması zaman alabilir. Örneğin, 50 kişilik bir suç örgütü davasının tensip zaptı iddianamenin gelişinden itibaren 20-30 günde hazırlanabilecekken tek sanıklı bir hırsızlık dosyasının tensip tutanağı birkaç günde hazırlanabilir. Tensip tutanağının hazırlanması konusunda kanunda bir süre sınırlaması bulunmamaktadır.
+
+### Tensip Zaptı Hazırlandı Ne Demek?
+
+UYAP veya e-devlet üzerinde görünen "*tensip zaptı hazırlandı*" ibaresi, dava dosyasının duruşmaya hazırlık işlemlerinin yapıldığını ve çoğunlukla duruşma gününün verildiği anlamına gelmektedir.
+
+Hukuk ve ceza davasının mahkemede hızlı bir şekilde görülebilmesi için gerekli hazırlık işlemlerinin ne olduğu tensip tutanağıyla düzenlendiğinden "*tensip zaptı hazırlandı*" ibaresi bir takım hazırlık işlemlerinin yapıldığını göstermektedir. Örneğin, ağır ceza mahkemesinde sanığın tutuklu olduğu dosyada dinlenmesi gereken müşteki ve tanıklar hakkında zorla getirme kararı verilmesi tensip zaptıyla kararlaştırılabilir. Bu durum, UYAP'a veya edevlet üzerinde sadece "*tensip zaptı hazırlandı*" şeklinde bir ibareyle yansımaktadır.
+
+### "Tensip Zaptı Hazırlandı Duruşma Günü Verilmedi" İbaresi Ne Anlama Gelir?
+
+Tensip zaptı ile duruşma günü verilmemesi halinde duruşmaya hazırlık işlemlerinin sürdüğü anlamına gelir. Mahkeme tensip zaptını hazırlayıp yapılması gereken işlemleri yapmakta, ancak dosya duruşma yapmak için olgunlaşmadığından duruşma günü vermemektedir. Duruşma günü verilmemesi daha çok yazılı yargılama usulünün  uygulandığı mahkemelerde (Aile Mahkemesi, Asliye Hukuk Mahkemesi, Asliye Ticaret Mahkemesi vb.) söz konusu olmaktadır. Mahkeme, tensip zaptını hazırlamasına rağmen duruşma günü vermemişse, dosyanın taraf sayısının çokluğu,  dava ve cevap dilekçelerinin taraflara tebliği, toplanacak delillerin çeşitliliği gibi faktörleri dikkate alarak duruşma açmadan daha hızlı bir şekilde işlem yapmayı hedeflemiştir. Duruşma açmadan önce
+dosyadaki eksiklikleri önemli ölçüde tamamlamak isteyen mahkemenin bu işlemi, UYAP veya e-devlet üzerinde "*tensip zaptı hazırlandı duruşma günü verilmedi*" şeklinde yansımaktadır.
+
+### Tensip Zaptı Kaç Günde Gelir?
+
+Hukuk dosyalarında tensip zaptı hazırlandıktan sonra yaklaşık 1 ay içinde PTT vasıtasıyla ilgilisine tebliğ edilmektedir. Tensip zaptı ilgilinin dosyada bulunan veya dosyaya bildirdiği adresine tebliğ edilmektedir.
+
+Ceza davalarında mahkemenin kanunen tensip zaptını tebliğ etme mecburiyeti yoktur. Bu nedenle uygulamada ceza mahkemeleri tensip zaptını taraflara tebliğ etmezler. Ancak taraflar dilerse tensip zaptının bir suretini ceza mahkemesinden alabilirler.
+
+### Tensip Zaptından Sonra İlk Duruşma Ne Zaman Olur?
+
+Türkiye'de duruşma (mahkeme günü) aralıkları oldukça uzundur. Hukuk davalarında tensip zaptı hazırlandıktan yaklaşık 3 ay sonraya ilk duruşma yapılmaktadır. Bazı mahkemelerin yoğunluğuna bağlı olarak bu süre 5-6 aya kadar çıkabilmektedir.
+
+Ceza davalarında, asliye ceza mahkemesi, tutuklu işlerde tensip zaptını hazırladıktan 30-40 gün sonraya duruşma günü verebilmektedir, tutuksuz işlerde duruşma tarihi 3-5 ayı bulabilmektedir. Ağır ceza mahkemesi ise, tutuklu işlerde tensip zaptı hazırlandıktan sonra 2-3 ay içinde ilk duruşmayı yapmaktadır, tutuksuz işlerde duruşma tarihi 3-5 ayı bulmaktadır.
+
+### Tensip Zaptıyla Verilen Karar Bir Ara Karar mıdır?
+
+Tensip zaptıyla verilen her türlü karar hukuki niteliği itibariyle birer ara karardır. Tensip zaptıyla bir davanın sonuçlandırılması mümkün değildir. Bu nedenle tensiip zaptıyla alınan her türlü karar ara karardır. Ara kararlar, yargılamayı ilerletmeye yarayan kararlardır. Tensip zaptıyla alınan kararlar da başlangıç aşamasından itibaren yargılamanın sağlıklı yürütülmesine hizmet eder.
+
+### Tensip Zaptına İtiraz Edilir mi?
+
+Tensip zaptına bir bütün olarak itiraz edilmesini düzenleyen herhangi bir kural yoktur. Ancak, tensip zaptındaki bazı ara kararlarına itiraz edilebilir. Örneğin, tensip zaptında cezaevindeki tutuklunun tutukluluk halinin devamına karar verildiği takdirde, tutukluluğun devamına itiraz edilebilir (CMK m.104/2).
+
+Hukuk davalarında tensiben verilen ihtiyati tedbir kararı (ihtiyati tedbir kararı ayrıca gerekçeli bir şekilde yazılmak zorundadır) bir ara karar niteliğinde olduğundan, ihtiyati tedbir kararına karşı istinaf başvurusu yapılabilir.
+
+Tensip zaptının delillerin toplanması ve duruşmaya hazırlık işlemlerine itiraz edilemez. Ancak, tensip zaptındaki ara kararların olgusal ve hukuksal temelden yoksun olduğu düşünülüyorsa bu husus mahkeme hakimine açıklanarak ara kararlarını değiştirmesi, genişletmesi veya ortadan kaldırması sağlanabilir.
+
+### Tensip Zaptı Gelen Davalı Ne Yapmalı?
+
+Tensip zaptı, açılan davanın mahiyeti, yargılama usulü ve mahkemece alınan ara kararları içermektedir. Tensip zaptı davalıya tebliğ edildiğinde davalının öncelikle tüm dosyanın bir suretini almak için mahkemeden talepte bulunması gerekir. Dava dosyasında davacı tarafından sunulan ve gösterilen delillerde dikkate alınarak davalı tarafından dava dilekçesine karşı bir cevap dilekçesi yazması gerekir. Dava dilekçesine karşı cevap dilekçesi verme süresi tensip zaptıyla birlikte dava dilekçesinin tebliğinden itibaren iki haftadır (HMK m.127/1). Cevap dilekçesiyle birlikte delillerin nelerden ibaret olduğu açıklanmalı, eldeki deliller sunulmalı veya delillerin nerden getirtilmesi gerektiği gösterilmelidir. Cevap dilekçesinin yazılması ve mahkemeye sunulması teknik bilgi gerektirdiğinden bir avukattan hukuki yardım alınması faydalı olacaktır.
+
+### Tensip Zaptıyla Kesin Süre Verilir mi?
+
+Tensip zaptıyla bazı işlemler için kesin süre verilmesi mümkün değildir. Örneğin, tarafların tanık listesini sunması için tensip zaptıyla kesin süre verilemez:
+
+Tanık deliline dayanmış ve fakat tanık listesi sunmamış tarafa, tanık listesi sunması için kesin sürenin ön inceleme sonunda verilmesi gereklidir. Tensip zaptında bu yönde verilen kesin süre hukuki sonuç doğurmayacaktır. (Y (K.)22. Hukuk Dairesi 2017/27164 E. , 2020/2062 K.)
+
+
+Dava şartlarındaki eksiklik gibi bazı hallerde ise mahkemenin tensip zaptıyla kesin süre vermesi zorunluluktur. Örneğin, dava harç ve giderlerinin yatırılmadığı hallerde mahkeme tensip zaptıyla davacıya kesin süre vermelidir:
+
+Mahkeme, dava şartı noksanlığını tespit ederse davanın usulden reddine karar verir. Ancak, dava şartı noksanlığının giderilmesi mümkün ise bunun tamamlanması için **kesin süre verir.** Bu süre içinde dava şartı noksanlığı giderilmemişse davayı dava şartı yokluğu sebebiyle usulden reddeder (HMK m.115/2).
+
+
+### Tensip Zaptında Bozma İbaresi Nedir?
+
+Tensip zaptında üst sol veya sağ köşede yer alan "Bozma" ibaresi; mahkemenin daha önce hüküm verdiğini verilen hükme karşı istinaf veya temyiz kanun yoluna başvurulması üzerine İstinaf mahkemesi veya Yargıtay tarafından hükmün bozulduğunu, bozmadan sonra yerel mahkemece yapılacak yargılamaya dair iş ve işlemlerin belirlemek üzere tensip zaptı düzenlendiğini göstermektedir. Kısaca, kararı bozulan yerel mahkemenin bozmadan sonra yeniden yargılama yapmaya başlamak üzere tuttuğu tutanağın üst kısmına "Tensip Zaptı -Bozma" ibaresi yazılmaktadır. Böylece, mevcut yargılamanın bozmadan sonra bozmanın devamı olan bir yargılama olduğu dosyada yazılmaktadır.
+
+## Tensip Zaptı (Tutanağı) Yargıtay Kararları
+
+### Tensip Zaptı (Tutanağı) Dosyaya Konulmalıdır
+
+Tensip zaptı ile birlikte bir kısım duruşma zaptının dosya içinde bulunmadığı gibi UYAP siteminde de kayıtlı olmadığı anlaşılmakla; dosyaya ilişkin tensip zaptı ve duruşma zabıtlarının eksiksiz bir şekilde eklendikten sonra gönderilmesi için dosyanın mahkemesine GERİ ÇEVRİLMESİNE, 17.02.2015 gününde oybirliğiyle karar verildi (Yargıtay 22. Hukuk Dairesi 2013/30757 E. , 2015/5488 K.).
+
+Hükümde tensiben karar verildiği belirtilmesine rağmen, dosya içerisinde tensip tutanağının bulunmadığı tespit edilmiştir. Kısa kararın da yer aldığı tensip tutanağının temin edilerek dosyası içine konulması; tutanağın bulunmaması halinde durumun tutanakla belgelendirilmesi için dosyanın mahkemesine GERİ ÇEVRİLMESİNE 17.09.2012 gününde oybirliği ile karar verildi (Yargıtay 16. Hukuk Dairesi 2012/5664 E. , 2012/6736 K.).
+
+### Gerekçeli Verilmesi Gereken Bir Karar Tensip Zaptıyla Verilemez
+
+Dosyanın incelenmesinde ihtiyati haciz talebi hususunda mahkemece tensip zaptı ile karar verildiği anlaşılmaktadır. Gerek Anayasal ve gerekse Yasal mevzuat gereğince mahkemelerin her türlü kararlarının gerekçeli şekilde yazılması zorunlu olduğu gibi esasen Yargıtay temyiz incelemesinin de ancak mahkemenin gerekçeli kararının denetlenmesi suretiyle yapılabilmesi mümkündür. Bu itibarla tedbir hususundaki mahkeme kararının da tensip zaptındaki ara kararı ile değil, ayrıca gerekçeli bir şekilde yazılması gerekir. Bu itibarla mahkemece gerekçeli kararın yazılarak dosyanın temyiz incelemesi yapılması bakımından tekrar Dairemize gönderilmesi için dava dosyasının mahalline geri çevrilmesine karar verilmesi gerekmiştir (Yargıtay 13. Hukuk Dairesi 2014/5249 E. , 2014/4873 K.).
+
+### Tensip Zaptıyla Taraflara Tanıkları Bildirme Zorunluluğu Getirilemez
+
+Uyuşmazlık konularının tespit edilmesinden önceki bir aşamada, tarafların tanık listesi sunmalarını beklemek doğru değildir. Bu halde, tanık deliline dayanmış ve fakat tanık listesi sunmamış tarafa, tanık listesi sunması için kesin sürenin ön inceleme sonunda verilmesi gereklidir. Tensip zaptında bu yönde verilen kesin süre hukuki sonuç doğurmayacaktır. Somut olayda davaya cevap dilekçesinde açıkça tanık deliline dayanılmıştır. Mahkemece davacı tarafa tanık listesini sunmak üzere tensip zaptı ile birlikte iki haftalık kesin süre verilmiştir. Mahkemece taraflara verilen kesin süre içerisinde tanık listesi sunulmadığı belirtilerek dinlenilmelerine yer olmadığına karar verilmiştir. Bu halde, henüz uyuşmazlık konusu tespit edilmeden tensip zaptı ile davalıya tanık listesi sunmak için verilen süre hukuki sonuç doğurmayacaktır. Mahkemece yazılı gerekçe ile davalı tanıklarının dinlenilmemesi hatalıdır. Davacı tanıkları usulünce duruşmaya çağrılarak dinlenilmeli ve tüm dosya kapsamındaki delil durumu gözönüne alınarak yeniden değerlendirilmelidir (Yargıtay 9. Hukuk Dairesi 2016/25371 E. , 2020/9600 K.).
+
+### Tensip Zaptıyla Duruşma Günü Belirlendikten Sonra Basit Yargılama Usulü Uygulanamaz
+
+Sanık hakkında taksirle yaralama suçundan 17.02.2023 tarihli iddianame ile dava açıldığı, mahkemece 19.04.2023 tarihli tensip zaptı ile duruşma gününün 06.09.2023 tarihi olarak belirlendiği, sanığın 12.06.2023 tarihli dilekçesi ile hakkında basit yargılama usulünün uygulanmasına yönelik talepte bulunduğu, mahkemenin 07.07.2023 tarihli ek kararı ile CMK'nın 251/1-2.cümle uyarınca duruşma günü belirlendikten sonra basit yargılama usulünün uygulanamayacağından sanığın talebinin reddine karar verildiği, sanığın ek karara itirazını inceleyen merci Bursa 16. Asliye Ceza Mahkemesinin 06/09/2023 tarihli ve 2023/547 değişik iş sayılı kararı ile sanık hakkında tensiben basit yargılama usulünün uygulanmasına karar verilmesi gerekirken gerekçesiz olarak bu usulün uygulanmadığı gerekçesiyle itirazın kabulüne karar verilmiş ise de,
+
+08/07/2021 tarihli ve 7331 sayılı Ceza Muhakemesi Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun ile 5271 sayılı Kanunun 251. maddesinin 1. fıkrasına eklenen cümle ile duruşma günü belirlendikten sonra basit yargılama usûlünün uygulanamayacağının hüküm altına alındığı bu kapsamda incelenen dosyada 19.04.2023 tarihli tensip zaptında basit yargılama usûlünün uygulanıp uygulanmayacağı hususunda bir değerlendirme yapılmaksızın duruşma gününün belirlendiği ve CMK'nın 251/1-2. cümle uyarınca duruşma günü verildikten sonra basit yargılama usulü uygulanamayacağı kaldı ki basit yargılama usulününü uygulanıp uygulanmayacağı hususunun yargılamayı yapan mahkemenin takdirinde olduğu gözetilmeden, itirazın reddi yerine kabulüne karar verilmesi karar verilmesi Kanun’a aykırı olup Kanun yararına bozma talebi yerinde görülmüştür (Yargıtay 12. Ceza Dairesi 2024/4254 E. , 2025/186 K.)
+
+### Asliye Ceza Mahkemesi Tensip Zaptıyla Karar Veremez
+
+Hükmün açıklanmasının geri bırakılması kararının kesinleşmesinden sonra hükmün açıklanmasını gerektiren koşulların oluşup oluşmadığının tespiti bakımından, duruşma açılarak sanığa meşruhatlı davetiye çıkarılarak duruşmadan haberdar edilmesi gerektiği gözetilmeden, böyle bir tebligat yapılmadan ve duruşma açılmadan tensip zaptı ile dosya üzerinden yargılama yapılmak suretiyle sanığın savunma hakkının kısıtlanması, bozma nedenidir (Yargıtay 8. Ceza Dairesi 2021/4938 E. , 2021/23236 K.).
+
+### Tensip Zaptı (Tutanağı) Örnekleri
+
+**1. Ceza davası tensip tutanağı örneği aşağıda WEBP formatında verilmiştir.**
+
+
+**2. Hukuk davası tensip zaptı örneği WEBP formatında verilmiştir.**
+
+
+---
+
+## Tüketici Mahkemesi ve Görevleri
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/medeni-hukuk/tuketici-mahkemesi-gorevi-nedir (son güncelleme: 2026-01-19)*
+
+Tüketici Mahkemesi Nedir? Tüketici Mahkemesinin Görevine Giren Davalar Nelerdir? Tüketici Mahkemesi Hangi Davalara Bakmakla Görevlidir? Tüketici Hakem Heyetleri ile Tüketici Mahkemeleri Arasındaki Görev Sınırı Nedir? Yargıtay Kararları
+
+
+## Tüketici Mahkemesi Nedir?
+
+**Tüketici mahkemesi**, tüketici işlemleri ile tüketiciye yönelik her türlü uygulamadan kaynaklanan davalara bakmakla görevli hukuk mahkemesidir (6502 sayılı Kanun m.73/1). *Tüketici mahkemesi*,  özel mahkeme niteliğinde ilk derece mahkemesidir.
+
+Tüketici mahkemeleri, 6502 saylı Tüketicinin Korunması Hakkında Kanun ile kurularak görev alanı belirlenmiştir. Tüketici mahkemesinde dava açma yetkisi olan kişiler, "tüketiciler", "tüketici örgütleri" ve "Gümrük ve Ticaret Bakanlığı" olarak belirlenmiştir. Tüketici mahkemeleri nezdinde Bakanlık, tüketiciler ve tüketici örgütleri tarafından açılan davalar harçlardan muaftır.
+
+Özel hukuk davalarına bakmakla görevli hukuk mahkemeleri genel olarak üçe ayrılır:
+
+- Asliye Hukuk Mahkemesi,
+- Sulh Hukuk mahkemesi,
+- Özel Mahkemeler (Tüketici Mahkemesi, Asliye Ticaret Mahkemesi, Fikri ve Sınai Haklar Hukuk Mahkemesi, Aile Mahkemesi, Kadastro Mahkemesi, İş Mahkemesi vb. gibi).
+
+Asliye hukuk mahkemesi ve sulh hukuk mahkemesi özel hukuk uyuşmazlıklarına bakmakla görevli temel iki mahkemedir. Genel mahkemelerden olan asliye hukuk mahkemesinin görevi asıl, sulh hukuk mahkemesinin görevi ise istisnadır. Özel bir kanun hükmü ile açıkça sulh hukuk mahkemesinde bakılacağı bildirilmeyen bütün dava ve işler asliye hukuk mahkemesinde görülür. Kanunda belirli bir uyuşmazlık türü için açıkça özel bir mahkemenin görevli olduğu kabul edilmişse, uyuşmazlığı çözmeye görevli mahkeme kanunun belirlediği o özel görevli mahkemedir. Tüketici mahkemesi, özel bir kanun olan 6502 sayılı "Tüketicinin Korunması Hakkında Kanun" ile kurulduğundan özel mahkeme statüsüyle görev yapmaktadır. Belirli kişiler arasında çıkan uyuşmazlıklara veya belli çeşit uyuşmazlıklara bakmak için kurulmuş olan mahkemelere "özel görevli mahkemeler" denir. Özel ve genel görevli mahkemeler arasındaki ilişki bir görev ilişkisidir.
+
+## Tüketici Nedir? Tüketici İşlemi Ne Anlama Gelir?
+
+Tüketici mahkemesi, taraflaran en az birinin "tüketici" olduğu uyuşmazlıklara bakmakla görevlidir. Tüm tüketici işlemleri ile ilgili davalar tüketici mahkemesinde görülür. "Tüketici" ve "tüketici işlemi" kavramları 6502 sayılı Kanunda şu şekilde açıklanmaktadır:
+
+- **Tüketici:** Tüketici, ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişidir. 6502 sayılı kanun, hazır bir malı veya hizmeti satın alarak onu günlük yaşamında kullanan veya tüketen kişiyi korumaktadır. Örneğin, bir kimse evde traş olmak için traş bıçağı  aldığında tüketici olarak kabul edilir.Aynı traş bıcağını marketinde satmak için satın aldığında, ticari amaçla işlem yaptığından tüketici değildir.
+- **Tüketici İşlemi:** Bir işlemin tüketici işlemi olarak kabul edilebilmesi için hukuki ilişkinin taraflarından birinin tüketici, diğer tarafın ise satıcı, hizmet sağlayıcı veya onlar adına hareket eden gerçek ya da tüzel kişi olması gereklidir. Taraflar arasında gerçekleştirilen işlemin tüketici açısından mesleki ve ticari bir amaçla yapılmaması şarttır. Tüketici işlemi, mal veya hizmet piyasalarında kamu tüzel kişileri de dâhil olmak üzere ticari veya mesleki amaçlarla hareket eden veya onun adına ya da hesabına hareket eden gerçek veya tüzel kişiler ile tüketiciler arasında kurulan her türlü sözleşme ve hukuki işlemi ifade eder.
+
+## Tüketici Mahkemesinin Bakmakla Görevli Olduğu Davalarda Görev Sınırı
+
+Tüketici mahkemesinde dava açılabilmesi için uyuşmazlığın belli bir parasal değeri aşması gerekir. Uyuşmazlık tüketici mahkemesinin görev sınırlarının altındaysa öncelikle tüketici hakem heyetine başvurulmalıdır. Tüketici mahkemesinin görevi konusundaki parasal sınırlar ve usuller 6502 sayılı yasanın 68. maddesinin verdiği yetkiyle çıkarılan tebliğlerle her yıl yenilenmektedir.
+
+2026 yılı için tüketici hakem heyetlerine yapılacak başvurularda parasal görev sınırı şu şekildedir:
+
+- 2026 yılı için yapılacak başvurularda değeri 187.000 TL (yüzseksenyedibin) Türk Lirasının altında bulunan uyuşmazlıklarda, İl veya İlçe Tüketici Hakem Heyetleri görevlidir. İl Tüketici Hakem Heyetleri il sınırları içinde, İlçe Tüketici Hakem Heyetleri ise ilçe sınırları içinde yetkilidir.
+
+Bu değerlerin üzerindeki uyuşmazlıklar için tüketici hakem heyetlerine başvurulmadan doğrudan tüketici mahkemesinde dava açılmalıdır.
+
+Tüketici hakem heyetleri kendilerine yapılan başvuruları gereğini yapmak üzere kabul etmek zorundadır. Başvurular, tüketicinin yerleşim yerinin bulunduğu veya tüketici işleminin yapıldığı yerdeki tüketici hakem heyetine yapılabilir. Tüketici hakem heyetleri uyuşmazlık konusuna ilişkin her türlü bilgi ve belgeyi taraflardan, ilgili kurum veya kuruluşlardan isteyebilir.
+
+İl ve ilçe tüketici hakem heyetinin verdiği kararlar tarafları bağlar. Tüketici hakem heyetlerince vekâlet ücreti ödenmesine karar verilemez. Tüketici hakem heyetinin kararları, İcra ve İflâs Kanununun ilamların yerine getirilmesi hakkındaki hükümlerine göre yerine getirilir. Taraflar, tüketici hakem heyetinin kararlarına karşı tebliğ tarihinden itibaren **iki hafta** içinde tüketici hakem heyetinin bulunduğu yerdeki tüketici mahkemesine itiraz edebilir. Tüketici hakem heyeti kararlarına karşı yapılan itiraz üzerine tüketici mahkemesinin vereceği karar kesindir.
+
+## Tüketici Mahkemesinin Görevleri Nelerdir?
+
+Tüketici mahkemesinin görevli mahkeme olarak bir davaya bakabilmesi için 6502 sayılı Kanunu'nun amacı içerisinde kanunda tanımlanan taraflar arasında (tüketici ile satıcı veya sağlayıcı vb. arasında) mal ve hizmet satışına dair bir hukuki işlemin olması gerekir.
+
+Bir mal veya hizmetin, kişisel ihtiyaçları dışında, belirli bir meslek icrası, belirli bir üretimde kullanma, yeniden satış, kiraya verme, ticari olarak kullanma vs. gibi mesleki veya ticari amaçlarla satın alanlar tüketici olarak kabul edilemeyeceğinden, bu gibi işlemlerde ortaya çıkan uyuşmazlıklara bakma görevi de tüketici mahkemesinin değil, genel mahkemelerindir.
+
+Ticari veya mesleki amaçlarla hareket eden veya onun adına ya da hesabına hareket eden gerçek veya tüzel kişiler ile tüketiciler arasında kurulan şu sözleşmelerden kaynaklanan davalar tüketici mahkemesinde görülür:
+
+- Eser sözleşmesi,
+- Taşıma sözleşmesi,
+- Simsarlık sözleşmesi,
+- Sigorta sözleşmesi,
+- Vekâlet sözleşmesi,
+- Bankacılık sözleşmesi,
+- Ve yukarıdaki sözleşmelere benzeyen her türlü sözleşme.
+
+Tüketici mahkemesi, sözleşmenin taraflarından birinin mutlaka tüketici olduğu davalara bakmakla görevlidir. Uygulamada, tüketici mahkemesinin görevine giden davalar şunlardır:
+
+- Banka ile müşteri arasında yapılan bankacılık işlemlerinin eksik, hatalı veya yanlış yapılmasından dolayı müşterinin banka aleyhine açtığı davalara bakma görevi tüketici mahkemesine aittir.
+- Bankalardan alınan tüketici kredisi (bireysel kredi, konut kredisi, otomobil kredisi vb.) nedeniyle açılan davlar tüketici mahkemesinde görülür. Bankadan çekilen kredi ticari kredi niteliğindeyse görevli mahkeme Asliye Ticaret Mahkemesi'dir.
+- Elektrik aboneliğinde, elektriğin kullanıldığı yer "mesken" ise, abonelik sözleşmesi ile ilgili her türlü dava tüketici mahkemesinde görülür. Örneğin, meskende kaçak elektrik kullanımı nedeniyle başlatılan icra takibine yapılan itirazın iptali davası tüketici mahkemesinde açılmalıdır. Elektrik ticari işletmede kullanılmak üzere abonelik tesis edilmişse, bu tür abonelik sözleşmelerinden kaynaklanan her türlü ihtilafa asliye ticaret mahkemesi bakmakla görevlidir.
+- Avukatın müvekkilini temsilen yaptığı işler veya doktorun hastası üzerinde uyguladığı tedavi vekalet sözleşmesi hükümlerine tabi olduğundan, bu sözleşmelerle ilgili davalar da tüketici mahkemesinde görülür.
+- Müteahhitten veya arsa sahibinden tamamlanmış veya henüz tamamlanmamış bir konut satın alan üçüncü kişi tüketici olarak kabul edileceğinden, bu şekilde yapılan sözleşmelerden (satış vaadi sözleşmesi vb.) kaynaklanan davalar tüketici mahkemesinde görülür. Üçüncü kişi, temlik sözleşmesi yoluyla müteaahitin arsa sahibinden olan alacağını temlik aldığı takdirde de aynı şekilde tüketici mahkemesi görevlidir. Ancak, arsa sahibi ile müteahhit arasında meydana gelen uyuşmazlıkların çözülmesinde görevli mahkeme genel mahkemelerdir.
+- Sigorta şirketiyle sözleşme ilişkisi içinde hukuki bir sorunun ortaya çıkması halinde görevli mahkeme tüketici mahkemesidir. Örneğin, Ferdi kaza, hayat sigortası veya aracına kasko sigortası yaptıran kişi ile sigorta şirketi arasında sigorta teminatının ödenmesi konunsunda çıkacak uyuşmazlıklar tüketici mahkemesi tarafından çözülür. Özellikle belirtelim ki, trafik kazası nedeniyle ZMSS çerçevesinde karşı tarafın trafik veya kasko poliçesine dayanılarak açılan tazminat davlarında görevli mahkemeler genel mahkemelerdir.
+- Taraflar arasında icra takibine konulan bir kambiyo senedi (çek, senet vb.) olsa bile, kambiyo senedinin dayandığı temel sözleşme tüketici işlemi niteliğindeyse, itirazın iptali, alacak davası vb. davalar tüketici mahkemesinde görülür.
+- Eser sözleşmesine dayalı olarak bir binanın bakım ve onarımının yapılması, diş doktoru tarafından dişin yapılması, mühendisin proje çizmesi gibi işlemler tüketici işlemi olarak kabul edildiğinden, bu sözleşmeden çıkan uyuşmazlıklar tüketici mahkemesinde yargılama konusu yapılır.
+- Futbolcu, basketbolcu vb. profesyonel sporcuların takımlarıyla yaptıkları sözleşmeler hizmet sözleşmesi niteliğinde olduğundan, bu sözleşmelerden doğan ihtilaflar tüketici mahkemesinde değil, genel mahkemeler de yargılama konusu yapılır.
+
+## Tüketici Mahkemesinde Yargılama Usulü Nasıldır?
+
+Tüketici davaları, tüketicinin yerleşim yerinin bulunduğu yerdeki tüketici mahkemesinde de açılabilir. Tüketici mahkemelerinde basit yargılama usulü uygulanır (6502 sayılı Kanun m.73/4). Basit yargılama usulünün özellikleri şunlardır:
+
+- Basit yargılama usulünde mahkemede dava açılması ve davaya cevap verilmesi bir dilekçe ile olur.
+- Cevap süresi, dava dilekçesinin davalıya tebliğinden itibaren iki haftadır. Taraflar cevaba cevap ve ikinci cevap dilekçesi veremezler.
+- Taraflar dilekçeleri ile birlikte, tüm delillerini açıkça ve hangi vakıanın delili olduğunu da belirterek bildirmek; ellerinde bulunan delillerini dilekçelerine eklemek ve başka yerlerden getirilecek belge ve dosyalar için de bunların bulunabilmesini sağlayan bilgilere dilekçelerinde yer vermek zorundadır.
+- İddianın genişletilmesi veya değiştirilmesi yasağı dava açılmasıyla; savunmanın genişletilmesi veya değiştirilmesi yasağı cevap dilekçesinin mahkemeye verilmesiyle başlar.
+
+Mahkeme, mümkün olan hâllerde tarafları duruşmaya davet etmeden dosya üzerinden karar verir.
+
+Daha önce karar verilemeyen hâllerde mahkeme, ilk duruşmada dava şartları ve ilk itirazlarla hak düşürücü süre ve zamanaşımı hakkında tarafları dinler; daha sonra tarafların iddia ve savunmaları çerçevesinde, anlaştıkları ve anlaşamadıkları hususları tek tek tespit eder. Uyuşmazlık konularının tespitinden sonra hâkim, tarafları sulhe veya arabuluculuğa teşvik eder. Tarafların sulh olup olmadıkları, sulh olmadıkları takdirde anlaşamadıkları hususların nelerden ibaret olduğu tutanağa yazılır; tutanağın altı hazır bulunan taraflarca imzalanır. Tahkikat bu tutanak esas alınmak suretiyle yürütülür.
+
+Mahkeme, tarafların dinlenmesi, delillerin incelenmesi ve tahkikat işlemlerinin yapılmasını yukarıdaki fıkrada belirtilen duruşma hariç, iki duruşmada tamamlar. Duruşmalar arasındaki süre bir aydan daha uzun olamaz. İşin niteliği gereği bilirkişi incelemesinin uzaması, istinabe yoluyla tahkikat işlemlerinin yürütülmesi gibi zorunlu hâllerde, hâkim gerekçesini belirterek bir aydan sonrası için de duruşma günü belirleyebilir ve ikiden fazla duruşma yapabilir.
+
+## Tüketici Mahkemesinin Görevsizlik Kararı
+
+Görevine girmeyen bir konuyla ilgili dav açıldığı takdirde tüketici mahkemesi görevsizlik kararı verir. Görevsizlik kararı veren tüketici mahkemesi bu kararında dava dosyasının görevli mahkemeye gönderilmesine karar vermekle yetinir. Dava dosyasını kendiliğinden (re'sen) görevli mahkemeye gönderemez.
+
+6100 Sayılı Hukuk Muhakemeleri Kanunu'nun 20. maddesi hükmü gereğince; taraflardan birinin görevsizlik kararının kesinleştiği tarihten itibaren iki hafta içinde kararı veren mahkemeye başvurarak dava dosyasının görevli mahkemeye gönderilmesini talep etmesi gerekir. Hemen belirtmek gerekir ki; bu süre hak düşürücü nitelikte olup mahkemece re'sen gözetilir. Hak düşürücü süre içerisinde dava dosyasının görevli mahkemeye gönderilmesi başvurusu yapılmadığı takdirde, tüketici mahkemesi tarafından davanın açılmamış sayılmasına karar verilir.
+
+Tüketici mahkemesinin görevsizlik kararına karşı 2 hafta içinde istinaf mahkemesine (bölge adliye mahkemesi) istinaf başvurusu yapılabilir. İstinaf mahkemesinin yerel mahkemenin görevi ile ilgili verdiği karar kesindir.
+
+## Tüketici Mahkemesi Kararlarının İstinaf veya Temyiz Edilmesi
+
+Tüketici mahkemesi kararlarına karşı istinaf başvurusu yapılması mümkündür. İstinaf, tüketici mahkemesi tarafından verilen kararın hem maddi vakıa hem de hukuki açıdan bir üst mahkeme tarafından yeniden değerlendirilmesini sağlayan bir kanun yoludur. İstinaf kanun yoluna başvuru süresi, tüketici mahkemesi kararının usulüne uygun bir şekilde taraflara tebliği edildiği günden itibaren 2 haftadır. İstinaf başvurusu, bölge adliye mahkemesine gönderilmek üzere kararı aleyhine başvuru yapılan tüketici mahkemesine bir istinaf dilekçesi verilerek yapılır.
+
+Tüketici mahkemesi kararlarına karşı istinaf başvurusu yapılabilmesi için şu şartların gerçekleşmesi gerekir:
+
+- Aleyhine istinaf başvurusu yapılan tüketici mahkemesi kararında yer alan malvarlığı davasının miktar ve değeri 50.000 TL'yi aşmalıdır (HMK 341/2). Miktar ve değeri 50.000 TL'yi aşmayan tüketici mahkemesi kararları kesin olduğundan aleyhine istinaf başvurusu yapılamaz (2026 yılı için).
+- Kural olarak ara kararlar aleyhine istinaf başvurusu yapılamaz. Ancak, ihtiyati tedbir ve ihtiyati gibi kararlar ara kararı olmasına rağmen son kararı beklemeden bu kararlar aleyhine istinaf başvurusu yapılması mümkündür (HMK 341/1).
+
+Temyiz, tüketici mahkemesi kararı hakkında istinaf incelemesi neticesinde verilen hükmün, hukukun doğru uygulanıp uygulanmadığı açısıdan denetlenmesini sağlayan bir kanun yoludur. Tüketici mahkemesi kararlarının temyiz edilmesi de mümkündür.
+
+Temyiz kanun yoluna başvurulabilmesi için şu şartların sağlanması gerekir:
+
+- Aleyhine temyiz başvurusu yapılan istinaf mahkemesi kararında yer alan miktar ve değer 682.000 TL’yi aşmalıdır (HMK 362/1-a). Miktar ve değeri 682.000 TL’yi aşmayan istinaf mahkemesi kararları kesin olduğundan aleyhine temyiz başvurusu yapılamaz (2026 yılı için).
+- İstinaf mahkemesinin ihtiyati tedbir ve ihtiyati haciz gibi kararlarına karşı temyiz kanun yoluna başvurulamaz.
+
+
+## Tüketici Mahkemesinin Görevi Yargıtay Kararları
+
+### Tüketici Hukukunda Muarazanın Giderilmesi
+
+Tüketici gerek dava açarken (HMK m. 119/1-d) gerekse tüketici hakem heyetlerine başvururken (Yön. m. 22) talep sonucunun değerini göstermek zorundadır. Ancak iddia konusu alacak değerinin dava veya başvuru sırasında belirlenmesi mümkün değilse yahut alacaklıdan bunu belirlemesinin beklenemeyeceği bir hâl söz konusu ise dava/başvuru belirlenebilen asgari bir miktar üzerinden yapılacaktır. Tüketicinin belirleyebildiği ve bu suretle dilekçesinde gösterdiği asgari miktar TKHK’nın 68., ilgili Yönetmeliğin 6. maddesinde düzenlenen parasal sınır dâhilindeyse başvurunun kanunun amacına uygun şekilde öncelikle tüketici hakem heyetleri nezdinde yapılması gerekir. Aksi yönde bir kabul, kanun koyucunun belli parasal sınırlar için zorunlu çözüm yeri olarak öngördüğü tüketici hakem heyetlerini işlevsiz hâle getirerek, belirsiz alacak davası olarak açıldığı belirtilen her ihtilâfın mahkemeler önüne getirilmesine ve bu suretle kanun koyucunun amacına aykırı şekilde mahkemelerin iş yükünün artmasına, uyuşmazlıkların daha geç çözümlenmesine yol açacaktır. Nitekim bu husus Kanun’un 72. ve 84. maddelerine dayanılarak tüketici hakem heyetlerinin usul ve esaslarına ilişkin yönetmeliğin hazırlanması sırasında da dikkate alınmış ve 22. maddede açıkça düzenlenmiştir.
+
+Yargıtay Hukuk Genel Kurulunun 04.03.2020 tarihli, 2017/13-551 E., 2020/239 K.; 09.03.2021 tarihli ve 2017/(13)3-614 E., 2021/232 K. sayılı kararlarında da aynı hususlara değinilmiştir. Gelinen aşamada tüm bu açıklamalar ışığında; davanın türünün belirlenmesi önem arz etmekte olup; eldeki davanın belirsiz alacak davası olup olmadığı noktasının aydınlatılması gerekmektedir.Somut olayda dava, abonelik sözleşmesinde kayıp kaçak bedeline ilişkin maddelerin haksız şart olduğunun tespiti ile iptali, haksız tahsil edilen bedelin iadesi istemiyle açılmış olmakla birlikte, verilecek hüküm bir faturaya mahsus olmayacağı gibi ileriye dönük art etkisi doğuracağından, yine kayıp-kaçak vs. bedellerinin alınması sebebiyle eldeki dosyada tek bir abone uyuşmazlığı yargıya taşınmış olmasına karşın, ortada tüm aboneleri ilgilendiren toplu bir uyuşmazlığın bulunması nedeniyle, muarazanın men’i (çekişmenin giderilmesi) mahiyetindedir.
+
+Nitekim Özel Daire de, bozma gerekçesinde, görülmekte olan davayı bir muarazanın men’i (çekişmenin giderilmesi) davası olarak nitelendirmiştir. O hâlde, eldeki davanın belirsiz alacak davası değil, çekişmenin giderilmesi davası mahiyeti taşıdığı hususu her türlü tartışmadan uzaktır.
+
+Muarazanın men’i davaları, usul hukuku anlamında tespit değil, eda davası niteliğindedir. Zira, bu tür davalarda, hem bir muarazanın (çekişmenin) varlığının tespiti ve hem de onun men’i talep edilir.
+
+Bu durumda, taraflar arasındaki abonelik sözleşmesi feshedilmemiş olmakla mevcudiyetini koruduğundan ve davalı tarafından yaratıldığı iddia edilen muarazanın men’i, sözleşmede yer alan haksız şartların tespiti ile ileriye yönelik iptali istemi bulunduğundan, artık davanın müddeabihinin tüketici hakem heyetinin sınırı dâhilinde kaldığından bahsedilemeyecek olup; davanın tüketici mahkemesinde görülmesi gerekmektedir (Hukuk Genel Kurulu-K.2021/711).
+
+### Araç Tamiri/Eser Sözleşmesi ve Tüketici Mahkemesinin Görevi
+
+Dava, araç tamirini konu alan eser sözleşmesinden kaynaklanan alacağın tahsili talebine ilişkin olup, mahkemece davanın kısmen kabulüne dair verilen karar, davalı vekilince yasal süresi içerisinde temyiz edilmiştir. Davanın açıldığı 11.12.2014 tarihinde yürürlükte bulunan 6502 sayılı Tüketicinin Korunması Hakkındaki Kanun'un amaç başlıklı 1. maddesinde "Bu Kanunun amacı; kamu yararına uygun olarak tüketicinin sağlık ve güvenliği ile ekonomik çıkarlarının koruyucu, zararlarını tazmin edici, çevresel tehlikelerden korunmasını sağlayıcı, tüketiciyi aydınlatıcı ve bilinçlendirici önlemleri almak, tüketicilerin kendilerinin korucuyu girişimlerini özendirmek ve bu konulardaki politikaların oluşturulmasında gönüllü örgütlenmelerini teşvik etmeye ilişkin hususları düzenlemektir." hükmü bulunmaktadır. Kanun'un tanım başlıklı 3. maddesinin (1) bendi, "Sağlayıcı; Kamu tüzel kişileri de dahil olmak üzere ticari veya mesleki amaçlarla tüketiciye hizmet sunan ya da hizmet sunanın adına ya da hesabına hareket eden gerçek veya tüzel kişiyi", (k) bendi, "Tüketici; Ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi", (1) bendi "Tüketici işlemi; mal veya hizmet piyasalarında Kamu tüzel kişileri de dahil olmak üzere ticari veya mesleki amaçlarla hareket eden veya onun adına ya da hesabına hareket eden gerçek veya tüzel kişiler ile tüketiciler arasında kurulan, eser, taşıma, simsarlık, sigorta, vekâlet, bankacılık ve benzer sözleşmeler de dahil olmak üzere her türlü sözleşme ve hukuki işlemi ifade eder" şeklindedir. Bir hukuki işlemin tüketiciişlemi sayılabilmesi için yukarıda belirtilen tanımlara uygun olması gerekir. Açıklanan hususlar gözetildiğinde eser sözleşmesi ilişkisinin de Tüketicinin Korunması Hakkındaki Kanun kapsamında kaldığının kabul edilebilmesi için taraflardan birinin tüketici, diğer yanın ise satıcı/sağlayıcı olması gerekir. Bu koşulların bulunması halinde tüketici işleminden ve sonuçta da görevli mahkemenin "**tüketici mahkemesi**" olduğundan söz edilebilecektir.
+
+Somut uyuşmazlık eser sözleşmesinden kaynaklanmakta olup, davacı yüklenici, davalı iş sahibidir. Davacının ticari veya mesleki amaçlarla tüketiciye hizmet sunan tüzel kişi tacir olduğu açıktır. Davalının ise ticari veya mesleki olmayan amaçlarla hareket eden gerçek kişi, eş deyişle tüketici olduğunun kabulü gerekir. Tüketicinin tarafı olduğu eser sözleşmesinin 6502 sayılı Tüketicinin Korunması Hakkındaki Kanun gereğince tüketici işlemi kapsamına alınmış olması ve davanın açıldığı tarihte 6502 sayılı Kanun'un yürürlükte olması sebebiyle, Kanun'un 73/1. maddesi uyarınca görevli mahkeme tüketici mahkemesidir. 6100 sayılı HMK’nın 1. maddesi gereğince görev hususu kamu düzenine ilişkin olup, mahkemece yargılamanın her aşamasında re'sen dikkate alınacağından ve görev hususunda kazanılmış hak söz konusu olamayacağından, işbu dava bakımından tüketici mahkemesinin görevli olması ve ... adli yargı çevresinde müstakil tüketici mahkemesi bulunması nedeniyle, mahkemece davanın görev dava şartı noksanlığı sebebiyle usulden reddi ile talep halinde tüketici mahkemesine gönderilmesine karar verilmesi gerekirken, işin esasına girilerek karar verilmesi doğru olmadığından, usul ve yasaya aykırı bulunan hükmün bozulmasına karar verilmiştir (Yargıtay 15. Hukuk Dairesi - Karar:2019/516).
+
+### Arsa Payı Karşılığı İnşaat Sözleşmesine Dair Uyuşmazlıkta Asliye Hukuk Mahkemesi Görevli
+
+Dava, arsa payı karşılığı inşaat sözleşmesine dayalı tazminat istemine ilişkindir.
+
+6502 sayılı Kanun'un 3. maddesinin gerekçesinde eser sözleşmelerinin kanun kapsamına alınmasına herhangi bir açıklama getirilmemiştir. Ancak Kanun’un sistematiği nazara alındığında kanunda zikredilen eser sözleşmelerinden kastın; ticari ve mesleki olmayan amaçlarla, salt kişisel ihtiyaçları için kullanma ve tüketme amacıyla gerçek ve tüzel kişi ile tüketici arasında yapılan eser sözleşmeleri olduğu anlaşılmaktadır. Arsa payı karşılığı inşaat sözleşmeleri 818 sayılı Mülga Borçlar Kanunu'nun 355 vd., 6098 sayılı Türk Borçlar Kanunu'nun 470 vd. maddelerinde düzenlenen eser sözleşmelerinin kendine özgü bir türüdür. Bu sözleşmelerin bir tarafı arsa sahibi diğer tarafı yüklenicidir. Bu tür sözleşmelerde arsa sahibinin Tüketici Kanunu’nda 3/k maddesindeki tüketici tanımına uymadığı açıktır.
+
+Arsa payı karşılığı inşaat sözleşmelerinde arsa sahibi açısından güdülen amaç, arsasını değerlendirmektir. Bu nedenle arsa sahibinin arsa payı karşılığı inşaat sözleşmesi imzalarken güttüğü saikin 6502 sayılı Kanun’da tanımlanan tüketicinin saikinden farklı olduğu gözden kaçırılmamalıdır.
+
+Arsa payı karşılığı inşaat sözleşmelerine konu işin üst düzey teknolojiyi gerektirmesi, sözleşme kapsamında taşınmaz satış vaadi ve inşaat sözleşmelerinin de bulunduğu nazara alındığında 6502 sayılı Kanun’da kanun koyucunun salt kullanma ve tüketme amacına yönelik mutfak, dolap yaptırmak, araç tamiri yapmak gibi dar kapsamlı eser sözleşmelerini kastettiği, arsa payı karşılığı inşaat sözleşmelerinin ise bu kapsamda olmadığının kabulü gerekir. Bu durumda davaya bakmakla görevli mahkemenin Asliye Hukuk Mahkemesi olduğu gözetilerek, tüketici mahkemesince, HMK'nın 114/1-c ve 115/2. maddesi hükümleri uyarınca göreve ilişkin dava şartı noksanlığı bulunduğu gerekçesiyle, davanın usulden reddine karar verilmesi gerekirken, işin esası hakkında yazılı şekilde karar verilmesi doğru olmamıştır (Yargıtay 23. Hukuk Dairesi - KARAR NO: 2019/2799).
+
+### Konut Kredisi Tüketici Kredisi Niteliğindedir
+
+Dava, kredi sözleşmesi nedeniyle ödenen komisyon ve ekspertiz ücretinin geri alımına ilişkindir. Taraflar arasında bağıtlanan kredi sözleşmesi göz önüne alındığında, davacının konut alımı için kredi aldığı anlaşılmakta olup, sözleşme tarihinde yürürlükte olan 4077 sayılı Tüketici Korunması Hakkında Kanun'un 3,, 10/B, 21/3 maddelerine göre, konut kredisinin tüketici kredisi niteliğinde olduğunun kabulü ile davaya tüketici mahkemesince bakılması gerekirken, tüketici kredisinin ticari kredi olarak kabul edilmesi isabetli görülmediğinden, hükmün bozulması gerekmiştir (Yargıtay 11. Hukuk Dairesi - Karar: 2016/2728).
+
+### Sigorta Şirketine Karşı Sözleşme İlişkisinden Kaynaklanan Davalarda Görevli Mahkeme
+
+Davacılar vekili, meydana gelen kazada ağır şekilde yaralandığını, malül kaldığını, beline platin takıldığını, dalağının alındığını, kazanın oluşumunda karşı otobüsün asli ve tam kusurlu olduğunu, müvekkilin davalı ... şirketi tarafından 21722675 numaralı sigorta poliçeleri ile ferdi kaza sorumluluk sigortası kapsamında güvence altına alındığını belirterek fazlaya dair hakları saklı kalmak kaydıyla 1.000,00 TL maddi tazminatın kaza tarihinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
+
+Mahkemece, iddia, savunma ve toplanan kanıtlara göre; davacının tacir olmadığı, taraflar arasında sözleşmesel ilişki bulunduğu, bu sebeple ticari dava niteliğinde bulunmayan uyuşmazlığın Tüketici Mahkemesince incelenip sonuçlandırılması gerektiği gerekçesiyle dava dilekçesinin görev yönünden reddine, karar kesinleştiğinde ve talep halinde dosyanın görevli Tüketici Mahkemesine gönderilmesine karar verilmiş; hüküm, davacı vekili tarafından temyiz edilmiştir.
+
+Dosya içerisindeki bilgi ve belgelere, mahkeme kararının gerekçesinde, dayanılan delillerin tartışılıp, değerlendirilmesinde usul ve yasaya aykırı bir yön bulunmamasına, davanın 28.05.2014 tarihinde yürürlüğe giren 6502 Sayılı Yasadan sonra açılmasına, 6502 Sayılı Kanun'un 73/1. maddesindeki düzenlemede belirtildiği üzere, davacı tüketici konumunda olup davalı ... şirketi ile aralarında aktedilen sigorta sözleşmesinin bir tüketici işlemi olması ve tüketici işleminden kaynaklanan bu uyuşmazlığın Tüketici Mahkemesi tarafından görülmesi gerekir (Yargıtay 17. Hukuk Dairesi - Karar: 2016/4007).
+
+### Hususi Araç Şirket Adına Kaydedildiğinde Davaya Bakmaya Asliye Ticaret Mahkemesi Görevlidir
+
+Tüketici mahkemelerinin görevleri, Kanunda; “Bu Kanunun uygulanmasıyla ilgili olarak çıkacak her türlü ihtilaflara tüketici mahkemelerinde bakılır” denilmek suretiyle belirlenmiştir (TKHK m. 23/1). Maddede açıkça “bu Kanun…” tabiri kullanıldığına göre, TKHK’nın kapsamının ne olduğunu belirlemek gerekir.
+
+Tüketici; “Bir mal veya hizmeti ticari veya mesleki olmayan amaçlarla edinen, kullanan veya yararlanan gerçek ya da tüzel kişileri” (m. 3/e); sağlayıcı ise; “Kamu tüzel kişileri de dahil olmak üzere ticari veya mesleki faaliyetleri kapsamında tüketiciye hizmet sunan gerçek veya tüzel kişileri” (m. 3/g) ifade eder şeklinde tanımlanmıştır.
+
+Öte yandan, Kanun’un kapsamı belirlenirken “her türlü tüketici işleminden” bahsedilmiş olup, “tüketici işlemi”nin ne olduğu da “tanımlar” başlıklı 3. maddesinde açıklanmıştır. Buna göre; tüketici işlemi, mal veya hizmet piyasalarında tüketici ile satıcı-sağlayıcı arasında yapılan her türlü hukuki işlemi ifade etmektedir (m. 3/h). Bir hukuki işlemin, 4077 sayılı TKHK kapsamında kaldığının kabul edilmesi için yasanın amacı içerisinde yukarıda tanımları verilen taraflar arasında mal ve hizmet satışına ilişkin bir hukuki işlemin olması gerekir.
+
+Diğer taraftan dava tarihinde yürürlükte olan 6762 sayılı Türk Ticaret Kanunu (TTK)’nun 14 ve 18.maddelerinde tacir sıfatı, gerçek ve tüzel kişiler bakımından ayrı ayrı tanımlanmış; Kanunun 20 ve devamı maddelerinde tacir olmanın hükümleri; 3.maddesinde ticari işler açıklanmış; 5.maddesinde ise ticaret mahkemelerinin görev alanı düzenlenmiştir.
+
+Açıklanan hükümler karşısında tüm ticaret şirketleri tacir sıfatına sahip olup, tacir niteliğindeki tüzel kişileri ilgilendiren bütün muamele, fiil ve işlerin ticari olması asıldır. Eğer, bir muamele, fiil veya iş ticari iş ise, bunlara özel ticari kurallar uygulanır. Bir tacirin borçlarının ticari olması asıl olmakla birlikte gerçek kişi olan bir tacir, yaptığı iş ve işlemin veya aldığı hizmetin ticari işletmesiyle ilgili olmadığını diğer tarafa açıkça bildirdiği veya muamele fiil veya işleminin ticari sayılmasına halin icabı, müsait bulunmadığı takdirde, bu işlemlerden doğan borç adi, yani özel sayılacaktır (TTK. m. 21).
+
+Tacir olmanın nimetine göre külfeti de mevcuttur. Zira TTK’nın 20-25. maddelerinde tacir sıfatına bağlanan yerine göre “hak” yerine göre “külfet” niteliği arz eden hukuki sonuçlar düzenlenmiştir. Bunların en önemlilerinden biri basiretli iş adamı gibi davranma zorunluluğudur (TTK. m. 20/II). Tacirin, ticari işletmesiyle ilgili tüm faaliyetlerinde basiretli bir iş adamı gibi davranması gerekir. Bu cümleden olarak, ticari işletmesiyle ilgili sözleşmeleri yaparken ve bu sözleşmelerden doğan borçlarını yerine getirirken basiretli bir iş adamı gibi davranmak zorunda olan tacirler tüketiciler için düzenlenen yasa hükümleri kapsamına alınamazlar.
+
+Tüm bu açıklamalar ışığında somut olaya gelince; davacı limited şirket, tacir olup; tüzel kişilik adına ticari işletmesinde kullanmak üzere otomobil satın almıştır. Davacı tüketici olarak tanımlanamayacağı gibi, yaptığı işlemin tüketici işlemi olarak kabulüne de olanak bulunmamaktadır. Her ne kadar aracın trafik sicil kaydında ve ruhsat fotokopisinde “hususi” yazılı ise de aracın sahibinin şirket olması ve faturanın da şirket adına düzenlenmesi nedeniyle, bu araç özel değil, ticari bir araçtır. Bu durumda taraflar ve işlemin niteliğine göre, ortada bir tüketici işleminin bulunmadığı anlaşılmakla Özel Dairenin bozma kararında gösterdiği gerekçe yanında yukarıda açıklanan genişletilmiş gerekçe ile bozma kararına uyulmak gerekirken önceki kararda direnilmesi usul ve yasaya aykırıdır (HGK-K.2020/13).
+
+### Avukatın Haksız Azli Nedeniyle Açılan Davada Tüketici Mahkemesi Görevlidir
+
+Avukat hukuki bilgi ve tecrübelerini mesleğinin ifası doğrultusunda müvekkiline sunar. Bu hizmetin özü vekâlet sözleşmesine dayalıdır. Avukatlık mesleğinin kamu hizmeti olması yahut avukatların kamu görevlisi gibi cezalandırılmaları avukatlık sözleşmesini TKHK’nın 3. maddesinin (l) bendindeki vekâlet sözleşmesi olarak ifade edilen kapsam dışına çıkarmaz. Kanun’un 3/ı hükmü uyarınca sağlayıcı sıfatında belirleyici olan mesleki amaç kıstasıdır ve bu doğrultuda avukat verdiği hizmette tüketici hukuku anlamında sağlayıcı sıfatını haizdir. Nitekim kanun koyucu gerek tüketici işlemi gerekse sağlayıcı tanımında “kamu tüzel kişileri de dâhil olmak üzere” ifadesine yer vererek kamu hizmeti görmekle yükümlü olan kamu tüzel kişilerinin dahi sağlayıcı olarak kabul edilmesi gerektiği yönündeki iradesini açıkça ortaya koymuştur.
+
+Hâl böyle olunca avukatın sunduğu hizmet, müvekkilinin tüketici sıfatını taşıması ve bu suretle vekâlete ilişkin hukuki münasebetin tüketici işlemi vasfında olması durumunda, TKHK hükümlerine tabi olacak, taraflar arasında doğan ihtilaflar da tüketici mahkemeleri (miktar sınırına göre tüketici hakem heyetleri) önünde çözümlenecektir. Tüm bu açıklamalar ışığında somut olay incelendiğinde; davalıların, yakınlarının geçirdiği trafik kazası sonucu ağır yaralanması nedeniyle hukuken yapılması gereken takip ve işleri yürütmek üzere vekil kıldığı davacı avukatların haksız azil iddiasıyla avukatlık ücret alacağının tahsili yönünde açtıkları davada görevli mahkeme tüketici mahkemeleridir (Hukuk Genel Kurulu 2017/3173 E. , 2021/398 K.).
+
+### Avukatlık Vekalet Sözleşmesinden Doğan Davalarda Tüketici Mahkemesi Görevlidir
+
+Avukat hukuki bilgi ve tecrübelerini mesleğinin ifası doğrultusunda müvekkiline sunar. Bu hizmetin özü vekâlet sözleşmesine dayalıdır. Avukatlık mesleğinin kamu hizmeti olması yahut avukatların kamu görevlisi gibi cezalandırılmaları avukatlık sözleşmesini TKHK’nın 3. maddesinin (l) bendindeki vekâlet sözleşmesi olarak ifade edilen kapsam dışına çıkarmaz. Kanun’un 3/ı hükmü uyarınca sağlayıcı sıfatında belirleyici olan mesleki amaç kıstasıdır ve bu doğrultuda avukat verdiği hizmette tüketici hukuku anlamında sağlayıcı sıfatını haizdir. Nitekim kanun koyucu gerek tüketici işlemi gerekse sağlayıcı tanımında “kamu tüzel kişileri de dâhil olmak üzere” ifadesine yer vererek kamu hizmeti görmekle yükümlü olan kamu tüzel kişilerinin dahi sağlayıcı olarak kabul edilmesi gerektiği yönündeki iradesini açıkça ortaya koymuştur. Hâl böyle olunca avukatın sunduğu hizmet, müvekkilinin tüketici sıfatını taşıması ve bu suretle vekâlete ilişkin hukuki münasebetin tüketici işlemi vasfında olması durumunda, TKHK hükümlerine tabi olacak, taraflar arasında doğan ihtilaflar da tüketici mahkemeleri (miktar sınırına göre tüketici hakem heyetleri) önünde çözümlenecektir. Tüm bu açıklamalar ışığında somut olay incelendiğinde; davalıların, yakınlarının geçirdiği trafik kazası sonucu ağır yaralanması nedeniyle hukuken yapılması gereken takip ve işleri yürütmek üzere vekil kıldığı davacı avukatların haksız azil iddiasıyla avukatlık ücret alacağının tahsili yönünde açtıkları davada görevli mahkeme tüketici mahkemeleridir (Yargıtay Hukuk Genel Kurulu 2017/3173 E. , 2021/398 K.).
+
+Davacı, avukat olduğunu, İstanbul 5. Asliye Hukuk Mahkemesi'nin 2012/438 E. 2013/427 K. sayılı dava dosyasında davalının avukatlığını yaptığını, ön alım hakkından kaynaklan tapu iptal tescil istekli bu davanın kabulle sonuçlandığını, bu kapsamda 42.500 TL avukatlık ücret alacağının bulunduğunu, bunun tahsili için başlattığı takibe davalının haksız itirazda bulunduğunu ileri sürerek, itirazın iptaline, takibin devamına ve icra inkar tazminatına karar verilmesini istemiştir. 6502 Sayılı Kanun'un 73. maddesi bu kanunun uygulanması ile ilgili her türlü ihtilafa tüketici mahkemelerinde bakılacağını öngörmüştür. Bir hukuki işlemin sadece 6502 Sayılı yasada düzenlenmiş olması tek başına o işlemden kaynaklanan uyuşmazlığı tüketici mahkemesinde görülmesini gerektirmez. Bir hukuki işlemin 6502 Sayılı yasa kapsamında kaldığının kabul edilmesi için taraflardan birinin tüketici olması gerekir. Somut olayda davacı avukat vekalet ücretinin tahsili istemiyle eldeki davayı açmıştır. Taraflar arasındaki uyuşmazlık Tüketicinin Korunması Hakkındaki Kanun kapsamında kaldığına göre davaya bakmaya Tüketici Mahkemesi görevlidir. Görevle ilgili düzenlemeler kamu düzenine dair olup taraflar ileri sürmese dahi yargılamanın her aşamasında resen gözetilir. Görevle ilgili hususlarda kazanılmış hak söz konusu olmaz. Bu durumda mahkemece, uyuşmazlığın tüketici mahkemesi sıfatı ile görülmesi gerekirken genel mahkeme sıfatı ile görülüp sonuçlandırılması usul ve yasaya aykırıdır. Bozmayı gerektirir. (Yargıtay 13. Hukuk Dairesi - Karar: 2017/151).
+
+### Profesyonel Futbolcu Sözleşmesinden Kaynaklanan Uyuşmazlıklar
+
+Bir hukuki işlemin 6502 Sayılı yasa kapsamında kaldığının kabul edilmesi için taraflardan birinin mutlak suretle tüketici vasfını taşıması gerekir. Bu açıklamalar ışığında somut olaya bakıldığında, taraflar arasındaki profosyonel futbolcu sözleşmesinden kaynaklı ilişkinin, 6502 Sayılı Kanun kapsamında tüketici işlemi sayılamayacağı, zira futbolcu olan davacının tüketici konumunda olmayıp, davalı kulübe sözleşme kapsamında hizmet verdiği, ihtilafın genel hükümler uyarınca genel mahkemelerde çözülmesi gerektiği sonucuna varılmaktadır. Hal böyle olunca işin esasına girilerek sonucuna göre hüküm tesisi gerekirken aksine düşüncelerle ve yazılı şekilde Tüketici mahkemesinin görevli olduğundan bahisle görevsizlik kararı verilmesi usul ve yasaya aykırı olup, bozmayı gerektirir. (Yargıtay 13. Hukuk Dairesi Karar: 2017/142)
+
+### Tüketici Mahkemesinin Bakmakla Görevli Olduğu Davalarda Görev Sınırı Nedir?
+
+Mahkemece, davalı aleyhine toplam 2.631,49.-TL alacak için ilamsız icra takibi yapıldığı, 6502 Sayılı Tüketicinin Korunması Hakkındaki Kanunun 68. maddesine göre dava tarihi itibariyle 2.200,00.-TL – 3.300,00.-TL arasındaki uyuşmazlıklarda İl Tüketici Hakem Heyetine başvurunun zorunlu olduğu, bu miktarın altındaki uyuşmazlıklar yönünden doğrudan icra takibi yapılmasının ve Tüketici Mahkemesine dava açılması mümkün olmadığından, HMK.'nın 114/2 maddesinde öngörülen dava şartının gerçekleşmediği anlaşıldığından davanın dava şartı yokluğu nedeniyle HMK.'nın 115. maddesi gereğince usulden reddine karar verilmesi, hukuka uygundur (Yargıtay 19.Hukuk Dairesi - Karar : 2017/4510).
+
+### Temel Sözleşme İlişkisine Göre Tüketici Mahkemesinin Görevi
+
+Somut olayda davacı, davalı şirketten 16.08.2012 tarihli daire satış vaadi sözleşmesi ile daire satın aldığını, sözleşmede dairenin 2014 yılı Kasım ayında teslim edileceğinin belirtilmesine rağmen dairenin halen teslim edilmemesi sebebiyle sözleşmeyi fesh ettiğine dair 09.07.2014 tarihinde noterden davalı şirkete ihtarname çektiğini, davalı şirkete dava tarihine kadar ödediği 39.500,00.-TL'nin kendisine ödenmesi ve vadesi gelmemiş senetlerinin iadesini talep ettiğini ancak davalı tarafından kendisine bir cevap verilmediğini, bu sebeplerle 39.500,00.-TL'nin ödeme tarihlerinden itibaren işleyecek yasal faizi ile birlikte davalıdan tahsiline, davalı şirkete borçlu olmadığının tespitine, ödenmemiş vadeli senetlerin kendisine iadesine karar verilmesini istemiştir.
+
+Buna göre taraflar arasında uyuşmazlık kambiyo senedinden kaynaklanmayıp temel ilişkinin konut satış sözleşmesi olduğu, davacının konut satın alan tüketici, davalının ise profesyonel satıcı olduğu, davacının davasını Erzurum 4. Asliye Hukuk Mahkemesinde ( Tüketici Mahkemesi sıfatıyla ) açtığı anlaşıldığından uyuşmazlığın Erzurum 4. Asliye Hukuk Mahkemesinde "Tüketici Mahkemesi sıfatıyla ) görülüp sonuçlandırılması gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/6759).
+
+### Hizmet Sağlayıcı ile Yapılan Sözleşmelerden Kaynaklanan Davalarda Tüketici Mahkemesi Görevlidir
+
+Somut olayda; taraflar arasında davalılara ait gayrimenkul üzerinde mantaloma çatı imalatı, teras, merdiven boşluğu, daire içlerinin yeniden yapımı, tüm tamir ve tadilat işleri için sözleşme imzalandığı, işe başlayan davacının davalıların talep ettikleri malzeme ve işçilik kalitesinin sözleşmede belirlenen fiyata uygun düşmediği, davacının davalılardan 230.000,00.-TL ödeme aldığı, maliyetin ödemenin çok üzerinde olduğu ancak davalıların ödemeden kaçınmaları üzerine işe devam edilmediği, davalıların 87.600,00.-TL fazla ödeme yaptıkları ve iadesini talep ettikleri, davacı tarafın da ödenmeyen 63.735,00.-TL'nin davalılardan tahsiline karar verilmesini talep ve dava ettiği anlaşılmaktadır.
+
+Tüm dosya kapsamı birlikte değerlendirildiğinde, tüketici ile hizmet sunan arasında hizmet satışından kaynaklanan bir ilişki bulunduğu açıkça anlaşılmaktadır. Bu durumda davaya bakmaya tüketici mahkemesi görevlidir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/6477).
+
+### Taşınmaz Satış Sözleşmesine İlişkin Davaya Tüketici Mahkemesi Bakar
+
+Davacı, davalılar ile yapılan sözleşmeler gereği davalılara 10.000,00 TL Kaparo ödediğini, ancak sözleşmelere konu bağımsız bölümü davalılardan değil dava dışı bankadan satış bedelinide ödeyerek satın aldığını, davalıların ise kaporayı geri ödemediğini beyanla ödediği 10.000,00 TL kapora bedelinin ve 3.820,00 TL işlemiş faizinin dava tarihinden itibaren işleyecek yasal faizi ile birlikte davalılardan tahsiline karar verilmesini istemiştir. Mahkemece, davanın kabulüne karar verilmiş, verilen karar davacı tarafından temyiz edilmiştir.
+
+Taraflar arasındaki uyuşmazlık davacı ile davalı müteahhit şirket ... Konut A.Ş. arasındaki taşınmaz satış sözleşmesinden kaynaklandığına göre ve diğer davalılar yönünden de tebaen davaya bakmaya Tüketici Mahkemesi görevlidir. Görevle ilgili düzenlemeler kamu düzenine dair olup taraflar ileri sürmese dahi yargılamanın her aşamasında re'sen gözetilir. Görevle ilgili hususlarda kazanılmış hak söz konusu olmaz. Bu durumda mahkemece, görevsizlik kararı verilmesi gerekirken, yazılı şekilde işin esasına girilerek davanın kabulüne karar verilmesi usul ve yasaya aykırı olup, bozmayı gerektirir (Yargıtay 13. Hukuk Dairesi - Karar: 2017/3986).
+
+### Tüketici Mahkemesi Hangi Davalara Bakmakla Görevlidir?
+
+Davaya konu olayın davacı abonenin meskeninde bulunan sayaca harici tesisat bağlamak suretiyle kaçak su kullandığı iddiasına dayalı olması karşısında ;taraflar arasında, 4077 Sayılı Kanun'un değişik kapsamında sözleşme ilişkisi ( mesken abonesi ) bulunduğu anlaşılmaktadır. 4077 Sayılı Kanun'un 23.maddesi bu kanunun uygulanması ile ilgili her türlü ihtilafa tüketici mahkemelerinde bakılacağı öngörülmüştür. Görevle ilgili düzenlemeler kamu düzenine dair olup taraflar ileri sürmese dahi yargılamanın her aşamasında resen gözetilir. Görevle ilgili hususlarda kazanılmış hak söz konusu olmaz. 4077 Sayılı Kanun'un 2., 3.maddeleri gereği somut olaya 4077 Sayılı Kanun'un uygulanması gerekmektedir.
+
+Hal böyle olunca, mahkemece; re'sen gözetilmesi gereken ve kamu düzenine dair olan görev konusu üzerinde durularak, 4077 Sayılı Kanun'un 23.maddesi gereğince uyuşmazlığın çözümünde Tüketici Mahkemelerinin görevli olduğu gerekçesiyle görevsizlik kararı verilmesi gerekirken, yanılgılı değerlendirme sonucu işin esası incelenerek, yazılı şekilde hüküm kurulması usul ve yasaya aykırı görülmüş, bu husus bozmayı gerektirmiştir (Yargıtay 3. Hukuk Dairesi - Karar: 2016/9086).
+
+### Tüketici Mahkemesi Kasko Sigortası Alacak Davasına Bakmakla Görevlidir
+
+6502 sayılı TKHK'nın 73. maddesi uyarınca tüketici işlemleri ile tüketiciye yönelik uygulamalardan doğacak uyuşmazlıklara ilişkin davalarda tüketici mahkemesi görevli kılınmıştır.
+
+Taraflar arasında akdi bir ilişki olup davalının sorumluluğunun kaynağı davacıyla yaptığı kasko sözleşmesine aykırılıktır. Görev, kamu düzenine ilişkin olup, yargılamanın her aşamasında re’sen dikkate alınmalıdır.
+
+Davalı şirket ile davacı arasındaki ilişki ise 6502 sayılı Kanunun 3/1 maddesi kapsamında kalan tüketici işlemlerinden kaynaklanmaktadır. Bu nedenle davacının sözleşme ilişkisine dayalı olarak açtığı tazminat davasında Tüketici Mahkemesi'nin görevli olması nedeniyle HMK'nun 114-115 maddeleri uyarınca görevsizlik kararı verilmesi gerekirken, işin esasına girilerek yazılı olduğu biçimde hüküm tesisi doğru görülmemiştir (Yargıtay 17.HD - Karar : 2017/8887).
+
+### Elektrik Aboneliği Tüketici Mahkemesinin Yetkisi
+
+Bir hukuki işlemin 6502 sayılı kanun kapsamında kaldığının kabul edilmesi için; kanunun amacı içerisinde, yukarıda tanımları verilen taraflar arasında, mal ve hizmet satışına ilişkin bir hukuki işlemin olması gerekir.
+
+Bu açıklamalar ışığında, somut olay incelendiğinde; davacının, işlettiği tavukhanesinin elektrik aboneliği boyunca haksız olarak tahsil edilen kayıp kaçak bedeli, sayaç okuma bedeli, iletim ve dağıtım bedelinin tahsilini talep ettiği anlaşılmakta, ancak dava konusu yerin, abone grubunun mesken niteliğinde olup olmadığı tüm dosya kapsamından anlaşılamamaktadır.
+
+Öyle ise mahkemece öncelikle, dava konusu yerin aboneliğine ilişkin dosya getirtilerek abone grubunun niteliğinin kesin olarak belirlenmesinden sonra, görevli olduğu kanaatine varılır ise yetki hususunun değerlendirilmesi gerekir iken eksik inceleme ile dava dilekçesinin reddine karar verilmesi doğru görülmemiş ve bozmayı gerektirmiştir.
+
+Kabule göre de 6100 sayılı HMK’nın 10.maddesi uyarınca “sözleşmeden doğan davalar, sözleşmenin ifa edileceği yer mahkemesinde de açılabilir” hükmü uyarınca dava konusu aboneliğin ...ilçesinde bulunan tavukhaneye ilişkin olduğu dikkate alınarak sözleşmenin ifa edileceği yer mahkemesi olarak yetkili olunduğu gözetilmeden yetkisizlik kararı verilmesi, doğru değildir (Yargıtay 3.Hukuk Dairesi Karar : 2017/12972).
+
+### Ticari Kredilerle İlgili Uyuşmazlıkla Tüketici Mahkemesinde Görülmez
+
+Dava, banka tarafından haksız olarak tahsil edilen masrafların iadesine ilişkindir.
+
+Mahkemece, kredi sözleşmelerinin birer örneğinin dosyaya gönderilmesi müzekkere ile istenmiş ancak davaya konu sözleşmelerin davalı tarafça dosyaya ibraz edilmemesi nedeniyle hükme esas alınan kesintilerin hangi kredi nedeniyle yapıldığı ve zorunlu olup olmadığı hususunda herhangi bir inceleme yapılamamıştır. Davacının kullanmış olduğu kredilere ilişkin belgelerin incelenmesinden söz konusu krediler içerisinde ticari kredi sözleşmesinin bulunduğu anlaşılmaktadır. Oysaki, ticari krediler Tüketicinin Korunması Hakkındaki Kanun kapsamında bulunmadığından ticari krediye ilişkin bu talep hakkında genel mahkemenin görevli olduğunun kabulü zorunludur. Mahkemece, değinilen bu yön gözetilerek yapılan kesintinin ne kadarının ticari kredi sözleşmesi, ne kadarının tüketici kredisi sözleşmesi nedeniyle yapıldığının hesaplanması için gerektiğinde bilirkişi incelemesi yaptırılması; bundan sonra ticari kredisi sözleşmesi nedeniyle yapılan kesintiler bakımından tefrik kararı verilerek davaya genel mahkeme sıfatıyla bakılması, tüketici kredileri bakımından ise yargılamaya devam edilmesi gerekirken, kredilerin tümünün tüketici kredisi olduğu kabul edilerek Tüketici Mahkemesi sıfatıyla yargılamaya devam edilmesi usul ve yasaya aykırı olup bozma nedenidir. (Yargıtay 13.HD - Karar : 2017/8064).
+
+### Tüketici Mahkemesi Ticari Krediye İlişkin Davaya Bakmakla Görevli Değil
+
+Davacı, davalı bankadan tüketici kredisi kullandığını, bu işlemler sebebiyle davalı banka tarafından tahsil edilen bedellerin iadesi talebiyle eldeki davayı açmıştır. Davacının kullanmış olduğu krediye dair sözleşme ve eklerinin incelenmesinden genel nakdi ve gayrinakdi kredi sağlamaya yönelik olduğu anlaşılmaktadır. Bu nedenle; davacının, davalı bankadan kullandığı ticari kredi sebebiyle alınan masrafların iadesine dair dava, ticari dava niteliğindedir. 6102 Sayılı Türk Ticaret Kanununun 5/3. maddesine göre de; Asliye Ticaret Mahkemesi ile diğer hukuk mahkemeleri arasındaki ilişki görev ilişkisi olup, göreve dair usul hükümlerinin uygulaması gerekir. Görevle ilgili düzenlemeler kamu düzenine dair olup taraflar ileri sürmese dahi yargılamanın her aşamasında resen gözetilir. Görevle ilgili hususlarda kazanılmış hak söz konusu olmaz. Taraflar arasındaki uyuşmazlık ticari krediye dair olup, Tüketicinin Korunması Hakkındaki Kanun kapsamında kalmadığına göre davaya bakmaya genel mahkeme görevlidir. Tüketici mahkemesi talep hakkında karar veremez. O halde Mahkemece, yargılamanın Asliye Ticaret Mahkemesi sıfatıyla devam edilerek bir karar verilmesi gerekirken Tüketici Mahkemesi sıfatıyla davanın esası hakkında karar verilmesi usul ve yasaya aykırıdır (Yargıtay 13. Hukuk Dairesi - Karar: 2017/844).
+
+### Tüketici İhtiyaç Kredisinden Doğan Uyuşmazlıklar Tüketici Mahkemesinde Görülür
+
+Bir hukukî işlemin 4077 Sayılı Kanun kapsamında kaldığının kabul edilmesi için taraflardan birinin tüketici olması gerekir. Dosya kapsamından; davacı vekilinin, davalı banka ile müvekkili arasında imzalanan bir kredi sözleşmesi bulunmadığı, kredi sözleşmesi altındaki imzanın sahte olduğunu ileri sürerek, davalı banka tarafından kredinin ödenmediği gerekçesiyle müvekkili hakkında yapılan icra takibi sebebiyle davacının borcu bulunmadığın tespiti istemiyle dava açtığı, sahte olduğu ileri sürülse de dosyaya sunulan tüketici ihtiyaç kredisine dair sözleşmenin, 4077 Sayılı Kanun kapsamında kaldığı anlaşılmaktadır.
+
+Talep tarihinde yürürlükte bulunan 4077 Sayılı Kanun'un 23. maddesi bu kanunun uygulanması ile ilgili her türlü ihtilafa tüketici mahkemelerinde bakılacağını öngörmüştür. Taraflar arasındaki uyuşmazlığın, tüketici mahkemesinde görülmesi gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/6883).
+
+### Trafik Kazasında Tüketici Mahkemesi ile Asliye Ticaret Mahkemesinin Görevi
+
+Davacı vekili, davalıya zorunlu mali mesuliyet sigortalı aracın sebep olduğu kazada müvekkilinin desteğinin öldüğünü ve desteğinden yoksun kaldığını belirterek fazlaya ilişkin hakları saklı kalmak üzere 5.000,00 TL maddi tazminatın davalıdan tahsiline karar verilmesini istemiştir. Mahkemece, tüm dosya kapsamına göre dava konusu eylemin 6502 sayılı Tüketicinin Korunması Hakkında Kanun kapsamında kaldığı, uyuşmazlığa bakmakla görevli mahkemenin Tüketici Mahkemeleri olduğu belirtilerek mahkemenin görevsizliğine, karar verilmiş; hüküm, davalı vekili tarafından temyiz edilmiştir.
+
+Somut olayda, sigorta sözleşmesi, davacı ile davalı trafik sigortası şirketi arasında düzenlenmemiş olup, taraflar arasında 6502 sayılı Kanun kapsamında bir ilişki söz konusu değildir. Bu nedenlerle; davanın, kazaya neden olan aracın zorunlu mali sorumluluk sigortasına karşı açıldığı, zorunlu mali sorumluluk sigorta poliçesinin 6102 sayılı T.T.K.'da düzenlendiği, davanın ticari dava niteliğinde olduğu ve görevli mahkemenin Ticaret Mahkemesi olduğu gözetilmeden yazılı olduğu biçimde hüküm kurulması doğru görülmemiştir (Yargıtay 17. Hukuk Dairesi - Karar: 2017/939).
+
+### Otelde Konaklama Sözleşmesine Dair Uyuşmazlık Tüketici Mahkemesinde Görülür
+
+Somut uyuşmazlıkta davacıların mirasbırakanı ile davalı taraf arasında davalının çalıştırdığı otelde konaklama yapılmasına dair sözleşme bulunduğu, taraflar arasındaki sözleşme ilişkisinin 4077 Sayılı yasa kapsamında kaldığı anlaşılmaktadır.
+
+Dava tarihinde yürürlükte bulunan 4077 Sayılı Kanun'un 23. maddesi bu kanunun uygulanması ile ilgili her türlü ihtilafa tüketici mahkemelerinde bakılacağını öngörmüştür. Taraflar arasındaki uyuşmazlık Tüketicinin Korunması Hakkındaki Kanun kapsamında kaldığına göre davaya bakmaya Tüketici Mahkemesi görevlidir. Görevle ilgili düzenlemeler kamu düzenine dair olup taraflar ileri sürmese dahi yargılamanın her aşamasında resen gözetilir. Görevle ilgili hususlarda kazanılmış hak söz konusu olmaz. Bu durumda mahkemece, uyuşmazlığın tüketici mahkemesi sıfatı ile görülmesi gerekirken genel mahkeme sıfatı ile görülüp sonuçlandırılması usul ve yasaya aykırıdır, bozmayı gerektirir (Yargıtay 13. Hukuk Dairesi - Karar: 2017/968).
+
+### Yetkili Tüketici Mahkemesi Nasıl Belirlenir?
+
+6100 Sayılı HMK'nun 6. maddesine göre genel yetkili mahkeme davalının yerleşim yeri mahkemesidir. Ayrıca, dava tarihi itibariyle yürürlükte bulunan 6502 Sayılı Kanun'un 73/5. maddesiyle tüketici davalarının tüketicinin ikametgahı mahkemesinde de açılabileceği belirtilmiştir ki, bu da özel yetkiye dair bir düzenlemedir. Dolayısıyla dava, davacının seçimine göre, hem genel ve hem de özel yetkili mahkemede açılabilir. Dosya kapsamından davacıların yerleşim yeri itibariyle yetkili mahkemenin İstanbul Tüketici Mahkemesi olduğu anlaşılmaktadır. Hal böyle olunca, mahkemece, dava yetkili yerde açıldığından işin esası incelenerek sonucuna uygun bir karar verilmesi gerekirken, yanılgılı değerlendirme ile yazılı şekilde yetkisizlik kararı verilmesi usul ve yasaya aykırı olup, bozma nedenidir.(Yargıtay 13. Hukuk Dairesi - Karar: 2017/333).
+
+### Eser Sözleşmesinden Kaynaklanan Davada Görevli Mahkeme
+
+Uyuşmazlık, davalı tarafından davacıya satılan dairenin eksiksiz tesliminin yapılıp yapılmadığına ilişkindir. Somut olayda; davalının bilirkişi raporu sonrasındaki duruşmada "Doğal gazları, doğal gaz borularını, mutfak dolaplarını takmadım bunu kabul ediyorum" şeklinde beyanda bulunduğu, yine taraflar arasında yapılan sözleşmede dairenin eksiksiz halde teslim edileceğinin düzenlendiği dikkate alındığında davalının ticari amaçla hareket eden satıcı, müteahhit olduğu anlaşılmaktadır. Davacı bu hukuki işlem içerisinde tüketici konumunda olduğundan, taraflar arasındaki hukuki ilişkinin tüketici işlemi olduğunun kabulü gerekir. Bu itibarla uyuşmazlığın Tüketicinin Korunması Hakkındaki Kanun kapsamında kaldığına göre davaya bakmaya Tüketici Mahkemesi görevlidir. Bu durumda mahkemece, ayrı bir Tüketici mahkemesi bulunması halinde görevsizlik kararı verilmesi, müstakil Tüketici Mahkemesi bulunmaması halinde Tüketici Mahkemesi Sıfatıyla davaya bakılması gerekirken genel mahkeme sıfatıyla bakılıp işin esasına girilerek yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup bozma nedenidir (Yargıtay 13. Hukuk Dairesi - Karar: 2016/23433).
+
+Dava konusu uyuşmazlık, BK’nin 355 ve devamı maddelerinde düzenlenen eser sözleşmesinden kaynaklanmaktadır. Mahkemece, davalının hastasının şikayetlerini gidermek üzere girişimde bulunduğunu iadesi istenen 3.000,00 TL'ye ilişkin tedavi ve imalatlar gerçekleştirildiğini, ortaya çıkan komplikasyonların giderilmeye çalışıldığı gerekçesiyle maddi tazminat, davalının eylemi ile davacının manevi acıları arasında illiyet bağı bulunmadığı gerekçesiyle de manevi tazminat isteminin reddine dair verilen karar davacının temyizi üzerine Dairemizce, onanmıştır. 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 3. maddesine göre tüketici; ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi, tüketici işlemi; mal veya hizmet piyasalarında kamu tüzel kişileri de dâhil olmak üzere ticari veya mesleki amaçlarla hareket eden veya onun adına ya da hesabına hareket eden gerçek veya tüzel kişiler ile tüketiciler arasında kurulan, eser, taşıma, simsarlık, sigorta, vekâlet, bankacılık ve benzeri sözleşmeler de dâhil olmak üzere her türlü sözleşme ve hukuki işlemi ifade eder. 6502 sayılı Yasanın 73. maddesi bu kanunun uygulanması ile ilgili her türlü ihtilafa tüketici mahkemelerinde bakılacağını öngörmüştür. Somut olayda, taraflar arasındaki hukuki ilişki eser sözleşmesinden kaynaklandığından uyuşmazlığın çözümünde Asliye Hukuk Mahkemesi değil, Tüketici Mahkemesi görevlidir. Görevle ilgili düzenlemeler kamu düzenine ilişkin olup, taraflar ileri sürmese dahi yargılamanın her aşamasında resen gözetilir. Görevle ilgili hususlarda kazanılmış hak söz konusu olmaz. O halde, mahkemece, görevsizlik kararı verilmesi gerekirken, yargılama yapılarak karar verilmiş olması usul ve yasaya aykırı olup, kararın bu gerekçelerle görev nedeniyle bozulması gerekirken dairemizce zuhulen onandığı anlaşıldığından Dairemizin onama kararının kaldırılarak, mahkeme bozulmasına karar verilmesi gerekmiştir (Yargıtay 13. HD-Karar : 2020/1400).
+
+### Eser Sözleşmesinde Tüketici Mahkemesinin Görevli Olması Şartları
+
+6502 Sayılı TKHK'nu ile eser sözleşmesinden kaynaklanan ihtilâflar da tüketici mahkemesinin görev alanına katılmış ise de; ilişkinin eser sözleşmesi olmasının yanında taraflardan birisinin tüketici olması gerektiği de tüketici mahkemelerinin görevli olmasının koşuludur.
+
+Somut olayda taraflar arasında yazılı sözleşme bulunmamakla birlikte, eser sözleşmesi ilişkisinin davacıya ait 5 katlı binanın kalorifer tesisatının kurulması ve kazanın monte edilmesi için kurulduğu anlaşılmaktadır. Bu haliyle eserin 5 katlı bina ile ilgili olarak yapıldığı dikkate alındığında ve dosya kapsamındaki belge ve bilgilere göre davacı bu binadaki bazı daireleri kiraya vermek suretiyle gelir temin ettiğinden davacının ticari veya mesleki olmayan amaçlarla hareket eden bir nihai tüketici olarak kabulü mümkün değildir. Bu kabule göre de tüketici mahkemesinin görevli olabilmesi için gerekli olan taraflardan birinin tüketici olması koşulu gerçekleşmemiştir.
+
+Bu durumda mahkemece dava asliye hukuk mahkemesi sıfatıyla açıldığı, davaya bakmakta genel mahkeme olarak asliye hukuk mahkemesi görevli olduğu ve görev hususu kamu düzenine dair olup görevi gereği mahkemeler ve temyiz halinde Yargıtay'ca re'sen gözetilmesi gerektiğinden asliye hukuk mahkemesi sıfatıyla davanın yürütülmesi gerekirken tensip ara kararının 3. maddesiyle davaya tüketici mahkemesi sıfatı ile bakılmasına karar verilmesi doğru olmamış, bozulması uygun bulunmuştur (Yargıtay 15.Hukuk Dairesi - Karar: 2017/3611).
+
+### Bankacılık İşlemleri Nedeniyle Açılan Davalarda Görevli Mahkeme
+
+Davacı vekili, davacının murisi N. H.'ın 26.11.1999 tarihinde Yurt Bank A.Ş.' nin Etiler Şubesine para yatırdığını, davalı banka yönetiminin kasıtlı yönlendirmesi ile bu mevduatın off shore hesaba aktırıldığını, murisin rızası dışında bankalara olan güveni kötüye kullanılmak sureti ile yatırılan mevduatın garanti dışında olduğu gerekçesi ile ödenmediğini ileri sürerek; rızası dışında off shore hesabına aktarılan paranın yatırıldığı tarihten itibaren 3095 sayılı yasanın 2/2 maddesindeki faiziyle birlikte davalıdan tahsiline karar verilmesini talep ve dava etmiştir.
+
+Somut olayda; davanın açıldığı 10.06.2014 tarihi itibariyle 6502 sayılı Yasa'nın yürürlükte olduğu, davacının ticari veya mesleki olmayan amaçlarla hareket etmesi nedeniyle tüketici, dava konusu bankacılık işleminin de tüketici işlemi sayıldığı, yukarıda belirtilen yasa hükümleri uyarınca davaya bakma hususunda tüketici mahkemelerinin görevli olduğu hususu gözetilerek görevsizlik kararı verilmesi gerekirken işin esasının incelenip yazılı şekilde karar verilmesi doğru olmamış, bozmayı gerektirmiştir (Yargıtay 11. Hukuk Dairesi - Karar: 2016/7621).
+
+### Arsa Payı Karşılığı İnşaat Sözleşmesinde Görevli Mahkeme
+
+Dava, arsa sahibi ile yüklenici arasındaki arsa payı karşılığı inşaat sözleşmesi uyarınca yükleniciye bırakılması kararlaştırılan bağımsız bölümün satın alındığı iddiasına dayanan davacının davalı arsa sahiplerinin yüklenici ile yaptıkları anlaşmadan vazgeçmesinden kaynaklanan zararın tazmini istemine ilişkindir. 1. Asliye Hukuk Mahkemesi; uyuşmazlığın 4077 Sayılı Kanun kapsamına girdiği ve tüketici mahkemesinin görevli olduğu gerekçesiyle görevsizlik kararı verilmiştir.
+
+6502 Sayılı Kanun'un 3. maddesi gerekçesinde eser sözleşmelerinin kanun kapsamına alınmasına dair herhangi bir açıklama getirilmemiştir. Ancak, kanunun sistematiği nazara alındığında kanunda zikredilen eser sözleşmelerinden kastın; ticari ve mesleki olmayan amaçlarla, salt kişisel ihtiyaçları için kullanma ve tüketme amacıyla gerçek ve tüzel kişi ile tüketici arasında yapılan eser sözleşmeleri olduğu anlaşılmaktadır. Arsa payı karşılığı inşaat sözleşmeleri 818 Sayılı BK'nın 155 vd. maddelerinde düzenlenen eser sözleşmelerinin kendine özgü bir türüdür. Bu sözleşmelerin bir tarafı arsa sahibi diğer tarafı yüklenicidir. Bu tür sözleşmelerde arsa sahibinin Tüketici Kanununda 3/k maddesindeki tüketici tanımına uymadığı anlaşılmaktadır. Arsa payı karşılığı inşaat sözleşmelerinde arsa sahibi açısından güdülen amaç kullanmak için konut edinmek değil arsasını değerlendirmektir. Bu nedenle, arsa sahibinin arsa payı karşılığı inşaat sözleşmesi imzalarken güttüğü saikin 6502 Sayılı Kanunda tanımlanan tüketicinin saikinden farklı olduğu gözden kaçırılmamalıdır. Arsa payı karşılığı inşaat sözleşmelerine konu işin üst düzey teknolojiyi gerektirmesi, sözleşme kapsamında taşınmaz satış vaadi ve inşaat sözleşmelerinin de bulunduğu nazara alındığında 6502 Sayılı Kanunda kanun koyucunun salt kullanma ve tüketme amacına yönelik mutfak, dolap yaptırmak araç tamiri yapmak gibi dar kapsamlı eser sözleşmelerini kastettiği, arsa karşılığı inşaat sözleşmelerinin ise bu kapsamda olmadığının kabulü gerekir. Bu durumda eldeki davada uyuşmazlık 6502 Sayılı Kanun kapsamında kalmadığından, davanın HMK'nın 2. maddesi uyarınca genel hükümlere göre 1. Asliye Hukuk Mahkemesinde görülüp sonuçlandırılması gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/8063).
+
+### Finansal Hizmet Sağlayıcı ile Yapılan Sözleşmede Görevli Mahkeme
+
+Davacı vekili, müvekkilinin yatırım amacıyla işlem yapmak üzere davalı şirkete başvuruda bulunarak, müvekkil ile davalı şirket arasında tüketici ve hizmet sağlayıcı ilişkisi kurulduğunu, buna göre müvekkili tarafından yatırım işlemlerine başlandığını, davalı şirketin hesaplarına havaleler yapıldığını, yapılan havale tutarlarının borsa işlemleri için davalı şirket tarafından talep olunmuşsa da yapılan işlemlerin sözleşme esaslarına aykırı olduğunu ileri sürerek, taraflar arasında akdedilen sözleşmenin feshine, 58.000,00 TL zararının davalıdan tazminine karar verilmesini talep ve dava etmiştir. Davalı şirket vekili, davanın görevsiz mahkemede açıldığını, davacının nihai tüketim amacıyla değil, kar elde etmek amacıyla kaldıraçlı alım-satım işlemleri ile türev araçları alım-satımı yapabilmek için mevzuatına göre kurulan "Aracı Kurum" statüsündeki müvekkili şirketle Çerçeve Sözleşme imzaladığını, davacının 6502 Sayılı Kanun kapsamında tüketici olmadığını, ticari amaçla hareket eden gerçek kişi konumunda olduğunu, müvekkilinin bir finans kurumu olduğunu, uyuşmazlıkta görevli mahkemenin ticaret mahkemeleri olduğunu savunarak, davanın reddini istemiştir. Mahkemece, taraflar arasındaki işlemin tüketici işlemi olmayıp, yatırım amaçlı ticari iş olduğu, bu haliyle 6502 Sayılı Kanun kapsamına girmediği, Borçlar Kanunu çerçevesinde ve hükümlerine göre genel mahkemelerde inceleme yapılması gerektiği gerekçesiyle, görevsizliği ile dava dilekçesinin görev yönünden reddine, talep halinde dosyanın görevli İstanbul Nöbetçi Asliye Ticaret Mahkemesi'ne gönderilmesine karar verilmiştir.
+
+6502 Sayılı Tüketicinin Korunması Hakkında Kanun'un Diğer Tüketici Sözleşmeleri" başlıklı 5. bölümünde yer alan 49.maddesi, "Finansal hizmetlere dair mesafeli sözleşmeler" başlığını taşımaktadır. Bu maddenin 1. fıkrasına göre finansal hizmetler, her türlü banka hizmeti, kredi, sigorta, bireysel emeklilik, yatırım ve ödeme ile ilgili hizmetleri ifade eder. Finansal hizmetlere dair mesafeli sözleşme ise, finansal hizmetlerin uzaktan pazarlanmasına yönelik olarak oluşturulmuş bir sistem çerçevesinde, sağlayıcı ile tüketici arasında uzaktan iletişim araçlarının kullanılması suretiyle kurulan sözleşmelerdir. Yine aynı Kanun'un 73/1. maddesi, "Tüketici işlemleri ile tüketiciye yönelik uygulamalardan doğabilecek uyuşmazlıklara dair davalarda tüketici mahkemeleri görevlidir." hükmünü, 83. maddesi ise, "Bu Kanunda hüküm bulunmayan hâllerde genel hükümler uygulanır. Taraflardan birini tüketicinin oluşturduğu işlemler ile ilgili, diğer kanunlarda düzenleme olması, bu işlemin tüketici işlemi sayılmasını ve bu Kanunun görev ve yetkiye dair hükümlerinin uygulanmasını engellemez." hükmünü amirdir. Bütün bu hükümler birlikte değerlendirildiğinde, taraflar arasındaki ilişkinin, tüketici işlemi kapsamında kaldığı ve bu ilişkiden kaynaklanan uyuşmazlıklarda Tüketici Mahkemelerinin görevli olduğu sonucuna varılmaktadır. Bu nedenle, mahkemece davaya bakmakla görevli olduğunun kabulüyle işin esasına girilip, gerekli araştırma ve değerlendirme yapılarak sonucuna göre karar verilmesi gerekirken, yazılı şekilde Asliye Ticaret Mahkemesi görevli olduğu gerekçesiyle görevsizlik kararı verilmesi doğru olmamış, bozmayı gerektirmiştir (Yargıtay 11. Hukuk Dairesi - Karar: 2016/69879.
+
+### Sigorta Bedelinin Rücuan Tahsili Davasında Asliye Ticaret Mahkemesi Görevlidir
+
+Dava, davacı ... şirketinin sigorta sözleşmesi kapsamında sigortalısına ödediği bedeli, davalı şirketten rücuan tahsili için yaptığı icra takibine vaki itirazın iptali istemine ilişkindir.
+
+Gaziantep 1. Asliye Ticaret Mahkemesince, "6502 Sayılı Tüketicinin Korunması Hakkında Kanunun 3/k-ı. maddesindeki tanımlamaya göre davalının tüketici; davacının ise, satıcı sağlayıcı konumunda bulunduğu ve tüketici mahkemesinin görevli olduğu" gerekçesiyle görevsizlik kararı verilmiştir. Gaziantep Tüketici Mahkemesi ise "Davacı ile davalı arasında tüketici ilişkisi bulunmadığı, 6102 Sayılı Türk Ticaret Kanununun 4, 5. maddeleri uyarınca, sigorta hukukundan kaynaklandığı için ticari dava sayılan uyuşmazlıkta asliye ticaret mahkemesinin görevli olduğu" gerekçesiyle görevsizlik kararı vermiştir.
+
+6102 Sayılı Türk Ticaret Kanununun 4/1-a maddesinde, her iki tarafın da ticari işletmesiyle ilgili hususlardan doğan hukuk davaları ve çekişmesiz yargı işleri ile tarafların tacir olup olmadıklarına bakılmaksızın, bu Kanunda öngörülen hususlardan doğan hukuk davaları ve çekişmesiz yargı işlerinin ticari dava ve ticari nitelikte çekişmesiz yargı işi sayılacağı açıkça düzenlenmiştir. Somut olayda, her iki taraf da tacir olduğu gibi, uyuşmazlık ZMMS poliçesinden kaynaklandığı ve tüketici mahkemesinin görevli olması için taraflardan birinin tüketici sıfatına sahip olması gerekmektedir. Somut olayda, davalı "Tüketici" sıfatına haiz olmadığı için 6102 Sayılı TTK'nın 4, 5. maddeleri uyarınca uyuşmazlığın asliye ticaret mahkemesince çözümlenmesi gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/7401).
+
+### Tüketici Hakem Heyeti Kararına İtirazı İncelemeye Yetkili Tüketici Mahkemesi
+
+Dava, tüketici hâkem heyeti tarafından verilen kararın iptali istemine ilişkindir. Bakırköy 4. Tüketici Mahkemesince, hem tüketicinin yerleşim yeri, hem kararına itiraz olunan Tüketici Sorunları Hâkem Heyeti, Bakırköy Tüketici Mahkemeleri yetki alanı kapsamında olmadığı gerekçesi ile yetkisizlik kararı verilmiştir. İstanbul 10. Tüketici Mahkemesi ise Büyükçekmece ilçesinin Hakimler ve Savcılık Yüksek Kurulunun 19.03.2014 tarih ve 129 Sayılı kararında Büyükçekmece ilçesi Bakırköy Ağır Ceza Mahkemesi'nin yargı alanında kaldığından ve Bakırköy Tüketici Mahkemesi'nin yargı alanıda Bakırköy Ağır Ceza Mahkemesi'nin yargı alanı olarak belirlendiğinden yetkisizlik yönünde karar vermiş, kararlar temyiz edilmeksizin kesinleşmiştir.
+
+6502 Sayılı Tüketicinin Korunması Hakkında Kanununun 70. maddesinin6502 Sayılı Tüketicinin Korunması Hakkında Kanununun 70. maddesinin üçüncü fıkrasında "Taraflar, tüketici hâkem heyeti kararlarına karşı tebliğ tarihinden itibaren on beş gün içinde tüketici hâkem heyetinin bulunduğu yerdeki tüketici mahkemesine itiraz edebilir." şeklinde tüketici hâkem heyeti kararlarına karşı itiraz yolunda özel bir düzenleme öngörülmüştür. Somut olayda, davanın 22.04.2015 tarihinde açıldığı, davacının Tüketici Sorunları Hâkem Heyetince verilen 13.03.2015 tarihli kararına itiraz ettiği anlaşılmıştır. Bu durumda uyuşmazlığın, Büyükçekmece ilçesinin Bakırköy adliyesinin yargı çevresi sınırları içinde bulunduğu anlaşılmış olup Bakırköy 4. Tüketici Mahkemesince çözümlenmesi gerekmektedir. Yukarıda açıklanan nedenlerle; HMK'nın 21, 22. maddeleri gereğince Bakırköy 4. Tüketici Mahkemesi'nin YARGI YERİ OLARAK BELİRLENMESİNE karar verilmiştir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/6987).
+
+### Müteahhitten Daire Satın Alan Üçüncü Kişinin Açtığı Tapu İptal ve Tescil Davasında Görevli Mahkeme
+
+Dava, davalı yükleniciden temlik alınan kişisel hakka dayalı tapu iptali ve tescil, mümkün olmadığı takdirde tazminat istemine ilişkindir.
+
+28.05.2014 tarihinde yürürlüğe giren 6502 Sayılı Tüketicinin Korunması Hakkında Kanun her türlü tüketici işlemi ile tüketiciye yönelik uygulamaları kapsamaktadır. Konut satış sözleşmeleriyle devre tatil ve uzun süreli tatil hizmeti sözleşmeleri de kanun kapsamına alınmıştır. Söz konusu taşınmazın da bir konut satış sözleşmesiyle satın alındığı belirtilerek bu dava açılmıştır.
+
+28.05.2014 tarihinde yürürlüğe giren 6502 Sayılı Tüketicinin Korunması Hakkında Kanun her türlü tüketici işlemi ile tüketiciye yönelik uygulamaları kapsamaktadır. Konut satış sözleşmeleriyle devre tatil ve uzun süreli tatil hizmeti sözleşmeleri de kanun kapsamına alınmıştır. Söz konusu taşınmazın da bir konut satış sözleşmesiyle satın alındığı belirtilerek bu dava açılmıştır.Dava, davalı yükleniciden temlik alınan kişisel hakka dayalı tapu iptali ve tescil, mümkün olmadığı takdirde tazminat istemine ilişkindir (Yargıtay 14. Hukuk Dairesi - Karar: 2016/4021).
+
+### Ticari Amaçla Kullanılan Telefon Aboneliğine İlişkin Uyuşmazlıkta Genel Mahkeme Görevlidir
+
+Davacı dava dilekçesinde özetle; iş yeri telefonunu kurumsal pakete geçirdiğini, kendisini arayan bir numaraya dönüş yaptığını, bu numaranın özel olduğu konusunda davalı tarafça uyarılmadığını, davalı vekilinin 10.300 TL talepte bulunduğunu, paket anlaşması gereği 100 TL ödeyip hattının iadesini talep ve dava etmiştir.
+
+Somut olayda; davacı imzaladığı kurumsal abonelik sözleşmesi uyarınca abone olduğu GSM hattını ticari amaçla kullanmıştır. Bu itibarla taraflar arasındaki ilişkiye 4077 sayılı kanun hükümlerinin uygulanmasının mümkün olmadığı anlaşılmaktadır. Mahkemelerin görevinin kamu düzenine ilişkin olması nedeniyle yargılamanın her aşamasında re'sen dikkate alınması gerekir. Bu nedenle, uyuşmazlığa genel mahkeme sıfatıyla bakılması gerekirken Tüketici Mahkemesi sıfatıyla bakılması usul ve yasaya aykırıdır (Yargıtay 3. Hukuk Dairesi - Karar: 2016/3800).
+
+### Birden Fazla Konut Satın Alınması Halinde Tüketici Mahkemesinin Görevi
+
+Tüketici Mahkemesince, davacının iki daireyi yatırım amaçlı aldığı, davaya bakmanın Genel Mahkemenin görevine girdiğinden bahisle görevsizlik kararı verilmiş; hüküm, davalı tarafından temyiz edilmiştir.
+
+6502 Sayılı Kanun'un 73. maddesi bu kanunun uygulanması ile ilgili her türlü ihtilafa tüketici mahkemelerinde bakılacağını öngörmüştür. Bir hukuki işlemin sadece 6502 Sayılı yasada düzenlenmiş olması tek başına o işlemden kaynaklanan uyuşmazlığı tüketici mahkemesinde görülmesini gerektirmez. Bir hukuki işlemin 6502 Sayılı yasa kapsamında kaldığının kabul edilmesi için taraflardan birinin tüketici olması gerekir. Somut olayda davacı, davalıdan iki adet daire satın aldığını, ve bedelini ödediğini, ancak dairelerin dava dışı şahsa satıldığını ileri sürerek dairelerin bedelinin tahsilini istemiş, mahkemece davacının iki adet daire satın alması sebebiyle tüketici kabul edilemeyeceği gerekçesiyle dava dilekçesi davalıya tebliğ edilmeksizin ve duruşma açılmaksızın görevsizlik kararı verilmiş ise de; mahkemece sadece satın alınan dairenin sayısı dikkate alınarak davacının tüketici kabul edilmemesi yerinde değildir. Konut alım-satımına dair uyuşmazlıkların 6502 Sayılı Kanun kapsamında değerlendirilebilmesi için tüketicinin malı satın alma amacı çok büyük önem taşımaktadır. Yasa, nihai tüketici tarafından kullanım amacı ile alınan konut ve tatil amaçlı taşınmazlar yönünden geçerlidir. Bir mal veya hizmetin, kişisel ihtiyaçları dışında, belirli bir meslek icrası, belirli bir üretimde kullanma, yeniden satış, kiraya verme, ticari olarak kullanma vs. gibi mesleki veya ticari amaçlarla satın alanların tüketici kabul edilmeyecekleri kuşkusuzdur. Hal böyle olunca, (tüketici mahkemesinin) dava dilekçesinin davalıya tebliğ edilerek duruşma açılması ve bundan sonra satın alınan dairelerin satın alma amacının araştırılarak sonucuna uygun bir karar verilmesi gerekirken yazılı şekilde (görevsizlik) karar verilmesi usul ve yasaya aykırıdır (Yargıtay 13. Hukuk Dairesi - Karar: 2016/2002).
+
+### Taşıma Sözleşmesine Dayalı Dava Tüketici Mahkemesinde Açılır
+
+Dava, taşıma sözleşmesinden kaynaklanan maddi ve manevi tazminat istemine ilişkin olup, mahkemece, taşıma işinin ticari faaliyet niteliğinde olduğu ve asliye ticaret mahkemesinin görev alanına girdiği gerekçesiyle dava dilekçesinin görev yönünden reddine karar verilmiştir. Ancak, dava tarihinde yürürlükte bulunan 6502 sayılı Tüketicinin Korunması Hakkında Kanun'un 3/1-k maddesinde tüketicinin; "ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi" ifade edeceği, 3/1-l maddesinde ise tüketici işleminin; "mal veya hizmet piyasalarında kamu tüzel kişileri de dâhil olmak üzere ticari veya mesleki amaçlarla hareket eden veya onun adına ya da hesabına hareket eden gerçek veya tüzel kişiler ile tüketiciler arasında kurulan, eser, taşıma, simsarlık, sigorta, vekâlet, bankacılık ve benzeri sözleşmeler de dâhil olmak üzere her türlü sözleşme ve hukuki işlemi" ifade edeceği düzenlenmiş, aynı kanunun 73/1 maddesinde de; tüketici işlemleri ile tüketiciye yönelik uygulamalardan doğabilecek uyuşmazlıklara ilişkin davalara bakmaya tüketici mahkemelerinin görevli olduğu hüküm altına alınmıştır. Buna göre, mahkemece, tüketici konumundaki davacılar tarafından açılan işbu davada tüketici mahkemesinin görevli olduğu gerekçesiyle görevsizlik kararı verilmesi gerekirken, yazılı şekilde asliye ticaret mahkemesinin görevli olduğundan bahisle görevsizlik kararı verilmesi doğru olmamış, kararın bozulması gerekmiştir (Yargıtay 11. Hukuk Dairesi - Karar: 2016/27).
+
+### Satın Alınan Soda Şişesinin Patlaması Nedeniyle Tazminat Davası
+
+Taraflar arasındaki uyuşmazlık davacının davalının ürettiği sodayı satın aldıktan sonra şişesinin patlaması neticesinde zarar görmesine dayalı olduğuna göre, davaya bakmaya Tüketici Mahkemesi görevlidir. Görevle ilgili düzenlemeler kamu düzenine dair olup taraflar ileri sürmese dahi yargılamanın her aşamasında re'sen gözetilir. Görevle ilgili hususlarda kazanılmış hak da söz konusu olmaz. Bu durumda mahkemece ayrı bir Tüketici Mahkemesi var ise görevsizlik kararı verilmesi, yok ise ara kararıyla davaya Tüketici Mahkemesi sıfatıyla bakılmasına karar verilmesi gerekirken, yazılı şekilde hüküm tesisi usul ve yasaya aykırı olup, bozmayı gerektirir (Yargıtay 13. HD - Karar: 2017/3964).
+
+### Mesleki Amaçla Alınan Krediye İlişkin Davaya Tüketici Mahkemesi Bakamaz
+
+Satıcı; kamu tüzel kişileri de dahil olmak üzere ticari veya mesleki faaliyetleri kapsamında tüketiciye mal sunan gerçek veya tüzel kişileri kapsar. Tüketici ise bir mal veya hizmeti ticari veya mesleki olmayan amaçlarla edinen, kullanan veya yararlanan gerçek ya da tüzel kişiyi ifade eder şeklinde tanımlanmıştır. Bir hukuki işlemin 4077 Sayılı yasa kapsamında kaldığının kabul edilmesi için Kanun'un amacı içerisinde yukarıda tanımları verilen taraflar arasında mal ve hizmet satışına dair bir hukuki işlemin olması gerekir. Somut uyuşmazlıkta, davacının dava dilekçesinde belirttiği kredinin "tarımsal krediler sözleşmesi" olduğu, sözleşmenin niteliği itibariyle kredinin mesleki amaçla alındığı anlaşıldığından, krediyi kullanan dava dışı Mustafa K. Kanun'un belirtilen "tüketici" tanımına girmemektedir. Şu halde bu davaya bakmaya, genel mahkemeler görevlidir. Görevle ilgili düzenlemeler kamu düzenine dair olup taraflar ileri sürmese dahi yargılamanın her aşamasında resen gözetilir. Görevle ilgili hususlarda kazanılmış hak söz konusu olmaz. O halde mahkemece davaya genel mahkeme sıfatıyla bakılarak oluşacak sonuca göre bir karar verilmesi gerekirken, Tüketici Mahkemesi sıfatıyla işin esasına girilerek yazılı şekilde hüküm kurulması usul ve yasaya aykırı olup bozmayı gerektirir (Yargıtay 13.Hukuk Dairesi - Karar: 2017/9284).
+
+### Tüketici Mahkemesi Kararının Kesin Olduğu Haller
+
+Dava, 6502 sayılı Tüketicinin Korunması Hakkında Kanun'un 70. maddesi gereğince, ... tarafından verilen kararın itirazen iptali isteğine ilişkindir.
+
+6502 sayılı Tüketicinin Korunması Hakkında Kanun, 28.11.2013 tarih ve 28835 sayılı Resmi Gazetede yayınlanmış ve aynı kanunun 87. maddesi uyarınca yayımından itibaren 6 ay sonra yürürlüğe girmiştir. Anılan kanunun 68/1. maddesine göre; ''Değeri ikibin Türk Lirasının altında bulunan uyuşmazlıklarda ilçe Tüketici Hakem Heyetlerine, üçbin Türk lirasının altında bulunan uyuşmazlıklarda i..., büyükşehir statüsünde bulunan illerde ise ikibin ikiyüz Türk Lirası ile üçbin üçyüz Türk Lirası arasındaki uyuşmazlıklarda il ... başvuru zorunludur. Bu değerlerin üzerindeki uyuşmazlıklar için Tüketici Hakem Heyetlerine başvuru yapılamaz." hükmüne yer verilmiş olup, müteakip 4. bendinde ise "Bu maddede belirtilen parasal sınırlar her takvim yılı başından itibaren geçerli olmak üzere, o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranında artırılarak uygulanır." hükmü ile belirlenen bu miktarların yıllar itibariyle artırılması düzenlenmiştir.
+
+Aynı kanunun 70/5 maddesine göre; "Tüketici Hakem Heyeti kararlarına karşı yapılan itiraz üzerine tüketici mahkemesinin vereceği karar kesindir.".
+
+6502 sayılı Tüketicinin Korunması Hakkında Kanun'un 72. ve 84. maddeleri uyarınca hazırlanan..., 27.11.2014 tarih ve 29188 sayılı Resmi Gazetede yayımlanmış olup, bu yönetmeliğin 22/6.maddesine göre; "... kararı, yalnızca verildiği uyuşmazlık için hüküm ifade eder." Mahkemece, yukarıda belirtilen parasal değerin altındaki uyuşmazlıkla ilgili, kanunun 70. maddesi gereğince yapılan inceleme sonucu verilen karar kesindir. Kesin olan kararların temyiz istemleri hakkında mahkemece bir karar verilebileceği gibi, 01.06.1990 gün ve 1989/3 Esas 1990/4 Karar sayılı İçtihadı Birleştirme Kurulu Kararı uyarınca Yargıtay'ca da temyiz isteminin reddine karar verilebilir. (Yargıtay 3. Hukuk Dairesi - Karar : 2018/7968).
+
+### Devremülk Hakkı İlişkin Davada Tüketici Mahkemesi Görevlidir
+
+Dava, devremülk sözleşmesinden cayma nedeniyle sözleşmenin feshi, verilenlerin iadesi ve borçlu olmadığının tespiti istemine ilişkindir. ... Tüketici Mahkemesince, davanın taşınmazın aynına yönelik olması nedeniyle taşınmazın bulunduğu ... Nöbetçi Tüketici Mahkemelerinin yetkili olduğu gerekçesiyle yetkisizliğine karar verilmiştir. ... 4. Asliye Hukuk (Tüketici Mahkemesi sıfatıyla) Mahkemesince, devremülk hakkının Kat Mülkiyeti Kanununda düzenlenen taşınmazın müşterek mülkiyetine bağlı bir hak olduğu, dava dilekçesi ve dosya kapsamından taşınmazın aynına ilişkin bir dava olmadığı bu nedenle davanın ilk açıldığı yer mahkemelerinin yetkili olduğu gerekçesiyle yetkisizlik kararı verilmiştir.
+
+Devremülk hakkı Kat Mülkiyeti Kanununda düzenlenen taşınmazın müşterek mülkiyet payına bağlı bir haktır. Mevcut uyuşmazlığın tüketici mahkemelerinde görülmesi için davaya konu sözleşmenin resmi şekilde düzenlenmesi gerekli olmayıp, şekil şartına uyulup uyulmadığı hususunun tüketici mahkemesince tartışılarak bir karara varılması gerektiğinden, 6502 sayılı Kanun kapsamındaki uyuşmazlığın tüketici mahkemesinde görülüp, sonuçlandırılması gerekmektedir. 28/05/2014 tarihinde yürürlüğe giren 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 73/5. maddesinde tüketici davalarının tüketicinin yerleşim yerinin bağlı bulunduğu mahkemelerde de açılabileceği hükmü düzenlenmiştir.
+
+Somut olayda, dava taraflar arasındaki devremülk sözleşmesinin cayma hakkı kullanıldığından bahisle sözleşmenin feshi ve verilenin iadesi istemine ilişkin olup, dava dilekçesi ve dosya kapsamından taşınmazın aynına ilişkin bir dava olmadığı anlaşılmaktadır. Bu durumda uyuşmazlığın, davanın ilk açıldığı yer mahkemesi olan ... Tüketici Mahkemesinde görülüp sonuçlandırılması gerekmektedir (Y5HD-Karar : 2021/1389).
+
+### Özel Okul Ücretinin Geri İstenmesi Davası Tüketici Mahkemesinde Görülür
+
+Davalı şirket ile davalının çocuklarının eğitimi hususunda sözleşmesel ilişki kurulduğunu, davalının eğitim giderini ödemediğini, alacğaın tahsili amacıyla başlatılan icra takibine haksız itiraz ettiğini ileri sürerek vaki itirazın iptali ile icra inkar tazminatına hükmedilmesini istemiştir. Mahkemece, davanın kabulüne karar verilmiş; hüküm, davalı tarafından temyiz edilmiştir.
+
+Dava tarihinde yürürlükte olan 6502 Sayılı Tüketicinin Korunması Hakkında Kanunun 3. maddesine göre tüketici; ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi, tüketici işlemi; mal veya hizmet piyasalarında kamu tüzel kişileri de dâhil olmak üzere ticari veya mesleki amaçlarla hareket eden veya onun adına ya da hesabına hareket eden gerçek veya tüzel kişiler ile tüketiciler arasında kurulan, eser, taşıma, simsarlık, sigorta, vekâlet, bankacılık ve benzeri sözleşmeler de dâhil olmak üzere her türlü sözleşme ve hukuki işlemi ifade eder.
+
+6502 Sayılı Yasanın 73. maddesi bu kanunun uygulanması ile ilgili her türlü ihtilafa tüketici mahkemelerinde bakılacağını öngörmüştür. Bir hukuki işlemin sadece 6502 Sayılı Yasada düzenlenmiş olması tek başına o işlemden kaynaklanan uyuşmazlığı tüketici mahkemesinde görülmesini gerektirmez. Bir hukuki işlemin 6502 Sayılı Yasa kapsamında kaldığının kabul edilmesi için taraflardan birinin tüketici olması gerekir.
+
+Somut olayda; davalının, velisi olduğu çocuğunun öğrenimi için davacı şirketin işletmekte olduğu özel okula kayıt yaptırdığı ve dava konusu icra takibinin özel okul ücretine ilişkin olduğu anlaşılmakta olup, davalı bu hukuki işlem içerisinde tüketici konumunda olup, taraflar arasındaki hukuki ilişkinin tüketici işlemi olduğunun kabulü gerekir. Bu itibarla uyuşmazlığın Tüketicinin Korunması Hakkındaki Kanun kapsamında kaldığına göre davaya bakmaya Tüketici Mahkemesi görevlidir. Görevle ilgili düzenlemeler kamu düzenine ilişkin olup taraflar ileri sürmese dahi yargılamanın her aşamasında resen gözetilir. O halde mahkemece, Tüketici Mahkemesi sıfatıyla davanın görülüp karar bağlanması gerekirken, yazılı şekilde Asliye Hukuk Mahkemesi olarak hüküm tesisi usul ve yasaya aykırı olup, bozmayı gerektirir. (Yargıtay 13. HD - Karar : 2020/3224).
+
+### Konut Alım Satımında Tüketici Kavramı
+
+Konut alım-satımına dair uyuşmazlıkların 4077 sayılı Kanun kapsamında değerlendirilebilmesi için tüketicinin malı satın alma amacı çok büyük önem taşımaktadır. Yasa, nihai tüketici tarafından kullanım amacı ile alınan konut ve tatil amaçlı taşınmazlar yönünden geçerlidir. Bir mal veya hizmetin, kişisel ihtiyaçları dışında, belirli bir meslek icrası, belirli bir üretimde kullanma, yeniden satış, kiraya verme, ticari olarak kullanma vs. gibi mesleki veya ticari amaçlarla satın alanların tüketici kabul edilmeyecekleri kuşkusuzdur.
+
+Somut olayda; 5 adet bağımsız bölüm satın alan davacı "tüketici" kavramı kapsamında kabul edilemez. Satış ticari amaçla yapılmış sayılacağından, tüketici mahkemesi değil, davanın değerine göre asliye hukuk mahkemesi görevli olduğundan, mahkemece görevsizlik kararı verilmesi gerekirken işin esası hakkında karar verilmiş olması bozmayı gerektirmiştir (Yargıtay 14. Hukuk Dairesi -Karar: 2018/6061).
+
+
+---
+
+## Usuli Kazanılmış Hak
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/medeni-hukuk/usuli-kazanilmis-hak-nedir (son güncelleme: 2026-09-04)*
+
+Usuli kazanılmış hak, bir usul işlemi ile taraflardan biri lehine doğmuş ve kendisine uyulması zorunlu olan hakkı ifade etmektedir. Usuli kazanılmış hakkın istisnaları; maddi hata, görev, hak düşürücü süre, kesin hüküm itirazı ve harçlardır.
+
+
+## Usuli Kazanılmış Hak Nedir?
+
+Yargısal ve bilimsel içtihatlarda “**usulü kazanılmış hak**” ya da “**usulü müktesep hak**” olarak adlandırılan bu ilke Yargıtay Hukuk Genel Kurulunun 10.02.1988 tarihli ve 1987/2-520 E. 1988/89 K. sayılı kararında “Mahkemenin bozma kararına uymasıyla meydana gelen bozma gereğince işlem yapma ve hüküm verme durumu, taraflardan birisinin lehine ve diğeri aleyhine hüküm verme neticesini doğuracak bir durumdur ve buna usulü kazanılmış hak denilmektedir.” şeklinde tanımlanmakta ve ayrıca Yargıtay içtihatları ile geliştirilmiş istisnaları bulunmaktadır (HGK-K.2021/193).
+
+(HGK-K.2021/1398)
+
+**Usuli kazanılmış hak** kurumu, davaların uzamasını önlemek, hukukî alanda istikrar sağlamak ve kararlara karşı genel güvenin sarsılmasını önlemek amacıyla Yargıtay uygulamaları ile geliştirilmiş, öğretide kabul görmüş ve usul hukukunun vazgeçilmez, ana ilkelerinden biri hâline gelmiştir. Anlam itibariyle, bir davada mahkemenin ya da tarafların yapmış olduğu **bir usul işlemi ile taraflardan biri lehine doğmuş ve kendisine uyulması zorunlu olan hakkı** ifade etmektedir. Örneğin mahkemenin Yargıtay bozma kararına uymasıyla bozma kararı lehine olan taraf bakımından kazanılmış hak doğar.
+
+Bir mahkemenin Yargıtay Dairesince verilen bozma kararına uyması sonunda kendisi için o kararda gösterilen biçimde inceleme ve araştırma yapmak ve yine o kararda belirtilen hukuksal esaslar gereğince karar vermek yükümlülüğü oluşur. Bu itibarla mahkemenin sonraki hükmünün bozma kararında gösterilen ilkelere aykırı bulunması usule uygun olmadığından bozma nedenidir. Bozma kararı ile dava usul ve yasaya uygun bir hâle sokulmuş demektir. Bozmaya uyulduktan sonra buna aykırı karar verilmesi usul ve yasaya uygunluktan uzaklaşılması anlamına gelir ki; böyle bir sonuç kamu düzenine açıkça aykırılık oluşturur. Buna göre Yargıtay’ın bozma kararına uymuş olan mahkeme bu uyma kararı ile bağlıdır. Daha sonra bu uyma kararından dönerek direnme kararı veremez; bozma kararında gösterilen biçimde inceleme yapmak ya da gösterilen biçimde yeni bir hüküm vermek zorundadır.
+
+Yargıtay içtihatları ile kabul edilen “**usuli kazanılmış hak**” olgusunun, birçok hukuk kuralında olduğu gibi yine Yargıtay içtihatları ile geliştirilmiş istisnaları bulunmaktadır. Mahkemenin bozmaya uymasından sonra yeni bir içtihadı birleştirme kararı çıkması, o konuda yeni bir kanunun yürürlüğe girmesi, uygulanması gereken kanun hükmünün hüküm kesinleşmeden önce Anayasa Mahkemesince iptaline karar verilmesi hâlleri usulî kazanılmış hakkın istisnalarıdır. Bu sayılanların dışında ayrıca **görev**, **hak düşürücü süre**, **kesin hüküm itirazı**, **harç ve maddi hataya** dayanan bozma kararlarına uyulmasında olduğu gibi kamu düzeni ile ilgili konularda usuli kazanılmış haktan söz edilemez (Kuru Baki: Hukuk Muhakemeleri Usulü, C. V, 6. Bası, İstanbul 2001, s 4738 vd).
+
+## Usuli Kazanılmış Hakkın İstisnaları
+
+(HGK-K.2021/416)
+
+**1. Mahkemenin Görevi :** Mahkemenin görevi ile ilgili usuli kazanılmış haktan söz edilemez. Şöyle ki; Yargıtay mahkemenin kararını, görev itirazı olmaksızın görev dışında bir sebeple bozar ve mahkeme bu karara uyarsa bozma dışında kalan görev hususu usuli kazanılmış hak oluşturmayacak, yeniden yapılan yargılamada mahkeme tarafların itirazı üzerine ya da kendiliğinden görevsizlik kararı verebilecektir. Ancak temyizde açıkça görev itirazı ileri sürülmüş ve bu husus Yargıtay tarafından nazara alınmamış açık ya da zımnî olarak reddedilmiş ise bu takdirde usuli kazanılmış hak görev konusunda da oluşacak ve yeniden yargılama yapan mahkeme görev konusunda karar veremeyecektir.
+
+**2. İçtihadı Birleştirme Kararı (İBK) :** Öte yandan Yargıtayın bozma kararından sonra yeni bir içtihadı birleştirme kararının çıkarılmış olması da usuli kazanılmış hakkın istisnasıdır. Az yukarıda bahsedilen 09.05.1960 tarihli İçtihadı Birleştirme Kararına göre, içtihadı birleştirme kararları usuli kazanılmış hakka rağmen görülmekte olan davalara da uygulanır. İlk derece mahkemesi usuli kazanılmış hakka aykırı olsa bile yeni içtihadı birleştirme kararına göre karar verecektir.
+
+**3. Yeni Kanun Hükmü :** Yine karar henüz kesinleşmeden geçmişe etkili olarak çıkarılan bir kanun hükmü de usuli kazanılmış hakkın istisnasını oluşturur. Böyle bir halde de usuli kazanılmış hakka aykırı olsa da yeni çıkarılan ve geçmişe etkili olan kanun hükmünün uygulanması gerekir.
+
+**4. Anayasa Mahkemesinin İptal Kararı:** Bir kanun hükmü Anayasa Mahkemesince iptal edilirse iptal edilen kanun hükmü usuli kazanılmış hakka aykırı olsa bile uygulanacak öncelik usuli kazanılmış hakta değil Anayasa Mahkemesinin iptal kararında olacaktır.
+
+**5. Kesin Hüküm :** Usuli kazanılmış hakkın bir diğer istisnası ise kesin hükümdür. Bozmadan sonra usuli kazanılmış hak ile kesin hüküm çelişiyorsa öncelik usuli kazanılmış hak da değil, kamu düzeninden sayılan ve dava şartı olarak re'sen nazara alınması gereken kesin hükümdedir.
+
+**6. Kamu Düzenine Aykırılık :** Kamu düzenine aykırılık da usuli kazanılmış hakkın istisnalarından bir diğeridir. Gerçekten de kamu düzeninden sayılan bir husus ile usuli kazanılmış hak çelişiyorsa bu hâlde kamu düzeninden sayılan hâl usuli kazanılmış hakkın önüne geçecektir. **Hak düşürücü süre** kamu düzeninden sayılmakla hak düşürücü süre söz konusu ise usuli kazanılmış haktan bahsedilemeyecektir.
+
+**7. Maddi Hata :** Nihayet son olarak Yargıtayın kararı her türlü yorumun, hukuki değerlendirme veya delil takdiri dışında, açıkça ve tartışmasız şekilde başka bir şekilde yorumlanamayacak açıklıkta maddi hataya dayalı ise ve onunla sıkı sıkıya bağlı olduğu halde usuli kazanılmış hak ilkesi uygulanmayacaktır. Yargıtay tarafından dosya kapsamına uygun olmayacak şekilde açık ve tartışmasız bir maddi hata yapılması halinde, bu hata, usuli kazanılmış hak oluşturmayacaktır.
+
+### Usuli Kazanılmış Hak Nedeniyle Bozmaya Uyma Kararından Dönülemez
+
+(HGK-K.2021/1123)
+
+Somut olayda; mahkemece 22.12.2016 tarihli duruşmada hazır olan tarafların bozma kararına karşı beyanları alındıktan sonra, “G.D/ Dosyada mevcut Yargıtay 21.Hukuk Dairesinin 21/03/2016 tarih ve 2015/10851 esas ve 2016/4852 karar sayılı bozma ilamına uyulmasına karar verildi açıklandı tefhimle açık yargılamaya devam olundu” şeklindeki ara kararı ile bozmaya uyulmuş, sözlü yargılama ve hüküm için duruşma ertelenmiştir. Daha sonra 07.03.2017 tarihli duruşmada “Her ne kadar bir önceki celsede Yargıtay ilamına uyulması yönünde karar verilmiş ise de bu kararın dosya yeterince tetkik edilmeden zuhulen verildiği anlaşılmakla, işbu ara karardan dönülerek mahkememizin önceki kararında direnilmesine” karar verilmiştir. Şu hâlde yukarıda yapılan açıklamalar ışığında somut olay değerlendirildiğinde; bozmaya uyulduktan sonra önceki kararda direnilmesi usulen mümkün değildir. Başka bir anlatımla bir defa bozmaya uyulmasına karar verildikten sonra uyma kararından dönülmesinin davaya bir etkisi bulunmamaktadır. Usulî kazanılmış hak ilkesi kamu düzeni ile ilgili olup temyiz aşamasında da kendiliğinden dikkate alınması gerekir. Açıklanan nedenlerle mahkemece bozmaya uyulmakla gerçekleşen usulî kazanılmış hak nazara alınarak hükmüne uyulan bozma gereklerinin yerine getirilmesi gerekirken, uyma kararından dönülüp direnme kararı verilmiş olması usul ve yasaya aykırıdır.
+
+### Maddi Hataya Dayalı Bozmaya Uyma Usuli Kazanılmış Hak Kazandırmaz
+
+(HGK-K.2021/1118)
+
+Hemen belirtelim ki, gerek 1086 sayılı Hukuk Muhakemeleri Usulü Kanunu'nda, (HUMK) gerek 6100 sayılı Hukuk Muhakemeleri Kanunu'nda (HMK) “**usuli kazanılmış hak**” kavramına ilişkin açık bir düzenleme bulunmamaktadır. Konu, yargı içtihatları ile geliştirilmiştir.
+
+Esasen, hukukun kaynağı, sadece kanun olmayıp, mahkeme içtihatları dahi hukukun kaynaklarından olduğundan, söz konusu, usulî kazanılmış hak için kanunda açık hüküm bulunmaması, onun kabul edilmemesini gerektirmez. **Kazanılmış haklar,** Hukuk Devleti kavramının temelini oluşturan en önemli unsurlardandır. Kazanılmış hakları ortadan kaldırıcı nitelikte sonuçlara yol açan yorumlar Anayasanın 2.maddesinde açıklanan “Türkiye Cumhuriyeti sosyal bir hukuk devletidir” hükmüne aykırılık oluşturacağı gibi, toplumsal kararlılığı, hukuksal güvenceyi ortadan kaldırır, belirsizlik ortamına neden olur ve kabul edilemez.
+
+Yargıtay içtihatları ile kabul edilen “usuli kazanılmış hak” olgusunun, birçok hukuk kuralında olduğu gibi yine Yargıtay içtihatları ile geliştirilmiş **istisnaları** bulunmaktadır: Mahkemenin bozmaya uymasından sonra yeni bir içtihadı birleştirme kararı (09.05.1960 tarihli ve 21/9 sayılı YİBK) ya da geçmişe etkili yeni bir kanun çıkması karşısında, Yargıtay bozma ilamına uyulmuş olmakla oluşan usulî kazanılmış hak hukukça değer taşımayacaktır. Benzer şekilde; uygulanması gereken bir kanun hükmü, hüküm kesinleşmeden önce Anayasa Mahkemesince iptaline karar verilirse, usulî kazanılmış hakka göre değil, Anayasa Mahkemesinin iptal kararından sonra oluşan yeni duruma göre karar verilebilecektir (Hukuk Genel Kurulunun 21.01.2004 tarihli ve 2004/10-44 E., 2004/19 K.; 20.12.2013 tarihli ve 2013/23-131 E., 2013/1681 K. sayılı kararları). Bu sayılanların dışında ayrıca; görev konusu, hak düşürücü süre, kesin hüküm itirazı ve harç gibi kamu düzeni ile ilgili konularda usulî kazanılmış haktan söz edilemez (Kuru,B.: Hukuk Muhakemeleri Usulü, İstanbul 2001, Cilt 5, s. 4738 vd).
+
+**Usuli kazanılmış hakkın hukukî sonuç doğurabilmesi için**; bir davada, ya taraflar ya mahkeme ya da Yargıtay tarafından açık biçimde yapılmış olan ve istisnalar arasında sayılmayan bir usul işlemi ile taraflardan biri lehine doğmuş ve kendisine uyulması zorunlu olan bir hakkın varlığından söz edilebilmesi gerekir. Bu kapsamda vurgulanmalıdır ki, **maddi hataya dayalı** olan bir bozma kararına uyulmuş olunması hâlinde oluşan usulî kazanılmış hakka değer verilmesi mümkün değildir. Maddi hataya dayalı bozma kararına uyulmuş olması itibarıyla kazanılmış hakkın bulunmadığından söz edilebilmesi için ancak, Yargıtay Dairesinin vardığı sonuç her türlü değer yargısının dışında hiçbir suretle başka biçimde yorumlanamayacak, tartışmasız ve açık bir maddi hata olarak belirlenmesi gerekir. Yine özellikle belirtilmelidir ki, bozma kararında hukukî yönden bir niteleme yapılmış veya deliller belli bir doğrultuda değerlendirilerek bozma kararı verilmişse, bu karara uyulması hâlinde bozmayı yapan Daire hukukî görüş değiştirirse ya da delil değerlendirmesinin yanlış olduğunu sonradan benimsese dahi maddi hatadan söz edilemez ve usulî kazanılmış hakkın doğduğunun kabulü gerekir (Hukuk Genel Kurulunun 25.02.2015 tarihli ve 2014/8-2485 E., 2015/850 K. sayılı kararı).
+
+Nasıl ki, usulî kazanılmış hak kurumu Yargıtay içtihatları ile benimsenmişse, bu kuralın istisnaları da yine Yargıtay içtihatları ile benimsenmiştir. Yukarıda usuli kazanılmış hak kuralının istisnaları sayılmış olmakla birlikte; konu, bu sayılanlar ile sınırlı değildir. Usulî kazanılmış hak kuralının istisnaları saptanırken genel ilke, kamu düzenidir. Bu nedenle kamu düzeninin gerektirdiği durumlarda, başkaca istisnalar da gündeme gelebilir.
+
+### Usuli Kazanılmış Hak Açısından Husumet ve Görev
+
+(HGK-K.2021/416)
+
+Somut olayda; davacı şirketin almış olduğu hizmet alım işi ihalesi sonucu çalıştırdığı işçiler için beş puanlık teşvik indiriminden 01.03.2011 tarihinden sonra yararlandırılmaması nedeniyle davalı Kuruma ödediği prim miktarının iadesi istemiyle eldeki dava açılmış, mahkemece işin esasına girilerek davanın kabulüne ilişkin verilen karar Özel Dairenin 14.04.2014 tarihli kararı ile davalı Kurum yönünden pasif husumet yokluğu nedeniyle davanın reddine, davalı ... bakımından ise davanın genel mahkemelerde çözülmesi gerektiği gerekçesiyle bozulmuştur. Mahkemece bozmaya uyularak davalı Kurum hakkında Kuruma husumet yöneltilemeyeceği gerekçesiyle davanın taraf ehliyeti yokluğundan reddine karar verilmiş ise de bu karar Özel Dairece bu defa Kurumun taraf sıfatının bulunduğu ve işin esasına girilerek karar verilmesi gerektiği belirtilerek bozulmuştur. Mahkemece Özel Dairenin ilk bozma kararına uyulmakla usuli kazanılmış hak oluştuğu gerekçesiyle direnme kararı verilmiştir.
+
+Bu durumda yukarıda yapılan açıklamalar ile somut olaya ilişkin maddi ve hukuki olgular bir arada değerlendirildiğinde; prim borcunun doğup doğmadığı, prim ödeme yükümlüsü olan işveren ile SGK arasındaki ihtilaf olup Maliye Bakanlığı’nın prim borcunun doğumu ve prim teşvikinden kimlerin yararlanacağı konusunda görevi olmadığı ve işverenlerin prim borçlarına ilişkin ihtilaflar ve prim teşvikini düzenleyen 81. maddenin birinci fıkrasının (ı) bendi 5510 sayılı Kanun’da düzenlenmiş olmakla birlikte, yine Kanun’un 101. maddesinde yer alan "…bu kanun hükümlerinin uygulanmasıyla ilgili ortaya çıkan uyuşmazlıklar iş mahkemelerinde görülmektedir." hükmü gereği beş puanlık teşvik indiriminden yararlanma davalarının iş mahkemesinde görülmesi gerektiği aşikârdır. Ancak taraf sıfatının dava konusu sübjektif hakkın özüne ilişkin bir maddi hukuk sorunu olması sebebiyle Yargıtay bozma kararına uyulmakla bozma kararı lehine olan davalı Kurum yararına taraf sıfatı yönünden usuli kazanılmış hak oluştuğundan Kuruma husumet yöneltilemeyecektir. Görev yönünden ise Özel Dairece yapılan temyiz incelemesinde görev konusu da değerlendirildiğinden göreve ilişkin olarak da usuli kazanılmış hakkın oluşacağı kabul edilmiştir
+
+### Mahkemenin Görevi veya Kanun Hükmü Usuli Kazanılmış Hakkın İstisnalarıdır
+
+(HGK-K.2021/1038)
+
+Yargısal ve bilimsel içtihatlarda “**usuli kazanılmış hak**” ya da “usuli müktesep hak” olarak adlandırılan bu ilke Yargıtay Hukuk Genel Kurulunun 10.02.1988 tarihli ve 1987/2-520 E., 1988/89 K. sayılı kararında “Mahkemenin bozma kararına uymasıyla meydana gelen bozma gereğince işlem yapma ve hüküm verme durumu, taraflardan birisinin lehine ve diğeri aleyhine hüküm verme neticesini doğuracak bir durumdur ve buna usulü kazanılmış hak denilmektedir.” şeklinde tanımlanmakta olup ayrıca Yargıtay içtihatları ile geliştirilmiş istisnaları da bulunmaktadır. Bu itibarla ele alınan usuli kazanılmış hak kurumunun istisnalarından da bahsedilmesi gerekmektedir.
+
+Öncelikle belirtmelidir ki, **mahkemenin görevi** ile ilgili usuli kazanılmış haktan söz edilemez. Şöyle ki; Yargıtay mahkemenin kararını, görev itirazı olmaksızın görev dışında bir sebeple bozar ve mahkeme bu karara uyarsa bozma dışında kalan görev hususu usuli kazanılmış hak oluşturmayacak, yeniden yapılan yargılamada mahkeme tarafların itirazı üzerine ya da kendiliğinden görevsizlik kararı verebilecektir. Ancak temyizde açıkça görev itirazı ileri sürülmüş ve bu husus Yargıtay tarafından nazara alınmamış, açık ya da zımnî olarak reddedilmiş ise bu takdirde usuli kazanılmış hak görev konusunda da oluşacak ve yeniden yargılama yapan mahkeme görev konusunda karar veremeyecektir. Öte yandan Yargıtay'ın bozma kararından sonra yeni bir içtihadı birleştirme kararının çıkarılmış olması da usuli kazanılmış hakkın istisnasıdır. Az yukarıda bahsedilen 09.05.1960 tarihli İçtihadı Birleştirme Kararına göre, içtihadı birleştirme kararları usulî kazanılmış hakka rağmen görülmekte olan davalara da uygulanır. İlk derece mahkemesi usuli kazanılmış hakka aykırı olsa bile yeni içtihadı birleştirme kararına göre karar verecektir.
+
+Benzer şekilde henüz kesinleşmeden geçmişe etkili olarak çıkarılan bir **kanun hükmü** de usulî kazanılmış hakkın istisnasını oluşturacak olup bu durumda usuli kazanılmış hakka aykırı olsa da yeni çıkarılan ve geçmişe etkili olan kanun hükmünün uygulanması gerekir. Bundan başka bir kanun hükmü Anayasa Mahkemesince iptal edilirse iptal edilen kanun hükmü usulî kazanılmış hakka aykırı olsa bile uygulanacak öncelik usulî kazanılmış hakta değil Anayasa Mahkemesinin iptal kararında olacaktır. Usuli kazanılmış hakkın bir diğer istisnası ise kesin hükümdür. Bozmadan sonra usuli kazanılmış hak ile kesin hüküm çelişiyorsa öncelik usulî kazanılmış hak da değil, kamu düzeninden sayılan ve dava şartı olarak re'sen nazara alınması gereken kesin hükümdedir. Bu kapsamda kamu düzenine aykırılık da usulî kazanılmış hakkın istisnalarından bir diğeridir. Gerçekten de kamu düzeninden sayılan bir husus ile usulî kazanılmış hak çelişiyorsa bu hâlde kamu düzeninden sayılan hâl usulî kazanılmış hakkın önüne geçecektir.
+
+### Bilirkişi Raporuna İtiraz Edilmemesi Halinde Karşı Taraf Lehine Usuli Kazanılmış Hak Doğar
+
+(Y10HD-K.2025/9664)
+
+Yargıtay Hukuk Genel Kurulunun 18.02.2021 tarih ve 2018/10 (21) -94 E- 2021/111 K. sayılı ilamında da açıkça belirtildiği gibi " Bir tarafın bilirkişi raporuna itiraz etmemesi ile, diğer (bilirkişi raporuna itiraz eden) taraf lehine usulî kazanılmış hak doğar. Yani, bir taraf bilirkişi raporuna itiraz etmez, diğerinin itirazı üzerine yeni bir bilirkişi incelemesi yaptırılır ve ikinci bilirkişi raporu birinci rapora itiraz edenin daha da aleyhine olursa, ilk rapora itiraz etmeyen taraf bakımından ilk bilirkişi raporu kesinleştiğinden ve bununla diğer taraf lehine usulî kazanılmış hak doğduğundan, Mahkemenin ilk bilirkişi raporuna göre karar vermesi gerekir (Kuru, B., Hukuk Muhakemeleri Usulü, İstanbul 2001, Cilt:3, s. 2753)"
+
+Somut olayda taraf vekillerinin davacının %50 kusurlu, davalı işverenin %50 kusurlu olduğu yönündeki 16.01.2024 tarihli kusur raporuna itirazı bulunmadığı görülmekle davalı vekilinin kusur oranına yönelik temyizi yerinde bulunmamıştır.
+
+
+---
+
+## Yargıtay (Temyiz Mahkemesi) ve Görevleri
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/medeni-hukuk/yargitay-nedir-yargitayin-gorevi-nedir (son güncelleme: 2026-01-19)*
+
+Yargıtay Nedir? Yargıtayın temel görevi, temyiz incelemesi yapmaktır. Yargıtay temyiz incelemesini dosya üzerinden veya duruşmalı yaparak karar verir.
+
+
+## Yargıtay Nedir?
+
+**Yargıtay**, temel görevi adli yargı alanında temyiz incelemesi yapmak olan yüksek mahkemedir (Yargıtay Kanunu m.1). Bu nedenle, uygulamada Yargıtay'a "*temyiz mahkemesi*" de denilmektedir. *Yargıtay*, adli yargı hukuk uygulamasında birliği sağlamak üzere "hukuki derece" mahkemesi olarak görev yapan en yüksek mahkemedir.
+
+İlk derece mahkemelerinden verilen hükümler istinaf başvurusu üzerine adli istinaf mahkemesi tarafından istinaf incelemesine tabi tutulur. Adli istinaf mahkemelerinin incelemesinden sonra, şartları varsa Yargıtay'a temyiz başvurusu yapılır. Bir hukuk veya ceza davası öncelikle ilk derece mahkemelerinde görülür, ilk derece mahkemesinin kararı aleyhine taraflarca istinaf başvurusu yapıldığında adli istinaf mahkemesi davaya konu uyuşmazlık hakkında ikinci derece mahkemesi olarak karar verir, taraflar istinaf mahkemesi kararına karşı temyiz başvurusu yaptığında ise davaya konu uyuşmazlık hakkında yüksek mahkeme olarak Yargıtay son kararı verir.
+
+Yargıtay, ilk derece mahkemeleri veya adli istinaf mahkemeleri gibi olay yargılaması yapamaz. Yani, temyiz başvurusu üzerine Yargıtay yeniden delil toplayamaz, örneğin tanık dinleyemez, keşif yapamaz. Yargıtay, temyiz başvurusu üzerine başvuruya konu istinaf mahkemesi kararının hukuka uygun olup olmadığı noktasında bir "hukuki denetim" yapar. Yargıtay'ın temel amacı hukuki denetim yoluyla tüm ülkede hukuk uygulamasında birliği sağlamaktır.
+
+Yargıtayın görevleri ve işleyişi 2797 sayılı Yargıtay Kanunu ile belirlenmiştir.
+
+## Yargıtay, İstinaf ve İlk Derece Mahkemelerinin Kararlarını Denetler
+
+İlk derece mahkemeleri, hukuk ve ceza davalarının ilk görüldüğü mahkemelerdir. Yargıtay, ilk derece mahkemesi kararları istinaf incelemesinden geçtikten sonra bu kararlar aleyhine yapılan temyiz başvurularını inceleyerek karara bağlamaktadır. Yargıtay temyiz incelemesinde, hem ilk derece mahkemesi kararını hem de istinaf mahkemesi kararını inceleyerek usul hukuku ve maddi hukuk kurallarına uyulup uyulmadığı konusunda hukuki denetim yapmaktadır.
+
+Yargıtay'ın temyiz incelemesine konu olan kararları veren ilk derece adliye mahkemeleri ile istinaf mahkemeleri şunlardır:
+
+**1. İlk Derece Hukuk Mahkemeleri:** Özel hukuk davalarına bakan mahkemeler esasen üçe ayrılır:
+
+- Asliye Hukuk Mahkemesi,
+- Sulh Hukuk mahkemesi,
+- Özel Mahkemeler (Asliye Ticaret Mahkemesi, Tüketici Mahkemesi, Fikri ve Sınai Haklar Hukuk Mahkemesi, Aile Mahkemesi, Kadastro Mahkemesi, İş Mahkemesi vb. gibi).
+
+Asliye hukuk mahkemesi ve sulh hukuk mahkemesi özel hukuk uyuşmazlıklarına bakmakla görevli temel iki mahkemedir. Genel mahkemelerden olan asliye hukuk mahkemesinin görevi asıl, sulh hukuk mahkemesinin görevi ise istisnadır. Özel bir kanun hükmü ile açıkça sulh hukuk mahkemesinde bakılacağı bildirilmeyen bütün dava ve işler asliye hukuk mahkemesinde görülür. Kanunda belirli bir uyuşmazlık türü için açıkça özel bir mahkemenin görevli olduğu kabul edilmişse, uyuşmazlığı çözmeye görevli mahkeme kanunun belirlediği o özel görevli mahkemedir.
+
+**2. İlk Derece Ceza Mahkemeleri:** Ceza yargılamaları, ağır ceza mahkemesi, asliye ceza mahkemesi, çocuk mahkemesi, çocuk ağır ceza mahkemesi, fikri ve sınai haklar ceza mahkemesi gibi mahkemelerde yapılmaktadır. Ancak, ceza yargılamalarının yapıldığı esas görevli mahkemeler asliye ceza ve ağır ceza mahkemeleridir. Bu iki mahkeme dışındaki diğer tüm ceza mahkemeleri özel kanunlarla kurulmuş özel mahkemelerdir.
+
+**3. İstinaf Mahkemeleri:** Adli istinaf mahkemeleri, ilk derece mahkemesinin kararına karşı istinaf başvurusu yapılması üzerinde ikinci derece (asıl derece) mahkemeleri olarak hem olay yargılaması yapar (Örn, tanık dinler, keşif yarar, müzekkere yazarak araştırma yapar vs.) hem de ilk derece mahkemesi kararlarının hukuki denetim yapar. Adli istinaf mahkemeleri, bölge adliye mahkemesi şeklinde yapılandırılmış, bir bölgede yer alan iller yargı çevresi olarak belirlenmiştir. Örneğin, İstanbul Adli Yargı İstinaf Mahkemesinin yargı çevresi, İstanbul ilinde bulunan tüm adliyeleri kapsamaktadır. Diğer illerde iş yoğunluğunun daha az olması nedeniyle birden fazla il bir Adli İstinaf Mahkemesi yargı çevresinde kalabilmektedir. İstinaf mahkemesi kararlarına karşı temyiz başvurusu yapıldığında Yargıtay son karar mercii olarak hukuki denetim yapmakatadır.
+
+## Yargıtayın Görevleri Nelerdir?
+
+Yargıtayın görevleri şunlardır (Yargıtay Kanunu m.13):
+
+- **Temyiz incelemesi yapmak**, yani tüm hukuk ve ceza mahkemeleri tarafından verilen kararları son merci -yüksek mahkeme- olarak inceleyip karara bağlamak Yargıtay'ın temel görevidir.
+- Kanunun başka bir adli yargı merciine bırakmadığı karar ve hükümleri ilk ve son merci olarak inceleyip karara bağlamak,
+- Yargıtay Başkan ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı, Yargıtay Cumhuriyet Başsavcıvekili ve özel kanunlarında belirtilen kimseler aleyhindeki görevden doğan tazminat davalarına ve bunların kişisel suçlarına ait ceza davalarına ve kanunlarda gösterilen diğer davalara ilk ve son derece mahkemesi olarak bakmak,
+- Özel kanunlarla Yargıtay'a verilen diğer işleri görmek.
+
+## Yargıtayın Yargısal İç Görev Yapısı Nasıldır?
+
+Yargıtayın yargı görevine ilişkin iç yapılanması şu şekildedir:
+
+**1. Hukuk Daireleri:** Bölge Adliye Mahkemesi Hukuk Daireleri tarafından özel hukuk uyuşmazlıklarına ilişkin verilen kararlara karşı temyiz merciidir. Yargıday'da 12 hukuk dairesi mevcuttur.
+
+**2. Ceza Daireleri:** Bölge Adliye Mahkemesi Ceza Daireleri tarafından ceza hukuku uyuşmazlıklarına ilişkin verilen kararlar aleyhine yapılan temyiz başvurularını incelmekle görevli dairelerdir.
+
+**3. Hukuk ve Ceza Genel Kurulları:** Hukuk Genel Kurulu, tüm hukuk dairelerinin başkan ve üyelerinden oluşur. Ceza Genel Kurulu, tüm ceza dairelerinin başkan ve üyelerinden oluşur. Hukuk ve Ceza Genel Kurullarının görevleri şunlardır (2797 Sayılı Yargıtay Kanunu m.16):
+
+- Yargıtay dairelerinin bozma kararlarına karşı mahkemelerce verilen direnme kararlarını inceleyerek karar vermek,
+- Aynı veya farklı yer bölge adliye mahkemelerinin kesin olarak verdikleri kararlar bakımından hukuk daireleri arasında veya ceza daireleri arasında uyuşmazlık bulunursa; Hukuk daireleri arasında veya ceza daireleri arasında içtihat uyuşmazlıkları bulunursa; Yargıtay dairelerinden biri; yerleşmiş içtihadından dönmek isterse, benzer olaylarda birbirine uymayan kararlar vermiş bulunursa; bunları içtihatların birleştirilmesi yoluyla kesin olarak karara bağlamak,
+- İlk derece mahkemesi olarak ilgili dairelerce verilen hükümlerin temyiz yoluyla incelemesini yapmak.
+
+**4. Yargıtay Büyük Genel Kurulu:** Yargıtay Büyük Genel Kurulu; Birinci Başkan, birinci başkanvekilleri, daire başkanları, üyeler ile
+Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilinden oluşur (2797 sayılı Kanun m.8). Yargıtay Büyük Genel Kurulu'nun yargısal görevi, Hukuk Genel Kurulunun benzer olaylarda birbirine aykırı biçimde verdiği kararları ile Ceza Genel Kurulunun yine benzer olaylarda birbirine aykırı olarak verdiği kararları veya Hukuk Genel Kurulu ile Ceza Genel Kurulu; Hukuk Genel Kurulu ile bir hukuk dairesi; Hukuk Genel Kurulu ile bir ceza dairesi veya Ceza Genel Kurulu ile bir ceza dairesi; Ceza Genel Kurulu ile bir hukuk dairesi veya bir hukuk dairesi ile bir dairesi ceza arasındaki içtihat uyuşmazlıklarını gidermek ve içtihatları birleştirmektir (2797 Sayılı Yargıtay Kanunu m.16).
+
+**5. Başkanlar Kurulunun Görevleri:** Başkanlar Kurulu,  Birinci Başkan ile birinci başkanvekillerinden ve daire başkanlarından oluşur. Yargıtay Başkanlar Kurulunun görevi, Hukuk ve ceza daireleri arasında meydana gelen görev ve iş bölümü uyuşmazlıklarını kesin karara bağlamak, fiili veya hukuki imkansızlık sebebiyle bir dairenin görevine giren işe bakamaması halinde bir başka daireyi görevlendirmek, içtihadı birleştirme görüşmelerine ve kararlarının alınmasına ilişkin olarak ilke kararları almak, Birinci Başkanlık Kurulu, Yüksek Disiplin Kurulu ile Yönetim Kurulu kararlarına karşı yapılan itirazları kesin olarak karara bağlamaktır.
+
+**6. Tetkik Hakimlerinin Görevleri:**  Tetkik hakimleri kurul ve daire başkanlarının kendilerine verecekleri dosya ve evrakı, süresinde
+inceleyerek bir rapor düzenlerler. Kararlara ve yapılacak işlere ilişkin düşüncelerini rapora yazıp kurullara açıklamakla
+yetinirler.
+
+**7. Yargıtay Cumhuriyet Başsavcılığı:** Yargıtay Cumhuriyet Başsavcılığı; Cumhuriyet Başsavcısı, Cumhuriyet Başsavcıvekili, Cumhuriyet
+Başsavcı Başyardımcısı ile Cumhuriyet Başsavcı yardımcılarından oluşur. Temel görevi ceza davalarına ve görevli olduğu diğer işlere ilişkin dairelere hitaben tebliğname düzenlemektir. Tebliğname, Yargıtay Cumhuriyet Başsavcılığının temyiz talebiyle ilgili görüşünü içerir.
+
+## Yargıtay'da İçtihadı Birleştirme Kararı Usulü
+
+İçtihadların birleştirilmesini Birinci Başkan, doğrudan doğruya veya Yargıtay dairelerinin veya genel kurulların verdikleri karar sonucunda veya Yargıtay Cumhuriyet Başsavcısının bizzat yazı ile başvurması halinde, ilgili kuruldan ister. Bu istemlerin gerekçeli olması zorunludur. Diğer merci veya kişilerin gerekçe göstererek yazılı başvurmaları halinde, içtihadı birleştirme yoluna gitmenin gerekip gerekmediğine Birinci Başkanlık Kurulu karar verir. Bu karar kesindir.
+
+İçtihadı birleştirme kararlarının değiştirilmesi veya kaldırılmasının istenmesi de yukarıdaki usule bağlıdır. İçtihadı birleştirme görüşmeleri, alınmış olan ilke kararları çerçevesinde yürütülür ve kararları yazılır. İçtihadı birleştirme kararları benzer hukuki konularda Yargıtay Genel Kurullarını, dairelerini ve adliye mahkemelerini bağlar. İçtihadı birleştirme kararlarının niteliğini açıkça belirten özeti, kararın verilmesini izleyen en kısa zamanda Adalet Bakanlığına bildirilir. Adalet Bakanlığı bütün adliye mahkemelerine ve Cumhuriyet savcılıklarına bu kararları gecikmeksizin duyurur. İçtihadı Birleştirme Kurulları, genel kurulların veya dairelerin kararlarındaki gerekçe ve görüşlerle bağlı olmaksızın sorunu başka bir görüşle karara bağlayabilirler (Yargıtay Kanunu m.45).
+
+## Yargıtay'da Temyiz İncelemesi ve Duruşma
+
+**1. Özel Hukuk Davalarında Temyiz İncelemesi ve Duruşma:** Yargıtay, tarafların ileri sürdükleri temyiz sebepleriyle bağlı olmayıp, kanunun açık hükmüne aykırı gördüğü diğer hususları da inceleyebilir. Yargıtay temyiz incelemesini dosya üzerinde yapar. Ancak, tüzel kişiliğin feshine veya genel kurul kararlarının iptaline, evlenmenin butlanına veya iptaline, boşanma veya ayrılığa, velayete, soybağına ve kısıtlamaya ilişkin davalarla miktar veya değeri 1.023.000 TL'yi aşan alacak ve ayın davalarında taraflardan biri temyiz veya cevap dilekçesinde duruşma yapılmasını talep etmiş ise Yargıtayca bir gün belli edilerek taraflara usulen davetiye gönderilir. Yargıtay, tarafların talepleri ve yukarıdaki yasal şartlarla bağlı olmaksızın, bilgi almak üzere resen de duruşma yapılmasına karar verebilir. Duruşma günü belli edilen hâllerde Yargıtay, tarafları veya gelen tarafı dinledikten sonra, taraflardan hiçbiri gelmemiş ise dosya üzerinde inceleme yaparak kararını verir. Yargıtay, kararını daha sonra açıklamak istiyorsa, duruşma günü karar verilemeyen işlerin en geç bir ay içinde karara bağlanması zorunludur (HMK m.369).
+
+**2. Ceza Davalarında Temyiz İncelemesi ve Duruşma:** Ceza davalarında da duruşmalı temyiz incelemesi yapılması mümkündür.  On yıl veya daha fazla hapis cezasına ilişkin hükümlerde, Yargıtay, incelemelerini sanığın veya katılanın temyiz başvurusundaki istemi üzerine veya re'sen duruşma yoluyla yapabilir. Duruşma yapıp yapmama konusunda Yargıtay'ın takdir hakkı vardır. Duruşma gününden sanığa, katılana, müdafi ve vekile haber verilir. Sanık, duruşmada hazır bulunabileceği gibi, kendisini bir müdafi ile de temsil ettirebilir. Sanık, tutuklu ise duruşmaya katılmak isteminde bulunamaz (CMK m.299).
+
+## Yargıtayın Temyiz İncelemesi Üzerine Verebileceği Kararlar
+
+### A. Hukuk Davasında Yargıtayın Verebileceği Kararlar
+
+Hukuk davası, boşanma, alacak, ticari vb. nedenlerle açılan özel hukuk davalarını ifade etmektedir.
+
+**1. Yargıtay Onama Kararı:** Yargıtay, istinaf mahkemesi tarafından verilen karar hakkında yaptığı temyiz incelemesi neticesinde onama kararı verebilir. Yargıtay onama kararı verirken onadığı kararın hukuk normlarına uygunluk gerekçelerini göstermek zorundadır (HMK md. 370/1). Onama kararı ile birlikte dava dosyası kesinleşir ve dosya gerekli işlemlerin yapılması için ilk derece mahkemesine gönderilir.
+
+**2. Yargıtay Düzelterek Onama Kararı:** Yargıtay, istinaf mahkemesi tarafından verilen kararı temyiz incelemesi neticesinde “düzelterek onama” yetkisine de sahiptir (HMK md. 370/2). Yeniden yargılama gerektirmeyen hesap hataları, ifadelerde açık yanlışlıklar vb. hallerde Yargıtay istinaf mahkemesi kararını düzelterek onama kararı verir.
+
+**3. Yargıtay Bozma Kararı:** Yargıtay, istinaf mahkemesi kararına karşı yapılan temyiz başvurusu üzerine, hukukun veya taraflar arasındaki sözleşmenin yanlış uygulanması, dava şartlarına aykırılık, taraflardan birinin davasını ispat için dayandığı delillerin kanuni bir sebep olmaksızın kabul edilmemesi, karara etki eden yargılama hatası veya eksiklikleri bulunması gerekçeleriyle bozma kararı verebilir (HMK md. 371).
+
+### B. Ceza Davasında Yargıtayın Verebileceği Kararlar
+
+**1. Temyiz Başvurusunun “Esastan Reddine” (Onama):** Yargıtay, yapacağı temyiz incelemesi sonucu istinaf mahkemesi kararı aleyhine yapılan temyiz başvurusunun “esastan reddine” karar verebilir. Yargıtay’ın esastan red kararı, istinaf mahkemesi hükmünün hukuka uygun bulunduğu anlamına gelir. Yargıtay’ın bu şekilde verdiği kararına “onama kararı” da denilmektedir. Yargıtay’ın temyiz incelemesi sonucu hükmü onaması halinde istinaf mahkemesi tarafından verilen hüküm kesinleşir. Sanık bu aşamadan sonra olağan kanun yollarını tüketmiş olduğundan hüküm infaza verilebilir. İstinaf mahkemesi (bölge adliye mahkemesi) hükmünün temyiz incelemesi neticesinde onanması halinde; sanığın, kararın düzeltilmesi için Yargıtay Cumhuriyet Başsavcılığı’na başvuru yapma hakkı vardır.
+
+**2. Yargıtayın Düzelterek Onama Kararı:** Düzelterek onama, istinaf mahkemesi tarafından verilen hükümde yer alan basit hataların temyiz incelemesi sırasında düzeltilerek hükmün onanmasıdır. Düzelterek onama kararı verilebilmesi için yerel mahkemenin yaptığı hatanın yeniden yargılama yapmayı gerektirmeyecek ölçüde basit bir hata olması gerekir. Örneğin, TCK md. 53 hükümlerinin uygulanmaması, yargılama giderlerine yanlış hükmedilmesi, ceza hesaplanırken matematiksel hata yapılması vb. gibi hatalar, yeniden yargılamayı gerektirmeyen basit hatalar olduğundan “düzelterek onama” yolu ile hükümde yer alan yanlışlıklar düzeltilebilir.
+
+**3. Bozma Kararı:** Yargıtay Ceza Dairesi, temyiz incelemesi sonucu hükmü bozarsa hüküm yine kesinleşmez. Temyiz incelemesi sonucu ilk derece mahkemesi veya istinaf mahkemesinin kararının Yargıtay tarafından bozulması halinde dosya yeniden istinaf mahkemesine veya ilk derece mahkemesine gönderilir. Dosya kendisine gönderilen mahkeme, tarafları davet ederek eski hükümde direnme kararı verebilir veya bozma çerçevesinde yeniden bir yargılama yapabilir.
+
+### C. Kesinleşen Yargıtay Ceza Kararına Karşı “Kararın Düzeltilmesi” Başvurusu (CMK m.308)
+
+Yargıtay’ın onama kararından (temyiz isteminin esastan reddine) sonra olağanüstü bir kanun yolu olan “Yargıtay Cumhuriyet Başsavcılığı’na kararın düzeltilmesi” için başvurulabilir. Kararın düzeltilmesi kanun yolu, hakkındaki hüküm temyiz incelemesinden sonra kesinleşen sanık tarafından talep edilebileceği gibi Yargıtay Cumhuriyet Başsavcılığı’nca kendiliğinden de işletilebilir .Kararın düzeltilmesi yolu, özellikle savcılık tebliğnamesine (savcılık görüşü) aykırı verilen daire kararlarına karşı etkin bir yoldur. Örneğin, savcılık yerel mahkeme hükmünün bozulmasını talep etmiş, Yargıtay Ceza Dairesi ise onama kararı vermişse kararın düzeltilmesi yoluna başvurulması gerekir.
+
+Yargıtayın adres ve diğer iletişim bilgilerine sitesinden ulaşılabilir: Yargıtay Web Sitesi
+
+
+## Yargıtayın Görevine İlişkin Yargıtay Kararları
+
+### Yargıtay Ceza Davalarında Yargısal Denetimi Nasıl Yapar?
+
+Kural olarak delillerle doğrudan temas kurmayan ve öğrenme yargılaması yapamayan Yargıtayın, hukuka uygun olarak elde edilen delilleri takdir etme ve bu suretle ilk derece mahkemelerinin vicdani kanaatini denetleme, aslında olayın nasıl cereyan ettiğini ortaya koyma imkanı bulunmamaktadır. Ancak hükmün gerekçesini esas alarak, bu delillerle varılan sonucun/kabul edilen maddi vakıanın, akıl yürütme/mantık kurallarına, genel hayat tecrübelerine ve bilimsel kaidelere uygun olup olmadığını denetleyebileceğinde de kuşku yoktur. CMK'nın 288. maddesinin Hükûmet Tasarısı'ndaki gerekçesinde bu duruma: "Delillerin yanlış değerlendirilmesi, kuralların yorumunu ve eylemin gerçek niteliğinin saptanmasını etkilediğinde elbetteki hukuka aykırılık oluşturur." denilerek işaret edilmiştir. Uygulama da bu şekilde istikrar kazanmıştır. Doktrinde Yenisey; "Bir hukuk normu olmayan fizik ve mantık kuralları ve tecrübe kaidesi, bir hukuk normu gibi ele alınarak bunlara aykırı olan vicdani kanaatin denetlenmesine imkan sağlamaktadır." (Feridun Yenisey, İstinafta Maddi ve Hukuki Mesele Denetimi, Dr. Silvia Tellenbach'a Armağan, Seçkin Yayınları, s. 1282) diyerek aynı düşünceyi benimsendiğini ifade etmiştir. Çünkü; sağlıklı bir hukuki denetimin ön şartı, maddi vakıanın usulüne uygun, tam ve doğru olarak belirlenmiş olmasıdır (Ceza Genel Kurulu 2024/493 E. , 2025/265 K.).
+
+### İhaleden Sonra İmzalanan Sözleşmeye Dair Uyuşmazlıklara Adli Yargı Bakar
+
+Kural olarak kamu kuruluşlarınca yapılan ihaleden sonra ancak sözleşme imzalanıncaya kadar çıkan uyuşmazlıkların çözüm yeri idari yargı, sözleşmenin imzalanmasından sonra adli yargı yeridir (Uyuşmazlık Mahkemesi'nin 03.02.1997 gün ve 1997/4 Esas, 1997/3 Karar sayılı ilâmı).
+
+Somut olayda, taraflar arasında 17.10.2006 tarihli 2006/96874 ihale nolu ve 30.09.2014 tarihli 2006/134301 ihale nolu hizmet alımına ilişkin sözleşmelerin imzalandığı, daha sonra da yine hizmet alımına ilişkin 30.09.2014 tarihli 2014/56906 ihale nolu ve 15.10.2014 tarihli 2014/87636 ihale nolu sözleşmelerin imzalandığı, uyuşmazlığın 2006 yılında imzalanan sözleşmelere ilişkin yüklenici hakedişlerinden kesilmesi gerekli cezaların kesilmediğinin Sayıştay raporu ile tespitinden sonra, belirlenen bu bedellerin 2014 yılında imzalanan sözleşmelere ilişkin düzenlenen hakediş bedellerinden kesilmesinden kaynaklandığı anlaşılmaktadır. O halde ortada, özel hukuk hükümlerine tâbi sözleşmelerin bulunduğu kabul edilerek davanın esasının incelenmesi gerekir. Önceki aşamalarda gerçekleşen işlemler idari nitelikte olsa bile, ortada, bir karşı tarafın katılımıyla oluşmuş ve özel hukuk alanında sonuçlar doğuran bir işlem; bir sözleşme varsa, artık bir idari işlemden sözedilemez (HGK-21.03.2001 gün ve 19/257-285 sayılı kararı). Bu durumda mahkemece işin esasına girilip, sözleşme hükümleri değerlendirilerek bir karar verilmesi gerekirken yazılı şekilde karar verilmesi doğru olmamış, kararın bozulması uygun bulunmuştur (yargıtay 15. Hukuk Dairesi - Karar: 2017/5339.
+
+### Doktor Aleyhine Açılacak Davalar Adli Yargıda Açılmaldıır
+
+Dava, tazminat istemine ilişkindir. Mahkemece, uyuşmazlığın çözüm yerinin idari yargı yeri olduğundan bahisle davanın reddine karar verilmiş; hüküm, davacı tarafından temyiz edilmiştir. Davacı, oğlunun trafik kazası geçirmesi sonucu tedaviye alındığını, davalının Hastanede beyin cerrahi uzmanı olduğunu, görevi olmasına rağmen gerekli tıbbi müdahaleyi yapmadığını bu sebeple sakat kalmasına katkıda bulunduğunu belirterek maddi ve manevi tazminat talebinde bulunmuştur. Davalı, davanın reddedilmesi gerektiğini savunmuştur.
+
+Mahkemece, kamu görevlilerinin görevlerini ifa ederken kasıtlı veya taksirli fiillerle kişilere verdikleri zararlar nedeni ile kendilerine rücu edilmek üzere açılan davaların idari yargı yerinde açılması gerektiği gerekçesiyle davanın reddine karar verilmiştir.
+
+İdari yargı yerlerinde açılacak davalarda husumetin kimlere yöneltileceğine dair 2577 Sayılı İdari Yargılama Usulü Kanunu'nun 2. maddesi gereğince, idari yargı yerlerinde ancak ilgili idari kuruluş dava edilebilir. Bu yasal düzenlemeye göre, gerçek ve özel hukuk tüzel kişileri aleyhine idare mahkemelerinde dava açılamaz. Davacı, gerçek kişi olan doktorun eylemi sebebiyle zarara uğradığını ileri sürüp istekte bulunduğuna göre, davanın görüm ve çözüm yeri adli yargıdır. Açıklanan sebeplerle kararın bozulması gerekmiştir (Yargıtay 4. Hukuk Dairesi - Karar: 2016/11849).
+
+### Tapu Sicilinin Yanlış Tutulması Nedeniyle Tazminat Davası Adli Yargının Görevidir
+
+Tapu işlemleri, kadastro tespiti işlemlerinden başlayarak birbirini takip eden sıralı işlemler olup, tapu kütüğünün oluşumu aşamasındaki kadastro işlemleri ile tapu işlemleri bir bütün oluşturduğundan, bu kayıtlarda yapılan hatalar, hatalı tapu sicili oluşmasına sebebiyet verdiği için, kadastro tespitinde yapılan hatalar da, TMK'nın 1007. maddesi anlamında tapu sicili kavramı içindedir. Hatalı yapılan kadastro tespiti ile oluşan tapu kaydının daha sonra mahkeme kararıyla iptal edilmesi halinde, tapu malikinin bu nedenle doğan zararından TMK'nın 1007. maddesi anlamında Devlet sorumludur. Her ne kadar somut olayda henüz idare tarafından kesinleşmiş orman kadastro sınırları içinde kalan yer iddiasına dayalı olarak davacının maliki olduğu 1424 ve 1425 sayılı parsellere karşı açılmış bir tapu iptal ve tescil davası yok ise de, 1424 ve 1425 sayılı parsellerin tapu kaydının beyanlar hanesinde yer alan "Bu parselin bir kısmı kesinleşmiş orman tahdit sınırları içinde kalmaktadır" yönündeki şerh doğru ise yani parsellerin bir kısmı kesinleşmiş orman tahdidi içinde ise, tapu sicilinin bir kısmının yolsuz oluşturulduğu sonucu ortaya çıkar. Bu durumda idare tarafından tapu iptali ve tescil davasının açılmasını beklemeye gerek olmadan, tapu maliki tarafından da kesinleşmiş orman kadastro sınırları içinde kalan bölümlerin maliki olduğu parsellerden ifrazı ve bu bölümlerin mülkiyetini kaybetme nedeniyle doğacak zararın tazmini istemeye engel bir durum yoktur.
+
+Yukarıdaki açıklamalardan da anlaşılacağı üzere, davacının isteği tapu iptali ve tescil ile 4721 sayılı TMK'nın 1007. maddesine dayalı tazminat isteği olduğuna ve davacı tarafından idari bir işlem veya eylemin iptaline yönelik açılmış bir dava bulunmadığına göre, davaya bakma görevi her iki istek yönünden de adli yargıya aittir. Yargıtay Hukuk Genel Kurulunun 18.11.2009 gün ve 2009/4-383 - 2009/517 sayılı kararı da, TMK'nın 1007. maddesi kapsamındaki davaların adli yargı yerinde görülmesi gerektiği yolundadır (Yargıtay 20. Hukuk Dairesi - Karar: 2016/7218).
+
+### Yargıtayın Yargı Yeri Belirleme Konusundaki Kararının Bağlayıcılığı
+
+Dava, taşınmaz satış vaadi sözleşmesinden kaynaklı tapu iptali ve tescil, olmadığı takdirde tazminat istemine ilişkindir. Konya 2. Asliye Hukuk Mahkemesince, davadaki sözleşmenin 4077 Sayılı Kanun kapsamında kaldığı gerekçesiyle görevsizlik kararı verilmiştir. Konya 1. Tüketici Mahkemesince ise davacının daireleri yatırım amacıyla satın aldığı gerekçesiyle karşı görevsizlik kararı verilmiştir.
+
+6100 Sayılı Kanun'un 23/2. maddesinde6100 Sayılı Kanun'un 23/2. maddesinde "Bölge adliye mahkemesince veya Yargıtayca verilen yargı yeri belirlenmesi ile kanun yolu incelemesi sonucunda kesinleşen göreve veya yetkiye dair kararlar, davaya ondan sonra bakacak mahkemeyi bağlar." düzenlemesi mevcuttur.
+
+Dosya kapsamından, dava hakkında, Konya 2. Asliye Hukuk Mahkemesince davaya bakma görevinin tüketici mahkemesine ait olduğu gerekçesi ile verilen görevsizlik kararının, davalı tarafından temyizi üzerine Yargıtay 14. Hukuk Dairesince usûl ve kanuna uygun hükmün onanmasına karar verildiğinden, tüketici mahkemesinin görevli olduğu özel dairenin kabulünde olup, bu kararın mahkemeleri bağlayıcı özelliği vardır. Bu durumda, davacının, davalıya karşı açtığı taşınmaz satış vaadi sözleşmesinden kaynaklı tapu iptali ve tescil, olmadığı takdirde tazminat istemli davada, onama doğrultusunda işlem yapılarak, davanın Konya 1. Tüketici Mahkemesinde görülüp sonuçlandırılması gerekmektedir (Yargıtay 20. Hukuk Dairesi - Karar: 2016/6135).
+
+### Kamu Görevlisinin Kişisel Kusuru Nedeniyle Açılan Dava Adli Yargıda Görülür
+
+Bilindiği gibi, görev kusuru daha çok kamu görevlisinin görevinden ayrılamayan kişisel kusuru olarak kendini gösterir. Bu kişisel kusur, görev içinde ve dolayısıyla idarenin ajanına yüklediği ödev yetki ve araçlarla işlenmektedir. Kişisel kusurda ise? kamu görevlisinin eyleminde açıkça ve kolayca görevinden ayrılabilen tasarruf ve hatalar görülür. Bir başka deyişle, kişisel kusurda idare nam ve hesabına hareket eden bir kamu görevlisinin idareye atıf ve izafe olunacak yerde, doğrudan doğruya kendi şahsına isnat olunan ve kişisel sorumluluğunu intaç eden hukuka aykırı eylem ve işlemleri belirgindir ve burada kamu görevlisi zarar doğurucu eylemini kamusal görevin yerine getirilmesi saiki ile ancak salt kişisel kusuru ile işlemiştir. Gerek öğretide gerekse yargısal kararlarda personelin kişisel eylem ve davranışları idari eylem ve işlem sayılmamış, kişisel kusura dayanan davaların inceleme yerinin adli yargı olduğu, hasmının da kişinin kendisi olduğu kabul edilmiştir.
+
+Diğer yandan, Uyuşmazlık Mahkemesinin 05.03.1966 gün ve 65/64 E., 1966/1 karar sayılı kararı ve aynı görüşün devamı niteliğinde 1982 Anayasası döneminde verdiği 17.03.1986 gün ve 1985/20-1986/27 sayılı kararında “dikkatsizlik tedbirsizlik ve meslekte acemilik nedenlerle verilen zararlarda ancak şahsi kusurun söz konusu olacağı”, “ idarenin ajanı durumundaki kişilerin şahsi kusurları yönünden kendilerine açılan tazminat davalarının adli yargı yerinde görülmesi gerektiği” ilkesi benimsenmiştir (Hukuk Genel Kurulu’nun 26/09/2001 gün ve 2001/4-595 E., 2001/643 K. sayılı kararında da aynı ilkeler benimsenmiştir).
+
+Sonuç olarak, Anayasa’nın 129/5. maddesi ile 657 sayılı Kanun’un 13/1. maddesi gereğince memurlar ve diğer kamu görevlilerinin yetkilerini kullanırken kusurlu eylemleri nedeniyle oluşan zararlardan doğan tazminat davaları, kendilerine rücu edilmek kaydıyla ve yasada gösterilen biçim ve koşullara uygun olarak idare aleyhine açılabilir. İdare aleyhine böyle bir davanın açılabilmesi, hizmet kusurundan kaynaklanmış, idari işlem ve eylem niteliğini yitirmemiş davranışlar ile sınırlıdır. Kamu görevlisinin, özellikle haksız eylemlerde, Anayasa ve özel yasalardaki bu güvenceden yararlanma olanağı bulunmamaktadır.
+
+Bu genel açıklamalar ışığında somut olay ele alındığında Bandırma 1. Asliye Ceza Mahkemesi’nin 2009/196 E. 2009/611 K. sayılı ilamıyla sanık olan davalı doktor hakkında, davacı hemşire Ş.B.’e karşı cinsel saldırı suçunun işlendiğinin sabit olduğu gerekçesiyle 2 yıl hapis cezası verilmiş, kamu görevinin sağladığı nüfuz kötüye kullanıldığı için ceza yarı oranında artırılarak 3 yıl hapis cezasına yükseltilmiş, takdiri indirimle de sanığın 2 yıl 6 ay hapis cezası ile cezalandırılmasına karar verilerek hükmün açıklanmasının geri bırakılmasına karar verilmiştir. Ayrıca, katılan Ş.B.’e karşı cinsel taciz suçunun işlendiğinin sabit olduğu gerekçesiyle 90 gün adli para cezası verilmiş, neticeten 6.080,00 TL olarak hesaplanan hükmün açıklanmasının geri bırakılmasına karar verilmiş, karar itiraz edilmeksizin kesinleşmiştir. Davacı, kendisine karşı cinsel saldırıda bulunulduğunu ileri sürerek manevi tazminat isteminde bulunduğundan davacının istemini dayandırdığı bu maddi olgulardan, davalı doktorun göreviyle ilgili bir eylemine değil, salt kişisel kusuruna dayanıldığı anlaşılmaktadır.
+
+Anayasanın 129/5. maddesiAnayasanın 129/5. maddesi gereğince memurların ve diğer kamu görevlilerinin yetkilerini kullanırken meydana gelen zararlara ilişkin davaların idare aleyhine dava açılabilmesinin, eylemin hizmet kusurundan kaynaklanmış olması koşuluna bağlı bulunmasına? dava dilekçesinde sıralanan maddi olguların davalının salt kişisel kusuruna dayanıldığını göstermesi karşısında davanın adli yargı yerinde çözümlenmesi gerekir. Nitekim Hukuk Genel Kurulunun 15.11.2000 gün ve 2000/4-1650 E. 2000/1690 K.? 26.09.2001 gün ve 2001/4-595 E. 2001/643 K. 29.03.2006 gün ve 2006/4-86 E. 2006/111 K. 17.10.2007 gün ve 2007/4-640 E. 2007/725 K.20/02/2008 gün ve 2008/4-156 E., 2008/140 K.11.11.2009 gün ve 2009/4-411 E., 2009/491 K. 18.11.2009 gün ve 2009/4-448 E., 2009/545 K. 30.10.2013 gün ve 2013/4-44-1512 E. K. 30.04.2014 gün ve 2013/4-1537 E., 2014/573 K. 21.05.2014 gün ve 2013/4-1601 E., 2014/681 K. sayılı ilamlarında da aynı ilke benimsenmiştir (Yargıtay Hukuk Genel Kurulu Kararı - Karar: 2015/1102).
+
+### Olumsuz Görev Uyuşmazlığını Çözmekle Görevli Yargıtay Dairesi
+
+Olumsuz görev uyuşmazlığının giderilmesi için yargı yerinin belirlenmesi görevi Yargıtay 5. Ceza Dairesine aittir. ( Yargıtay Ceza Daireleri Başkanlar Kurulu'nun 27.12.2012 tarih, 2012/Bşk-41 esas ve 2012/41; 27.122013 tarih, 2013/Bşk-213 esas ve 2013/219 sayılı kararları İle Yargıtay Kanununun 6110 sayılı Kanunla değişik 14. maddesine dayanarak Yargıtay Büyük Genel Kurulunun 24.01.2014 tarih ve 2014/1 sayılı hazırlanan iş bölümü )
+
+Şeklindeki yasal düzenlemeler ile Yargıtay Büyük Genel Kurulunun kararına göre somut olay değerlendirildiğinde; şüpheli A. tarafından kullanıldığı belirtilen cep telefonu hattına ait iletişimin tespitine izin verilmesi talebi hakkında, Söke 2. Ağır Ceza Mahkemesiyle Kuşadası Sulh Ceza Mahkemesi arasında olumsuz görev uyuşmazlığının çıktığı ve öncelikle bu uyuşmazlığın merci tayini yoluyla Yargıtay 5. Ceza Dairesince çözülmesi gerektiği, 309. maddesinde belirtilen koşulların oluşmadığı anlaşılmakla, kanun yararına bozma isteminin reddine karar verilmesi gerekmiştir. (Yargıtay 1. Ceza Dairesi - Karar: 2014/3733).
+
+### Yargıtayın Görevli Mahkemeyi Belirleme Kararı
+
+CMK'nın 5/2. maddesinde yer alan adli yargı yeri içerisindeki mahkemelerce verilen görevsizlik kararlarına karşı itirazın mümkün olacağı hükmü ile aynı Kanunun 271/2. maddesindeki itirazın yerinde görülmesi üzerine merciin aynı zamanda itiraz konusu hakkında karar verebileceği ve maddenin 4. fıkrası uyarınca da merciin itiraz üzerine verdiği kararın kesin olacağı hükümleri birlikte değerlendirildiğinde, Ankara Batı 1. Ağır Ceza Mahkemesince verilen görevsizlik kararına sanık müdafiin itiraz etmesi sebebiyle itiraz mercii olan Ankara Batı 2. Ağır Ceza Mahkemesinin itiraz konusu ile ilgili bir karar vermesi ve talebi yerinde görerek Ankara Batı 1. Ağır Ceza Mahkemesinin görevsizlik kararını kaldırmasında usulen bir isabetsizlik bulunmadığı, bilahare uyuşmazlığın çözümü için dosyanın Dairemize gönderilmesi üzerine verilen 05.11.2012 gün ve 2012/11703-10789 sayılı kararımız ile bu hususa vurgu yapılarak itiraz sonucu verilen kararın kesin ve bağlayıcı nitelikte olduğunun belirtildiği, ancak karardan uyuşmazlığın çözüm yerinin müşterek yüksek mahkeme olan Yargıtay'ın ilgili Dairesi olduğu, bu itibarla itiraza bakan merciin bu gerekçeyle talebin reddine karar vermesi gerekeceği sonucunun çıkarılamayacağı, CMK'nın 4/2. maddesinde yazılı olan "görev konusunda mahkemeler arasında uyuşmazlık çıktığında görevli mahkemeyi ortak yüksek görevli mahkeme belirler" hükmünün uygulanabilmesi için karşılıklı olarak verilmiş ve kesinleşmiş iki görevsizlik kararının bulunması gerektiği, kesinleşmenin de yasal sürede itiraz yoluna başvurulmaması veya bu talebin reddedilmiş olması durumunda sağlanabileceği, somut olayda olduğu gibi itirazın kabulüne karar verilmesi halinde ise yanlış hukuki niteleme veya değerlendirme ile talebin kabul edildiği sebeplerinin kanun yararına bozma konusu edilebileceği, oysa mevcut talebin "görevli mahkemeyi belirleme yetkisinin Yargıtay'ın ilgili Dairesi olduğu sebebiyle itirazın reddine karar verilmeli" gerekçesine dayandırıldığı, işin esasına, nitelemeye yönelik bir talep olmadığı,
+
+SONUÇ : Yukarıda izah edilen açıklamalar karşısında ise CMK'nın 271/2. maddesindeki yetkiye dayalı olarak verilen Ankara Batı 2. Ağır Ceza Mahkemesinin 15.12.2011 tarih ve 2011/3167 Değişik İş sayılı kararının usul ve yasaya uygun bulunduğu anlaşılmakla yerinde görülmeyen kanun yararına bozma talebinin CMK'nın 309. maddesi uyarınca REDDİNE karar verilmiştir (Yargıtay 5. Ceza Dairesi - Karar: 2014/5641).
+
+### Görevli Mahkemenin İdari Yargı Yeri Olması
+
+Dahili davalı DSİ XX. Bölge Müdürlüğü bir kamu tüzel kişisidir. Kamusal kurallar çerçevesinde faaliyet göstermekte olup eylem ve işlemleri de kamusal niteliktedir ve kamu hizmeti kavramı çerçevesindedir. Davada ileri sürülüş ve olayın gerçekleşme biçimine göre, davanın anılan davalıya yöneltilmesinin nedeni de hizmet kusurudur. Kamu hizmetinin görülmesi sırasında ve hizmet kusurundan doğan zararların giderimin de idari yargı görevlidir. (2577 sayılı İYUY. m.2)
+
+Görev sorunu, kamu düzenine ilişkin olup açıkça veya hiç ileri sürülmese bile yargılamanın her aşamasında mahkemelerce kendiliğinden gözetilir.( 114)
+
+İdari eylem ve işlemlerden doğan uyuşmazlıklar bakımından genel görevli yargı yeri idare mahkemeleridir. Adli yargı yerleri ancak özel düzenlemelerin varlığı halinde, idarenin eylem ve işlemlerinden doğan uyuşmazlıkları çözümlemekle görevlidirler.
+
+Kural olarak idarenin zarar doğuran her türlü eylem ve işleminden doğan zararlar idari yargı yerinde dava konusu yapılmaktadır. Somut olayda, davalının ihmali ile, bakımsız kalan kanalın su sızdırarak zarara neden olduğu belirtilerek tazminat isteminde bulunulduğuna göre, hizmet kusuru nedeniyle oluşan zarardan kaynaklanan bu davanın İdare’ye karşı idari yargı yerinde tam yargı davası olarak açılması gerekirdi. Yargı yolu, 6100 sayılı HMK'nun 114/1-b, 115. maddelerinde düzenlenen ve yargılamanın her aşamasında re'sen gözetilecek olan dava şartıdır. Şu durumda, mahkemece yargı yolu bakımından görevsizlik kararı verilmesi gerekirken işin esasının çözümlenmesi doğru görülmemiş ve bu durum bozmayı gerektirmiştir (Yargıtay 4. Hukuk Dairesi - Karar: 2014/6959).
+
+
+---
+
+## Zorunlu Arabuluculuk Süreci ve Özellikle 'Menfi Tespit Davaları' (İİK.m.72 ve 89/III) ile ‘Tasarrufun İptali’ (İİK.m.277 vd.) Davalarında Zorunlu Arabuluculuk
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/arabuluculuk/zorunlu-arabuluculuk-sartlari-menfi-tespit-ve-tasarrufun-iptali-davalarinda-zorunlu-arabuluculuk (son güncelleme: 2020-07-21)*
+
+Zorunlu Arabuluculuk Nedir? Menfi tespit davaları ile tasarrufun iptali davalaraında zorunlu arabuluculuk sürecinin özellikleri nelerdir? Ticari davalar ve iş davalarında zorunlu arabuluculuk şartları nelerdir?
+
+
+**Stj. Av. Yusuf ÖZPERÇİN**\*
+
+## Zorunlu Arabuluculuk Süreci ve Özellikle 'Menfi Tespit Davaları' (İİK.m.72 ve 89/III) ile ‘Tasarrufun İptali’ (İİK.m.277 vd.) Davalarında Zorunlu Arabuluculuk
+
+Taraflar, üzerinde serbestçe “tasarruf edebileceği hususlarda”, dava açmadan önce veya davanın görülmesi sırasında arabulucuya başvurma konusunda anlaşabilir. Mahkeme de arabulucuya başvurmak konusunda; tarafları “arabuluculuğun esasları, süreci ve hukuki sonuçları hakkında aydınlatıp, arabuluculuk yoluyla uyuşmazlığın çözülmesinin yararlarının olabileceğini hatırlatarak” teşvik edebilir.
+
+Arabuluculuğa ilişkin esaslar, ‘özel hukuk uyuşmazlıkları’nın (uyuşmazlığın yabancılık unsurunu taşımasının bir önemi bulunmamaktadır) kısa sürede ve daha az masrafla çözülmesi amacıyla, “6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu”nda<sup>1</sup>   düzenlenmiştir. Bu kanun büyük ölçüde “Avusturalya Hukuk Uyuşmazlıklarında Arabuluculuk Federal Kanunu”ndan esinlenerek hazırlanmıştır.<sup>2</sup>  Aynı zamanda 7036 sayılı İş Mahkemeleri Kanunu<sup>3</sup>  ile 6102 sayılı Türk Ticaret Kanunu’na<sup>4</sup>  da zorunlu arabuluculukla ilgili özel düzenlemeler eklenmiştir.
+
+Arabuluculuk, ‘tahkim’ ve ‘sulh’ müessesesinden farklı olarak,  taraflar arasındaki uyuşmazlığın hâkim veya hakem yerine, “sulh müzakerelerini organize etmek ve yönetmek konusunda mesleki eğitim almış profesyonel bir üçüncü kişinin yardımıyla” çözüme kavuşturulması yöntemidir.<sup>5</sup>  Arabuluculuk, tarafların arabulucuyla birlikte karşılıklı görüştüğü belirli bir süreci ihtiva etmektedir. Bu süreç bir başvuruyla başlayıp, sonucunda uyuşmazlık konusu hakkında anlaşma veya anlaşmamanın kendisine hukuki sonuçlar bağlanan bir tutanağa geçirilmesiyle son bulmaktadır.
+
+Bu uyuşmazlık çözüm yöntemiyle “hukuk kurallarının uygulanması ve yargılama yapılarak” uyuşmazlığın çözüme kavuşturulması söz konusu değildir.<sup>6</sup>
+
+## A. Zorunlu Arabuluculuk Süreci
+
+**I-** Arabuluculuk müessesesi, ‘taraflar’ ve ‘arabulucu’ ile ‘belirli bir süreç ve faaliyeti’ kapsayan ‘temel unsurlar’dan oluşmaktadır.
+
+**Arabuluculuk faaliyeti**, 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu ile hukukumuza giren ‘mahkeme dışı’ çözüm yollarından birisi olup<sup>7</sup>, HUAK mad. 2/1-b hükmünde; “sistematik teknikler uygulanarak görüşmek ve müzekkerelerde bulunmak amacıyla tarafları bir araya getiren, birbirlerini anlamaları ve bu suretle çözümlerinin üretilmesini sağlamak için aralarında iletişim sürecinin kurulmasını gerçekleştiren, uzmanlık eğitimi almış tarafsız ve bağımsız bir üçüncü kişinin katılımıyla ve ihtiyari olarak yürütülen” uyuşmazlık çözüm yöntemi olarak tanımlanmıştır.
+
+Arabuluculuk faaliyetiyle ulaşılmak istenen amaç, taraflar arasındaki uyuşmazlığı karşılıklı menfaatler temelinde çözüme kavuşturmaktır.
+
+**Arabulucu**, “tarafların iletişim kurmalarını sağlayarak, aralarındaki uyuşmazlığı sona erdirecek çözümü bizzat tarafların bulması konusunda yardımcı olan, bu konuda eğitim almış, bağımsız ve tarafsız” kişidir. Arabulucu, görevini özenle, “tarafsız bir biçimde ve şahsen yerine getirmek zorundadır”.
+
+Tarafların, sicile<sup>8</sup>  kayıtlı arabulucuyu/arabulucuları seçmesi mümkündür. Tarafların arabulucu konusunda anlaşamamaları halinde ise, arabuluculuk bürosu, arabulucuyu kendisi görevlendirir.
+
+Arabulucu olarak görevlendirilen kimse, tarafsızlığından şüphe edilmesini gerektirecek ‘önemli hâl ve şartların varlığı hâlinde’, bu hususta tarafları bilgilendirmekle yükümlüdür. Bu açıklamaya rağmen, tarafların birlikte talepte bulunmaları üzerine, arabulucu bu görevi üstlenebilecek yahut üstlenmiş olduğu görevi sürdürebilecektir. Arabulucu, taraflar arasında eşitliği gözetmekle yükümlüdür. Arabulucunun bu sıfatla görev yaptığı uyuşmazlıklarla ilgili olarak açılacak davalarda, taraflardan birinin avukatı olarak görev üstlenemeyecektir(HUAK.m.4).
+
+Ankara Bölge Adliye Mahkemesi’nin 7. Hukuk Dairesi, yakın tarihli bir kararında;
+
+“Arabuluculuk görüşmesinin yapıldığı ve tutanağın düzenlendiği adreste ‘arabulucu olarak görev yapan avukatın’ davalı vekili olduğuna ilişkin vekâletname cevap dilekçesine eklenmiş olup, davalı vekili kısmına arabulucunun adı yazılmamış olsa da, aynı adreste bulunan bir başka avukatın adının yazılı olması tarafsızlık ilkesi yönünden bu durumun değerlendirilmesi gerektiğini açıkça ortaya çıkarmaktadır”<sup>9</sup>
+
+şeklinde gerekçe bildirerek, arabulucunun tarafsızlığının önemini vurgulamıştır.
+
+Arabulucu, tahkimdeki hakemler gibi yargılama yapamaz. Sadece uyuşmazlığın taraflarca çözümlenmesini sağlayan ‘özel ve teknik müzekkere süreci’ni yönetir.
+
+**II-** Arabuluculuk müessesesine hakim olan ilkeler; “arabuluculuk faaliyetine tarafların ‘özgür irade’leriyle katılmaları, bu süreçte tarafların ‘eşit olma’sı, elde edilen yazılı ve sözlü beyan veya belgelerin de ‘gizli tutulma’sı ve bunların ‘kullanılmaması’ ” şeklinde ilgili kanunda düzenlenmiştir.(HUAK mad. 5,6 ve 7).
+
+a- Kural olarak taraflar, “arabulucuya başvurmak; arabuluculuk sürecini devam ettirmek, sonuçlandırmak veya bu süreçten vazgeçmek konusunda” serbesttir(HUAK.m.3/1). Ancak bu hususa HUAK.m.18/A, f.1 hükmü ile “ilgili kanunlarda arabulucuya başvurulmuş olması dava şartı olarak kabul edilmiş ise”, dava açmadan önce arabulucuya başvurulması gerektiği belirtilerek, istisna getirilmiştir.
+
+Buna göre;
+
+- 7036 sayılı İş mahkemeleri Kanunu’nun 3. maddesinin 1. fıkrasında belirtilen “kanuna, bireysel veya toplu iş sözleşmesine dayanan işçi ve işveren arasındaki yıllık izin ücreti, fazla çalışma (fazla mesai) ücreti, maaş vb. gibi işçilik alacakları ile ihbar tazminatı, kıdem tazminatı vb. gibi tazminatlardan kaynaklanan uyuşmazlıklar” hakkında,
+- 6102 sayılı Türk Ticaret Kanuna, 7155 sayılı kanunu<sup>10</sup> ile ihdas edilen ‘5/A madde düzenlemesi’nde belirtilen, “TTK.m.4 hükmüne atfen mutlak veya nispi ticari davalardan ‘konusu bir miktar paranın ödenmesi olan’ alacak ve tazminat talepleri” hakkında,
+
+dava açılmadan önce arabuluculuğa başvuru zorunludur.
+
+b- Kural olarak mahkeme önünde eşit haklara sahip olan taraflar (AY.m.11), arabuluculuk sürecinde de eşit haklara sahip olacaktır (HUAK.m.3/2). Ancak iş uyuşmazlıklarından kaynaklanan arabuluculuk başvurularında ‘işçinin korunması ilkesi’<sup>11</sup>  gereğince, eşitlik ilkesine istisna getirilmesi gerektiği kanaatindeyim. Çünkü devlet çeşitli şekillerde ‘işçinin korunması ilkesini’ uygulanır hale getirse de, işçinin haklarının en iyi şekilde tesis edileceği yer, devletin mahkemeleri olacaktır. Zorunlu arabuluculuk müessesesiyle, güçsüz konumdaki işçinin mahkemeye erişim hakkı ihlal edilmekte, dolayısıyla devletin koruma alanından uzaklaştırılmaktadır. Bu durumda işçinin dava açmadan önce arabulucuya başvurmak zorunda bırakılması, artık arabuluculuk müessesesini zorunlu olarak iş hukukun bir parçası halinde getirmektedir. İş hukukunun bir parçası haline gelen arabuluculuk müessesesinin, bu hukukun ilkelerine tabi olması kaçınılmaz olacaktır. Bu halde ‘işçinin korunması ilkesi’ menfaatler dengesi de dikkate alınarak arabuluculuk sürecinde de geçerli olmalıdır. Örneğin; işçinin arabuluculuk süreci sonunda hazırlanan ‘anlaşma belgesi’nden, -imzalandığı tarihten itibaren belirli bir sürede- geri dönmesinin (cayması) mümkün olması gerektiği düşüncesindeyim.
+
+c- Taraflar aksini kararlaştırmadıkça; “arabulucu, taraflar, tarafların kanuni temsilcileri ve avukatları” ile diğer üçüncü kişiler arabuluculuk faaliyeti çerçevesinde kendisine sunulan veya bir şekilde elde ettiği bilgi ve belgeler ile diğer kayıtları gizli tutmakla yükümlüdür.
+
+Gizliliğin ihlali halinde, suç ihtiva eden HUAK.m.33 hükmü devreye girecektir. Buna göre, elde edilen yazılı ve sözlü belge veya beyanların gizli tutulması yükümlülüğüne aykırı hareket ederek bir kişinin hukuken korunan bir menfaatinin zarar görmesine neden olan kişi, şikâyet üzerine, ‘altı aya kadar hapis cezası’yla cezalandırılacaktır.
+
+d- Arabuluculuk faaliyetinin gizli yapılmasının gereği olarak; taraflar arabuluculuk süreci sonunda bir anlaşmaya ulaşamadıkları takdirde, arabuluculuk sürecinde:
+
+- Taraflarca yapılan arabuluculuk daveti veya bir tarafın arabuluculuk faaliyetine katılma isteği,
+- Uyuşmazlığın arabuluculuk yolu ile sona erdirilmesi için taraflarca ileri sürülen görüşler ve teklifler,
+- Arabuluculuk faaliyeti esnasında, taraflarca ileri sürülen öneriler veya herhangi bir vakıa veya iddianın kabulü,
+- Sadece arabuluculuk faaliyeti dolayısıyla hazırlanan belgeler,
+
+‘taraflar’, ‘arabulucu’ veya ‘üçüncü kişi’lerce uyuşmazlıkla ilgili olarak açılan hukuk davalarında veya başvurulan tahkim yolunda, -beyan ve belgelerin şekline bakılmaksızın- delil olarak ileri sürülemeyecek ve bunlar hakkında tanıklık yapılamayacaktır(HUAK.m.5). Mahkeme, hakem veya herhangi bir idari makam tarafından arabuluculuk sürecinde ileri sürülen beyan veya belgelerin açıklanması da istenemeyecektir. Ancak, söz konusu bu bilgiler “bir kanun hükmü tarafından emredildiği” veya “arabuluculuk sonunda varılan anlaşmanın uygulanması ve icrası için gerekli olduğu” ölçüde açıklanabilecektir.
+
+**III-** Arabuluculuk başvurusu ihtiyari ve dava şartı olmak üzere ikiye ayrılmaktadır. İhtiyari arabuluculukta uyuşmazlığın tarafları dava açma ve arabulucuya başvurma konusunda ‘seçim hakkı’na sahiptir. Arabuluculuğun dava şartı olarak öngörüldüğü hallerde ise, taraflar dava açmadan önce arabulucuya başvurmak zorundadır. Burada tarafların dava açmadan önce arabulucuya başvurmaları ‘yargısal bir zorunluluk’ teşkil etmektedir(HUAK.m.18/A, TTK.m.5/A, İMK.m.3).
+
+a) HMK.m.115/2 hükmü “dava şartı noksanlığı halinde, davanın usulden reddini veya giderilebilir bir eksiklik var ise süre verilmesini” öngörmesi karşısında, tarafların arabulucuya başvurmadan dava açması halinde, mahkeme, herhangi bir usulü işlem ve duruşma yapmaksızın, dava şartı yokluğundan davanın ‘usulden reddine’ karar verecek-tir(HUAK.m.18/A-2). Burada mahkemenin, eksikliği süre vererek gidermesi mümkün değildir(olumsuz-tamamlanamayan dava şartı).<sup>12</sup>  Ancak davanın usulden reddi kararının bu haliyle ‘usul ekonomisi ilkesi’ne (HMK.m.30) uygun olup olmadığı tartışmalıdır.<sup>13</sup>
+
+b) Arabulucuya başvurulmuş olmasının kanunla dava şartı olarak düzenlendiği durumlarda, davacı, arabuluculuk faaliyeti sonunda anlaşmaya varılamadığına ilişkin ‘son tutanağın aslını’ veya ‘arabulucu tarafından onaylanmış bir örneğini’ dava dilekçesine eklemek zorundadır. Arabuluculuğa başvurulmuş olmasına rağmen, bu zorunluluğa uyulmaması üzerine mahkemece davacıya, “son tutanağın ‘bir haftalık kesin süre’ içinde mahkemeye sunulması gerektiği, aksi takdirde davanın usulden reddedileceği” ihtarını içeren davetiye gönderecektir. İhtarın gereği yerine getirilmez ise dava dilekçesi karşı tarafa tebliğe çıkarılmaksızın davanın ‘usulden reddine’ karar verilecektir (HUAK.m.18/A-2).<sup>14</sup>   Dolayısıyla, davacının arabuluculuğa başvurma zorunluluğunu yerine getirmiş olduğu, ancak, ‘son tutanağı’ dava dilekçesine eklemediği hallerde, ortaya çıkan eksikliğin tamamlanabilmesi için kesin bir süre verilmesi öngörülmüştür(olumlu-tamamlanabilir dava şartı).<sup>15</sup>   ‘Son tutanak’ hakkındaki bu eksiklik giderilmeden mahkemece, ‘tutanağın onaylı olmayan örneği’<sup>16</sup>   veya ‘tutanağın fotokopisi’<sup>17</sup>   ile yetinilerek hüküm kurulması mümkün değildir.<sup>18</sup>
+
+c) Zorunlu arabulucuya başvuru, HMK.nun 114. maddesinde belirtilen genel dava şartlarından ayrı olarak özel nitelikte bir dava şartı olduğundan, mahkemece öncelikle dikkate alınacaktır.<sup>19</sup>   Belirtmek isterim ki, bu durumun uygulamada çeşitli sorunlar yaratması muhtemeldir. Bilhassa mahkemelerin “zorunlu arabuluculuk başvurusunun yapılmaması sebebiyle davanın usulden reddi” yerine, “görevsizlik veya yetkisizlik nedeniyle davanın usulden reddi”ne kararı vermesi hallerinde uygulamada farklı sonuçlar ortaya çıkmaktadır. Bu durumu örnekleyerek anlatacak olursak; bir işçinin iş sözleşmesinden kaynaklanan alacakları hakkında, arabuluculuk başvurusunda bulunmadan asliye hukuk mahkemesinde dava açması üzerine, asliye hukuk mahkemesinin iş mahkemesinin görevli olduğu düşüncesiyle ‘görevsizlik’ kararı verdiğini düşünelim. Davacı-işçi dosyanın görevli mahkeme olan iş mahkemesine gönderilmesinden önce, arabulucuya başvurarak ‘anlaşmama tutanağı’ alıp, bu tutanağı görevli mahkemeye sunarsa, dava şartı sağlanmış olacak mıdır? Aksi halde davanın derhal usulden reddi mi gerekecektir? HMK.m.115/3’te ‘dava şartının sonradan tamam olması hallerinde, artık baştaki dava şartı yokluğu nedeniyle davanın usulden reddi gerekmeyeceği’ düzenlendiğinden, mahkemece, davanın reddedilmeyip esasın incelenmesine geçilmesi mümkün müdür? Usul ekonomisi dikkate alındığında, son tutanağı sunması için davacıya kesin bir süre verilmesi gerekecek midir? ‘Arabulucuya başvurmadan açılan davanın usulden reddi gerekeceğini’ bildiren HUAK.m.18/A, f.2 düzenlemesi ile HMK.m.115/3 düzenlemesi birlikte incelendiğinde, HMK.m.115/3 hükmü karşısında ‘HUAK.m.18/A, f.2 düzenlemesinin özel nitelikte kanun olduğu ve öncelikle dikkate alınması gerektiği’ şeklinde bir değerlendirme yapılabilecek midir? Görevsizlik veya yetkisizlik kararı verecek olan mahkeme, bu kararından önce, davacının zorunlu arabuluculuğa başvurmamış olması sebebiyle davayı usulden redde görevli ve yetkili midir?<sup>20</sup>   İşte bu gibi çeşitli belirsizliklerin nasıl giderileceği henüz açıklık kazanmamıştır… Ancak HMK.m.115/3 ‘dava şartının sonradan tamamlattırılması halinde davanın reddi gerekmeyeceğini’ ihtiva etmesi ve bu hükmün HUAK.m.18/A, f.2 düzenlemesi karşısında, mahkemenin davayı usulden reddetmemesi gerekmektedir. Bu gibi durumlarda yargılamaya devam olunması ‘usul ekonomisi’nin de bir gereğidir.
+
+İzmir Bölge Adliye Mahkemesi’nin 3. Hukuk Dairesi’nin konuyla ilgili bir kararında;
+
+“Davalı tarafın görevsizlik kararı verildiği tarihe kadar cevap dilekçesi vermediğinden, görevsizlik kararının verilmesinden sonra, dosyanın görevli mahkemeye ulaşması aşamasına kadar arabulucuya başvurularak dava şartının giderilmesinin mümkün olduğunu”<sup>21</sup>
+
+belirtmiştir.
+
+d) Dava şartı olarak arabuluculuğun öngörüldüğü uyuşmazlıklarda, arabuluculuk sürecinde ileri sürülen talepler ile ileri sürülmeyen taleplerin ‘birlikte’ davaya konu edilmesi halinde, arabuluculuk sürecinde talep edilen hususlar yönünden “arabuluculuğa başvuru şartının gerçekleştiği kabul edilerek, esasa dair inceleme yapılması” gerekirken, arabuluculuk sürecinde talep edilmeyen hususlar yönünden ise, “davanın usulden reddi” gerekecektir.<sup>22</sup>
+
+Bu konuya ilişkin yüksek mahkemenin<sup>23</sup>   son dönemdeki bir kararında;
+
+“Arabulucu tarafından dosyaya sunulan 'Arabuluculuk Başvuru Formu'ndan, dava dilekçesinde talep edilen kötüniyet tazminatı alacağının arabuluculuk sürecinde talep edilmediği anlaşıldığından, kötüniyet tazminatı alacağına yönelik davanın usulden red kararı doğru ise de dava dilekçesinde talep edilen hafta tatili ücreti, bayram ve genel tatil ücreti, yıllık ücretli izin alacağı, kıdem tazminatı, ihbar tazminatı alacaklarının “Arabuluculuk Başvuru Formu”nda da talep edilmesi karşısında, bu talepler yönünden arabuluculuğa başvuru şartının gerçekleştiği kabul edilerek esasa dair inceleme yapılması gerektiğini”
+
+açıkça belirtmiştir.
+
+e) Zorunlu arabuluculuk müessesesinin hukuk sistemimize girdiği ilk dönemlerde, ‘tarafların taleplerini açıkça belirtmemeleri’nden ve ‘arabulucunun, arabuluculuk sürecini iyi yönetememesi’nden, kaynaklanan hata ve eksiklikler sonucunda, tarafların mağduriyetleri ortaya çıkmaktaydı. Bu durum arabuluculuk müessesesinin amaçladığı gibi uygulanmasına engel olmaktaydı. Yapılan başvurularda talepler tek tek belirtilmeden genel kavramlar ile ileri sürülmekteydi. İşte bu eksiklik ‘Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu’na dayanılarak hazırlanan -02/06/2018 yürürlük tarihli- ‘Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Yönetmeliği’<sup>24</sup>   ile aşılmaya çalışılmıştır. Buna göre, yönetmelikle arabuluculuğa hangi konularda başvurulduğuna ilişkin ‘başvuru formu’ uygulaması getirilerek, başvuruların daha açık ve belirli olması sağlanmaya çalışılmıştır. Bu uygulamayla, başvuruda ileri sürülen talepler ve arabuluculuk sürecindeki tutanaklar, az hatayla ve daha açık düzenlenmeye başlanmıştır.
+
+Bu uygulamadan önceki ‘eksik ve hatalı başvurular’ın akıbeti hakkında ise, Yargıtay 9. Hukuk Dairesi ve Bölge Adliye Mahkemeleri çok sayıdaki benzer kararlarında;
+
+- “02.06.2018 tarihinden önceki başvurularda, arabuluculuk anlaşamama tutanağında arabuluculuğa konu alacaklar tek tek belirtilmeden “ işçilik alacakları” “işçi-işveren uyuşmazlığı” gibi soyut ifadeler kullanılarak, ‘açıkça belirtilmemiş’ ise taraflar arasındaki işçilik alacaklarının tamamının arabuluculuğa konu edildiğinin kabul edilmesi gerekeceğini”<sup>25</sup>
+- “‘Başvuru formu’ uygulamasının başladığı 02.06.2018 tarihi öncesinde taraflardan kaynaklanmayan uygulama hataları aşılarak, arabuluculuk müessesinin amaca uygun yürütülmesinin sağlanması gerektiğini”<sup>26</sup>
+
+belirterek açıklık getirilmiştir. Bu durumda, açılmış olan davaların 02.06.2018 tarihinden önce yürütülen arabuluculuk sürecindeki hata ve eksiklikler sebebiyle, ‘usulden reddedilmeyip’, dava şartı sağlanmışçasına yargılamaya devam olunması gerekmektedir. Ancak TTK.nun 5/A hükmünün, 02.06.2018 tarihinden sonra yürürlüğe girmiş olması sebebiyle, ticari davalar bakımından bu durum özellik göstermemektedir.
+
+Arabulucuya başvuru formunda, arabuluculuk görüşmelerinin olumsuz sonuçlanması ihtimaline binaen, sonradan açılmak istenen dava hangisi ise, bu davanın başvuru formunda belirtilmesinin yeterli olduğu, kanısındayım. Böylelikle unutulan talepler için yeniden arabulucuya başvurulmasına gerek kalmayacaktır.
+
+f) Özel kanunlarla ‘tahkim’ veya başka ‘alternatif uyuşmazlık çözüm yolları’nın öngörülmesi veya ‘tahkim sözleşmesi’nin bulunması durumunda, zorunlu arabuluculuğa ilişkin hükümler uygulanmayacaktır.
+
+**IV-** Sicile kayıtlı olan arabulucu, arabuluculuk unvanı ve bu unvanın sağladığı yetkileri kullanmakla, belirli haklara sahip olmakta ve belirli yükümlülükler altına girmektedir (HUAK.m.6). İşte, ‘arabuluculuk ücreti’ de arabuluculuk unvanının kullanmasıyla elde edilecek bu haklar arasında yer almaktadır. Buna göre arabulucu, AAÜT hükümlerinde belirtilen miktarda/oranda ücrete hak kazanacak ve gerektiğinde masraf talep edebilecektir. Ancak arabulucunun, “zorunlu arabuluculuğa tâbi hususlarda” taraflardan süreç boyunca ‘masraf’ talep etmesi mümkün değildir.
+
+Tarafların ‘arabuluculuk ücreti’ni kararlaştırması mümkündür. Ancak kararlaştırılan miktar ‘Arabuluculuk Asgari Ücret Tarifesi’nin<sup>27</sup>   birinci kısmında belirtilen; “2 saatlik görüşmeler için ödenmesi gereken ücret”ten az olamayacaktır(HUAK.m.18/a-12, HUAY.m.26/1, AAÜT.m.3/1). Taraflarca bu konuda bir kararlaştırma yapılamamışsa, arabuluculuk ücretinin belirlenmesinde tarafların görüşmeler sonunda anlaşıp anlaşmadıkları ve uyuşmazlık konusunun para ile ölçülüp ölçülmediği dikkate alınacaktır.
+
+Taraflar, “arabuluculuk ücretini kararlaştırmamış” ve “görüşmeler sonunda uyuşmazlık hakkında da anlaşmaya varılmışsa”, arabulucu, ‘Arabuluculuk Asgari Ücret Tarifesinin İkinci Kısmı’nda belirtilen oranlarda, taraflarca anlaşılan tutar üzerinden ücrete hak kazanacaktır.
+
+Tarafların, “arabuluculuk faaliyetleri sonunda anlaşma sağlayamaması” ve “aralarında arabuluculuk ücreti konusunda bir anlaşma da bulunmaması” halinde,
+
+- ‘İki saat veya daha az süren arabuluculuk görüşmeleri’nde arabuluculuk ücretinin Bakanlık<sup>28</sup> tarafından ödeneceği(HUAK.m.18/a-13, HUAY.m.26/2),
+- ‘İki saati aşan arabuluculuk görüşmeleri’nde arabuluculuk ücretinin taraflarca eşit şekilde ödeneceği(HUAK.m.18/a-13, HUAY.m.26/2)
+
+hususları da dikkate alınarak, ‘Arabuluculuk Asgari Ücret Tarifesinin Birinci Kısmı’nda belirtilen miktarlar üzerinden arabuluculuk ücreti hesaplanacaktır.
+
+Tarafların arabuluculuk faaliyetler sonunda anlaşamaması üzerine, bakanlıkça ödenen ücret ve taraflarca ödenmesi gereken ücret, ‘yargılama giderlerinden sayılacaktır’ (HUAK.m.18/a-13, HUAY.m.26/2).<sup>29</sup>   Arabuluculuk ücreti, yargılama giderlerinden sayılması sebebiyle, daha sonrasında açılan davalarda, “haksız çıkan tarafa yükletilecektir”.<sup>30</sup>
+
+Taraflardan birinin “geçerli bir mazeret göstermeksizin ilk toplantıya katılmaması” sebebiyle arabuluculuk faaliyetinin sona ermesi durumunda toplantıya katılmayan taraf, son tutanakta belirtilerek daha sonra açılacak davada “kısmen veya tamamen haklı çıksa bile yargılama giderinin tamamından sorumlu tutulacaktır.” Ayrıca “bu taraf lehine vekâlet ücretine hükmedilmeyecektir.” Her iki tarafın da ilk toplantıya katılmaması sebebiyle sona eren arabuluculuk faaliyeti üzerine açılacak davalarda tarafların yaptıkları “yargılama giderleri kendi üzerlerinde bırakılacaktır.”(HUAK.m.18/A-11).
+
+Kamu görevlileri tarafından yürütülen arabuluculuk faaliyetleri sonucunda taraflarca anlaşılan ya da tarifeye göre tahakkuk edecek arabuluculuk ücreti, “arabulucunun listesinde yer aldığı komisyona bağlı adliye arabuluculuk bürosu veya adliye arabuluculuk bürosu bulunmayan yerde sulh hukuk mahkemesi yazı işleri müdürlüğüne” arabulucu tarafından bildirilecektir. Taraflarca, arabuluculuk ücreti, belirlenen tarihte adliye arabuluculuk bürosu veznesine yatırılacaktır. Adliye arabuluculuk bürosu, taraflarca yatırılan ücreti, yasal kesintileri yaptıktan sonra arabulucunun bildirmiş olduğu banka hesabına havale edecektir. Dava şartı olan arabuluculukta anlaşamama hâlinde düzenlenen sarf kararı gereğince ücret ‘Cumhuriyet Savcılığı’nca arabulucunun banka hesabına yatırılacaktır.<sup>31</sup>
+
+**V-** Yetkili arabulucunun tespitinde iş uyuşmazlıkları açısından İMK.nunda özel düzenleme dikkate alınırken, ticari dava niteliğindeki talepler hakkında ise, özel düzenleme bulunmaması sebebiyle, HUAK.nun yetkiye ilişkin hükümleri uygulanacaktır.
+
+TTK.nun 5/A maddesinden kaynaklanan arabuluculuk başvuruları; “uyuşmazlık konusu hakkında yetkili olan mahkemenin bulunduğu yer adliye arabuluculuk bürosuna yapılacaktır” (HUAK.m.18/A, f.4). Bu durumda ticari davalar bakımından yetkili arabulucu, özel kanunlardaki yetkiye ilişkin kurallar saklı kalmak üzere, HMK.nun 5 ilâ 18. maddeleri dikkate alınarak belirlenecektir.
+
+İş uyuşmazlıkları sebebiyle yapılacak arabuluculuk başvuruları ise, İMK.nun 3. maddesinin 5. fıkrası uyarınca “karşı tarafın (karşı taraf birden fazla ise bunlardan birinin) yerleşim yerindeki veya işin yapıldığı yer”deki arabuluculuk bürosuna yapılacaktır.
+
+‘Adliye arabuluculuk bürosu’nun bulunmadığı yerlerde, başvuru, görevlendirilen ‘sulh hukuk mahkemesi yazı işleri müdürlüğü’ne yapılacaktır.
+
+Yetkisiz arabulucuya başvuru halinde, karşı taraf yetkisizlik itirazında bulunabilecektir. Arabulucu, kendisini görevlendiren arabuluculuk bürosunun yetkili olup olmadığını kendiliğinden dikkate almayacaktır. Bu durumda karşı taraf en geç ilk toplantıda yetkiye itiraz etmelidir. İtiraz süresinde yapılırsa, bu durum arabulucu tarafından arabuluculuk bürosuna bildirilecektir. Bunun üzerine arabuluculuk bürosu dosyayı derhal sulh hukuk mahkemesine gönderecek ve sulh hukuk mahkemesi de 1 hafta içinde durumu ‘kesin olarak’ karara bağlayacaktır. Bu halde yetkisiz büroya başvuru tarihi yetkili büroya başvurma tarihi olarak kabul edilecektir (HUAK.m.18/A, f.8).<sup>32</sup>
+
+**VI-** Arabulucu, ‘görevlendirildiği’ tarihten başlamak üzere;
+
+- İş Hukuku’ndan kaynaklanan uyuşmazlıklarda, ‘3 hafta’ içinde (zorunlu hallerde bu süre ‘en fazla 1 hafta’ daha uzatılabilir.),
+- Konusu bir miktar paranın ödenmesi ve tazminat taleplerine ilişkin ticari davalarda, ‘6 hafta’ içinde (zorunlu hallerde bu süre ‘en fazla 2 hafta’ daha uzatılabilir.),
+
+arabuluculuk faaliyetini sonuçlandırmak zorundadır.
+
+Arabuluculuk sürecinin başlamasından sona ermesine kadar geçirilen süre, ‘zamanaşımı’ ve ‘hak düşürücü’ sürelerin hesaplanmasında dikkate alınmaya-caktır(HUAK.m.18/A, f.17).
+
+Kanun, ihtiyati tedbir ve ihtiyati hacze ilişkin sürelerle ilgili olarak özel düzenleme ihtiva etmektedir. Buna göre, HMK.m.397/1 ve İİK.m.264/1 de belirtilen dava açma süreleri, ‘arabuluculuk bürosuna başvurulmasından’ son tutanağın düzenlediği tarihe kadar işlemeyecektir. (HUAK.m.18/A, f.17)
+
+**VII-** Arabuluculuk faaliyeti:
+
+- Tarafların anlaşmaya varması,
+- Taraflara danışıldıktan sonra arabuluculuk için daha fazla çaba sarf edilmesinin gereksiz olduğunun arabulucu tarafından tespit edilmesi,
+- Taraflardan birinin karşı tarafa veya arabulucuya, arabuluculuk faaliyetinden çekildiğini bildirmesi,
+- Tarafların anlaşarak arabuluculuk faaliyetini sona erdirmesi,
+- Uyuşmazlığın arabuluculuğa elverişli olmadığının tespit edilmesi
+
+hallerinde sona erecektir.
+
+**VIII-** Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu'nun 17/2. maddesinde “Arabuluculuk faaliyeti sonunda tarafların anlaştıkları, anlaşamadıkları veya arabuluculuk faaliyetinin nasıl sonuçlandığı bir tutanak ile belgelendirilir. Arabulucu tarafından düzenlenecek bu belge, arabulucu, taraflar, kanuni temsilcileri veya avukatlarınca imzalanır” şeklinde düzenlemeye yer verilerek ‘son tutanağın’ arabulucu tarafından düzenleneceği açıkça kurala bağlanmıştır.<sup>33</sup>   Son tutanağın tarafların beyanlarına göre düzenlenmesi asıl olup, arabulucunun tutanağın içeriği ve şekli konusunda tarafları bilgilendirme yükümlülüğü bulunmaktadır. Bu halde, tarafların görüşmeleri olumlu bir şekilde tamamlaması üzerine, arabulucu tarafından anlaşma belgesi hazırlanır. Daha sonra ortaya çıkacak anlaşmazlıklara ve tereddütlere meydan verilmemesi amacıyla, tarafların anlaştıkları ya da anlaşamadıkları alacak kalemlerinin anlaşma belgesinde tek tek ve açıkça belirtilmesi gerekmektedir.<sup>34</sup>
+
+Bundan sonra anlaşma belgesinin mahkemece verilen bir karar gibi, ilam niteliğinde sayılabilmesi için, ‘icra edilebilirlik şerhi’ni içermesi gerekmektedir. İcra edilebilirlik şerhini dava açılmadan arabulucuya başvurulmuşsa, arabulucunun görev yaptığı yer sulh hukuk mahkemesi, dava devam ederken başvurulmuşsa, davaya bakan mahkeme vermeye yetkili ve görevlidir (HUAK.m.18/2). İcra edilebilirlik şerhinin verilmesi, çekişmesiz yargı işi olup, buna ilişkin inceleme dosya üzerinden yapılacaktır.<sup>35</sup>   Mahkemece ‘icra edilebilirlik’ şerhinin verilebilmesi için yapacağı incelemenin kapsamı “anlaşmanın içeriğinin arabuluculuğa ve cebri icraya elverişli olup olmadığı” hususlarıyla sınırlıdır.<sup>36</sup> Ancak doktrinde,<sup>37</sup>  bu anlaşma belgesinin “bir usul sözleşmesi olmadığı, maddi hukuk sözleşmesi olduğu, bu sebeple taraflar ileri sürsün veya sürmesin sulh hukuk mahkemesinin çekişmesiz yargı işlerinde resen araştırma yetkisi bulunması nedeniyle, anlaşmanın geçerliliğinin kanunun emredici hükümlerini ve irade fesadı hallerini kapsar şekilde inceleme yapması gerektiği” belirtilmektedir. Başvuru üzerine verilen karara karşı istinaf yolu açık olup, başvuru aşamasında maktu harç alınmaktadır. HMK.m.362/1-ç hükmü uyarınca çekişmesiz yargı işlerinde verilen kararlar temyiz kanun yoluna başvurulamayan kararlar arasında sayıldığından, verilen karar karşı temyiz yolu kapalıdır. Taraflar anlaşma belgesini icra edilebilirlik şerhi verdirmeden başka bir resmî işlemde kullanmak isterlerse, damga vergisi de maktu olarak alınır (HUAK.m.18/3).
+
+Taraflar ve avukatları ile arabulucunun imzaladığı anlaşma belgesi, ‘icra edilebilirlik şerhi’ aranmaksızın ilam niteliğindedir(HUAK.m.18/4). Arabuluculuk faaliyeti sonunda anlaşmaya varılması hâlinde, üzerinde anlaşılan hususlar hakkında taraflarca dava açılamayacaktır(HUAK.m.18/5).
+
+‘İcra edilebilirlik şerhi’ anlaşma belgesine sadece “ilam gibi icra edilen bir belge niteliği” vermektedir. Bu sebeple anlaşma belgesine “kesin hükmün bütün sonuçları”nın bağlanması söz konusu olmayacaktır. Ancak “taraflarca anlaşılan hususlar hakkında dava açılamaz” hükmü dikkate alındığında, kesin hükmün etkilerinden biri olan dava şartı etkisi doğduğu da açıktır.<sup>38</sup>   Bütün bu hususlara rağmen, anlaşma belgesinin ‘geçersizliği’ ileri sürülerek, dava açılmasının mümkün olması gerekmektedir.<sup>39</sup>
+
+‘İcra edilebilirlik şerhi’ verilmesi için yapılan başvurularda, anlaşmanın tarafları mutlaka talepte açık bir şekilde gösterilmelidir. Bu hususa ilişkin Bursa Bölge Adliye Mahkemesinin kesin olarak verdiği bir kararında; “Anlaşma tutanağına ‘icra edilebilirlik şerhi’ verilmesi için mahkemeye yapılan başvuru dilekçesinde, başvurucunun, anlaşmanın taraflarını açıkça (davalı olarak kimsenin göstermediği) belirtmediği anlaşıldığı, anlaşmanın taraflarının icra edilebilirlik şerhi talebine konu davanın tarafı kabul edilmesi gerektiğinden, borçlunun davalılar arasında gösterilmemesinin usul ve yasaya aykırı olduğunu”<sup>40</sup>
+
+belirtmiştir.
+
+## B. İş Uyuşmazlıkları ve Ticari davalarda Arabuluculuk
+
+**I-** İş ilişkisinden kaynaklanan ve kanuna veya bireysel yahut toplu iş sözleşmesine dayanan ‘alacak veya tazminat talepleri’nde, arabulucuya başvuru zorunludur(İMK.m.3/1).
+
+7036 sayılı İş Mahkemeleri Kanunu’nun 5. maddesi uyarınca, “5953 sayılı Kanuna tabi gazeteciler, 854 sayılı Kanuna tabi gemi adamları, 22/5/2003 tarihli ve 4857 sayılı İş Kanununa veya 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun İkinci Kısmının Altıncı Bölümünde düzenlenen hizmet sözleşmelerine tabi işçiler ile işveren veya işveren vekilleri arasında, iş ilişkisi nedeniyle sözleşmeden veya kanundan doğan her türlü hukuk uyuşmazlıklarında” ‘iş mahkemeleri’ görevli kılınmıştır. Söz konusu hüküm tek başına görevli mahkemeyi düzenlemiş olsa da, dava şartı arabuluculuk müessesesinin de bu maddede zikredilen bütün kanunların kapsamındaki iş uyuşmazlıklarını kapsayacağı anlaşılmaktadır.<sup>41</sup>   Yani, dava açılmadan önce arabulucuya başvuru, tek başına 4857 sayılı İş Kanunu’ndan kaynaklanan uyuşmazlıklarda zorunlu olmayıp, aynı zamanda 5953 sayılı Basın İş Kanunu ve 854 sayılı Deniz İş Kanunu ile 6098 sayılı Türk borçlar Kanunu’n İkinci Kısmının Altınca Bölümünde düzenlenen hizmet sözleşmeleri dolayısıyla ortaya çıkan uyuşmazlıklarda da zorunludur.
+
+Buna karşın, ‘iş kazası’ veya ‘meslek hastalıkları’ndan kaynaklanan maddi ve manevi tazminat davaları ile bunlarla ilgili tespit, itiraz ve rücu davaları hakkında arabulucuya başvurma zorunluluğu bulunmamaktadır(İMK.m.3/3).
+
+İş Mahkemeleri Kanunu’nda düzenlendiği üzere, arabulucuya başvuru zorunluluğu, sadece İş Kanunu gereği iş ilişkisi biten işçi ve işverenlerin ‘kıdem ve ihbar tazminatları’, ‘izinli ücret alacakları’, ‘mesai ücreti alacakları’ gibi, hak talepleri ve işe iade talepleri ile sınırlı olmayıp, kanuna veya bireysel yahut toplu iş sözleşmesine dayanan her türlü tazminat taleplerinin dava şartı arabuluculuk kapsamında olduğu açıktır. Örnek olarak belirtmek gerekirse, ‘yıllık izin ücreti’, ‘fazla çalışma (fazla mesai) ücreti’, ‘maaş’ vb. gibi işçilik alacakları ile ‘ihbar tazminatı’, ‘kıdem tazminatı’ vb. gibi tazminatlardan kaynaklanan alacak davalarında, ‘işe iade’ davalarında; ‘işçi ile işverenin birbirine hakaret etmesi’nden kaynaklanan tazminat davalarında,<sup>42</sup>  ‘mobbing nedeniyle’ açılan manevi tazminat davalarında , ‘işe başlatmama’ sebebiyle doğan tazminat davalarında, ‘eşit davranmama’dan kaynaklanan tazminat davalarında, ‘sendikal tazminat’tan doğan davalarda, arabulucuya başvuru zorunludur.
+
+**II-** Türk Ticaret Kanunu’na 7155 sayılı kanunla eklenen 5/A maddesi ile, “TTK.nun 4. maddesi ile diğer kanunlarda belirtilen ticari davalardan, konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri hakkında” dava açılmadan önce arabulucuya başvurulması zorunlu hale getirilmiştir.
+
+Belirtmek isterim ki, kanun koyucunun “bir miktar paranın ödenmesi olan alacak ve tazminat talepleri” ibaresini kullanırken, “alacak veya tazminat talepleri” şeklinde düzenlemiş olması, yani ‘ve’ bağlacı yerine ‘veya’ bağlacı kullanması daha doğru olacaktı. Burada ‘ve’ bağlacı kullanılarak alacak ve tazminat taleplerinin birlikte talep konusu olması gerekliymiş gibi muğlak bir anlam kargaşası yaratılmıştır.<sup>43</sup>
+
+TTK.nun 5/A hükmü, ‘TTK.nun 4. maddesi ile diğer kanunlarda ticari dava niteliğinde olduğu belirtilen hususların varlığı’ ve ‘bir miktar paranın ödenmesi olan alacak ve tazminat talepleri’ iki temel kriter belirlemiştir. Bu haliyle ticari davalarda zorunlu arabuluculuk müessesesinin genel çerçevesi düzenlenmeye çalışılmıştır.
+
+a) TTK.nun 5/A maddesinin aradığı birinci kriter olan ticari davalar, uygulamada<sup>44</sup>   ve doktrinde<sup>45</sup>   ‘mutlak ticari dava’ ve ‘nisbi ticari dava’ olmak üzere ikiye ayrılmaktadır.
+
+Mutlak ticari davalar, TTK.nun 4. maddesinde belirtilmiştir. Burada sayılan davaların bir kısmı “konusunun doğrudan TTK.nunda düzenlenmiş olması sebebiyle mutlak ticari dava niteliğindeyken, diğer bir kısmı ise TTK.nu dışındaki kanunlarda düzenlenen mutlak ticari davalardandır.<sup>46</sup>
+
+Konusu itibariyle başka kanunlarda düzenlenen ancak, TTK.nun 4/1-b ilâ 4/1-f arasında belirtilen;
+
+- “Türk Medenî Kanununun, rehin karşılığında ödünç verme işi ile uğraşanlar hakkındaki 962 ilâ 969 uncu maddelerinden”,
+- “11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun malvarlığının veya işletmenin devralınması ile işletmelerin birleşmesi ve şekil değiştirmesi hakkındaki 202 ve 203, rekabet yasağına ilişkin 444 ve 447, yayın sözleşmesine dair 487 ilâ 501, kredi mektubu ve kredi emrini düzenleyen 515 ilâ 519, komisyon sözleşmesine ilişkin 532 ilâ 545, ticari temsilciler, ticari vekiller ve diğer tacir yardımcıları için öngörülmüş bulunan 547 ilâ 554, havale hakkındaki 555 ilâ 560, saklama sözleşmelerini düzenleyen 561 ilâ 580 inci maddelerinden”,
+- “Fikrî mülkiyet hukukuna dair mevzuatından”,
+- “Borsa, sergi, panayır ve pazarlar ile antrepo ve ticarete özgü diğer yerlere ilişkin özel hükümlerinden”,
+- “Bankalara, diğer kredi kuruluşlarına, finansal kurumlara ve ödünç para verme işlerine ilişkin düzenlemelerinden”
+
+doğan hukuk davaları ve çekişmesiz yargı işleri, ‘ticari dava ve ticari nitelikte çekişmesiz yargı işi’ sayılacaktır.
+
+Diğer bazı hususların ise, ‘mutlak ticari dava’ olduğu doğrudan TTK.nunda değil de, başka kanunlarda belirtilmiştir. 1163 sayılı Kooperatifler Kanunu’nun 99. maddesi bu durma örnek olarak verilebilir. Bu madde hükmüne göre; Kooperatifler Kanunu’ndan kaynaklanan uyuşmazlıklar, tarafların tacir olup olmadığına bakılmaksızın ‘ticari dava’ niteliğindedir.<sup>47</sup>
+
+Nisbi ticari davalar ise, dava konusunun doğrudan ticari dava niteliğinde olduğu belirtilmemiş olmakla birlikte, “uyuşmazlık konusu, taraflardan birinin veya her ikisinin ticari işletmesiyle ilgili olması sebebiyle” ticari dava sayılmıştır.<sup>48</sup>
+
+Buna göre, taraflardan sadece birinin ticari işletmesiyle ilgili olması yeterli olan;
+
+- TBK.nun 555 ilâ 560. maddeleri arasında düzenlenen ‘havale’ye ilişkin uyuşmazlıklardan kaynaklanan,
+- TBK.nun 561 ilâ 580. maddeleri arasında düzenlenen ‘saklama sözleşmesi’ne ilişkin uyuşmazlıklardan kaynaklanan,
+- Fikir ve sanat eserlerine ilişkin haklardan doğan uyuşmazlıklardan kaynaklanan,
+
+davalar ‘nisbi ticari dava’ sayılacaktır.
+
+Her iki tarafın da ticari işletmesiyle ilgili olan davalar da ‘nisbi ticari dava’lardır. Bu kapsamda her iki tarafında ticari işletmesiyle ilgili olan davalarda uyuşmazlık konusunda bir sınırlama bulunmamaktadır. Örneğin her iki tarafın ticari işletmesiyle ilgili olan bir kira sözleşmesine ilişkin ortaya çıkan uyuşmazlıklar sonucunda açılacak olan davalar ‘nisbi ticari dava’ sayılacaktır.<sup>49</sup>
+
+b) TTK.nun 5/A hükmünün aradığı ikinci temel kriter ise, ‘dava konusunun bir miktar paranın ödenmesi olan alacak ve tazminat taleplerine ilişkin olması’dır. Dava konusunun tek başına ticari mahiyette olması bu konularda dava açılmadan önce arabulucuya başvurulmasını zorunlu hale getirmeyecektir.<sup>50</sup>
+
+c) Ticari davalar bakımından, ‘itirazın kaldırılması’, ‘doğrudan doğruya iflas’, ‘konkordato mühleti verilmesi ve komiserin atanması’, ‘konkordatonun tasdiki’ gibi çekişmesiz yargı işleri dava olmamaları sebebiyle, zorunlu arabuluculuk kapsamında değerlendirilmeyecektir.
+
+d) Bölge Adliye Mahkemelerinin “ticari davaların zorunlu arabulucuya tabi olup” olmadığı konusunda vermiş olduğu çeşitli kararlarında;
+
+- “Zorunlu sigortalarının TTK 1483 vd. maddelerinde düzenlendiğinden, davanın ticari mahiyette olduğu, bu durumda arabulucuya başvurulmadan dava açılamayacağını”<sup>51</sup>
+- “Tarafların TTK'nunda düzenlenen ticari şirketlerden olduğu, davacı şirketin hesabından davalı şirket hesabına yapılan ödemenin sehven yapıldığından bahisle başlatılan icra takibine yapılan itirazın iptali için, süresinde eldeki davanın açıldığı; başka bir anlatımla her iki tarafın tacir olduğu, bu davanın TTK mad. 4/1 hükmüne göre her iki tarafın ticari işletmesi ile ilgili olduğundan nisbi ticari dava niteliği taşıdığı tartışmasız olduğu hususları birlikte değerlendirildiğinde, davacı tarafından dava açılmadan önce dava şartı arabuluculuk kapsamında arabulucuya başvurulduğuna ilişkin son tutanağın dava dilekçesine eklenmediği, nitekim arabulucuya başvurmadan davanın açıldığı anlaşıldığına göre; ilk derece mahkemesince davanın TTK mad. 5/A ve 6102 Sayılı HMK mad. 114/2 ve 115 inci maddesi uyarınca dava şartı yokluğu nedeniyle usulden reddine karar verilmesinde isabetsizlik bulunmadığını”<sup>52</sup>
+- “İpoteğin fekki davasının ‘alacak ve tazminat taleplerini ihtiva etmediği’ bu davanın açılmasında önce, zorunlu arabulucuya başvurulma zorunluluğunun bulunmadığını”<sup>53</sup>
+- “Tüketicinin Korunması Hakkındaki Kanun’unun 3, 73/1 ve 83/2. maddeleri uyarınca; bir tarafını tüketicinin oluşturduğu kredi sözleşmelerinden kaynaklanan davalara bakma görevinin tüketici mahkemelerine ait olduğu, bu durumda, bu davaların ticari dava niteliği bulunmadığından, tüketici mahkemesinde dava açılmadan önce arabuluculuğa başvurulmasının zorunlu olmayacağını”<sup>54</sup>
+- “Tüketicinin taraf olduğu banka kredilerinden kaynaklanan uyuşmazlıklarda zayıf tarafı koruma amacıyla ihtisas mahkemesi niteliğindeki tüketici mahkemesinde görülmesi davanın ticari olma niteliğini değiştirmeyeceği, bunun temel nedeninin ise, TTK mad. 4/1-g uyarınca davanın ticari olması tarafların sıfatına değil, davanın dayanağı olan yasal düzenlemenin niteliğine yani bankacılık işlemlerine göre belirlenmesinden kaynaklandığı, bu durumda dava tüketici mahkemesinde görülse de, bu tür davaların ticari dava niteliği bulunduğu ve zorunlu arabuluculuğa başvuru zorunluğu bulunduğunu”<sup>55</sup>
+- “Taraflar arasındaki temel ilişki ticari olmayan taşınmaz satımından kaynaklandığı, davacının, edimlerini yerine getirdiğini, ancak davalının edimlerini yerine getirmemesi nedeniyle sözleşmeden döndüğünü ve ödediği bedelin iadesiyle satış bedeli olarak tanzim ettiği senetlerden dolayı borçlu olmadığının tespitini talep ettiği, davacı 6502 sayılı TKHK  mad. 3/1-k gereğince tüketici sıfatında olup, taraflar arasındaki ilişki de tüketici işlemi niteliğinde olduğu, taşınmaz satışına yönelik tanzim edilen senetlerin aynı kanunun 4/5. maddesi kapsamında değerlendirilmesi gerekmekte olup, taraflar arasındaki temel ilişki ticari olmayan taşınmaz satışından kaynaklanması nedeniyle, davanın TTK  mad. 4 anlamında mutlak ticari dava olmadığı, bu nedenle arabuluculuk yoluna başvuru zorunluluğunun eldeki iş bu dava açısından zorunlu ve geçerli olmadığını”<sup>56</sup>
+- “Davacının talebi ‘senetlerin teslimi olmadığı takdirde zayi nedenliyle iptali’ne ilişkin olduğu, bu talebin para veya tazminat ihtiva etmediğini”<sup>57</sup>
+- “Taraflar arasında gayrimenkul satış sözleşmesinin bulunması ve her iki tarafında tacir olmaması sebepleriyle, uyuşmazlık konusunun tüketici işleminden kaynakladığı, bu durumda dava açılmadan önce arabulucuya başvurunun zorunlu olmadığını”<sup>58</sup>
+- “Süresinde muhatap bankaya ibraz edilmeyen çeke dayalı alacağın sebepsiz zenginleşme hükümlerine göre davalı keşideciden tahsiline ilişkin açılan davada, davacı kamu kurumu olup, zorunlu arabulucuya tabi uyuşmazlık hakkında arabulucuya başvurulmadan dava açıldığı, zorunlu arabulucuya başvuru konusunda kamu kurum ve kuruluşlarında herhangi bir istisna getirilmediği, bu durumda kamu kurumunun arabulucuya başvurmamış olmasının anlaşılması nedeniyle davanın usulden reddi gerekeceğini”<sup>59</sup>
+
+belirtmiştir.
+
+Aşağıda değineceğimiz ‘menfi tespit davaları’ ile ‘tasarrufun iptali davaları’ dışında ‘tüketicinin taraf olduğu banka kredileri’ ile ‘zorunlu sigortalar’ sebebiyle doğan uyuşmazlıklardan kaynaklanan taleplerin de ‘zorunlu arabuluculuğa tabi olup olmadığı’ tartışmalıdır.<sup>60</sup>
+
+## C. Menfi (Olumsuz) Tespit Davaları
+
+Tespit davaları<sup>61</sup>   bir hakkın veya hukuki ilişkinin var olup olmadığının ya da bir belgenin sahte olup olmadığının tespitine ilişkin davalardır. Bu davalar ‘genel olarak’ HMK.nun 106. maddesinde düzenlenmiştir. Ancak çeşitli kanunlarda özel olarak düzenlenen tespit davaları da mevcuttur.<sup>62</sup>
+
+İİK.nun 72 ve 89. maddelerinde, uygulamada pek çok kez başvurulan “menfi (olumsuz) tespit davaları” özel olarak düzenlemiştir. Menfi (olumsuz) tespit davası, “borçlunun, hakkında yapılan icra takibinden önce veya sonra, hukuki yararı bulunan durumlarda maddi hukuk bakımından borçlu olmadığının tespiti için açtığı bir dava” olarak tanımlanabilir.<sup>63</sup>   Bu davanın, icra takibinden önce veya takip sırasında -borçlu olmadığının ispatı için- açılması mümkündür. Borçlunun icra takibinden sonra bu davayı açabilmesi, ancak korunmaya değer bir hukuki yararının mevcut olmasına bağlıdır (HMK.m.106/2).<sup>64</sup> <sup>65</sup>
+
+Yüksek mahkeme menfi (olumsuz) tespit davalarını geçmişten bugüne süregelen içtihatlarında;
+
+- “Bir hukuki ilişkinin veya bir hakkın gerçekten mevcut olmadığının tespitine yönelik, bir başka deyişle, hukuki bir yarar bulunması koşuluyla, sonuçta alacak-borç ilişkisi doğuracak bir durumun olmadığının tespiti amaçlandığı bir dava”<sup>66</sup> ,
+- «Gerçekte var olmayan bir borç ya da geçersiz bir hukuki ilişki nedeniyle icra takibine maruz kalması muhtemel olan veya icra takibine maruz bir kimsenin (borçlunun), gerçekte borçlu bulunmadığını ispat için açacağı dava»<sup>67</sup> ,
+- “Hukuki bir ilişkinin ya da ondan doğan bir hak veya yetkinin mevcut olmadığının, bir belgenin sahteliğinin ya da herhangi bir nedenle hükümsüzlüğünün tespiti için, hukuksal yarar bulunması koşuluna bağlı olarak açılan ve sonunda herhangi bir mahkumiyet istemini içermeyip, konusunu teşkil eden hususun bir kararla tespitini amaçlayan bir davadır”<sup>68</sup>
+
+şeklinde tanımlanmıştır.<sup>69</sup>
+
+Davacı-borçlu bu davalarda, maddi hukuk bakımından borçlu olmadığının tespiti için; ‘borcun hiç doğmamış olduğunu’, ‘alacağın henüz muaccel olmadığını’, ‘alacaklı tarafından kendisine mehil verildiğini’ veya ‘alacağın zamanaşımına uğradığını’ ileri sürmektedir.<sup>70</sup>   Bu talepler sonucunda davalı-borçlunun borcunun bulunup bulunmadığı tespit edilerek hüküm kurulmaktadır.
+
+“Menfi (olumsuz) tespit davalarının zorunlu arabuluculuk müessesesine tabi olup olmayacağı” doktrinde ve yüksek mahkeme kararlarında en çok tartışılan konuların başında gelmektedir. Bir görüş<sup>71</sup>   “davanın sebebinin dikkate alınması gerektiğini, menfi tespit davalarının ise doğum sebebi para alacağı olduğundan, bu durumda zorunlu arabuluculuk müessesesinin uygulanması gerekeceğini” ileri sürmekteyken, diğer bir görüş ise, “bu davalarda ileri sürülen talep ve kurulacak hükmün para alacağı içermediğini, bu sebeple zorunlu arabulucuya tabi olamayacağını” ileri sürmektedir.
+
+Bölge Adliye Mahkemelerinin çeşitli kararlarda, menfi (olumsuz) tespit davalarının  ‘dava konusunun ve kurulacak hükmün bir miktar para alacağını ihtiva etmesi gerekmediği’, ‘esasında davanın konusunun bir para alacağı olduğu’, ‘kanunun, bu tür davaların zorunlu arabuluculuğa tabi kılınmasını amaçladığı’ ‘uyuşmazlık türünün esas alınması gerekeceği’, ‘bu davalarda taleplerin TTK.ndan kaynaklandığı’ ” gerekçeleriyle zorunlu arabuluculuk müessesesine tabi olduğu belirtilirken,  diğer bazı kararlarda ise,            “ ‘davanın konusunun bir para alacağı olmadığı’, ‘alacağın tahsiline ilişkin olmadığı’, ‘dava sonunda verilecek hükmün eda niteliği olmadığı’, ‘bu davaların TTK.nda düzenlenmediği’, ‘dava dilekçesinin netice-i talep kısmında para alacağının tahsilinin istenmediği’ ” gerekçeleriyle, “bu davaların zorunlu arabuluculuk müessesesine tabi olmadığı” belirtilmiştir.  Ancak Yargıtay 19. Hukuk Dairesi bölge adliye mahkemeleri hukuk dairelerinin kesin nitelikteki kararları arasındaki uyuşmazlığın giderilmesine yönelik kararında; “Ticari nitelikteki menfi tespit davalarında dava açılmadan önce “arabuluculuğa" gidilmesinin zorunlu olmadığı, arabulucuya gidilmiş olmasının bir “dava şartı” olmadığını”<sup>72</sup>  belirterek bu tartışmalara son noktayı koymuştur.
+
+“Menfi (olumsuz) tespit davalarının zorunlu arabuluculuğa tabi olduğunu” belirten Bölge Adliye Mahkemesi kararlarında;
+
+- “İhtiyati haciz kararından sonra borçlu tarafından menfi tespit davasının dava şartı olan arabuluculuğa başvurulduğu anlaşılmakla, itirazın, esas uyuşmazlığa bakan menfi tespit davasının görüldüğü dosyadan incelenmesi gerektiği” <sup>73</sup>
+- “Menfi tespit davalarının gerek taraflar arasındaki hukuki sonucun niteliği, gerek zorunlu arabuluculuk yasasının ve gerekse TTK mad. 5 uyarınca arabuluculuğa ilişkin yapılan düzenlemenin hedefi şekil ve öz açısından bir arada düşünüldüğünde, ticari davalarda menfi tespit davalarının da zorunlu arabuluculuk kapsamında olduğunun kabulü gerekeceği”<sup>74</sup>
+- “Kanun metninin yoruma muhtaç ifadeler içermesi durumda, sadece lafzi yorum ile hareket edilemeyeceği, işin içine yorum katılması gerektiğinde yorumun kanunun amacına uygun yapılması gerekeceği, kanunun amacının ise gerekçesinden ve ruhundan faydalanarak tespit edilebileceği dikkate alındığında, TTK mad 5/a hükmü olumsuz tespit davalarının (menfi tespit) arabuluculuğa tabi olmadığına dair açık bir düzenleme bulunmadığına göre genel gerekçe ve madde gerekçesinde kullanılan ifadelerden hareketle yorum yapılarak, madde gerekçesinin ‘uyuşmazlık kriterine’ işaret ettiğinden, dava türüne göre değil uyuşmazlık türü esas alınarak yapılan değerlendirme sonucunda; eldeki genel tarımsal kredi nedeniyle borçlu olmadığının tespiti ve ödenen tutarların -miktar belirtilmemiş- istirdadı davasının, TTK mad. 5/a gereğince dava şartı arabuluculuğa tabi olacağı”<sup>75</sup>
+- “Menfi tespit davası karşı tarafın potansiyel alacak iddiası ile bir takip başlatma veya dava açma tehdidini etkisiz kılmaya veya dava açılmışsa borcun ödenmesini önlemeye yönelik olduğundan, bu davanın konusunun arabuluculuk şartı öngören yasa anlamında bir para alacağı olduğu, bu alacağın hangi tarafa ait olduğunun öneminin bulunmadığı, yasanın konusu bir miktar para olan borç ilişkisinin taraflarından birini arabuluculuğa tabi kılarken diğer tarafı buna dahil etmemiş olması yasanın amacına ve menfaatler dengesine aykırı olacağı, alacak davası ve menfi tespit davalarında maddi hukuk açısından taraflardan birinin yükümlülüğünün para borcu olduğu bir tek hukuki ilişki olmasına rağmen, usul hukuku bakımından aynı borç için alacaklıya alacak davası açma, borçluya ise söz konusu borcu ödemeden kurtulmasına imkan veren menfi tespit davası açma, ayrıca bütün bunların dışında da açılacak alacak davasında, savunma içinde borçluya savunma kapsamında alacağın bulunmadığını kanıtlama hakkı tanıdığından, özel dava şartı yokluğundan(arabulucuya başvurmama) davanın usulden reddine dair verilen kararda usul ve yasaya aykırılık bulunmadığı”<sup>76</sup>
+- ‘Kanun koyucunun netice-i talep veya dava türü ne olursa olsun "dava konusu bir miktar para alacağı" olan tüm talepler hakkında, alacaklı ve borçlu açısından bir ayırım yapılmadan ve bir sınırlama getirilmeden dava açılmadan önce arabulucuya başvurulmuş olmasını’ dava şartı olarak düzenlemeyi amaçladığı, ‘menfi tespit’ talebi ile ‘alacak’ talebinin hukuken aynı kavramlar olmayıp, bu davalar sonucunda netice-i talepler ile kurulacak hükümlerinde farklı olduğu, ancak burada dava konusu bir miktar para alacağı ise, açılacak davanın ya da talebin ne olduğunun bir önemi olmadığı, ister alacak, ister menfi tespit, ister istirdat, ister itirazın iptali, ister tazminat talebi olsun bu davaların ortak noktasının "dava konusunun bir miktar para alacağı" olduğu, sadece netice-i talepler ve mahkemelerce kurulacak hükümlerin birbirinden farklı olduğu, sınırlayıcı bir yorum yaparak sadece “alacak” veya “tazminat” davalarıyla sınırlı bir uygulama yapmanın kanun koyucunun iradesine aykırı olacağı, zira böyle sınırlayıcı bir yorum yapıldığında İİK mad. 67'de düzenlenen ‘itirazın İptali’ ve ‘İİK.m.72'de düzenlenen ‘istirdat’ davalarında arabulucuya başvuru sürecini muğlak hale getireceği, alacaklı tarafından açılacak alacak davasının ‘arabulucuya başvurma’ dava şartına tabi tutulması, ancak aynı konu ve alacak ile ilgili borçlu tarafından açılacak menfi tespit veya istirdat davasının ‘arabulucuya başvurma’ dava şartına tabi tutulmaması durumunda bu uygulamanın alacaklı yönünden T.C. Anayasa'sının 10. maddesinde düzenlenen ‘eşitlik ilkesi’ ve Anayasa'nın 36. maddesinde güvence altına alınan ‘adil yargılanma hakkı’ kapsamında mahkemeye erişim hakkının ihlaline yol açacağı, bütün bu nedenlerle TTK mad. 5/A gereğince, menfi tespit talepleri hakkında dava açılmadan önce arabulucuya başvurulmuş olmasının dava şartı olarak kabul edilmesi gerektiği”<sup>77</sup>
+- “Kambiyo senedine dayalı açılan menfi tespit davasında, kambiyo senetlerinin Ticaret Kanunu'nda düzenlendiği, bu tür davaların TTK' nın 3 ve 4/1-a maddeleri uyarınca ticari dava niteliğinde olduğu, ticari davalarda konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri hakkında dava açılmadan önce arabuluculuğa başvurulmuş olması dava şartı olarak kabul edilmiş olup, tarafların arabulucuya başvurmadığı anlaşıldığından, dava şartı yokluğu nedeniyle davanın usulden reddine karar verilmesi gerektiği”<sup>78</sup>
+
+ifade edilmiştir.
+
+“Menfi (olumsuz) tespit davalarının zorunlu arabuluculuğa tabi olmadığını” belirten Bölge Adliye Mahkemesi kararlarında;
+
+- “İcra hukuku kapsamında menfi tespit davası ile davacının, para alacağının hiç doğmadığını ya da sonradan sona erdiğini iddia ederek bu durumun tespitini, sözleşmenin hata, hile veya ikrah nedeniyle geçersiz olduğunu, borcun ödeme ile ortadan kalktığının tespitini isteyebileceği, menfi tespit yargılaması sonunda (istisna:istirdat dışında) bir eda hükmü kurulmayacağı, oysa alacak ve tazminat davaları bir eda talebiyle açılıp, yargılama sonunda bir eda hükmünün kurulduğu, bu nedenle menfi tespit davalarında arabuluculuğun zorunlu dava şartı olarak kabul edilemeyeceği”<sup>79</sup>
+- “Menfi tespit davasının esasen bir eda davası değil ‘tespit’ davası olduğu, dava devam ederken alacağın ödenmesi ve istirdata dönüşmesinde de durumun değişmeyeceği, istirdat istemi menfi tespit isteminin kabul edilmesine bağlı ve terditli bir talep olarak ileri sürüldüğü, uyuşmazlık konusunun menfi tespit istemine ilişkin olduğundan, menfi tespit isteminin; 6102 sayılı TTK 5/A maddesi gereğince arabuluculuğa tabi olmadığı”<sup>80</sup>
+- “Bono bedelinin ödendiği iddiasına dayalı menfi (olumsuz) tespit davasında, TTK.nun 5/A maddesinde; ‘TTK.m. 4 ve diğer kanunlarda belirtilen ticari davalardan, konusu bir miktar paranın ödenmesi olan alacak ve tazminat talepleri hakkında dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır’ denilmekle, davanın konusunun ‘bir miktar paranın ödenmesine ilişkin alacak ve tazminat olmadığı, bono bedelinin ödendiğinden bahisle borçlu bulunmadığının tespiti talepli olduğu’ göz önüne alınarak, mahkemenin arabulucuya başvurulmadığından bahisle dava şartı yokluğundan usulden ret kararının yerinde olmadığı”<sup>81</sup>
+- “Menfi tespit ve çek istirdadı istemine ilişkin davada, davacının talebi çek nedeniyle borçlu olunmadığının tespiti ve çekin istirdadı olduğu, yani davacının davalıdan para veya tazminat talep etmediği, bu durum karşısında davacının tarafın taleplerinin zorunlu dava şartı olan arabuluculuk kapsamında değerlendirilmesinin mümkün görülmeyeceği”<sup>82</sup>
+- “Menfi tespit davalarında; bir alacağın tahsili talep edilmediği gibi, bu davanın sonucunda verilecek hüküm de bir alacağın tahsili sonucunu doğuran eda hükmü niteliğinde olmadığından; ticari dava mahiyetindeki menfi tespit davalarında, dava açılmadan önce arabulucuya başvuru zorunluluğunun bulunmadığı”<sup>83</sup>
+- “Dava konusunun (müddeabih), dava dilekçesindeki netice-i talep kısmı dikkate alınarak belirlendiğinden, netice-i talep kısmının bir para alacağının tahsilin veya tazminatı ihtiva etmesi halinde arabulucuya başvurunun zorunlu olacağı, bu durumda, menfi tespit davalarında bir alacağın tahsili talebi olamayacağından, bu davalarda arabulucuya başvurunun zorunlu olmayacağı”<sup>84</sup>
+
+ifade edilmiştir.
+
+Görüldüğü üzere, belirttiğimiz Bölge Adliye Mahkemesi kararlarında “menfi (olumsuz) tespit davalarının arabulucuya tabi olup olmadığı” konusunda bir birlik sağlanamamıştır. Ancak yukarıda<sup>85</sup>   kısaca bahsettiğimiz ve Yargıtay 19. Hukuk Dairesinin Bölge Adliye Mahkemesinin birbirinin aksine verilen kararlarının giderilmesine ilişkin kararında da belirtiği üzere, “ticari mahiyetteki menfi tespit davalarının, ileri sürülen talepler ile dava sonunda verilen hükmün eda niteliği taşımaması” sebepleriyle, zorunlu arabuluculuk kapsamında olmadığı açıktır.
+
+Yargıtay 11. Hukuk Dairesinin yakın tarihli bir kararında ise; “Çek istirdadı davasında, arabulucuya başvurulmasının dava şartı olmadığı- "Çekten kaynaklı menfi tespit davasında" arabulucuya başvurmanın dava şartı olduğu- Menfi tespit davasının, arabuluculuk dava şartına tâbi olmayan çek istirdadı davası ile birlikte açılmış olması durumunda, artık menfi tespit talebinin de "arabuluculuk dava şartına" tâbi olmayacağını” belirterek, menfi tespit davasının tek başına zorunlu arabuluculuk kapsamında olduğunu, ancak çek istirdadı davası ile birlikte görülmesi halinde artık bunun mümkün olmadığı sonucuna varmıştır.
+
+## D. Tasarrufun iptali davaları (İİK.m. 277 vd.)
+
+‘Haciz’den (ve ‘iflâs kararı’ndan) önce, malları üzerinde serbestçe tasarrufta bulunabilen borçlular, henüz alacaklıların -haciz ve iflâs yolu ile- takibine hedef olmadan, onlardan ‘mal kaçırmak’ (yani, onların hakkında yapacağı takibi semeresiz bırakmak) amacı ile, malvarlığının tamamını ya da bir kısmını, bir takım ‘hileli’ işlemlerle (yani, bedelsiz olarak ya da çok ucuz bedelle) başkalarına (özellikle, yakınlarına, kendisinin bu amacını bilen arkadaşlarına) devredebilirler ya da bedelini kendisi ödeyerek yakınları üzerine taşınır/taşınmaz mal satın alarak malvarlığını azaltabilirler. İşte, bu gibi kötü niyetli borçluların -mal kaçırmak kastı ile- yaptıkları bu tür işlemlerden zarar gören alacaklıları korumak amacı ile, onlara iptal davası denilen bir dava açma hakkı tanınmıştır.<sup>86</sup>   İptal davalarında amaç, borçluların henüz tasarruf yetkilerinin kısıtlanmadığı bir dönemde (yani; ‘haciz’den ve ‘iflâs kararı’ndan önce) alacaklılarından mal kaçırmak kastı ile, kötü niyetle yapmış oldukları hukukî işlemleri, davacı alacaklı bakımından ‘hükümsüz’ sayarak, borçlunun malvarlığından uzaklaştırdığı (çıkardığı) dava konusu mal üzerinde, alacaklının      -sanki, bu mal halâ borçluya aitmiş gibi- cebri icra yolu ile alacağını elde etmesini -bu malın haciz ve satışını isteyerek- sağlamaktır.<sup>87</sup>
+
+Tasarrufun iptali davalarının düzenlendiği İİK.nun 277 vd. maddelerinde göreve ilişkin bir düzenlemeye yer verilmemiştir. İİK.nun 281/1 maddesinde sadece ‘mahkeme’ ibaresi kullanılmıştır. Öncelikle 6100 sayılı Hukuk Muhakemeleri Kanunu’nun yürürlüğe girmesiyle, “dava konusun değer ve miktarına bakılmaksızın aksine bir düzenleme de mevcut değilse asliye hukuk mahkemesi görevli kılınmıştır”(HMK.m.2). Bu hüküm karşısında HMK.nun yürürlük tarihinden sonra açılan tasarrufun iptali davalarında, tasarruf işleminin değer ve miktarına bakılmaksızın asliye hukuk mahkemesi görevli hale gelmiştir. Bununla birlikte bu davalarda amaç, “borçlunun aciz veya iflasından önce yaptığı ve aslında geçerli olan bazı tasarrufların geçersiz ya da iyiniyet kurallarına aykırılık nedeniyle alacaklıya karşı sonuçsuz kalmasını ve dolayısıyla o mal üzerinde cebri icraya devamla alacağın tahsilini sağlamak”tır. Bu haliyle tasarrufun iptali davasının mutlak veya nisbi dava niteliği bulunmamaktadır. Takibin tarafları arasındaki ilişki bir ticari dava niteliği taşısa da, tasarrufun iptali davaları asliye hukuk mahkemesinde görülecek ve ticari niteliği olmayacaktır. Bu sebeple tasarrufun iptali davalarının TTK.nun 5/A maddesi kapsamında zorunlu arabuluculuk müessesesine tabi olması mümkün değildir. Kaldı ki bu davalar takibin tahsili cihetinde bir dava olması sebebiyle, dava konusu başlı başına bir alacak olmamaktadır. Bu yönüyle de TTK.nun 5/A maddesi kapsamında değildir.
+
+## E. Sonuç
+
+Zorunlu arabuluculuk süreci, hukukumuzda ‘Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu’ ile henüz yer bulan, olgunlaşmamış (güncel) alternatif çözüm yollarından biridir. Bu yeni durum karşısında uygulamada çeşitli belirsizlikler oluşmakta ve bu belirsizlikler de yeni uyuşmazlıkları ortaya çıkarmaktadır. Uyuşmazlıkların daha kısa sürede çözülmesi ve mahkemelerin iş yükünün azaltılması amacıyla düzenlenen arabuluculuk müessesesi, uyuşmazlıkların çözümüne istendiği gibi bir katkı sağlayacak mıdır? Aksine hak talepleri olan kişilerin bu taleplerine karşılık yeni bir maddi külfet ve dava açılması için bol miktarda bekleme süresi mi ortaya çıkaracaktır?
+
+Unutmamak gerekir ki, bir uzlaşmanın ortaya çıkması ancak tarafların karşılıklı taviz vermesi ile mümkündür. Bu durumda taraflar arabuluculuk anlaşması ile çeşitli konulardan veya miktarlardan vazgeçmek zorundadır. Bu halde hak talepleri olanlar, yargının iş yükünün olağan dışı olması sebebiyle mahkeme koşullarında talep edebilecekleri konu ve miktarlardan, arabuluculuk sürecinde kısmen veya tamamen vazgeçecektir.
+
+Zorunlu arabuluculuk müessesesi, günümüz uyuşmazlıkları da dikkate alındığında, ticari davalar bakımından uygulanabileceği söylenebilir. Sonuçta ticari hayat uzun süren yargılamalar yerine anlaşarak çözüm bulmaya daha elverişlidir. Bu bakımdan ticari hayatın sürdürülebilirliğine etkisi olumlu olabilecektir. Ancak zorunlu arabuluculuk düzenlemelerinin bu haliyle tarafların isteklerine cevap verecek nitelikte olup olmadığı şu an için belirsizdir. Bu belirsizliğin temel sebebi ise düzenlemelerin (özellikle TTK.m.5/A) yeterince açık olmamasından kaynaklanmaktadır.
+
+Son olarak belirtmek gerekir ki, zorunlu arabuluculuk müessesesinin uygulamadaki eksik ve belirsiz yönlerinin yeni düzenlemeler, içtihatlar ve görüşlerle giderilmesi gerekmektedir.
+
+\*İzmir Barosu, Sic. N. 15641
+
+**Kaynakça**
+
+• 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu (R.G. 25.10.2017, sayı:30221)
+
+• 7036 sayılı İş mahkemeleri Kanunu (R.G. 25.10.2017, sayı:30221)
+
+• 6102 sayılı Türk Ticaret Kanunu (R.G. 14.02.2011, sayı:27846)
+
+• 7155 sayılı Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına ilişkin Takibin Başlatılması Usulü Hakkında Kanun (R.G. 19.12.2018, sayı:30630)
+
+• Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Yönetmeliği (R.G. 02.06.2018, sayı:30439)
+
+• Arabuluculuk Asgari Ücret Tarifesi (R.G. 31.12.2019, sayı:30995)
+
+• ATALI, A./ERMENEK, İ./ERDOĞAN, E. İcra ve İflas Hukuku, 2.Baskı, 2019
+
+• ARSLAN, R./YILMAZ, E./TAŞPINAR AYVAZ, S. Medeni Usul Hukuku, 3.Baskı, 2017
+
+• BUDAK, A.C./KARAASLAN, V. Medeni Usul Hukuku, 3.Baskı, 2019
+
+• CAN, H.G. Ticari Davalarda Zorunlu Arabuluculuk Düzenlemesinin Kapsamı ve Bazı Tartışmalı Hususlar (İBD., C:93, S:6, 2019, s:177)
+
+• ERCAN, İ. Uygulamacılar İçin Medeni Usul El Kitabı, 4.Baskı, 2019,
+
+• EROĞLU, O. Tasarrufun İptali Davaları ile Muvazaa Davaları ve Karşılaştırılması, 2019
+
+• KURU, B. İstinaf Sistemine Göre Yazılmış Medeni Usul Hukuku, 3.Baskı, 2019
+
+• KURU, B. İcra ve İflas Hukuku El Kitabı, 2.baskı, 2013
+
+• KAR, B. İş Yargılama Usulü, 2.Baskı, 2019
+
+• ÖREN, O. Tasarrufun İptali Davaları Zorunlu Arabuluculuk Kapsamında Değildir (İBD. C:93, S:4, 2019, s:76 vd.)
+
+• SAPER, S. İş Hukuku, 18. Baskı, 2019
+
+• TBMM Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Tasarısı ve Avrupa Birliği Uyum Komisyonu ile Adalet Komisyonu Raporu, S.sayısı:233
+
+• UYAR, T. İcra Hukukunda Olumsuz Tespit ve Geri Alma Davaları (İ.İ.Y. 72), 3.Baskı, C:1
+
+• UYAR, T./UYAR, A./UYAR, C. Olumsuz (Menfi) tespit ve Geri Alma (İstirdat) Davaları, 4.Baskı, 2015,
+
+• UYAR, T./UYAR, A./UYAR, C. İcra ve İflas Hukukunda Tasarrufun İptali Davaları, 6.Baskı, 2019,
+
+• WWW.E-UYAR.COM Yargıtay ve Bölge Adliye Mahkemesi Kararları
+
+## Footnotes
+
+1. Bknz: R.G. 22.06.2012, sayı:28331 ↩
+2. BUDAK, A.C./KARAASLAN, V. Medeni Usul Hukuku, 3.Baskı, 2019, s:444-445 ↩
+3. Bknz: R.G. 25.10.2017, sayı:30221 ↩
+4. Bknz: R.G. 14.02.2011, sayı:27846 ↩
+5. BUDAK, A.C./KARAASLAN, V. a.g.e. s:443-444 ↩
+6. KURU, B. İstinaf Sistemine Göre Yazılmış Medeni Usul Hukuku, 3.Baskı, 2019, s:407 - BUDAK, A.C./KARAASLAN, V. a.g.e., s:444 – TBMM Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Tasarısı ve Avrupa Birliği Uyum Komisyonu ile Adalet Komisyonu Raporu, S.sayısı:233, s:4 ↩
+7. Bknz: 9. HD. 05.09.2019 T. 5438/15284(www.e-uyar.com) ↩
+8. Arabuluculuk Sicili (HUAK.m.2/1, g) ↩
+9. Bknz: Ankara BAM 7. HD. 17.09.2019 T. 3857/2224(www.e-uyar.com) ↩
+10. Bknz: R.G. 19.12.2018, sayı:30630 ↩
+11. SAPER, S. İş Hukuku, 18. Baskı, 2019, s:14 vd. – KAR, B. İş Yargılama Usulü, 2.Baskı, 2019, s: 65 vd. ↩
+12. KAR, B. a.g.e., s:427 ↩
+13. BUDAK, A.C./KARAASLAN, V. a.g.e., s:452 ↩
+14. Bknz: İzmir BAM 9. HD. 25.09.2019 T. 2097/1048; İstanbul BAM 24. HD. 18.09.2019 T. 2729/2600(www.e-uyar.com) ↩
+15. KAR,B. a.g.e., s:427 – İstanbul BAM 14. HD. 14.11.2019 T. 2211/1459 (www.e-uyar.com) ↩
+16. Bknz: Konya BAM 8. HD. 26.09.2019 T 2394/1372(www.e-uyar.com) ↩
+17. Bknz: Antalya BAM 9. HD. 12.09.2019 T. 1893/1417; Antalya BAM 9. HD. 12.09.2019 T. 1822/1416(www.e-uyar.com) ↩
+18. Bknz: Konya BAM 8. HD. 26.09.2019 T. 2337/1359(www.e-uyar.com) ↩
+19. Bknz: İstanbul BAM 31. HD. 17.07.2019 T. 2016/1614(www.e-uyar.com) ↩
+20. Bknz: İstanbul BAM 7. HD. 07.11.2019 T. 1829/1868(www.e-uyar.com) ↩
+21. Bknz: İzmir BAM 3. HD. 18.09.2019 T. 1647/1269(www.e-uyar.com) ↩
+22. KAR, B. a.g.e., s:437 - 438 ↩
+23. Bknz: 9. HD. 10.09.2019 T. 6226/15522(www.e-uyar.com) ↩
+24. Bknz: R.G. 02.06.2018, sayı:30439 ↩
+25. Bknz: 9. HD. 10.09.2019 T. 3608/15523; 10.09.2019 T. 6226/15522; 10.09.2019 T. 6226/15522; Antalya BAM 9. HD. 26.09.2019 T. 1189/1530; İzmir BAM 15. HD. 20.09.2019 T. E: 2019/11932, K: 2019/703; İzmir BAM 15. HD. 23.09.2019 T. 1901/691; Ankara BAM 6. HD. 13.09.2019 T 2509/1776(www.e-uyar.com) ↩
+26. Bknz: 9. HD. 10.09.2019 T. 3608/15523; 10.09.2019 T. 6226/15522; 10.09.2019 T. 6226/15522; Antalya BAM 9. HD. 26.09.2019 T 1189/1530; İzmir BAM 15. HD. 20.09.2019 T. 11932/703; 15. HD. 23.09.2019 T. 1901/691; Ankara BAM 6. HD. 13.09.2019 T. 2509/1776(www.e-uyar.com) ↩
+27. Bknz: R.G. 31.12.2019, sayı:30995 ↩
+28. Adalet Bakanlığı ↩
+29. Bknz: 22. HD. 07.11.2019 T. 7312/20487; Samsun BAM 7. HD. 20.09.2019 T. 1161/1778; İzmir BAM 3. HD. 19.09.2019 T. 1842/1304(www.e-uyar.com) ↩
+30. Bknz: Konya BAM 8. HD. 26.09.2019 T. 2337/1359; Konya BAM 8. HD. 12.09.2019 T. 2111/1285(www.e-uyar.com) ↩
+31. Bknz: Samsun BAM 8. HD. 13.09.2019 T. 1916/2135(www.e-uyar.com) ↩
+32. Bknz: 20. HD. 12.12.2019 T. 5607/7372; İzmir BAM 17.09.2019 T. 749/842(www.e-uyar.com) ↩
+33. Bknz: İzmir BAM 15. HD. 20.09.2019 T. 1932/703(www.e-uyar.com) ↩
+34. Bknz: 9. HD. 10.09.2019 T. 3608/15523; 10.09.2019 T. 6226/15522(www.e-uyar.com) ↩
+35. Bknz: 9. HD. 05.09.2019 T. 5438/15284(www.e-uyar.com) ↩
+36. Bknz: İstanbul BAM 27. HD. 12.09.2019 T. 2425/2141(www.e-uyar.com) ↩
+37. KAR, B. a.g.e. s:448 ↩
+38. BUDAK, A.C./KARAASLAN, V. a.g.e., s:450 ↩
+39. KAR, B. a.g.e. s:452 ↩
+40. Bknz: Bursa BAM 3. HD. 24.09.2019 T. 3460/2080 (www.e-uyar.com) ↩
+41. KAR,B. a.g.e., s:428 ↩
+42. Bknz: İzmir BAM 3. HD. 1305/1273(www.e-uyar.com) ↩
+43. Bknz: Adana BAM 9. HD. 17.05.2019 T. 274/605(www.e-uyar.com) ↩
+44. Bknz: HGK. 16.04.2019 T. 17-1097/458(www.e-uyar.com) ↩
+45. ARSLAN, R./YILMAZ, E./TAŞPINAR AYVAZ, S. Medeni Usul Hukuku, 3.Baskı, 2017, s:100 vd. – KURU, B. İstinaf Sistemine Göre Yazılmış Medeni Usul Hukuku Ders Kitabı, s:47 vd. ↩
+46. CAN, H.G. Ticari Davalarda Zorunlu Arabuluculuk Düzenlemesinin Kapsamı ve Bazı Tartışmalı Hususlar (İBD., C:93, S:6, 2019, s:177) - ARSLAN, R./YILMAZ, E./TAŞPINAR AYVAZ, S. a.g.e., s:100 vd. ↩
+47. ARSLAN, R./YILMAZ, E./TAŞPINAR AYVAZ, S. a.g.e., s:101 ↩
+48. CAN, H.G. a.g.d., s:179 ↩
+49. CAN, H.G. a.g.d., s:182 ↩
+50. CAN, H.G. a.g.d., s:183 ↩
+51. Bknz: Erzurum BAM 3. HD. 14.11.2019 T. 947/2096(www.e-uyar.com ↩
+52. Bknz: İzmir BAM 4. HD. 17.09.2019 T. 1603/1317 (www.e-uyar.com) ↩
+53. Bknz: İstanbul BAM 13. HD. 23.10.2019 T. 1788/1487(www.e-uyar.com) ↩
+54. Bknz: Gaziantep BAM 13. HD. 13.09.2019 T. 2401/1680(www.e-uyar.com) ↩
+55. Bknz: İstanbul BAM 18. HD. 25.09.2019 T. 2138/1593; 18.09.2019 T. 1503/1545; 18.09.2019 T. 1578/1559; 18.09.2019 T. 1623/1514(www.e-uyar.com) ↩
+56. Bknz: İstanbul BAM 18. HD. 16.05.2019 T. 1008/1005(www.e-uyar.com) ↩
+57. Bknz: Antalya BAM 11. HD. 28.05.2019 T. 1142/1136(www.e-uyar.com) ↩
+58. Bknz: İstanbul BAM 18. HD. 17.05.2019 T. 1174/1047(www.e-uyar.com) ↩
+59. Bknz. İstanbul BAM 14. HD. 28.03.2019 T. 579/457(www.e-uyar.com) ↩
+60. Bknz: İstanbul BAM 8. HD. 21.11.2019 T. 4516/3916(www.e-uyar.com) ↩
+61. KURU, B. İstinaf Sistemine Göre Yazılmış Medeni Usul Hukuku Ders Kitabı, s:138 - ARSLAN, R./YILMAZ, E./TAŞPINAR AYVAZ, S. a.g.e., s:294 vd. – ERCAN, İ. Uygulamacılar İçin Medeni Usul El Kitabı, 4.Baskı, 2019, s:400 vd. - BUDAK, A.C./KARAASLAN, V. a.g.e., s:138 vd. ↩
+62. Bknz: ‘Adın korunmasına ilişkin TMK.nun 26. maddesi’, ‘İİK.nun 69. maddesinde yer bulan borçtan kurtulma davası’, ‘İİK.nun 72 ve 89. maddelerinde yer bulan menfi tespit davaları’ örnek olarak verilebilir. ↩
+63. UYAR, T./UYAR, A./UYAR, C. Olumsuz (Menfi) Tespit ve Geri Alma (İstirdat) Davaları, 4.Baskı, 2015, s:5 ↩
+64. UYAR, T./UYAR, A./UYAR, C. Olumsuz (Menfi) Tespit ve Geri Alma (İstirdat) Davaları, 4.Baskı, 2015, s:12 vd. - KURU, B. İcra ve İflas Hukuku El Kitabı, 2.baskı, 2013, s:356 vd ↩
+65. Bknz: HGK. 18.12.2018 T. 19-2739/1956(www.e-uyar.com) ↩
+66. Bknz: HGK. 18.01.2012 T. 19-622/ 9(www.e-uyar.com) ↩
+67. Bknz: 6. HD. 28.06.2012 T. 5835/9683; 28.06.2012 T. 5830/9692; HGK. 07.12.2011 T. 13-576/747(www.e-uyar.com) ↩
+68. Bknz: 11.HD. 22.06.1984 T. 3276/3641 – İİD. 03.06.1971 T. 5830/6289(www.e-uyar.com) ↩
+69. UYAR, T. İcra Hukukunda Olumsuz Tespit ve Geri Alma Davaları (İ.İ.Y. 72), 3.Baskı, C:1, s:4 - UYAR, T./UYAR, A./UYAR, C. Olumsuz (Menfi) Tespit ve Geri Alma (İstirdat) Davaları, s:5 ↩
+70. UYAR, T./UYAR, A./UYAR, C. Olumsuz (Menfi) tespit ve Geri Alma (İstirdat) Davaları, s:126 ↩
+71. BUDAK, A.C./KARAASLAN, V. a.g.e., s:458 ↩
+72. Bknz: 19. HD. 13.02.2020 T. 85/454 ↩
+73. Bknz: İstanbul BAM 13. HD. 02.10.2019 T. 1934/1294(www.e-uyar.com) ↩
+74. Bknz: Samsun BAM 3. HD. 20.09.2019 T. 1044/1145(www.e-uyar.com) ↩
+75. Bknz: Ankara BAM 21. HD. 19.09.2019 T. 851/1045(www.e-uyar.com) ↩
+76. Bknz: İstanbul BAM 18. HD. 23.05.2019 T. 1339/1098(www.e-uyar.com) ↩
+77. Bknz: Adana BAM 9. HD. 17.05.2019 T. 274/605(www.e-uyar.com) ↩
+78. Bknz: Erzurum BAM 3. HD. 27.03.2019 T. 531/549(www.e-uyar.com) ↩
+79. Bknz: Antalya BAM 11. HD. 30.05.2019 T. 1086/1150(www.e-uyar.com) ↩
+80. Bknz: İstanbul BAM 16. HD. 15.12.2019 T. 215/419(www.e-uyar.com) ↩
+81. Bknz: İstanbul BAM 16. HD. 13.09.2019 T. 1789/1732(www.e-uyar.com) ↩
+82. Bknz: Antalya BAM 11. HD. 13.09.2019 T. 1416/1666(www.e-uyar.com) ↩
+83. Bknz: Sakarya BAM 7. HD. 11.04.2019 T. 346/373(www.e-uyar.com) ↩
+84. Bknz: İstanbul BAM 14. HD. 21.03.2019 T. 521/423(www.e-uyar.com) ↩
+85. Bknz: Yuk. Dipnt. 59-69, 76-81 ↩
+86. UYAR, T./UYAR, A./UYAR, C. İcra ve İflas Hukukunda Tasarrufun İptali Davaları, 6.Baskı, 2019, s:3 ↩
+87. UYAR, T./UYAR, A./UYAR, C. İcra ve İflas Hukukunda Tasarrufun İptali Davaları, s:4 ↩
+
+
+# İcra ve İflas Hukuku
+
+
+---
+
+## İcra İflas Kanunu (İİK) 16. Madde Şikayet Şartları Yargıtay Kararları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-16-madde-icra-iflas-kanunu-sikayet-yargitay-kararlari (son güncelleme: 2016-10-03)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 16. Madde Yargıtay Kararları, İİK 16. Madde Metni, İcra Müdürü İşlemini Şikayet, İcra İşlemini Şikayet Süresi Nedir? İcra Dairesi İşlemi Nereye Şikayet Edilir?
+
+
+## İcra İflas Dairesi İşlemine Karşı Şikayet (İİK 16. Madde) Yargıtay Kararları
+
+- Şikayet bir dava değil, icra – iflas hukukuna özgü bir yasa yoludur. Bu nedenle davacı – davalı değil şikayet eden şikayet olunan vardır. Sadece alacaklı veya borçlu değil, hukuki yararı olan herkes şikayetçi olabilir. ( HGK 2005 / 765 karar)
+- İlama aykırılık nedenine dayalı itirazlar süreye tabi değildir (12 HD 2009/ 5605 Es.).
+- Süresinden sonra yapılan itiraza rağmen ilamsız takipte icra takibi durdurulmuş. Alacaklı itirazın kaldırılması açmış. Fakat hukuki niteleme hakime aittir, itirazın kaldırılması istemi şikayet olarak değerlendirilmeli ve takibin durdurulması kaldırılmalıdır. Bur da bir hakkın yerine getirilmemesi söz konusudur (12 HD 2009 / 5593 Es.).
+- Dosya kapsamında yetkili icra dairesince yeni bir ödeme emri düzenlenmeyip yetkisiz icra müdürlüğünce düzenlenen ödeme emrinin borçluya tebliğ edilmesine, geçerli bir ödeme emri olmadan takibe devam edilemez. Aksi halde süresiz şikayet hakkı doğar. ( 12 HD 2008 / 7178 K. ).
+- Tapu siciline şerh edilen satış vaadinde, 5 yıl içerisinde tapu devri gerçekleşirse haciz hükümsüzdür. (HGK 2000 / 1285 ) Süresiz şikayete tabidir.
+- Alacaklının adresinin takip talebi ve ödeme emrinde olmaması borçlunun çıkarına zarar vermez. Ama yasada olması gerektiği yazıldığından eksiklin giderilmesi için icra dairesinin buna uygun ödeme emrinin tebliğinden sonra takibe devam edilir. ( HGK 1995 / 1146 )
+- Borçlu hakkında takip kesinleşmedikçe icra kefilini icra emri çıkarılamaz. ( 12 HD 2005 / 20657 K. ) İ.haciz sırasında kefalet muteberdir.
+- Açık bir onama yoksa bile, bozma dışındaki kısım onanmış sayılır. ( 12 HD 2005 / 7049 ) (HGK 1992 / 197 K. 2002 / 847 K. )
+- Savcılık tarafından sicil kaydına konulan "satılamaz" kaydı aracın rızai satışını önlemeye yönelik bir önlemdir. Cebri icrayla satışa etkili değildir. ( 12 HD 2004 / 27422 K. )
+- Şirket ortaklarına gönderilen 89/1, 3. Kişi olmadıklarındandan geçersizdir.
+- İstinabe suretiyle yapılan satışlarda arttırma ve ihaleye yönelik ihtilaflar talimat icra dairesinin bağlı olduğu icra mahkemesince çözülmelidir. ( 12 HD 2004 / 22179 )
+- Mütemmim cüz ve teferruata ilişkin haczedilmezlik şikayet MK’ nın emredici kurallarından kaynaklandığından kamu düzeni ile ilgili olduğundan şikayet süreye tabi değildir. ( 12 HD 2004 / 17146 )
+- Alacak TL olarak gösterilmelidir, şikayet süreye tabi değildir. ( 12 HD 2004 / 16527 )
+- İcra müdürünün yaptığı hesap üzerine borçlu borcu ödemiş, alacaklık ihtirazi kayıt olmadan almıştır. B u durumda 7 gün için hesap tablosuna şikayet yoluna gidilmediğinden kesinleşmiştir. ( 12 HD 2003 / 20517 )
+- Alacaklı takip talebinde vade tarihinden itibaren faiz istemişse, icra dairesi borçluya ( faizi hesaplayarak ) muhtıra göndermeli. ( HGK 1998 /162 )
+- Şartnamede 160 metrekare ve %18 olan taşınmazın, satın alındıktan sonra 147 metrekare olduğu gerekçesiyle bu hususun iptali icra mahkemesinden istenebilir ihale feshedilmeden, keşif yapılarak çözülür. ( HGK 2004 / 61 )
+- Kıdem tazminatı ücret değildir, haczedilebilir. ( HGK 2004 / 95 )
+- Menkulde istihlak iddiası olur, gayrimenkulde istihkak iddiası olmaz. Miras, mahkeme karar, cebri icra, işgal, kamulaştırma vs. hallerinde mülkiyet tescilden önce kazanılır. Gayrimenkullerde şikayet prosedürü çerçevesinde çözümlenmelidir. Bu arada tescilden önce konulan hacizde usulsüzlük yoktur. ( HGK 2004 / 208 )
+- Finansal kiralama sözleşmesi, borçlu kiracının ikametgah noterliğinde özel sicile tescil edilmişse takip dışında tutulur, bu karara karşı 7 gün içerisinde şikayete konu olabilir. (HGK 2003 / 605 K. )
+- Senet keşideciye süresinde ibraz edilmeli (TTK. 620 muayyen bir günde ödenmesi gereken tarihi takip eden 2 iş günü ) . Aksi taktirde hamil ve lehdara müracaat hakkı kaybedilir. ( HGK 2000 / 181 )
+- Vekaletsiz borca itiraz HUMK 6/1’deki hallerden olduğundan kesin süre vermeden ve asil yapılan işlemi kabul etmediğini bildirmeden geçersiz sayılamaz. ( HGK 1998 / 803 )
+- Vekilin icra dosyasında vekaletnamesi varsa merci dosyasına da vekalet ibrazı için kesin mehil verilmesinin hükmü yoktur. ( HGK 1997 / 808 )
+- Çift imza ile ciro edilmesi gerektiği halde, tek imza cirosu ile bankaya ibraz edilen çekte alacaklılık sıfatı devam eder, sorumluluğu olmaz ( 12 HD 2010 / 4340 Es. ).
+- Takip kesinleşmeden (icra kefili açısından) SSK emekli maaşına haciz konulmasına muvafakat geçersizdir.
+- Birinci haciz ihbarnamesine itiraz edilmişse gönderilen diğer haciz ihbarnameleri yok hükmündedir. Bir hakkın yerine getirilmesi ile ilgili olduğunda şikayet süresizdir.
+- Tenfiz kararları kesinleşmeden icraya konamaz, bu husus kamu düzenine ilişkindir.
+- Fikri – sinai hukuk mahkemesi kararları kesinleşmeden icraya konamaz.
+- İki şirket adi ortaklık kurup ‘ortak girişim – joint venture ’ oluşturmuşsa, takip adi ortaklık adına değil veya ortaklardan biri adına değil her ikisine yöneltilmişse geçerlidir. Aksi takdirde bir hakkın yerine getirilmemesi nedeniyle süresiz şikayete tabidir (12 HD 2008 / 1853 K.).
+- Yasanın emredici kuralına aykırı düzenlenen her türlü evrak’a karşı şikayet süresizdir.
+- Teminat mektupları kıymetli bir evrak değildir. Banka ile muhatap arasında garanti sözleşmesi niteliğinde olan teminat mektubunda Lehtar akit durumunda değildir. Teminat mektubuyla lehtar lehine doğmuş veya doğacak bir hak yoktur lehtarın borcu için haczedilemez. Teminat mektupları hangi iş için verilmişse o iş için haczedilip paraya çevrilebilir. (12 HD 2008 / 8131 Es.)
+- İcra tutanağında ‘borçlunun itiraz dilekçesi dosyasına konulduğu’, ibaresinin yanında tarih ve müdür imzası var, kimlik fotokopisi var. Bunlar borçlu davalının itirazda bulunduğunu doğrular niteliktedir.
+- İcra tutanağı hakkındaki iddia maddi bir olaya dayanıyorsa aksinin ispatı tanıkla mümkün olabilir. ( 12 HD 2000 / 9799 ). Somut olayda fazla artırım talebinin ihale tutanağına geçirilmediği iddiası tüm ihale tutanağında imzası bulunan ve ihaleye katılanlar celp edilerek beyanı alınıp kararı verilir.
+- Cezaevi harcının yükümlüsü alacaklıdır.
+- İcra dosyasına yatan para alacaklıya ödenmelidir. Yatan paradan harç kesilemez harç borçludan alınmalıdır (12 HD 2004 /13367 karar).
+- Bankaların kredilerinin geri dönüşümü sırasında tahsil harcı ve KDV alınamaz.
+- İflasta paylaşılan para üzerinden % 3.6 harç kesilmesi zorunludur. B u harcın sorumlusu, borçlu yani iflas masasıdır. Dağıtım sırasında kesilen harç iflas idaresinden gitmektedir.
+- Harç takip konusu asıl alacak üzerinden alınmaktadır. Asıl alacak miktarı kadar harç alındıktan sonra Harçlar Kanunu 20. Madde gereği mümkün değildir. Faiz tahsilatlarından harç alınamaz. ( HGK 12-463)
+- Borçluya ait iki adresine iki farklı ödeme emri gönderilmişse, ikinci ödeme emri de borçluya itiraz hakkı verir. ( 12 HD 2008 / 3323 ) ( HGK 2006 / 783 K. )
+- Ödeme emri D.S. AŞ ve Ö. AŞ iş ortaklığı adına tebliğ edilemez. Adi ortaklığın taraf ehliyeti yoktur. ( 12 HD 2008/ 3191 K. )
+- İcra müdürlüklerinin verdikleri karardan kendiliğinden dönerek yeni bir karar vermeleri kural olarak mümkün değildir ( HGK 2007 / 695 K . 196 K. )
+- Haciz sırasında haczedilmezlikten feragat veya muvafakat mümkündür. (12 HD 2007 / 3344 )
+- Hacizden önce noter sözleşmesi ile satın aldığı araca haciz konulmasına karşı kaldırılmasının istenmesi istihkak iddiadır.
+- Kiralayan veya kiracı finansal kiralama konusu malı takip dışı bırakmak istiyorsa 7 gün içerisinde şikayet etmelidir. ( 12 HD 2006 / 4629 )
+- Mevduatın haczi, menkul haczi gibi yapılabilir borçlunun 3 kişideki alacağı menkul hükmündedir. 89/1 tebliği ayrıca zorunlu değil. ( 12 HD 2006 / 4384 K. atfıyla HGK 1999 / 1017 K. )
+- İcra mahkemesine şikayet halinde icra – inkar tazminatına hükmedilip hükmedilmeyeceğine dair, bir hüküm yoktur. ( 12 HD 2119 Karar)
+- Yenileme dilekçesi alacaklıya yeniden haciz isteme hakkı verir, borçluya hiçbir hak vermez. ( HGK 2004 / 34 K. )
+- Harç almadan işlem yapan memur, mükellefle birlikte müteselsilen sorumludur.
+- İcra müdürü ihaleyi de katip veya yardımcılarından birine yaptırabilir. Çünkü haciz işlemini takip eden diğer işlemlerdendir.
+- Belediyelerin veya devletin haksız fiil veya akitten doğan alacakları hakkında bu kanunun hükümleri cereyan eder.
+- Talimat icra dairesinin bağlı bulunduğu icra mahkemesinin görevi şikayet üzerine talimat icra dairesinin işlemlerinin kanun ve hadiseye uygun bulunup bulunmadığını denetlemekten ibarettir.
+- Haczedilmezlik şikayeti haczi uygulayan icra dairesine yapılır. Dosyaya konulan hacze karşı hangi icra dairesi haczi koymuşsa o dairenin bağlı olduğu icra mahkemesine başvurulmalıdır.
+- İİK. 96 ,97, 99 maddelerinin uygulanması yetkisi asıl icra dairesinde Talimat icra dairesi,bu işlemi yaparsa şikayet bağlı olduğu tetkik mercine yapılır.
+- Satış istinabe suretiyle yapılsa bile 3 kişinin taşınmazdan çıkarılması ve İİK. 135 gereği tescil ve tahliye işlemleri için yetkili icra dairesi istinabe olunan icra dairesi değil asıl icra dairesidir.
+- İhale yoluyla alınan bir gayrimenkulün yolsuz tesciline ilişkin davada, ihale alıcı aleyhine açılan ihalenin feshi davası kaybedilse bile genel nitelikteki davaya devam edilmelidir. ( 1 HD 2010 / 5612 K. )
+- Şikayet halinde taraflar, duruşmaya katılmasalar bile icra mahkemesi karar verir, işlemden kaldırılamaz. ( 12 HD 2008 / 16609 K. )
+- Şikayette alacaklı mutlaka taraf olarak gösterilmelidir, taraf teşkili yapılmadan duruşma yapılarak karar verilemez. ( 12 HD 2006 / 14657 )
+- Senetli meskeniyet iddiası şikayettir taraflar olmasa da karar verilir . ( 12 HD 2005 / 3966 )
+- Senetteki imzaya itiraz ve bedelde tarifat yapıldığı iddiası hukuki niteliği gereği itirazdır. Taraflar gelmezse, işlemden kaldırılır. ( 12 HD 2003 / 21552 )
+- Sıra cetveline itiraz davasında sırasına itiraz edilen alacaklıya yöneltilerek duruşma açılması gerekir. ( 19 HD 2003 /5307 )
+- Tedbir nafakası her yerde icra edilebilir, fakat ilam niteliğinde değildir. ( 12 HD 2002 / 13706 )
+
+## İcra İflas Kanunu (İİK 16. Madde) Şikayet Şartları ve Süresi
+
+**Şikayet ve şartlar :**
+
+**İİK Madde 16** – (Değişik: 3/7/1940 - 3890/1 md.)
+
+Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir.
+
+Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
+
+Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
+
+**Şikayet üzerine yapılacak muameleler :**
+
+**Madde 17**
+
+Şikayet icra mahkemesince, kabul edilirse şikayet olunan muamele ya bozulur, yahut düzeltilir. Memurun sebepsiz yapmadığı veya geciktirdiği işlerin icrası emrolunur.
+
+
+---
+
+## İcra İflas Kanunu (İİK) 50 - Yetki İtirazı Yargıtay Kararları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-50-icra-dairesinin-yetkisine-itiraz-yargitay-kararlari (son güncelleme: 2016-10-04)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 50. Madde Yargıtay Kararları, İİK 50. Madde Metni, İcra Dairesinin Yetkisine İtiraz
+
+
+## İcra İflas Kanunu (İİK) 50 - Yetki İtirazı Yargıtay Kararları
+
+- itirazın iptali davası yargılamasını yapan mahkeme yetki itirazını icra hukuk mahkemesi gibi inceleyerek sonuçta kendi yetkisini de belirlemiş olacaktır. ( HGK 2009 / 591 K. – HGK 2001 / 267 – 311 ). İcra dairesi yetkisiz ise dava koşulları oluşmamıştır.
+- Yetkili oldukları takdirde birden fazla icra dairesi itirazda yetkili gösterilebilir. Borçlu, itirazında yetkili icra dairesini de göstermelidir ( 12 HD 2009 / 11103 )
+- Bir borçlu yetkiye itiraz etmese bile diğer borçlunun yaptığı itiraz incelenerek karar verilmelidir. ( HGK 2008 / 522 K. )
+- Akdin icra edileceği yerde icra takibi yapılabilir. ( 15 HD 2008 / 3666 ). Geçersiz sözleşmelerde, sözleşmenin ifa yerinde dava açılamaz. ( 12 HD 2008 / 3817 )
+- Alacaklı yanlış yerde icra takibi yapılırsa, borçlu yetki itirazıyla seçimlik yetkiyi de alacaklıdan alır ve yetkili icra dairesini kendisi seçer. ( 15 HD 2008 / 3546 K. ) ( HGK 2007 / 835 ). Borçlu da doğru yeri göstermezse yetki itirazı geçersizdir.
+- Borçlu sadece yetki itirazında bulunmuşsa alacaklı sadece icra mahkemesine başvurur. ( 11 HD 2008 / 1315 K. )
+- Para ( örn. Fatura ) borçları, alacaklının ikametgahında ödenmesi gereken borçlardandır. Bu nedenle yetkili yer alacaklının ikametgahıdır. ( GHD 2007 /203 ) ( 12 HD 2006 / 21730 )
+- Para borcunda malların teslim edilmediğine ilişkin itiraz varsa alacaklının ikametinde takip yapılamaz. ( 21 HD 2006 / 12468 K. )
+- İhtiyati haciz kararı veren mahkemenin çevresi, kararın dayanağı alacak davası ve icra takibi için de yetkilidir. İhtiyati haciz kararı kaldırılmışsa bu koşul geçersizdir. ( HGK 2006 / 512 ) ( 12 HD 2006 / 4465 )
+- Davalı tarafça sözleşme ilişkisi inkar edilmişse para borcunun tahsili için alacaklının ikametgahında takip yapılamaz. ( HGK 2005 / 205 ) ( HGK 2004 / 249 )
+- Akdin yapıldığı yer de yetkilidir ( 9 HD 2010 / 20200 )
+- Borçlulardan birinin adresinde icra takibi yapılması, genel yetkili icra dairesi için geçerlidir, özel yetkili yerdeki takipte bu kural uygulanmaz.( 12 HD 2010 / 101 K. )
+- İtirazın iptali davasından koşullarından biri icra dairesinin yetkili olmasıdır. Mahkeme yetkiyi resen dikkate alır. ( 19 HD 2010 / 1150 K. )
+- Uydurma adres veya usulsüz tebligatla yetkisiz yer yetkili hale getirilmişse gerekli araştırma yapılmalıdır. ( 11 HD 2010 / 207 K. )
+- Kambiyo senedindeki alacaklar aranacak alacaklardandır, bu nedenle BK 73/1 maddesi uygulanamaz. Başka bir deyimle, kambiyo alacaklısı kendi yerleşim yerinde takip yapamaz. Tüzel kişilerin yerleşim yeri, işlerinin yönetildiği yerdir. Şubelerde yapılan muamelelerde şubenin bulunduğu yerde icra takibi yapılabileceğine ilişkin kural kambiyo senetlerinde uygulanmaz. Çünkü kambiyo senetlerinde temel ilişkiye dayanarak yetki belirlenemez. ( 12 HD 2010 / 195 K. )
+
+## İcra İflas Kanunu (İİK) 50. Madde Metni- İcra Dairesinin Yetkisine İtiraz
+
+**YETKİ**
+
+**Yetki ve itirazları:**
+
+**Madde 50** – (Değişik: 3/7/1940 - 3890/1 md.)
+
+Para veya teminat borcu için takip hususunda Hukuk Usulü Muhakemeleri Kanununun yetkiye dair hükümleri kıyas yolu ile tatbik olunur. Şu kadar ki, takibe esas olan akdin yapıldığı icra dairesi de takibe yetkilidir.
+
+Yetki itirazı esas hakkındaki itirazla birlikte yapılır. İcra mahkemesi tarafından önce yetki meselesi tetkik ve kati surette karara raptolunur.
+
+İki icra mahkemesi arasında yetki noktasından ihtilaf çıkarsa Hukuk Usulü Muhakemeleri Kanununun 25 inci maddesi hükmü tatbik olunur.
+
+
+---
+
+## İcra İflas Kanunu (İİK) 78. Haciz Telebi Yargıtay Kararları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-78-madde-haciz-talebi-yargitay-kararlari (son güncelleme: 2026-09-04)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 78. Madde Yargıtay Kararları, İİK 78. Madde Metni, Haciz Talebi ve Süresi Yargıtay Kararları
+
+
+## İcra İflas Kanunu (İİK) 78 - Haciz Talebi Yargıtay Kararları
+
+- Üçüncü kişi, borçlunun hak ve alacağına haciz konulmasına izin vermek zorundadır. Haczedilemezlik itirazı borçluya aittir. ( 12 HD 2009 / 25570 K. ) ( 12 HD 2007 / 6931 )
+- Takip dosyasının işlemden kaldırılması üzerine alacaklının takip talebini de yenilemesine ve borçluya yeni bir ödeme emri göndermesine gerek yoktur. Çünkü kesinleşmiş takip devam etmektedir ,yani derdesttir. Yenileme talebi yalnız haciz talebi içindir. ( 12 HD 2008 / 21803 )
+- Takip dosyasının işlemden kaldırılması, itirazın iptali davasının incelenmesine engel değildir. ( 3 HD 2007 / 19088 )
+- Davalının vergi dairesi yazısına dayanarak, davacının evinde yaptığı hacizde kusuru veya kastı yoktur, manevi tazminat istenemez. ( 4 HD 2007 / 4649 )
+- Kıymet takdirinde itiraz edilmesi iki yıllık satış isteme süresinin işlemesini durdurmaz. ( 12 HD 2007 / 5853 )
+- Eğer haciz var ise yenileme harcı alınmasına gerek yoktur. ( 12 HD 2005 / 5972 )
+
+## İcra İflas Kanunu (İİK) 78 - Haciz Talebi Madde Metni
+
+**Haciz:**
+
+**Talep Müddeti**
+
+**İİK Madde 78** – (Değişik: 3/7/1940 - 3890/1 md.)
+
+Ödeme emrindeki müddet geçtikten ve borçlu itiraz etmiş ise itirazı kaldırıldıktan sonra mal beyanını beklemeksizin alacaklı haciz konmasını isteyebilir.
+
+(Değişik: 6/6/1985 - 3222/9 md.) Haciz istemek hakkı, ödeme emrinin tebliği tarihinden itibaren bir sene geçmekle düşer. İtiraz veya dava halinde bunların vukuundan hükmün katileşmesine kadar veya alacaklıyla borçlunun icra dairesinde taksit sözleşmeleri yapmaları halinde taksit sözleşmesinin ihlaline kadar geçen zaman hesaba katılmaz. Alacaklı isterse, haciz talebinin vukuuna dair bir vesika verilir. Bu vesika hiçbir harç ve resme tabi değildir. Haciz talebi kanuni müddet içinde yapılmaz veya geri alındıktan sonra bu müddet içinde yenilenmezse dosya muameleden kaldırılır.
+
+Yeniden haciz istemek, alacaklı tarafından vukubulan yenileme talebinin borçluya tebliğine mütevakkıftır. İlama müstenit olmayan takiplerde yenileme talebi üzerine yeniden harc alınır. Yenileme masraf ve harcları borçluya tahmil edilmez.
+
+**Hacze başlama müddeti:**
+
+**İİK Madde 79** – İcra dairesi talepten nihayet üç gün içinde haczi yapar.
+
+(Değişik fıkra: 6/6/1985 - 3222/10 md.) Haczolunacak mallar başka yerde ise haciz yapılmasını malların bulunduğu yerin icra dairesine hemen yazar. Bu halde hacizle ilgili şikayetler, istinabe olunan icra dairesinin tabi bulunduğu icra mahkemesince çözümlenir. (Ek cümle: 17/7/2003-4949/19 md.) Resmî sicile kayıtlı malların haczi, takibin yapıldığı icra dairesince, kaydına işletilmek suretiyle doğrudan da yapılabilir
+
+
+---
+
+## İcra İflas Kanunu (İİK) 8 Yargıtay Kararları ve Madde Metni
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-8-madde-icra-iflas-kanunu-yargitay-kararlari (son güncelleme: 2016-10-03)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 8. Madde Yargıtay Kararları, İİK 8. Madde Metni, Tutanaklar, İcra ve İflas Tutanakları
+
+
+## İcra İflas Kanunu (İİK) 8. Madde Yargıtay Kararları
+
+- İcra tutanağında borcu kabul beyanı varsa, icradan dolayı borçlu olunmadığı dinlenmez.
+- Zaman aşımının ( bono, çek ) dolması işlem süresi dikkate alınarak hesaplanır.( Adi Kanuni Karine )
+- İcra ve iflas tutanakları, aksi ispat edilinceye kadar muteberdir. İcra tutanağının aksini ispat etmek kural olarak özel bir şekle bağlı değildir. Ancak irca tutanağı bir hukuk işlemi belgelendiriyorsa (örn; borç veya senetteki imzanın kabulü) o zaman tutanağın aksi ancak yazılı belge ile ispat edilebilir. Kabul beyanının baskı altında alındığı, iradenin fesada uğratıldığı, bu nedenle tutanağın geçerli olmadığı iddia edilmiş. Bu iddialar yargılama gerektirir, genel mahkemeler yetkilidir. ( 12 HD 2006 / 12505 2006 / 15211 )
+
+## İcra İflas Kanunu (İİK) 8. Madde Metni
+
+**Tutanaklar:**
+
+**İİK Madde 8** – (Değişik: 18/2/1965 - 538/4 md.)
+
+İcra ve iflas daireleri yaptıkları muamelelerle kendilerine vakı talep ve beyanlar hakkında bir tutanak yaparlar. Sözlü itirazlar ile talep va beyanların altları ilgililer ve icra memuru veya yardımcısı veya katibi tarafından imzalanır. (Ek fıkra: 2/7/2012-6352/2 md.) İcra ve iflas dairelerince verilen kararlar gerekçeli olarak tutanaklara yazılır.
+
+İlgililer bu tutanakları görebilir ve bunların örneğini alabilir.
+
+İcra ve iflas dairelerinin tutanakları, hilafı sabit oluncaya kadar muteberdir.
+
+
+---
+
+## İcra İflas Kanunu (İİK) 83 - Kısmen Haciz Yargıtay Kararları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-83-kismen-haciz-yargitay-kararlari (son güncelleme: 2016-10-04)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 83. Madde Yargıtay Kararları, İİK 83. Madde Metni, Kısmen Haciz, Kısmen Haczedilebilecek Şeyler Nelerdir?
+
+
+## İcra İflas Kanunu (İİK) 83 - Kısmen Haciz Yargıtay Kararları
+
+- Borçlunun yurtdışı emekli maaşı haczedilebilir. ( HGK 2009 / 254 )
+- Haciz tehdidi altında ve emekli maaşından kesinti yapılmadan önce yapılan muvafakat beyanı ile haciz yapılması İİK. 83/a maddesine aykırıdır. ( 12 HD 2009 / 4174 ) ( 12 HD 2008 / 18503 )
+- Takibin kesinleşmesi koşulu ile haciz sırasında veya hacizden sonra haczedilmezlikten feragat edilebilir. ( 12 HD 2008 / 15983 )
+- İpotek akit tablosunda yer almasa da bir menkulün teferruat olup olmadığı mutlaka araştırılmalıdır. Eğer teferruat ise ayrıca haczedilemez. ( 12 HD 2009 / 50502 )
+- Kat karşılığı inşaat sözleşmesinin icrasına bağlı olarak ileride doğması muhtemel haklar üzerine haciz konulması yasaya aykırıdır. ( 12 HD 2010 / 11314 )
+- İcra müdürünün haciz yetkisi konusunda takdir hakkı yoktur. ( 12 HD 2009 / 1667 )
+- Banka kredisine gönderilen haciz yazısına, bankanın mevduat üzerinde rehin ve hapis hakkının olduğunu ileri sürmesi istihkak iddiasıdır. Bu durumda icra müdürünün İİK. 99. Maddesindeki kurallara göre işlem yapması gerekir. ( 12 HD 2008 / 16472 )
+- Banka şubesi belirtilmeden genel müdürlük seviyesinde haciz yazısı gönderilmesi hukuka aykırıdır. ( 12 HD 2007 / 21364 )
+
+## İcra İflas Kanunu (İİK) 83 - Kısmen Haciz Madde Metni
+
+**Kısmen haczi caiz olan şeyler:**
+
+**İİK Madde 83** – (Değişik: 3/7/1940 - 3890/1 md.)
+
+Maaşlar, tahsisat ve her nevi ücretler, intifa hakları ve hasılatı, ilama müstenit olmayan nafakalar, tekaüt maaşları, sigortalar veya tekaüt sandıkları tarafından tahsis edilen iratlar, borçlu ve ailesinin geçinmeleri için icra memurunca lüzumlu olarak takdir edilen miktar tenzil edildikten sonra haczolunabilir.
+
+(Değişik: 12/4/1968 - 1045/1 md.) Ancak haczolunacak miktar bunların dörtte birinden az olamaz. Birden fazla haciz var ise sıraya konur. Sırada önde olan haczin kesintisi bitmedikçe sonraki haciz için kesintiye geçilemez.
+
+**Önceden yapılan anlaşmalar:**
+
+**İİK Madde 83/a** – (Ek: 18/2/1965 - 538/47 md.)
+
+82 ve 83 üncü maddelerde yazılı mal ve hakların haczolunabileceğine dair önceden yapılan anlaşmalar muteber değildir.
+
+**Yavrulu hayvanların haczi:**
+
+**İİK Madde 83/b** – (Ek: 18/2/1965 - 538/47 md.)
+
+Hayvan hacizlerinde, anaları tarafından beslenme ve bakılmaya muhtaç olan yavrular analarından ayrı haczedilemiyecekleri gibi bunların anaları da yavrularından ayrı haczedilemezler.
+
+**Taşınmaz Rehni Kapsamındaki Eklentinin Haczi:**
+
+**İİK Madde 83/c** – (Ek: 9/11/1988 - 3494/7 md.)
+
+Taşınmaz rehni ipotek akit tablosunda sayılı bulunan eklenti taşınmazdan ayrı olarak haczedilemez. Türk Kanunu Medenisinin 777 nci maddesi hükmü saklıdır.
+
+
+---
+
+## İcra İflas Kanunu (İİK) 89 Yargıtay Kararları ve Madde Metni
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-89-madde-icra-iflas-kanunu-yargitay-kararlari (son güncelleme: 2016-10-03)*
+
+İcra İflas Kanunu Yargıtay Kararları, Alacaklar ve Üçüncü Şahıs Elinde Haczedilen Mallarla İlgili İstihkak İddiası, İİK 89. Madde Yargıtay Kararları, İİK 89. Madde Metni
+
+
+## İcra İflas Kanunu (İİK) 89. Madde Yargıtay Kararları
+
+- Banka birinci haciz ihbarnamesinin tebliğinden sonra hesap hareketlerine devam etmişse ve borcu ödememişse hesap hareketleri kadar sorumludur. ( 12 HD 2010 / 5738 )
+- Üçüncü şahıs banka haczedilmezlik bildirimi yapamaz. ( 12 HD 2010/ 4126 )
+- İkinci haciz ihbarnamesine itiraz eden, cevap veren 3. Kişinin zimmetinden borç yoktur. ( 12 HD 2010 / 874 )
+- Üçüncü şahıs, itiraz etmişse alacaklı 1 yıl içerisinde genel hükümlere göre itirazın aksini ispat ve İİK 398 gereği cezalandırılmasını isteyebilir. ( 12 HD 2009 / 18099 ). Görevli mahkeme icra mahkemesidir. ( 19 HD 2009 / 930 ) ( 16 HD 2009 / 66 )
+- Yasanın açık hükmüne rağmen, itiraz olmasına rağmen 89/2 gönderilmesi halinde İİK. 16/2 gereği şikayet bir hakkın yerine getirilmesi ile ilgili olduğundan süresiz şikayete tabiidir. ( 12 HD 2009 / 13803 )
+- Haciz ihbarı yasal şartları taşımıyorsa geçersizdir. ( 12 HD 2008 / 16134 )
+- Mevduat üzerinde rehin ve hapis hakkının olduğunun ileri sürülmesi istihkak iddiasıdır, bu nedenle İİK 189. madde prosedürü işletilmelidir. ( 12 HD 2008 / 10420 )
+- Rehin hakkına dayalı itiraz halinde banka kayıtları incelenmelidir. ( 12 HD 2007 / 14758 )
+- İcra müdürü, emekli maaşının haciz talebinin reddi kararı yanlıştır. Haczedilmezlik şikayeti süresiz ve geriye dönük olarak borçluya aittir. ( HGK. 2009 / 244 – kanunun geriye yürümesi ile ilgili bu karar ). Fakat 5838 sayılı yasada haczi red yetkisi verilmiştir.
+- Traktör de bir ziraat aleti olup haczedilemez. ( 12 HD 2010 / 7378 )
+- Borçlunun hacizden haberdar olduğu tarihten başlamak üzere, borçlu 7 gün içinde meskeniyet şikayeti yapabilir. ( 12 HD 2010 / 4657 )
+- Emekli ikramiyesi haczedilebilir. ( 12 HD 2010 / 4023 ) Kıdem tazminatı haczedilebilir. ( HGK 2004 / 95 )
+- Emeğin değeri sermayenin değerinden fazla ise bir meslek vardır, aksi takdirde bir "teşebbüs" vardır. ( 12 HD 2008 / 9612 )
+- Doğrudan gelir desteği haczedilebilir. ( HGK 2008 / 301 )
+- Taşınmaz üzerindeki “mesken kredisi, esnaf kredisi, zirai kredi" gibi zorunlu olarak kurulmuş olması halinde taşınmaz sahibi borçlu meskeniyet iddiasıyla haczedilmezlik tezini ileri sürebilir ( 12 HD 2008 / 4651 ). Öte yandan zorunlu ipotek olmasa da haciz tarihinde ipotek borcun ödenmişse meskeniyet iddiası ileri sürülebilir.
+- Borçlunun haline münasip evi tespit edilmeli, bu bedel mahcurun değerinden az ise mahcuzun satılarak borçlunun haline münasip ev almak için gerekli bedel borçluya, artanı da alacaklıya verilir ( 12 HD 2007 / 24362 ).
+- Finansal kiralama sözleşmesinde belirlenen süre bitmesine rağmen mallar borçluda ise yedinde sayılır ve haczedilebilir. ( 12 HD 2008 / 21836 )
+
+## İcra İflas Kanunu (İİK) 89. Madde Metni
+
+**Alacaklar ve üçüncü şahıs elinde haczedilen mallar hakkında:**
+
+**İİK Madde 89** – (Değişik: 18/2/1965 - 538/49 md.)
+
+Hamiline ait olmıyan veya cirosu kabil bir senetle müstenit bulunmıyan alacak veya sair bir talep hakkı veya borçlunun üçüncü şahıs elindeki taşınır bir malı haczedilirse icra memuru; borçlu olan hakiki veya hükmi şahsa bundan böyle borcunu ancak icra dairesine ödiyebileceğini ve takip borçlusuna yapılan ödemenin muteber olmadığını veya malı elinde bulunduran üçüncü şahsa bundan böyle taşınır malı ancak icra dairesine teslim edebileceğini, malı takip borçlusuna vermemesini, aksi takdirde malın bedelini icra dairesine ödemek zorunda kalacağını bildirir (Haciz ihbarnamesi).Bu haciz ihbarnamesinde, ayrıca 2, 3 ve 4 üncü fıkra hükümleri de üçüncü şahsa bildirilir.
+
+Üçüncü şahıs; borcu olmadığı veya malın yedinde bulunmadığı veya haciz ihbarnamesinin tebliğinden önce borç ödenmiş veya mal istihlak edilmiş veya kusuru olmaksızın telef olmuş veya malın borçluya ait olmadığı veya malın kendisine rehnedilmiş olduğu veya alacak borçluya veya emrettiği yere verilmiş olduğu gibi bir iddiada ise, keyfiyeti, haciz ihbarnamesinin kendisine tebliğinden itibaren yedi gün içinde icra dairesine yazılı veya sözlü olarak bildirmeye mecburdur.
+
+(Değişik üçüncü fıkra: 17/7/2003-4949/22 md.) Üçüncü şahıs, haciz ihbarnamesinin kendisine tebliğinden itibaren yedi gün içinde itiraz etmezse, mal yedinde veya borç zimmetinde sayılır ve kendisine gönderilen haciz ihbarnamesine süresinde itiraz etmediği, bu nedenle de malın yedinde veya borcun zimmetinde sayıldığı ikinci bir ihbarname ile bildirilir. Bu ikinci ihbarnamede ayrıca, üçüncü şahsın ihbarnamenin kendisine tebliğinden itibaren yedi gün içinde ikinci fıkrada belirtilen sebeplerle itirazda bulunması, itirazda bulunmadığı takdirde zimmetinde sayılan borcu icra dairesine ödemesi veya yedinde sayılan malı icra dairesine teslim etmesi istenir. İkinci ihbarnameye süresi içinde itiraz etmeyen ve zimmetinde sayılan borcu icra dairesine ödemeyen veya yedinde sayılan malı icra dairesine teslim etmeyen üçüncü şahsa onbeş gün içinde parayı icra dairesine ödemesi veya yedinde sayılan malı teslim etmesi yahut bu süre içinde menfi tespit davası açması, aksi takdirde zimmetinde sayılan borcu ödemeye veya yedinde sayılan malı teslime zorlanacağı bildirilir. Bu bildirimi alan üçüncü şahıs, icra takibinin yapıldığı veya yerleşim yerinin bulunduğu yer mahkemesinde süresi içinde menfi tespit davası açtığına dair belgeyi bildirimin yapıldığı tarihten itibaren yirmi gün içinde ilgili icra dairesine teslim ettiği takdirde, hakkında yürütülen cebri icra işlemleri menfi tespit davası sonunda verilen kararın kesinleşmesine kadar durur. Bu süre içinde 106 ncı maddede belirtilen süreler işlemez. Bu davada üçüncü şahıs, takip borçlusuna borçlu olmadığını veya malın takip borçlusuna ait olmadığını ispat etmeye mecburdur. Üçüncü şahıs açtığı bu davayı kaybederse, mahkemece, dava konusu şeyin yüzde yirmisinden aşağı olmamak üzere bir tazminata mahkûm edilir. Bu fıkraya göre açılacak menfi tespit davaları maktu harca tabidir.
+
+Üçüncü şahıs, haciz ihbarnamesine müddeti içinde itiraz ederse, alacaklı, üçüncü şahsın verdiği cevabın aksini icra mahkemesinde ispat ederek üçüncü şahsın 338 inci maddenin 1 inci fıkrası hükmüne göre cezalandırılmasını ve ayrıca tazminata mahküm edilmesini istiyebilir. İcra mahkemesi, tazminat hakkındaki davayı genel hükümlere göre halleder. Üçüncü şahıs, kusuru olmaksızın bir mani sebebiyle müddeti içinde haciz ihbarnamesine itiraz etmediği takdirde 65 inci madde hükmü uygulanır. (Değişik son cümle: 17/7/2003-4949/22 md.) Her hâlde üçüncü şahıs, borçlu ile kötü niyetli alacaklıya karşı dava açarak ödemek zorunda kaldığı paranın veya teslim ettiği malın iadesini isteyebilir. Malın teslimi mümkün olmazsa, alacaklı icra mahkemesine müracaatla değerini üçüncü şahsa ödetmek hakkını haizdir.
+
+(Değişik yedinci fıkra: 2/7/2012-6352/18 md.) Haciz ihbarnamesi, borçlunun hak ve alacaklarının bulunabileceği bir tüzel kişinin veya müessesenin şubesine veya tüm şubelerini kapsayacak şekilde merkezine tebliğ edilir. Haciz ihbarnamesinin tebliğ edildiği merkez, tüm şubeleri veya birimlerini kapsayacak şekilde beyanda bulunmakla yükümlüdür. Üçüncü şahsın beyanı hiçbir harc ve resme tabi değildir.
+
+Bu madde hükmü,memuriyeti hasebiyle hakikate muhalif beyanda bulunan memurlar hakkında da uygulanır.
+
+
+---
+
+## İcra İflas Kanunu (İİK) 95 ve 96. Madde Yargıtay Kararları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-95-iik-96-madde-icra-iflas-kanunu-yargitay-kararlari (son güncelleme: 2016-10-03)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 96. Madde Yargıtay Kararları, İİK 96. Madde Metni, İİK 95. Madde Yargıtay Kararları, Üçüncü Şahsın İstihkak İddiası Nasıl Yapılır? İstihkak İddiasına İtiraz
+
+
+## İcra İflas Kanunu (İİK) 95. ve 96. Madde (İstihkak Davası) Yargıtay Kararları
+
+- İstihkak davası basit yargılama usulüne göre yürütülür. Takip konusu alacak ile mahcuz malın değerinden hangisi daha az ise nispi harç buna göre belirlenir (17 HD 2010/8140 karar), (21 HD 2007 / 20656 karar).
+- 6183 sayılı yasaya göre yapılan icra takiplerinde istihkak iddiaları İİK. 68 gereği sulh veya asliye hukuk mahkemesine yapılmalıdır. ( 17 HD 2010 / 5537 )
+- Borçlu hazır değilse, madde 103 gereği haciz tutanağı da tebliğ edilmemişse, istihkak davasının borçluya da yöneltilmesi gerekir. ( 21 HD 2007 / 20915 )
+- Resmi kurumun verdiği adrese güvenerek haciz yapan alacaklı aleyhine manevi tazminata hükmedilemez. ( 4 HD. 2007 / 14649 )
+- İİK. 44 gereği ticareti terk eden tacir 15 gün içinde durumu kayıtlı bulunduğu ticaret siciline bildirmeye mecburdur. Borçlu, bu keyfiyeti yerine getirmemişse, istihkak davasında zan altındadır. ( 12 HD 2007 / 4220 )
+- Dava konusu taşınırlar, takip konusu bononun üzerinde yazılı bulunan ve ödeme emrinin tebliğ edileceği yerde haczedilmiştir. Mülkiyet karinesi borçlu, dolayısıyla alacaklı yararınadır. ( 21 HD 2007 / 1455 )
+- Haciz mahalinin kime ait olduğu istihkak prosedüründe önemlidir. ( 21 HD 2007 / 403 )
+- Talimat dairesi, istihkak iddiası ile ilgili karar verilmek üzere dosyayı asıl icra dairesine göndermek zorundadır. ( 21 HD 2006 / 22593 )
+- Şirket yetkilisi 3. şahıs lehine istihkak iddiasında bulunmuş ise, İİK. 97. Madde prosedürü icra müdürünce işletilmezse istihkak davası açma süresi işlemez. ( 21 HD 2006 / 13229 )
+- Kiralayan 3. Şahıs veya kiracı finansal kiralamaya konu malın takip dışı bırakılmasını istiyorsa 7 gün içinde şikayet etmelidir. ( 12 HD 2006 / 14629 )
+
+## İcra İflas Kanunu (İİK) 95. ve 96. Madde Metinleri
+
+**Mahcuz malların muhafazası masrafları:**
+
+**İİK Madde 95** –
+Alacaklı haczedilen malların muhafaza ve idare ve işletilmesi masraflarını istenildiği takdirde peşin
+vermeğe mecburdur.
+
+**İstihkak iddiasına itiraz:**
+
+**Borçlunun zilyedliği:**
+
+1 – Hazırlık safhası:
+
+**İİK Madde 96** – (Değişik: 18/2/1965 - 538/53 md.)
+
+Borçlu, elinde bulunan bir malı başkasının mülkü veya rehni olarak gösterdiği yahut üçüncü bir şahıs tarafından o mal üzerinde mülkiyet veya rehin hakkı iddia edildiği takdirde, icra dairesi bunu haciz ve icra tutanaklarına geçirir ve keyfiyeti iki tarafa bildirir.
+
+İcra dairesi aynı zamanda istihkak iddiasına karşı itirazları olup olmadığını bildirmek üzere alacaklı ve borçluya üç günlük mühlet verir. Sükütları halinde istihkak iddiasını kabul etmiş sayılırlar.
+
+Malın haczine muttali olan borçlu veya üçüncü şahıs, ıttıla tarihinden itibaren yedi gün içinde istihkak iddiasında bulunmadığı takdirde, aynı takipte bu iddiayı ileri sürmek hakkını kaybeder. İstihkak iddiasının yapıldığı veya istihkak davasının açıldığı tarihte istihkak müddeisi ile birlikte oturan kimseler yahut bu şahısların iş ortakları, iddianın yapıldığı tarihte veya istihkak davası 97 nci maddenin 9 uncu fıkrası gereğince açılmışsa davanın açıldığı tarihte malın haczine ıttıla kesbetmiş sayılırlar
+
+
+---
+
+## İcra İflas Kanunu (İİK) 97. Madde Yargıtay Kararları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-97-madde-icra-iflas-kanunu-yargitay-kararlari (son güncelleme: 2016-10-03)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 97. Madde Yargıtay Kararları, İİK 97. Madde Metni, Üçüncü Şahsın İstihkak İddiası Nasıl Yapılır? İstihkak İddiasına İtiraz
+
+
+## İcra İflas Kanunu (İİK) 97. Madde Yargıtay Kararları
+
+- Üçüncü kişinin istihkak iddiasına alacaklı itiraz ettiğinde 97. madde prosedürü işletilmemişse, 3. Kişi davasını hacizli mal satılıp bedelinin alacaklıya ödenmesine kadar açabilir. (21 HD 2008/14717).
+- Haciz mahali borçlu şirketin takip adresi olmadığı gibi ödeme emri de haciz mahalinde borçlu şirkete tebliğ edilmemiştir. İİK 97/a’daki yasal karine üçüncü kişi yararınadır. İspat yükü alacaklıdadır (21 HD-2010/2093 karar).
+- Faturaların defterde kayıtlı olup olmadığının incelenmesi için ticari defterlerin ayrıntılı incelenmesi gerekir (21 HD-2009/16341 karar).
+- 6183 sayılı yasayla konulan hacizlere karşı istihkak iddiası varsa, dava asliye hukuk mahkemesinde açılır (15 HD-2009/1098 karar).
+- Vergi kaydı, menkul mallar açısından mülkiyet belgesi niteliğinde değildir (21 HD 2009/2942 karar).
+- Eğer adi ortaklık varsa, ortaklardan birinin borcu nedeniyle ortaklık malı haczedilemez. (21 HD 2008/18587 karar)
+- İstihkak davasında, davacı yararına tazminata hükmedilebilmesi için alacaklının kötü niyeti mutlaka ispatlanmalıdır. (21 HD 2008/ 16233)
+- Borçlu ile 3. kişi arasında ticari işletme devri niteliğinde olan işlemlerde İİK. 44 – BK. 179 uygulanmalı, borçlu devri kayıtlı olduğu ticaret siciline bildirerek ilan etmeli ve mal beyanı vermelidir. (21 HD 2008/6367 ), (21 HD 2008/5578), (17 HD 2008/7938).
+
+## İcra İflas Kanunu (İİK) 97. Madde Metni
+
+İcra İflas Kanunu'nun 97. maddesi (İİK 97), 'üçüncü şahsın istihkak iddiası' başlığını taşımaktadır. İcra iflas Kanunu 97 madde metni şöyledir:
+
+**Üçüncü şahsın istihkak iddiası:**
+
+**İİK Madde 97** – (Değişik: 18/2/1965 - 538/54 md.)
+
+İstihkak iddiasına karşı alacaklı veya borçlu tarafından itiraz edilirse, icra memuru dosyayı hemen icra mahkemesine verir. İcra Mahkemesi, dosya üzerinde veya lüzum görürse ilgilileri davet ederek mürafaa ile yapacağı inceleme neticesinde varacağı kanaate göre takibin devamına veya talikıne karar verir.
+
+İstihkak davasının sırf satışı geri bırakmak gayesiyle kötüye kullanıldığını kabul etmek için ciddi sebepler bulunduğu takdirde icra mahkemesi takibin talikı talebini reddeder.
+
+Takibin talikıne karar verilirse, haksız çıktığı takdirde alacaklının muhtemel zararına karşı davacıdan 36 ncı maddede gösterilen teminat alınır.
+
+Teminatın cins ve miktarı mevcut delillerin mahiyetine göre takdir olunur.
+
+(Değişik beşinci fıkra: 2/3/2005-5311/9 md.) Takibin devamına dair verilen icra mahkemesi kararı kesindir. Üçüncü şahıs, icra mahkemesi kararının tefhim veya tebliğinden itibaren yedi gün içinde icra mahkemesinde istihkak davası açmaya mecburdur. Bu müddet zarfında dava edilmediği takdirde üçüncü şahıs alacaklıya karşı iddiasından vazgeçmiş sayılır.
+
+Kiralanan taşınmaz veya gemilerdeki hapis hakkına tabi eşya ile ilgili istihkak davaları Borçlar Kanununun 268 inci maddesinin 1 inci fıkrasında yazılı hükümlere uygun olmadıkça talik emri verilemez. (1)
+
+Dava esnasında 106 ncı maddedeki müddetler cereyan etmez.
+
+Yukardaki hükümler dairesinde kendisine istihkak talebinde bulunmak imkanı verilmemiş olan üçüncü şahıs, haczedilen şey hakkında veya satılıp da bedeli henüz alacaklıya verilmemişse bedeli hakkında, hacze ıttıla tarihinden itibaren yedi gün içinde, icra mahkemesinde istihkak davası açabilir. Aksi takdirde aynı takipte bu iddiayı ileri sürmek hakkını kaybeder. Bu halde davacının talebi üzerine icra hakimi takibin talik edilip edilmemesi hakkında yukardaki hükümler dairesinde acele karar vermeye mecburdur. Bu karar diğer taraf dinlenmeksizin de verilebilir.
+
+İstihkak davası neticelenmeden mahcuz mal paraya çevrilmiş bulunursa icra hakimi işbu bedelin yargılama neticesine kadar ödenmemesi veya teminat karşılığında veya halin icabına göre teminatsız derhal alacaklıya verilmesi hususunda ayrıca karar verir.
+
+İstihkak davasına umumi hükümler dairesinde ve basit yargılama usulüne göre bakılır.
+
+Mahcuz eşya ile ilgili olarak icra memuruna dermeyan edilen iddiada üçüncü şahıs ve borçlunun birleşmeleri alacaklıya müessir değildir. Üçüncü şahsın bu iddiasını ispat etmesi lazımdır. Ancak üçüncü şahsın mahcuz eşyanın kendisinin mülkü veya kendisine merhun olduğu hakkındaki iddiasının borçlu tarafından kabulü kendi aleyhine delil teşkil eder ve ileride bu ikrara aykırı hiçbir iddiada bulunamaz.
+
+(Değişik: 9/11/1988 - 3494/11 md.) İstihkak davası üzerine takibin talikine karar verilip de neticede dava reddolunursa alacaklının alacağından bu dava dolayısıyla istifası geciken miktarın yüzde yirmisinden aşağı olmamak üzere davacıdan tazminat alınmasına hükmolunur.
+
+(Değişik ondördüncü fıkra: 2/3/2005-5311/9 md.)Davanın reddi hakkındaki karara karşı istinaf veya temyiz yoluna başvuran istihkak davacısı icra dairesinden 36 ncı maddeye göre mühlet isteyebilir.
+
+İstihkak davası sabit olur ve birinci fıkra gereğince istihkak iddiasına karşı itiraz eden alacaklı veya borçlunun kötü niyeti tahakkuk ederse haczolunan malın değerinin yüzde onbeşinden aşağı olmamak üzere itiraz edenden tazminat alınmasına asıl dava ile birlikte hükmolunur.
+
+Koca aleyhine yapılmış bir hacizde karı şahsi malları üzerindeki haklarını Medeni Kanunun 160 ıncı maddesi hükmüne tabi olmaksızın kendisi takip edebilir.
+
+İstihkak davasına karşı haczi yaptıran alacaklı bu kanunun 11 inci babı hükümlerine dayanarak ve muvakkat veya kati aciz belgesi ibrazına mecbur olmaksızın mütekabilen iptal davası açabilir. Dava ve mütekabil davada tarafların gösterecekleri bütün delilleri hakim serbestce takdir eder.
+
+İstihkak davaları süratle ve diğer davalardan önce görülerek karara bağlanır.
+
+**İİK Madde 97/a** – (Ek: 18/2/1965 - 538/55 Md.)
+
+Bir taşınır malı elinde bulunduran kimse onun maliki sayılır. Borçlu ile üçüncü şahısların taşınır malı birlikte ellerinde bulundurmaları halinde dahi mal borçlu elinde addolunur. Birlikte oturulan yerlerdeki mallardan mahiyetleri itibariyle kadın, erkek ve çocuklara aidiyetleri açıkça anlaşılanlar veya örf ve adet, sanat, meslek veya meşgale icabı olanlar bunların farz olunur. Bu karinenin aksini ispat külfeti iddia eden kişiye düşer.
+
+İstihkak davacısı malı ne suretle iktisap ettiğini ve borçlunun elinde bulunmasını gerektiren hukuki ve fiili sebep ve hadiseleri göstermek ve bunları ispat etmekle mükelleftir.
+
+
+---
+
+## İcra İflas Kanunu (İİK) 99. Yargıtay Kararları ve Madde Metni
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-99-madde-icra-iflas-kanunu-yargitay-kararlari (son güncelleme: 2016-10-03)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 99. Madde Yargıtay Kararları, İİK 97. Madde Metni, Üçüncü Şahsın İstihkak İddiası Nasıl Yapılır? İstihkak İddiasına İtiraz
+
+
+## İcra İflas Kanunu (İİK) 99. Madde Yargıtay Kararları
+
+- Banka istihkak iddiasında (rehin veya hapis hakkı) bulunduğunda İİK. 99 madde prosedürü uygulanmalıdır. (12 HD. 2008 / 18682) , (12 HD 2008/16472)
+- Faturalar ile hacizli mallar arasında uyum olmalıdır. Ayrıca ticari defterlerinde birbiriyle ve faturalarla uyumlu olması gerekir (21 HD 2008 / 5568)
+- İİK 99. maddesi uygulamasında süre, icra mahkemeleri tarafından verilir, icra dairesi süre veremez. (12 HD 2006/14407)
+- İstihkak iddiasında (3. Kişinin) davalı alacaklıdır. Tutanakta maddi hatayla başkası gösterilmişse, taraf teşkili için süre verilmelidir. (21 HD 2006 / 6416 ).
+- Üçüncü Şahıs adına kayıtlı gayrimenkule haciz konulduğu takdirde istihkak prosedürü değil şikayet prosedürü içerisinde çözülmelidir. (12 HD 2006 / 11515) – HGK kararları.
+- İstihkak davası sonuçlanmadan haczedilen eşya paraya çevrilirse, merci hakimi satış bedelinin yargılamanın sonuna kadar alacaklıya ödenmemesi veya teminat karşılığı veya teminatsız olarak ödenmesi konusunda karar vermek zorundadır. Yasanın bu hükmünden, merci hakimin paranın ödenmiş veya ödenmemiş olmasına bakmaksızın istihkak davasına devam ederek, haklı çıkılması halinde bedele hükmedilmesi gerektiği anlamı çıkmaktadır. (21 HD 2005/12740 )
+- İbraz edilen faturanın defterlere uygunluğu denetlenmelidir. (21 HD 2005 / 12341)
+
+## İcra İflas Kanunu (İİK) 99. Madde Metni
+
+**Üçüncü şahsın zilyetliği:**
+
+**İİK Madde 99** – (Değişik: 2/7/2012-6352/20 md.)
+
+Haczedilen şey, borçlunun elinde olmayıp da üzerinde mülkiyet veya diğer bir ayni hak iddia eden üçüncü kişi nezdinde bulunursa, bu kişi yedieminliği kabul ettiği takdirde bu mal muhafaza altına alınmaz. İcra müdürü, üçüncü kişi aleyhine icra mahkemesinde istihkak davası açması için alacaklıya yedi gün süre verir. Bu süre içinde icra mahkemesine istihkak davası açılmaz ise üçüncü kişinin iddiası kabul edilmiş sayılır. Alacaklı tarafından süresinde açılan dava sonuçlanıncaya kadar, haczedilen malın satışı yapılamaz. Haczin, üçüncü kişinin yokluğunda yapılması ve üçüncü kişi lehine istihkak iddiasında bulunulması halinde de bu fıkra hükmü uygulanır.
+
+
+---
+
+## İcra Takibinin Taliki ve İptali Yargıtay Kararları (İİK 70 ve 71)
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-70-71-madde-icra-takibinin-taliki-iptali-yargitay-kararlari (son güncelleme: 2016-10-03)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 70. ve 71. Madde Yargıtay Kararları, İİK 70. ve 71. Madde Metni, İcra Takibinin Taliki (Ertelenmesi) ve İptali
+
+
+## İcra-İflas Kanunu (İİK 70 - İİK 71. Madde) Yargıtay Kararları
+
+- Alacaklı İİK. 71’e göre imzayı kabul etmezse borçlunun icranın takibi iptali talebi reddedilir. ( 12 HD 2010 / 513 ) ( 12 HD 2005 / 3299 ) ( 12 HD 2004 / 4522 ) ( HGK 202 / 196 )
+- Yeddiemin ücretiyle masrafların alacaklıdan tahsili hususu ( haciz sırasında ) genel hükümlere göre tazminat davasına konu olur. ( 12 HD 2008 / 7794 )
+- Açılan menfi tespit davasında alacaklının defi yoluyla savunma yapması ve dosyasının açılmamış sayılma nedeniyle işlemden kaldırılması halinde, bu durumun zamanaşımına etkisi yoktur. ( 12 HD 2007 / 20907 )
+- Kural olarak zamanaşımı her kim hakkında gerçekleşirse onun hakkında sonuç doğurur. ( 12 HD 2007 / 8867 karar)
+- TTK 662’de zamanaşımının kesilmesi nedenleri vardır, fakat zamanaşımının durmasına ilişkin hüküm olmadığından BK. 132. madde senetler için de geçerlidir. Dava açılması zamanaşımını durdurur. ( 15 HD2007 / 8674 ) ( 12 HD 2006 / 4228 )
+- Muris, miras bırakandan sonra takibe dahil edilirse yapılacak işlemlerde muris yeni usulü haklar elde etmiş gibi hareket edemez. ( 12 HD 2007 / 5159 ) ( 12 HD 2004 / 13042 )
+- Çek hamilinin cirantalara ve keşideciye karşı başvuru hakkı ibra süresinin bitiminden itibaren 6 ay geçmekle zamanaşımı uğrar. ( 12 HD 2006 / 11827 )
+- Geçici aciz vesikası ve tasarrufun iptali davası takip dayanağı bono yönünden zamanaşımını kesmez. ( 12HD 2005 / 4687 )
+- Kambiyo senedi niteliği olmayan belgelerle başlatılıp kesinleşen takipte İİK 71/2’ ye göre ödeyecek olan TTK. 726. Maddeye göre zamanaşımı değildir. Alacak kesinleştiğine göre işleyecek zaman aşım BK. 125’e göre 10 yıldır. İcranın geri bırakılmasına karar verilemez. ( 12 HD 2005 / 4646 ) ( 15 HD 2007 / 8674 ) ( 12 HD 2003 / 21781 ) (12 HD 2003 / 3220 )
+- İcra mahkemesinde imza itirazında bulunulması zamanaşımını kesen sebeplerden sayılamaz. İcra mahkemesi durdurma kararı vermemişse alacaklı işlem yapabileceğinden zaman aşımı kesilmez. ( 12 HD 2004 / 13987 )
+- İcranın geri bırakılması kararın kendisine tebliğinden itibaren 7 gün içinde alacaklı genel mahkemelerde dava açabilir. ( HGK 1998 / 797 )
+- Birden fazla taşınmaz üzerinde rehin, tesis edilmişse, alacaklı bunların aynı anda satışını talep etmelidir. ( HGK1997 / 379 )
+
+## Takibin Ertelenmesi ve İptali - İİK 70. ve 71. Madde Metni
+
+**Karar ve müddet**
+
+**İİK Madde 70** – (Değişik: 18/2/1965 - 538/41 md.)
+
+İcra mahkemesi, itirazın kaldırılması hakkındaki talep üzerine iki tarafı davet eder ve 18 inci madde hükmüne göre kararını verir.
+
+**İcra mahkemesinin karariyle takibin talik veya iptali:**
+
+**İİK Madde 71** – (Değişik: 18/2/1965 - 538/42 md.)
+
+Borçlu, takibin kesinleşmesinden sonraki devrede borcun ve ferilerinin itfa edildiğini yahut alacaklının kendisine bir mühlet verdiğini noterden tasdikli veya imzası ikrar edilmiş bir belge ile ispat ederse, takibin iptal veya talikini her zaman icra mahkemesinden istiyebilir.
+
+Borçlu, takibin kesinleşmesinden sonraki devrede borcun zamanaşımına uğradığını ileri sürecek olursa, 33 a. maddesi hükmü kıyasen uygulanır.
+
+
+---
+
+## İhalenin Feshi Nedenleri
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/medeni-hukuk/ihalenin-feshi-davasi-nedenleri (son güncelleme: 2022-09-14)*
+
+İhalenin feshi davası nedenleri, kanunda sınırlı bir şekilde sayılmamıştır. Somut olayın özelliğine göre, pek çok ihalenin feshi sebebinin ortaya çıkması mümkündür.
+
+
+## 1. İcra İhalesinin Feshi Nedenleri Kanunla Sınırlanmamıştır
+
+(Y12HD-K.2021/5474)
+
+Usulüne uygun biçimde gerçekleşen ihaleden sonra icra takibinin iptal edilmesi, icranın geri bırakılması veya alacaklının takip dosyasından feragat etmesi halinde dahi bu hususlar ihalenin feshi nedeni yapılamaz. Zira ihalenin istikrarı ilkesi esastır. İİK.nun 134. maddesinde **ihalenin feshi nedenleri teker teker belirtilerek gösterilmemiştir.** Sadece "ihalenin BK'nun 226.maddesinde yazılı", "satış ilanı tebliğ edilmemiş olması", "satılan malın esaslı niteliklerindeki hata" ve "ihaledeki fesat" nedenleriyle ihalenin bozulabileceğine değinilmiştir.
+
+İhalenin bozulma nedenleri gerek doktrinde gerekse Yargıtay uygulamasında;
+
+1-İhaleye fesat karıştırılmış olması
+
+2-Artırmaya hazırlık aşamasındaki hatalı işlemler
+
+3-İhalenin yapılması sırasındaki hatalı işlemler
+
+4-Alıcının taşınmazın önemli nitelikleri hakkında hataya düşürülmüş olması şeklinde sıralanmıştır.
+
+### 2. Satış İlanının Borçluya Tebliğ Edilmemesi veya Usulsüz Tebliğ Edilmesi
+
+(Y12HD-K.2021/10799)
+
+Borçlu gerçek kişi olup, satış ilanının 7201 sayılı Tebligat Kanunu'nun 35.maddesine göre tebliğ edilebilmesi için, tebliğ tarihi itibari ile adı geçenin adrese dayalı kayıt sisteminde adresinin mevcut olmaması gerekmektedir. İİK'nun 127. maddesi gereğince taşınmaz satışlarında, satış ilanının bir örneği borçluya (varsa vekiline) tebliğ edilmelidir. **Borçluya satış ilanının hiç tebliğ edilmemesi veya usulsüz tebliğ edilmesi**, Dairemizin süreklilik arzeden içtihatlarına göre başlı başına ihalenin feshi sebebidir. O halde Bölge Adliye Mahkemesince, borçlunun, satış ilanı tebliğ tarihi itibariyle, adres kayıt sisteminde yerleşim yeri adresi bulunduğu açık olduğundan ihalelerin feshine dair karara karşı yapılan istinaf başvurusunun esastan reddine karar verilmesi gerekirken, yazılı şekilde hüküm tesisi isabetsiz olup,bozmayı gerektirmiştir .
+
+İİK'nun 127. maddesine göre; "ilanın bir sureti borçluya, alacaklıya ve taşınmazın tapu siciline kayıtlı bulunan alakadarların tapuda kayıtlı adresleri varsa bu adreslerine tebliğ olunur." Borçluya satış ilanının usulüne uygun olarak tebliğ edilmemesi ise, başlı başına ihalenin feshi nedenidir.(Y12HD-K.2016/26069)
+
+### 3. İhale Bedelinin Satış Masraflarını ve Muhammen Bedelin %50'sini Karşılamaması
+
+(Y12HD-K.2021/8680)
+
+Somut olayda, iki adet taşınmaz satışa çıkartılmış, muhammen bedeli 1.500.000TL belirlenen 1 nolu taşınmazın satışı alıcı çıkmaması sebebiyle 2. satış gününe kalmış, muhammen bedeli 1.200.000 TL belirlenen 2 nolu taşınmaz ise 605.500 TL’ye ihale edilmiştir. Aynı satış kararı ve ilanı ile satışa çıkarılan taşınmazlar için kıymet takdiri masrafı 740 TL, tebligat ücreti 418,15 TL ve gazete ilan ücreti 10.407,60 TL olmak üzere toplam 11.565,75 TL masraf sarf edilmiştir.
+
+Her bir taşınmaz açısından yapılan masrafın 5.782,87 TL olduğu dikkate alındığında, **satış bedelinin dava konusu taşınmazın muhammen bedelinin %50’sini ve satış masraflarını karşılamadığı** anlaşılmaktadır. İİK'nun 129/1. maddesi gereğince bu husus tek başına ihalenin feshi nedeni olduğu gibi mahkemece re’sen gözetilmelidir.
+
+### 4. İcra İhalesinin Belirlenen Saatte Yapılmaması Sebebiyle Feshi
+
+(Y12HD-K.2021/7099)
+
+İ.İ.K.’nun 126.maddesinde; satış hazırlığı sırasında icra müdürlüğünce düzenlenecek satış ilanında satışın yapılacağı yer, gün ve saatin açıkça belirlenmesi gerektiği hüküm altına alınmıştır. Bu kural ihalenin düzenli yapılmasını, alıcıların katılacakları saatin önceden tespit edilmesini ve satışın tarafların menfaatine uygun şekilde yapılmasını sağlamaya yöneliktir. Buna göre ihalenin de ilan edilen günde ve saatlerde başlayıp bitirilmesi gereklidir.
+
+Ne var ki, ihalenin ilan edilen saatler arasında yapılıp yapılmadığı hususu, kamu düzeni ile ilgili olmadığından, taraflarca ihalenin feshi sebebi olarak ileri sürülmediği sürece, ihalenin satış ilanı ve şartnamesinde belirtilen saatinden daha önce tamamlanmasının, mahkemece resen nazara alınarak ihalenin feshi nedeni yapılamaz. Bir diğer anlatımla, ihalenin feshi istemi ile icra mahkemesine başvuran şikayetçi tarafından, ihalenin ilan edilen saatte başlayıp sonlandırılmadığının iddia edilmemesi halinde, salt bu nedenle ihalenin feshine karar verilemez. Aksinin kabulü aşırı şekilcilik olup, hak kaybına yol açabileceği tabiidir. Somut olayda, şikayetçi borçlular tarafından açıkça ihalenin ilan edilen saatlerde yapılmadığı konusunda bir iddia ileri sürülmediği gibi, anılan şekil eksikliği de şikayet konusu yapılmış değildir.
+
+O halde Bölge Adliye Mahkemesince davacının dava dilekçesinde ileri sürdüğü fesih nedenleri incelenerek oluşacak sonuca göre karar verilmesi gerekirken, satışın belirtilen saatten önce tamamlandığı gerekçesiyle 76 nolu taşınmaz yönünden re’sen ihalenin feshine karar verilmesi isabetsiz olup, Bölge Adliye Mahkemesi kararının bozulması gerekmiştir.
+
+### 5. Satılan Malın Esaslı Niteliklerindeki Hata İhalenin Feshi Sebebidir
+
+(Y12HD-K.2021/4943)
+
+Borçlu satışa hazırlık işlemlerine yönelik süresinde şikayet hakkını kullandığından İhaleye konu taşınmazın ilan edilen metrekaresi ve adres bilgisi ile mevcut metrekaresi ve adresi arasında talebi etkileyici fark bulunduğundan bahisle ihalenin feshini talep edebilir.
+
+Bilindiği üzere, satılan malın esaslı niteliklerindeki hata ihalenin feshi nedenidir. Öte yandan, gerek doktrinde gerekse Yargıtay uygulamasında artırmaya hazırlık aşamasındaki hatalı işlemler ihalenin feshi nedenleri arasında sayılmıştır. İhaleye konu taşınmazın ilan edilen net alanı ile mevcut net alanı arasında müşteriyi yanıltıcı nitelikte ve önemli ölçüde fark bulunması halinde bu hususun talep ve talibi etkileyeceği kuşkusuzdur. Zira, daha fazla alıcı çıkmasına ve taşınmazın daha yüksek bedelle satılmasına engel olabilecek bu farklılığın varlığı durumunda arttırmaya hazırlık aşamasında ve satılan malın esaslı niteliklerindeki hata söz konusu olacağından ihalenin feshi sonucu doğabilecektir.
+
+O halde mahkemece,şikayetin kabulü ile ihalenin feshine karar verilmesi gerekirken, yazılı şekilde hüküm tesisi ve Bölge Adliye Mahkemesince de istinaf başvurusunun esastan reddi isabetsiz olup, Bölge Adliye Mahkemesi kararının kaldırılmasına ve ilk derece mahkemesi kararının bozulmasına karar vermek gerekmiştir.
+
+### 6. Açık Arttırma Şartnamesinde Taşınmazın Tapudaki Son Durumunun Gösterilmemesi
+
+(Y12HD-K.2018/2021)
+
+Artırmaya çıkarılan bir taşınmazın tapu kaydındaki son durumunun, şartnamede açıkça gösterilmesi ve böylece artırmaya katılacak olan kişilerin, taşınmazın imar durumunu ve miktarını bilerek artırmaya girmeleri sağlanmalıdır. Satışa konu taşınmazların tapu kaydındaki değişikler, değer artırıcı nitelikte ise, yeni imar planı ve son tapu kaydı sorulmadan ihalenin yapılması, ihalenin feshi nedenidir.
+
+Şikayetçi vekilince, ihale tarihinden önce, taşınmazın imar durumunda olağanüstü değişiklikler yapıldığı ve değerinin önemli ölçüde değiştiği ileri sürülmüş olup, bu husus, taşınmazda değer artırıcı unsurları etkileyeceğinden ve şikayetçinin menfaatine olacağından şikayet konusu yapılabilir.
+
+Somut olayda, ihalenin feshi talebine konu taşınmazların imar durumundaki önemli değişikliğin ne şekilde olduğu mahkeme kararının gerekçesinde belirtilmemiştir. O halde mahkemece, ihalesi yapılan taşınmazların, ihaleden önceki imar durumu sorularak, imar durumunda bir değişiklik olup olmadığı tespit edildikten sonra ve gelen yazı cevabına göre, bu durumun talep ve talibe etkisi de tartışılıp değerlendirilerek, oluşacak sonuca göre karar verilmesi gerekirken, bu hususlar araştırılmadan yazılı gerekçe ile istemin kabulü yönünde hüküm tesisi isabetsizdir
+
+### 7. Satış Bedelinin Muhammen Bedelin Üstünde Halinde Zarar Unsurunun Gerçekleşmemesi
+
+(Y12HD-K.2021/4475)
+
+Somut olayda, 50.650,00-TL. muhammen bedelli taşınmazın (taşınmazdaki 1/6 hissenin) 98.100,00-TL'ye satıldığı ve dolayısıyla satış bedelinin taşınmazın muhammen bedelinin üzerinde olduğu, şikayet dilekçesinde de açık bir şekilde kıymet takdiri tebliğ işlemine ve ihaleye konu taşınmazın kıymetine usulünce yapılmış bir şikayetin/itirazın da bulunmadığı görülmüştür.
+
+Her ne kadar satış ilanı tebliğ usulsüzlüğü İİK’nun 127. maddesi gereğince tek başına ihalenin feshi nedeni ise de yerleşik Yargıtay uygulamasına göre satış bedelinin, muhammen bedelin üstünde olması halinde zarar unsuru oluşmayacağından, yukarıda açıklanan yasa hükmü gereğince anılan taşınmaza ilişkin davada hukuki yarar koşulunun gerçekleşmediğinin kabulü gerekir.
+
+### 8. Kıymet Takdirine Süresinde İtiraz Eden Kişinin İtirazını İhalenin Feshi Nedeni Olarak Gösterebilmesi
+
+(Y12HD-K.2021/2267)
+
+İİK’nun 128/2. maddesi gereğince, satışa hazırlık işlemleri sırasında icra dairesi taşınmazın kıymetini ehil bilirkişiler aracılığıyla tayin ve tespit ettirir, kıymet takdirine ilişkin rapor, borçluya, haciz koydurmuş alacaklıya ve diğer ipotekli alacaklılara tebligatın yapıldığı icra dosyasındaki, ayrıca bildirilmiş bulunması hali müstesna olmak üzere, tapudaki mevcut adresleri esas alınmak suretiyle tebliğ edilir. İİK'nun 128/a maddesine göre, ilgililer, raporun tebliğinden itibaren yedi gün içinde icra dairesinin kıymet takdiri işlemine karşı şikayet yolu ile icra mahkemesine başvurarak düzenlenen raporun gerçeği yansıtmadığını ileri sürebilirler. Satışa hazırlık işlemlerine yönelik şikayet üzerine mahkemece verilecek kararlar kesin olmakla beraber, süresinde şikayet hakkının kullanıldığı hallerde, icra mahkemesi kararının, ihalenin feshi aşamasında incelenmesi mümkündür. Davacı süresinde kıymet takdirine itiraz talebinde bulunduğundan, kıymet takdirinin usulsüz olduğundan bahisle ihalenin feshini talep edebilir. Bilindiği üzere, satılan malın esaslı niteliklerindeki hata ihalenin feshi nedenidir. Öte yandan, gerek doktrinde gerekse Yargıtay uygulamasında artırmaya hazırlık aşamasındaki hatalı işlemler ihalenin feshi nedenleri arasında sayılmıştır. İhaleye konu taşınmazın ilan edilen net alanı ile mevcut net alanı arasında müşteriyi yanıltıcı nitelikte ve önemli ölçüde fark bulunması halinde bu hususun talep ve talibi etkileyeceği kuşkusuzdur. Zira, daha fazla alıcı çıkmasına ve taşınmazın daha yüksek bedelle satılmasına engel olabilecek bu farklılığın varlığı durumunda arttırmaya hazırlık aşamasında ve satılan malın esaslı niteliklerindeki hata söz konusu olacağından ihalenin feshi sonucu doğabilecektir. O halde mahkemece, mahallinde uzman bilirkişiler aracılığıyla keşif ve ölçüm yapılarak taşınmazın net alanının saptanması, taşınmazın gerçek net alanının ilan edilenden farklı olduğunun belirlenmesi halinde bu farklılığın talep ve talibi etkileyici nitelikte olup olmadığının yukarıda değinilen ilkeler gözetilmek suretiyle değerlendirilmesi ve varılacak sonuç çerçevesinde bir karar verilmesi gerekirken; eksik inceleme ve yanılgılı değerlendirmeyle yazılı şekilde hüküm tesisi isabetsiz olup bozmayı gerektirmiştir.
+
+(Y12HD-K.2021/478)
+
+İİK’nun 128/2. maddesi gereğince, satışa hazırlık işlemleri sırasında icra dairesi taşınmazın kıymetini ehil bilirkişiler aracılığıyla tayin ve tespit ettirir, kıymet takdirine ilişkin rapor, borçluya, haciz koydurmuş alacaklıya ve diğer ipotekli alacaklılara tebligatın yapıldığı icra dosyasındaki, ayrıca bildirilmiş bulunması hali müstesna olmak üzere, tapudaki mevcut adresleri esas alınmak suretiyle tebliğ edilir. İİK.nun 128/a maddesine göre, ilgililer, raporun tebliğinden itibaren yedi gün içinde icra dairesinin kıymet takdiri işlemine karşı şikayet yolu ile icra mahkemesine başvurarak düzenlenen raporun gerçeği yansıtmadığını ileri sürebilirler. Yasanın öngördüğü bu olanağı kullanmayanlar, kıymet takdirinin usulsüz olduğundan bahisle ihalenin feshini talep edemezler. Kendisine kıymet takdiri tebliğ edilmeyen ilgililerin, satış ilanının tebliğinden itibaren yedi günlük sürede kıymet takdirine itiraz etmemeleri halinde, yine bu hususu ihalenin feshi nedeni olarak ileri sürmeleri mümkün değildir. Kaldı ki, satışa hazırlık işlemlerinden kaynaklanan nedenlerle ihalenin feshi isteminde bulunulabilmesi için, usulsüz olduğu ileri sürülen hususun ihaleden önce şikayetçi tarafından öğrenilmemiş olması, öğrenilmiş ise; İİK.'nun 16/1.maddesinde öngörülen yasal yedi günlük sürede icra mahkemesi nezdinde şikayet konusu yapılmış olması gerekir. Satışa hazırlık işlemlerine yönelik şikayet üzerine mahkemece verilecek kararlar kesin olmakla beraber, süresinde şikayet hakkının kullanıldığı hallerde, icra mahkemesi kararının, ihalenin feshi aşamasında incelenmesi mümkündür. Ancak, yasanın öngördüğü bu olanağı kullanmayanlar, aynı şikayet nedenleri ile ihalenin feshini talep edemezler.
+
+Bu durumda, borçlunun taşınmaz açık artırma ilanında taşınmazın imar durumunun yazılmadığına yönelik iddiası, satışa hazırlık işlemine ilişkin şikayet niteliğinde olup, şikayetçi borçlu vekiline satış ilanı 18.03.2019 tarihinde tebliğ edildiği halde, satış ilanın tebliği usulsüzlüğü iddiası da olmadığı göz önünde bulundurularak yasal 7 günlük süre içerisinde bu işlemin şikayet konusu yapılmadığı dosya kapsamı ile sabittir. Öyleyse, süresinde şikayet edilmeyen satış öncesi işlem kesinleştiğinden, artık bu hususa dayalı olarak ihalenin feshi istenemez. Mahkemece; satış ilanı tebliğinden sonra yasal 7 günlük sürede bu işlemin şikayet konusu yapılmadığı göz ardı edilmek sureti ile bu aşamada borçlunun, taşınmaz açık artırma ilanında taşınmazın imar durumunun yazılmadığı iddiasının artık dinlenilmesine olanak bulunmadığı düşünülmeksizin yazılı gerekçeyle ihalenin feshine karar verilmesi yerinde değildir.
+
+### 9. Satılan Malın Esaslı Vasıflarında Hataya Düşülmesi
+
+(Y12HD-K.2020/8326)
+
+Satılan malın esaslı vasıflarında hata, ihalenin feshi nedeni olarak İİK'nun 134. maddesinin 7. fıkrasında düzenlenmiştir. Alıcının hataya düşmesi artırma şartnamesi veya ilanının kanuna uygun yapılmaması veya artırmayı yapan memurun bir yolsuzluk yapması hallerinde ortaya çıkar. Başka bir anlatımda alıcının taşınmazı esaslı vasıflarında hataya düşmesi ya ihale öncesi işlemlerden ya da ihale sırasındaki kanuna aykırı davranışlardan kaynaklanabilir. İİK'nun 134/2. fıkrasına göre ilgililerin ihalenin yapıldığı ana kadar cereyan eden işlemlerdeki yolsuzlukları en geç ihale günü öğrendiği kabul edilir. Alıcı hataya düşürülmüş olduğunu ihale gününden sonra öğrenirse İİK'nun 134/7. fıkrasına göre ihalenin feshini isteme süresi alıcının hataya düşürüldüğünü öğrendiği günden itibaren 7 gündür. Ancak bu süre ihaleden itibaren 1 seneyi geçemez.
+
+Somut olayda, ihaleye konu taşınmazın, İstanbul 21. Asliye Hukuk Mahkemesinin 26/04/2016 tarih ve 2013/520 E. - 2016/183 K. sayılı ilamı gereğince, taşınmazın borçlu adına olan tapu kaydının iptali ile dava dışı 3. kişi ... adına tapuya kayıt ve tesciline karar verildiği ve tapu iptal tescil kararının ihale tarihinden önce 30/06/2016 tarihinde kesinleştiği, icra müdürlüğünce ihalenin kesinleşmesi üzerine tapu müdürlüğüne müzekkere yazılarak taşınmazın şikayetçi ihale alıcısı adına tescilinin yapılmasının talep edildiği, tapu müdürlüğünün 01/08/2017 tarihli cevabında; "taşınmaz kayıtlarında yapılan incelemede, İstanbul 21. Asliye Hukuk Mahkemesi'nin tapu iptal ve tescil davasında verilen 20/11/2013 tarih ve 21303 yevmiye numaralı ve kesinleşmiş kararına dair şerh" bulunduğu belirtilerek tedbir şerhinin terkin edilip edilmeyeceğinin bildirilmesinin istendiği, 04/08/2017 tarihli cevabında ise; “...taşınmazın tamamının Mehmet Ali Şahin adına tapuya tesciline dair karar verildiği ve kararın kesinleştiği anlaşılmakla tescil yazısı gereğince herhangi bir işlem yapılamamakta olduğunun” bildirildiği görülmektedir.
+
+Buna göre; ihaleye konu taşınmazın mülkiyeti ihale tarihinden önce 4721 sayılı Türk Medeni Kanunu’nun 716. maddesi gereği, hükümle, yeni malik 3. kişi ... ’e geçtiği halde, tescil için tapuya müzekkere gönderilmemesi suretiyle mülkiyet durumunun sicile yansıtılmadığı ve satış kararı tarihinde taşınmazın borçlu adına tapuda kayıtlı gözüktüğü gözetildiğinde, borçlu adına kayıtlı olmayan taşınmazın, ihale tarihinde bu durumu bilmeyen şikayetçiye, yeni malikin de haberi olmadan, ihale edilmiş olması karşısında, ihale alıcısı yönünden taşınmazın esaslı unsurlarında hata teşkil edeceği ve bu durumda 3. kişi ihale alıcısına genel mahkemede dava açması yönünde bir yükümlülük yüklenemeyeceği açıktır. O halde mahkemece, taşınmazın ihale alıcısı adına tescilinin yapılamaması, şikayetçi ihale alıcısının taşınmazın esaslı vasıflarında hataya düşürülmesi niteliğinde olup, bu husus İİK'nun 134/7. maddesi uyarınca ihalenin feshi sebebi olduğundan ihalenin feshine karar verilmesi gerekir.
+
+### İhalenin Feshini İsteyebilecek Kişiler Kimlerdir?
+
+İİK'nın 126 ve devamı maddeleri uyarınca haczedilen veya ipotekli taşınmazlar yalnız açık artırma yolu ile satılır. Satış kararı ile birlikte icra dairesince satışa hazırlık işlemleri yapılır. Satışa hazırlık işlemleri, arttırma şartnamesi düzenlenmesi, taşınmaz üzerindeki mükellefiyetler listesinin hazırlanması, satış ilanı ve satış ilanının bir suretinin borçlu, alacaklı ve tapu sicilinde kayıtlı bulunan ilgililere tebliğidir.
+
+İİK'nın 125. maddesi ve İcra ve İflas Kanunu Yönetmeliğinin 49. maddesine göre düzenlenen arttırma şartnamesine taşınmazın üzerindeki irtifak hakları, taşınmaz mükellefiyetleri, ipotekler, ipotekli borç senetleri, irat senetleriyle birlikte satıldığı ve borçlunun bu taşınmaz ile temin edilmiş şahsi borçlarının da alıcıya intikal edeceği, taşınmazın tapu kaydı ve niteliği, tapu sicilindeki diğer bilgiler yazılır. İİK'nın 124. maddesine göre arttırma şartnamesi arttırmadan önce en az 10 gün süreyle icra dairesinde herkesin görmesi için açık bulundurulur. İİK'nın 128. maddesine göre düzenlenen mükellefiyetler listesi de şartnamenin ekidir. Taşınmazı açık arttırmada satın alan kişi (alıcı), onu artırma şartnamesine göre iktisap eder. Artırma şartnamesinde (ve onun bir bölümü olan mükellefiyetler listesinde) yazılı olmayan mükellefiyetler alıcıya geçmez. Yani arttırma şartnamesi alıcı için tapu sicili hükmündedir. Burada 4721 sayılı Türk Medeni Kanunu (TMK)'nun 1020. maddesinin son fıkrasında yazılı "kimse tapu sicilinde bir kaydı bilmediğini ileri süremez" hükmü uygulanmaz (Kuru B.: İcra ve İflas Hukuku El Kitabı, 2. Baskı, Ankara 2013, s. 653).
+
+İhalenin feshi istemi bir çeşit şikâyet olduğu hâlde İİK'nın 134. maddesi ihalenin sonucunu, **kimlerin ihalenin feshini isteyebileceğini**, ihalenin feshi sebeplerini ayrıntılı olarak düzenlemiştir. Aynı maddenin 7. fıkrasına göre cebri icra yolu ile yapılan satışların feshi şikâyet yolu ile icra mahkemelerinden istenebilir. Anılan fıkra hükmüne göre **ihalenin feshinin istenebilmesi için ilgili olması ve bu ilgilinin yolsuzluk neticesinde kendi menfaatlerinin ihlal edildiğini ispat etmesi gerekir.** Ancak her hukuki yararı olan değil, hukuki yararı olanlar içerisinde "ilgili" konumda bulunan kişilerin şikâyet yolu ile ihalenin feshi hakkı olduğunu düzenlemiştir. İİK'nın 134. maddesinin 2. fıkrası hükmünde ihalenin feshini isteyebilecek olanlar sınırlı (tahdidî) olarak sayılmıştır. Bu hükme göre “İhalenin feshini, Borçlar Kanunu’nun 226. maddesinde yazılı sebepler de dahil olmak üzere yalnız satış isteyen alacaklı, borçlu, tapu sicilindeki ilgililer ve pey sürmek suretiyle ihaleye iştirak edenler, yurt içinde bir adres göstermek koşuluyla icra mahkemesinden şikayet yolu ile ihale tarihinden itibaren 7 gün içinde isteyebilirler”. Anılan hükme göre "tapu sicilindeki ilgililer" de; hukuki yararları olmak kaydı ile ihalenin feshi şikâyetinde bulunabilirler. Tapu sicilindeki ilgililerden tapu sicil kaydında yazılı olan ve tapu sicil kaydının incelenmesi ile görülebilen kişiler anlaşılmalıdır. Tapu sicilindeki ilgililere örnek olarak ipotek alacaklıları, irtifak hakkı sahipleri, aynı borçlu aleyhine icra takibi yaptığı dosyadan satış istemiş olsa bile haciz alacaklıları, paylı mülkiyet satışında taşınmazın diğer paydaşları, tapu siciline şerh verilmiş ön alım, alım ve geri alım hakkı sahipleri ile tapu siciline şerh verilmiş olan taşınmaz satış vaadi alacaklısı cebri satışı da önleyecek şekilde lehine ihtiyati tedbir kararı almış olan kişiler verilebilir. "Tapu sicilindeki ilgililer" kapsamına tapu sicilinde tescil edilmemiş mülkiyet veya sınırlı ayni hak sahipleri girmez. Yorum yorumu ile tapu sicilindeki ilgililer kavramı genişletilemez.
+
+Yukarıda da açıklandığı üzere ihalenin feshi istemi şikâyet olup dava değildir. İhalenin feshini şikâyete hakkı olan ilgililer İİK'nın 134. maddesinin 2. fıkrasında düzenlenmiş olup şikâyetçinin ilgili olup olmadığı bu madde hükmüne göre tespit edilir. Şikâyet bir dava olmadığından sadece mülkiyet hakkına dayalı olarak ihalenin feshi istenemez. İhale öncesinde tapuya tescil yapılmadan kesinleşmiş mahkeme kararı ile TMK'nın 705. maddesi uyarınca taşınmaz mülkiyetini kazanan kişi İİK'nın 134. maddesinin 2. fıkrasında belirtilen" tapu sicilindeki ilgili" konumunda olmadığından ihalenin feshini isteme hakkı yoktur. Ancak bu kişi TMK'nın 705. maddesi uyarınca mülkiyet hakkına sahip olduğundan maddi hukuktan kaynaklanan bu hakkına dayanarak genel mahkemelerde TMK'nın 1025. maddesine göre yolsuz tescil hukuksal nedenine dayanarak genel mahkemelerde tapu iptali ve tescil davası açabilirler. TMK'nın 705. maddesinin 2. fıkrası mahkeme kararı ile tescilden önce taşınmazın mülkiyetini kazanan yeni malikin tasarruf işlemleri yapabilmesini mülkiyetin tapu kütüğüne tescil edilmiş olmasına bağlamıştır.
+
+### İcra İhalesi İlanlarının Ne Şekilde Yapılması Gerektiği
+
+(Y12HD-K.2020/7521)
+
+İİK’nun 126/son maddesinin göndermesi ile taşınmaz satışlarında da uygulanması gereken aynı Kanun’un 114/2. maddesi gereğince ilanın şekli, artırmanın tarzı, yer ve günü ve gazete ile yapılıp yapılmayacağı icra müdürlüğünce ilgililerin menfaatine uygun olacak şekilde tespit edilir. Satışın gerçekleştirilmesinde, hem alacaklının alacağını tahsil etmesi, hem de borçlunun borcunu ödemesi ve bu suretle tarafların karşılıklı menfaatlerinin dikkate alınması esastır. Somut olayda, 16.8.2018 tarihli satış kararında köyde ilan yapılmasına karar verilmediği görülmektedir. Satış kararında köyde ilan yapılması yönünde karar alınmadığından satışın köyde ilan edilmemiş olması ihalenin feshi nedeni olarak kabul edilemez. Kaldı ki taşınmazın niteliği ve değeri gözönünde bulundurularak yerel gazetede, icra müdürlüğünün divanhanesinde ve elektronik ilanlar yapılmakla ilanlardan beklenen amaç yasanın öngördüğü şekilde yerine getirilmiş bulunmaktadır.
+
+### İhalenin Feshi Davası Dilekçesinde İleri Sürülmeyen Nedenler Daha Sonra İleri Sürülemez
+
+(Y12HD-K.2021/7785)
+
+Somut olayda, davacı borçlular vekili istinaf başvuru dilekçesinde, satış ilanının gösterilen adreste daimi evrak memuruna tebliğ edildiğini, bu tebligatta, tebliğ memuru tarafından, muhatabın adreste bulunup bulunmadığının araştırılıp tespit edilmediğini iddia etmiş ise de, dava dilekçesinde bu hususun ihalenin feshi nedeni olarak gösterilmediği anlaşılmaktadır. Dolayısıyla dava dilekçesinde (ihalenin feshi davası dilekçesi) ileri sürülmeyen bu nedenin istinaf incelemesinde dikkate alınması mümkün değildir.
+
+**İhalenin feshi sebepleri**, İcra İflas Kanunu'nda teker teker sayılmak suretiyle gösterilmemiştir. Bu nedenle, ihaleye hazırlık, ihalenin yapılması, arttırma vb. pek çok aşamada ihalenin feshi sebepleri ortaya çıkabilir.
+
+
+---
+
+## İİK 33 İcranın Geri Bırakılması - Yargıtay Kararları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-33-icranin-geri-birakilmasi-yargitay-kararlari (son güncelleme: 2016-10-04)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 33. Madde Yargıtay Kararları, İİK 33. Madde Metni, İcranın Geri Bırakılması Nedir?
+
+
+## İcra İflas Kanunu (İİK) 33 - İcranın Geri Bırakılması Yargıtay Kararları
+
+- Kambiyo senetlerine mahsus haciz yoluyla yapılan takipte, borçlunun açtığı menfi tespit davasına alacaklının itirazlarını defi yoluyla ileri sürmesi halinde zamanaşımı kesilir. (12 HD 2010 / 2515) (HGK 1996 / 805 Karar)
+- Karardan önceki tarihli itfa itirazları mahkemece dinlenmez. Bu itirazın ilamın yargılanması sırasında mahkemede ileri sürülmesi gerekir. (12 HD 2008 / 10870 Karar)
+- Dayanak mahkemeden tastikli boşanma protokolünde iştirak nafakasının müşterek çocuğun okul masrafı için kabul edilmesi, alacaklının muvafakati olmadan eğitim kurumuna ödenmesini gerektirmez. İcra İİK 33. gereği geri bırakılamaz. Bu gibi durumlarda yerleşik içtihat ahlaki bir borcun yerine getirildiği yönündedir. (12 HD 2008 / 19678)
+- Borçlunun zamanaşımı itirazı belli bir süre içerisinde ileri sürülmesi koşuluna bağlı değildir. (HGK 1998 / 79 Karar)
+- Taşınmazın aynından doğan davalara ilişkin ilamlar zamanaşımına uğramazlar. Komşuluk hukukuna dayanan ilamlar zamanaşımına uğrarlar. ( 12 HD 2006 / 5432 K. )
+- İpoteğin muaccel olmadığı yönündeki ilamlı takibe itiraz 7 günlük süreli itirazdır. (12 HD 2005 / 3935 Karar)
+- Borçlu icra emrinin tebliğinden önceki döneme ilişkin itirazını 7 gün, tebliğinden sonraki döneme ilişkin ödeme itirazlarını süresiz ileri sürebilir. (Alacaklı icra mahkemesinde ibraz edilen adi senetteki imzayı mahkemede ikrar ederse, icra geri bırakılır, ikrar etmezse imza incelemesi yapılamaz.Bu icra emrinin tebliğinden önce döneme ait ödeme iddiası içindir. İcra emri tebliğ edildikten sonra adi belgenin hiçbir surette hükmü yoktur.)
+- İcranın geri bırakılması kararının kesinleştiğinin alacaklıya tebliğinden itibaren 7 gün içinde zamanaşımın gerçekleşmediği gerekçesiyle genel mahkemede dava açabilir. ( 19 HD 2008 / 9873 )
+
+## İcra İflas Kanunu (İİK) 33 Madde Metni - İcranın Geri Bırakılması
+
+**İcranın geri bırakılması :**
+
+**İİK Madde 33** – (Değişik : 18/2/1965 – 538/17 md.)
+
+İcra emrinin tebliği üzerine borçlu yedi gün içinde dilekçe ile icra mahkemesine başvurarak borcun zamanaşımına uğradığı veya imhal veya itfa edildiği itirazında bulunabilir. İtfa veya imha iddiası yetkili mercilerce re’sen yapılmış veya usulüne göre tasdik edilmiş yahut icra dairesinde veya icra mahkemesinde veya mahkeme önünde ikrar olunmuş senetle tevsik edildiği takdirde icra geri bırakılır.
+
+İcra emrinin tebliğinden sonraki devrede tahakkuk etmiş itfa, imhal, veya zamanaşımına dayanan geri bırakma istekleri her zaman yapılabilir. Bunlardan itfa veya imhale dayanan istekler mutlaka noterlikçe re’sen yapılmış veya tasdik olunmuş belgelere veya icra zaptına istinat ettirilmelidir.
+
+İcra mahkemesi, geri bırakılma talebini reddettiği takdirde borçlu ancak istinaf veya temyiz yolujna başvuru süresi içinde alacağı karşılıyacak nakit veya icra mahkemesince kabul edilecek taşınır rehin veya esham veya tahvilat veya taşınmaz rehni yahut muteber bir banka kefaleti göstermek şartiyle istinaf veya temyiz yoluna başvurabilir. Borçlunun yeter malı mahcuz ise veya borçlunun talebi üzerine istinaf veya temyiz yoluna başvuru süresi içinde yeter malı haczedilmişse bu fıkrada yazılı teminatı göstermeye lüzum yoktur.
+
+Borçlu olmadığı parayı ödemek mecburiyetinde kalan borçlunun 72 nci madde mucibince istirdat davası açarak paranın geriye verilmesini istemek hakkı saklıdır.
+
+**İlamın zamanaşımına uğradığı iddiası :**
+
+**İİK Madde 33/a** – Ek: 18/2/1965 – 538/18 md.)
+
+İlamın zamanaşımına uğradığı veya zamanaşımının kesildiği veya tatile uğradığı iddiaları icra mahkemesi tarafından resmi vesikalara müsteniden incelenerek icranın geri bırakılmasına veya devamına karar verilir.
+
+Alacaklı, icranın geri bırakılması kararının kesinleştiğinin kendisine tebliğinden sonra, zamanaşımının vakı olmadığını ispat sadedinde ve 7 gün içinde umumi mahkemelerde dava açabilir. Aksi takdirde icrası istenen ilamın zamanaşımına uğradığı hususu kesin hüküm teşkil eder.
+
+İcranın devamına karar verilmesi halinde 33 üncü maddenin son fıkrası burada da uygulanır.
+
+
+---
+
+## İİK 68 İtirazın Geçici ve Kesin Olarak Kaldırılması Yargıtay Kararları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-68-madde-itirazin-gecici-ve-kesin-kaldirilmasi-icra-iflas-kanunu (son güncelleme: 2016-10-03)*
+
+İcra İfla Kanunu Yargıtay Kararları, İİK 68. Madde Yargıtay Kararları, İİK 68. Madde Metni, İtirazın Kesin Olarak Kaldırılaması, İtirazın Geçici Olarak Kaldırılması
+
+
+## İcra İflas Kanunu (İİK) 68. Madde İtirazın Geçici ve Kesin Olarak Kaldırılması Yargıtay Kararları
+
+- Kredi sözleşmelerine dayalı hesap özetlerinde belirlenen borç bir hafta içinde ödeme istemli ihtarnameye itiraz edilmediğinden ihtarname İİK. 68/1 fıkrasındaki belge niteliğini kazanmıştır. İtirazın kaldırılması istenebilir. (12 HD 2010 / 115 )
+- Kredi kartı sözleşmesi nedeniyle itiraz edilmesi halinde itirazın kaldırılması istemini inceleme görevi icra mahkemesine aittir. ( 12 HD 2009 / 21472 )
+- Bonoda ki imzaya itiraz edilince takip alacaklısı lehdar ise bonodaki imzanın keşideciye ait olup olmadığını bilebilecek durumda oaln kişidir. Bu nedenle % 20 inkar tazminatına hükmedilmelidir. ( 12 HD 2009 / 12980 K. )
+- Kira alacağı takibinde borca itiraz varsa, itirazın kaldırılması için 30 gün beklemeye gerek yoktur. ( 6 HD 2009 / 4988 )
+- Borçlu itirazında hukuki ilişkiyi kabul edip ödeme olgusuna dayandığına göre, artık alacaklının dayandığı belge tartışılmaz. ( 12 HD 2008 / 6198 )
+- Banka dekontlarına dayanan kefil bu dekontlarla İİK 68’deki borç ikrarını havi belgeye dayanamaz. ( 12 HD 2007 / 9107 )
+- Yargılama yapılmasını gerektiren durumlarda itirazın geçici olarak kaldırılması istenemez.
+- Belli vadelerde ne amaçla alındığı belli olmayan paraların ne amaçla iade edileceği hususu yargılamaya muhtaçtır. (12 HD 2007 / 6441)
+- Fatura İİK. 68 yazılı mükerrer borç ikrarı gösterir belge niteliğinde değildir. ( 12 HD 2007 / 256 )
+- Faturayla yapılan icra takibinde borçlunun takas – mahsup iddiası var ise takip dayanağı belgenin ne olduğuna bakılmaksızın bu olgu araştırılır (12 HD 2006 / 14044 karar).
+- Kambiyo senedi niteliği taşımayan belge adi havale niteliğindedir. ( 12 HD 2006 / 13729 )
+- İmzanın borçluya ait olduğunu alacaklı ispat etmelidir. (HGK 2006 / 231 karar)
+
+## İcra İflas Kanunu (İİK) 68. Madde İtirazın Geçici ve Kesin Olarak Kaldırılması
+
+**İtirazın kesin olarak kaldırılması :**
+
+**İİK Madde 68** – (Değişik: 18/2/1965 - 538/38 md.)
+
+(Değişik birinci fıkra: 17/7/2003-4949/16 md.) Talebine itiraz edilen alacaklının takibi, imzası ikrar veya noterlikçe tasdik edilen borç ikrarını içeren bir senede yahut resmî dairelerin veya yetkili makamların yetkileri dahilinde ve usulüne göre verdikleri bir makbuz veya belgeye müstenitse, alacaklı itirazın kendisine tebliği tarihinden itibaren altı ay içinde itirazın kaldırılmasını isteyebilir. Bu süre içerisinde itirazın kaldırılması istenilmediği takdirde yeniden ilâmsız takip yapılamaz.
+
+Borçlu itirazını varit gösterecek hiçbir belge ibraz edemezse icra mahkemesi itirazın kaldırılmasına karar verir. İtiraz birinci fıkrada gösterilen senet veya makbuz yahut belgeye müstenit ise itirazın kaldırılması talebi reddolunur. Borçlu murisine ait bir alacak için takibedilmekte olup da, terekenin borca batık olduğunu ileri sürerse bu hususta ilam getirmesi için kendisine münasip bir mühlet verilir. Bunun dışında itirazın kaldırılması talebinin kabul veya reddi için ileri sürülen iddia ve savunmalar bekletici mesele yapılamaz.
+
+(Değişik: 9/11/1988 - 3494/2 md.) Borçlunun gösterdiği belge altındaki imza alacaklı tarafından inkar edilirse hakim, 68/a maddesinde yazılı usule göre yaptığı inceleme neticesinde imzanın alacaklıya ait olduğuna kanaat getirdiği takdirde alacaklının itirazın kaldırılması talebini reddeder ve alacaklıyı sözü edilen belgenin taalluk ettiği değer veya miktarın yüzde onu oranında para cezasına mahkum eder. Alacaklı genel mahkemede dava açarsa bu para cezasının infazı dava sonuna kadar tehir olunur ve alacaklı bu davada alacağını ve imzanın kendisine ait olmadığını ispat ederse bu ceza kalkar. Alacaklı duruşmada bizzat bulunmayıp da imza vekili tarafından reddolunduğu takdirde vekil mütaakıp oturumda müvekkilini imza tatbikatı için hazır bulundurmaya veya masraflarını vererek davetiye tebliğ ettirmeye mecburdur. Kabule değer mazereti olmadan gelmiyen alacaklı borçlunun dayandığı belgede yazılı miktar hakkındaki itirazın kaldırılması talebinden vazgeçmiş sayılır.
+
+(Ek fıkra: 6/6/1985 - 3222/6 md.; Değişik: 9/11/1988 - 3494/2 md.) (Değişik birinci cümle: 17/7/2003-4949/16 md.) İtirazın kaldırılması talebinin esasa ilişkin nedenlerle kabulü hâlinde borçlu, talebin aynı nedenlerle reddi hâlinde ise alacaklı, diğer tarafın talebi üzerine yüzde yirmiden aşağı olmamak üzere tazminata mahkûm edilir. Borçlu, menfi tespit ve istirdat davası açarsa, yahut alacaklı genel mahkemede dava açarsa, hükmolunan tazminatın tahsili dava sonuna kadar tehir olunur ve dava lehine sonuçlanan taraf için, daha önce hükmedilmiş olan tazminat kalkar.
+
+**İtirazın geçici olarak kaldırılması:**
+
+**İİK Madde 68/a** – (Ek: 18/2/1965 - 538/39 md.)
+
+(Değişik birinci fıkra: 17/7/2003-4949/17 md.) Takibin dayandığı senet hususî olup, imza itiraz sırasında borçlu tarafından reddedilmişse, alacaklı itirazın kendisine tebliği tarihinden itibaren altı ay içinde itirazın geçici olarak kaldırılmasını isteyebilir. Bu hâlde icra hâkimi iki taraftan izahat alır.
+
+Senet altındaki imzayı reddeden borçlu takibi yapan icra dairesinin yetki çevresi içinde ise, itirazın kaldırılması için icra mahkemesi önünde yapılacak duruşmada, mazeretini daha önce bildirip tevsik etmediği takdirde, bizzat bulunmaya mecburdur. İcra dairesinin yetki çevresi dışında ödeme emri tebliğ edilen borçlu, istinabe yolu ile isticvabına karar verilmesi halinde, aynı mecburiyete tabidir.
+
+Tatbika medar imza mevcutsa bununla, yoksa borçluya yazdıracağı yazı ve attıracağı imza ile yapılacak mükayese ve incelemelerden veya diğer delil ve karinelerden icra mahkemesi, reddedilen imzanın borçluya aidiyetine kanaat getirirse itirazın muvakkaten kaldırılmasına karar verir. Hakim lüzum görürse, oturumun bir defadan fazla talikine meydan vermiyecek surette, bilirkişi incelemesi de yaptırabilir.
+
+İmza tatbikında Hukuk Usulü Muhakemeleri Kanununun bilirkişiye ait hükümleri ile 309 uncu maddesinin 2 nci, 3 üncü ve 4 üncü fıkraları ve 310, 311 ve 312 nci maddeleri hükümleri uygulanır.
+
+(Değişik: 9/11/1988 - 3494/3 md.) Yapılacak duruşmada, yukarıda yazılı mazerete dayanmaksızın, borçlunun hazır bulunmaması halinde icra mahkemesince başka bir cihet tetkik edilmeksizin itirazın muvakkaten kaldırılmasına ve borçlunun sözü edilen senede dayanan takip konusu alacağın yüzde onu oranında para cezasına mahkumiyetine karar verilir. Duruşmaya gelmeyen borçlunun itirazının muvakkaten kaldırılmasına ve hakkında para cezasına karar verilebilmesi için keyfiyetin davetiyeye yazılması şarttır.
+
+(Değişik: 9/11/1988 - 3494/3 md.) İcra hakimi, imzanın borçluya aidiyetine karar verdiği takdirde borçluyu sözü edilen senede dayanan takip konusuna alacağın yüzde onu oranında para cezasına mahkum eder. Borçlu, borçtan kurtulma, menfi tespit veya istirdat davası açarsa, bu para cezasının infazı dava sonuna kadar tehir olunur ve borçlu açtığı davayı kazanırsa bu ceza kalkar.
+
+Borçlu inkar ettiği imzayı, itirazın kaldırılması duruşmasında ve en geç alacaklının senedin aslını ibraz ettiği celsede kabul ederse, hakkında para cezası hükmolunmaz ve kendisine yargılama giderleri yükletilmez. Şu kadar ki, kötü niyetle takibe sebebiyet veren borçlu yargılama giderleri ile mülzem olur. Senedin aslı takip talebi anında icra dairesine tevdi edilmiş ise, icra dairesinin yetki çevresi içinde ödeme emri tebliğ edilen borçlu hakkında bu fıkra hükmü uygulanmaz.
+
+(Ek: 6/6/1985 - 3222/7 md.; Değişik: 9/11/1988 - 3494/3 md.) İtirazın muvakkaten kaldırılması talebinin kabulü halinde borçlu, bu talebin reddi halinde ise alacaklı, diğer tarafın talebi üzerine yüzde yirmiden aşağı olmamak üzere tazminata mahkum edilir. Borçlu, borçtan kurtulma, menfi tespit veya istirdat davası açarsa, yahut alacaklı genel mahkemede dava açarsa hükmolunan tazminatın tahsili dava sonuna kadar tehir olunur ve dava lehine sonuçlanan taraf için, daha önce hükmedilmiş olan tazminat kalkar.
+
+**Borçlu cari hesap veya kısa, orta, uzun vadeli kredi şeklinde işleyen kredilerde itirazın kesin olarak kaldırılması:**
+
+**İİK Madde 68/b** – (Ek: 9/11/1988 - 3494/4 md.)
+
+Borçlu cari hesap veya kısa, orta, uzun vadeli kredi şeklinde işleyen kredilerde krediyi kullandıran taraf, krediyi kullanan tarafın kredi sözleşmesinde belirttiği adresine, borçlu cari hesap sözleşmesinde belirtilen dönemleri veya kısa, orta, uzun vadeli kredi sözleşmelerinde yazılı faiz tahakkuk dönemlerini takip eden onbeş gün içinde bir hesap özetini noter aracılığı ile göndermek zorundadır.
+
+(Değişik son cümle: 17/7/2003-4949/18 md.) Sözleşmede gösterilen adresin değiştirilmesi, yurt içinde bir adresin noter aracılığıyla krediyi kullandıran tarafa bildirilmesi hâlinde sonuç doğurur; yeni adresin bu şekilde bildirilmemesi hâlinde hesap özetinin eski adrese ulaştığı tarih tebliğ tarihi sayılır.
+
+Süresi içinde gönderilen hesap özetinin muhtevasına, alındığından itibaren bir ay içinde itiraz etmeyen krediyi kullanan taraf, hesap özetinin gerçeğe aykırılığını ancak borcunu ödedikten sonra dava edebilir.
+
+Kredi sözleşmeleri ve bunlarla ilgili süresinde itiraz edilmemiş hesap özetleri ile ihtarnameler ve krediyi kullandıran tarafından usulüne uygun düzenlenmiş diğer belge ve makbuzlar bu Kanunun 68 inci maddesinin birinci fıkrasında belirtilen belgelerden sayılırlar. Krediyi kullanan taraf, itiraz etmediği hesap özetinin dayandığı belgelerde kendisine izafe edilen imzayı kabul etmiş sayılır. Bu hüküm bu Kanunun 150/a maddesinin söz konusu olduğu hallerde de aynen uygulanır.
+
+(Ek fıkra: 17/7/2003-4949/18 md.) Krediyi kullanan tarafın kredi hesabının kesilmesine veya borcun ödenmesine ilişkin ihtarname içeriğine itiraz etmiş olması, kredi hesabının kesilmesi ve borcun ödenmesine ilişkin ihtarnameden önce tebliğ edilen ve itiraz edilmeyerek kesinleşmiş bulunan faiz tahakkuk dönemlerine ilişkin hesap özetlerinin muhtevasına itiraz edilmemiş olmasının sonuçlarını ortadan kaldırmaz. Bu durumda, önceki dönemlere ilişkin kesinleşmiş hesap özetleri hakkında ikinci fıkra hükümleri uygulanır.
+
+
+---
+
+## İİK md. 38 - İlam Niteliğinde Belgeler Yargıtay Kararları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-38-ilam-mahiyetinde-belgeler-yargitay-kararlari (son güncelleme: 2016-10-04)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 38. Madde Yargıtay Kararları, İİK 38. Madde Metni, İlam Niteliğinde Belgeler Nelerdir?
+
+
+## İcra İflas Kanunu (İİK) 38 - İlam Mahiyetinde Belgeler Yargıtay Kararları
+
+- İcra kefili dosya borcuna kefil olmuşsa, dosyadaki tüm borçlara kefil olmuştur. Bir borçlunun borcuna değil de dosya borcuna kefalette tüm borçlulara tebligat yapılmasından sonra icra emri şart değildir, tek borçlununki kesinleşmişse yeterlidir. (HGK 2010 / 60 karar)
+- İlamlar, kesin hüküm gücüne sahip olmasına rağmen ilam niteliğindeki belgeler özellikte yoksundur. (12 HD 2009 / 5604 karar) İlamlara karşı, karardan önceki itfa veya zamanaşımı iddialarına dayanılarak istirdat veya menfi tespit davası açılamaz. İlam niteliğindeki belgelere karşı bu davalar açılabilir.
+- Rehin sözleşmesi kesin bir borç ikrarı içermiyorsa ilam niteliğinde değildir, ilamlı takip yapılamaz. (12 HD 2001 / 14643 karar)
+- Takip kambiyo takibi olsa da İcra kefili hakkındaki zamanaşımı on yıldır. (12 HD 2006 / 12433 karar)
+- İhtiyati haciz sırasında icra kefili olmak mümkündür. Ancak takip kesinleştikten sonra icra emri gönderilebilir. (12 HD 2005 / 14542 karar)
+- İcra mahkemesi kararının infazı için, kesinleşmesi zorunlu değildir. (12 HD 2009 / 11774 Karar)
+- İlam bozulunca icra işlemi durur, ayrıca ödeme yapılmışsa ilam kesinleşince ayrıca hükme gerek olmaksızın icra tamamen veya kısmen eski haline iade olunur.
+
+## İcra İflas Kanunu (İİK) 38. Madde Metni- İlam Mahiyetinde Belgeler
+
+**İlam mahiyetini haiz belgeler :**
+
+**İİK Madde 38** – (Değişik: 18/2/1965 - 538/20 md.)
+
+Mahkeme huzurunda yapılan sulhlar, kabuller ve para borcu ikrarını havi re'sen tanzim edilen noter senetleri, istinaf ve temyiz kefaletnameleri ile icra dairesindeki kefaletler, ilamların icrası hakkındaki hükümlere tabidir. Bu maddedeki icra kefaletleri müteselsil kefalet hükmündedir.
+
+
+---
+
+## İlamların İcrası - Yargıtay Kararları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-32-30-25-ilamlarin-icrasi-yargitay-kararlari (son güncelleme: 2016-10-04)*
+
+Para ve Teminat Verilmesine Dair İlamların icrası Yargıtay Kararları İİK 32, Bir İşin Yapılmasına veya Yapılmamasına Dair İlamların İcrası İİK 30, Çocuk Teslimine İlişkin İlamların İcrası İİK 25
+
+
+## Para ve Teminat Verilmesine Dair İlamların İcrası Yargıtay Kararları (İİK 32)
+
+- Borçluların her birinin ayrı ayrı sorumlu olduğu borç miktarı dayanak ilamda ve takip talebinde gösterilip icra emrinde gösterilmemişse, bu durumda icra emrinin iptali gerekir. ( 12 HD 2008 / 1391 K. )
+- İlam içeriğine aykırı faiz istendiği yönünde yapılan itiraz teknik olarak bir şikayettir, taraflar duruşmaya gelmese dahi karar verilebilir. ( 12 HD 2008 / 132 K. )
+- Menfi tespit davasında; İİK. 72/5 işin esası ile ilgili olarak icranın tamamen veya kısmen eski hale iadesini ilamın kesinleşmesine bağlar. Bu nedenle eklenti olan yargılama giderleri de kesinleşmeden talep edilemez. (12 HD 2007 / 19610 karar) (HGK 1990/564 Karar)
+- Kamulaştırmasız el atmaya tazminata ilişkin ilamda taşınmazın da tesciline karar verilmesi, tazminatın derhal icraya konmasına engel değildir, çünkü bu durum taşınmazın aynının çekişmeli olduğu anlamına gelmez. (12 HD 2006 / 13303 Karar)
+- “Küçük Sina’nın yuva ve S’ nin okul masrafının davacı baba tarafından karşılanmasına” ilişkin hüküm fıkrasının infaz kabiliyeti yoktur. Ayrıca alacak ilama bağlanmadan icra takibi yapılamaz. (HGK 2006 / 85 Karar)
+- Sınırlı yetkili icra mahkemesi ilamın içeriğini yorum yoluyla belirleyemez. ( 12 HD 2006 / 588 ) ( HGK 1997 / 776 )
+- Dayanak ilamın borçluya gönderileceğine dair kanunda hüküm olmadığından, icra emrinin gönderilmesi yeterlidir. ( 12 HD 2005 / 25635 K. )
+- Kanun koyucu para ve teminattan başka borçları hakkındaki ilamların icrasından alacaklıya iflas isteme hak ve yetkisi vermemiştir. ( 19 HD 2003 / 5752 )
+- Tam yargı davalarına ilişkin ilamların kesinleşmesi gerekir. ( 12 HD 2005 / 3510 )
+- İlamda faize hükmedilmemiş ve takip talebinde de asıl alacak yanında faiz talep hakkı saklı tutulmuşsa, alacaklı yeni bir takip ile faiz talep edemez. Ancak ilamda faize hükmedilmişse önceki takipte faiz istenmemiş ve bu hususta talep hakkı saklı tutulmuşsa bile ilamda yazılı faiz için yeni bir takip yapılabilir. ( 12 HD 2000 / 19602 K.)
+- İlam fuzuli işkal nedeni ile men-i müdahaleye dayanıyorsa, üçüncü kişi tapuya tescil edilmiş bir hakka dayanarak işgal edildiğini ispat etmelidir. ( HGK 1999 – 953 K. )
+
+## Bir İşin Yapılmasına veya Yapılmamasına Dair İlamların İcrası (İİK 30)
+
+- Kararda, dava konusu taşınmazda davalıya verilen süre içinde apartman girişi yanında, duvardan sığınağa inişi sağlayan kapının ve merdivenin yapılarak projeye uygun hale getirilmesine hükmedilmesiyle, yapım masraflarının ( 3500TL ) davalılardan alınmasına karar verilmesi hukuka aykırıdır, masrafların alınması ilamın infaz aşamasına ilişkindir, ilamda yer almamalıdır. İİK 30. madde uygulanır. ( 18 HD 2008 – 12779 )
+- Ortak yere davalının yaptığı sundurmanın kendisine verilen süre içerisinde kaldırılıp buranın mimari projeye uygun hale getirilmesine hükmedilmesiyle yetinilmelidir, kararda bu süre zarfında ilamın yerine getirilmemesi halinde davacı yanca ilam gereklerinin yerine getirilmesine, avans olarak 400 TL’nin davalıdan alınmasına karar verilmesi, infazı da kapsadığından yanlıştır. ( 18 HD 2008 12424 K. ) ( 18 HD 2008/9968 K. ) ( 14 HD 2007/1832 K. )
+- Alacaklı İİK 30 Madde prosedürünü işletmeden masraf yaparsa bu prosedür artık işletilemez. (12 JD 1996 / 9839 K. )
+
+## Çocuk Teslimine İlişkin İlamların İcrası (İİK 25)
+
+- İlişki kurulmasına veya kaldırılmasına mahkeme karar verir infaz aşamasında psikoloğun raporuyla, icra dairesi kendiliğinden çocuğun psikolojik zarar göreceğinden bahisle ilhamın yerine getirilememezlik edilemez. ( 12 HD 2009 / 12326 )
+- Mahkeme ara kararının infazı ihtiyati tedbir gibi yerine getirilir. Bu durumda infaz memurunun işlemlerine karşı ilgili mahkemesine ( kararı veren ) başvurmak – şikayet etmek gereklidir. ( 12 HD 2007 / 9053 K. ) Ancak yasaya aykırı olarak ilamlı takip yapıldığında takibin şekline ilişkin şikayet icra mahkemesine yapılmalıdır.
+- Şahsi münasebet tesisi boşanmanın eklentisi niteliğinde olup, boşanma kararı kesinleşmeden infaz alınamaz . ( 12 HD 2005 / 24736 K. )
+- Şahsi münasebet için babaya bırakılan çocuğun geri alınması sırasında (anneye verilmesi için) uzman bulundurmaya gerek yok. ( 12 HD 2004 / 24246 )
+
+## İlamların İcrası Madde Metinleri (İİK 25, İİK 30, İİK 32)
+
+**Çocuk teslimi:**
+
+**İİK Madde 25** – (Değişik: 3/7/1940 - 3890/1 md.)
+
+Çocuk teslimine dair olan ilam icra dairesine verilince icra memuru 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde çocuğun teslimini emreder. Borçlu bu emri tutmazsa çocuk nerede bulunursa bulunsun ilam hükmü zorla icra olunur.
+
+Çocuk teslim edildikten sonra diğer taraf haklı bir sebep olmaksızın çocuğu tekrar alırsa ayrıca hükme hacet kalmadan zorla elinden alınıp öbür tarafa teslim olunur.
+
+**Çocukla şahsi münasebet tesisine dair ilamin icrası:**
+
+**İİK Madde 25/a** – (Ek: 18/2/1965 - 538/15 md.)
+
+Çocukla şahsi münasebetlerin düzenlenmesine dair ilam hükmünün yerine getirilmesi talebi üzerine icra memuru, küçüğün ilam hükümleri dairesinde lehine hüküm verilen tarafla şahsi münasebette bulunmasına mani olunmamasını; aksi halde ilam hükmünun zorla yerine getirileceğini borçluya 24 üncü maddede yazılı şekilde bir icra emri ile tebliğ eder. Bu emirde ilam hükmüne aykırı hareketin 341 inci maddedeki cezayı müstelzim olduğu da yazılır.
+
+Borçlu bu emri tutmazsa ilam hükmü zorla yerine getirilir. Borçlu alacaklının şikayeti üzerine ayrıca 341 inci maddeye göre cezalandırılır.
+
+**Çocuk teslimine ve çocukla kişisel ilişki kurulmasına dair ilâmların icrasında uzman bulundurulması:**
+
+**Madde 25/b**- (Ek: 17/7/2003-4949/7 md.)
+
+Çocukların teslimine ve çocukla kişisel ilişki kurulmasına dair ilâmların icrası, icra müdürü ile birlikte Sosyal Hizmetler ve Çocuk Esirgeme Kurumu tarafından görevlendirilen sosyal çalışmacı, pedagog, psikolog veya çocuk gelişimcisi gibi bir uzmanın, bunların bulunmadığı yerlerde bir eğitimcinin hazır bulunması suretiyle yerine getirilir.
+
+**Bir işin yapılmasına veya yapılmamasına dair olan ilamlar :**
+
+**İİK Madde 30**
+
+Bir işin yapılmasına mütedair ilam icra dairesine verilince icra memuru 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya ilamda gösterilen müddet içinde ve eğer müddet tayin edilmemişse işin mahiyetine göre başlama ve bitirme zamanlarını tayin ederek işi yapmağı emreder.
+
+Borçlu muayyen müddetlerde işe başlamaz veya bitirmez ve iş diğer bir kimse tarafından yapılabilecek şeylerden olur ve alacaklı da isterse yapılması için lazımgelen masraf icra memuru tarafından ehlivukufa takdir ettirilir. Bu masrafın ilerde hükme hacet kalmaksızın borçludan tahsil olunup kendisine verilmek üzere ifasına alacaklı muvafakat ederse alınıp hükmolunan iş yaptırılır. Muvafakat etmezse ayrıca hükme hacet kalmadan borçlunun kafi miktarda malı haciz ile paraya çevrilerek o iş yaptırılır.
+
+İlam, bir işin yapılmamasına mütedair olduğu takdirde icra dairesi tarafından ilamın hükmü borçluya aynı müddetli bir emirle tebliğ olunur.Bu emirde ilam hükmüne muhalefetin 343 üncü maddedeki cezayı müstelzim olduğu yazılır.
+
+(Ek son fıkra: 17/7/2003-4949/9 md.) Bir işin yapılmasına veya yapılmamasına dair olan ilâm hükmü yerine getirildikten sonra borçlu, ilâm hükmünü ortadan kaldıracak bir eylemde bulunursa, mahkemeden ayrıca hüküm almaya gerek kalmadan, önceki ilâm hükmü tekrar zorla yerine getirilir.
+
+**Para ve Teminat Verilmesi Hakkındaki İlamların İcrası :**
+
+**İcra emri ve muhtevası :**
+
+**İİK Madde 32** – (Değişik: 18/2/1965 - 538/16 md.)
+
+Para borcuna veya teminat verilmesine dair olan ilam icra dairesine verilince icra memuru borçluya bir icra emri tebliğ eder. Bu emirde 24 üncü maddede yazılanlardan başka hükmolunan şeyin cinsi ve miktarı gösterilir ve nihayet yedi gün içinde ödenmesi ve bu müddet içinde borç ödenmez veya hükmolunan teminat verilmezse icra mahkemesinden veya istinaf veya temyiz yahut iadei muhakeme yolu ile ait olduğu mahkemeden icranın geri bırakılmasına dair bir karar getirilmedikçe cebri icra yapılacağı ve bu müddet içinde 74 üncü madde mucibince mal beyanında bulunması ve bulunmazsa hapis ile tazyik olunacağı, mal beyanında bulunmaz veya hakikata muhalif beyanda bulunursa hapis ile cezalandırılacağı ihtar edilir.
+
+(Ek fıkra: 2/7/2012-6352/7 md.) Yabancı devlet aleyhine başlatılan ilamlı icra takiplerine ilişkin icra emrinde uluslararası andlaşmalar saklı kalmak kaydıyla, borçlu devlete ait olan mallar hakkında cebri icra yapılabileceği hususu ayrıca ihtar edilir.
+
+
+---
+
+## İlamların İcrası Taşınır Teslimi Yargıtay Kararları (İİK md. 24)
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-24-madde-tasinir-teslimi-ilamlarin-icarasi-yargitay-kararlari (son güncelleme: 2016-10-03)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 24. Madde Yargıtay Kararları, İİK 24. Madde Metni, İlamların İcrası Taşınır Teslimi Yargıtay Kararları
+
+
+## İlamların İcrası - Taşınır Teslimi Yargıtay Kararları (İİK 24)
+
+- İİK md. 24/5 fıkra gereği taşınırın değeri, borsa ve ticaret odalarında olmayan yerlerde icra müdürü tarafından seçilecek bilirkişiden sorulup alınacak cevaba göre tayin edilir. ( 12 HD 2010 /3703 K. )
+- İlamın icraya konulmasından sonra taraflar protokol yaparak ilamın icrasına ilişkin yeni bir tarz belirleyebilirler. Protokoldeki imzalar icra müdürlüğünde ikrar edilirse, İİK. 33 mahiyetindeki belge nedeni ile icranın geri bırakılması istenebilir. ( HGK 2008/ 636 K. )
+- İcra dairesinin bedeli tespit ettirilmesinden sonra gönderilen muhtıradan itibaren faiz başlar . ( 12 HD 2008 / 728 K. )
+- Eğer mahkemeden sadece malın aynen iadesi istenip terditli olarak bedeli istenmişse, mahkeme talebi aşamaz, sadece aynen ifaya karar verir; icra aşamasında aynen ifa mümkün değilse , bu durum İİK .24 maddesi gereği işlem yapılarak giderilir. ( 15 HD 2007 / 5503 K. )
+- Hüküm bölümü menkul teslimine olmazsa bedelinin tahsiline ilişkin olan ilama dayanılarak ilamlı takip yapılmış olduğundan öncelikle menkul teslimine ilişkin hüküm uygulanır. ( HGK 2005 / 769 K. )
+- İİK 32’ye göre borçluya dayanak ilam gönderilmek zorunda değildir. ( 12 HD 2005 / 25635 K. )
+
+## İlamların İcrası Taşınır Teslimi İİK 24. Madde Metni
+
+**Taşınır teslimi:**
+
+**İİK Madde 24** – (Değişik: 18/2/1965 - 538/14 md.)
+
+Bir taşınırın teslimine dair olan ilam icra dairesine verilince icra memuru bir icra emri tebliği suretiyle borçluya yedi gün içinde o şeyin teslimini emreder.
+
+İcra emrinde; alacaklı ve borçlunun ve varsa mümesillerinin adları ve soyadları ile şöhret ve yerleşim yerleri hükmü veren mahkemenin ismi ve hükmolunun şeyin neden ibaret olduğu, ilamın tarih ve numarası ve icra mahkemesinden veya istinaf veya temyiz yahut iadei muhakeme yoliyle ait olduğu mahkemeden icranın geri bırakılması hakkında bir karar getirilmedikçe cebri icraya devam olunacağı yazılır.
+
+Borçlu, bu emri hiç tutmaz veya eksik bırakır ve hükmolunan taşınır veya misli yedinde bulunursa elinden zorla alınıp alacaklıya verilir.
+
+Yedinde bulunmazsa ilamda yazılı değeri alınır. Vermezse ayrıca icra emri tebliğine hacet kalmaksızın haciz yoliyle tahsil olunur. Taşınır malın değeri, ilamda yazılı olmadığı veya ihtilaflı bulunduğu takdirde, icra memuru tarafından haczin yapıldığı tarihteki rayice göre takdir olunur.
+
+Hükmolunan taşınırın değeri, borsa veya ticaret odalarından, olmıyan yerlerde icra memuru tarafından seçilecek bilirkişiden sorulup alınacak cevaba göre tayin edilir.
+
+İlgililerin bu hususta icra mahkemisine şikayet hakları vardır.
+
+
+---
+
+## İtirazın İptali Davası (İİK m.67)
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/borclar-hukuku/itirazin-iptali-davasi (son güncelleme: 2026-09-04)*
+
+İtirazın iptali davası, borçlunun icra takibine yaptığı itirazın kendisine tebliği üzerine alacaklının 1 yıllık hak düşürücü süre içinde açtığı davadır.
+
+
+## İtirazın İptali Davası Nedir?
+
+**İtirazın iptali davası**, İcra İflas Kanununun (İİK) 67. maddesinde şu şekilde düzenlenmiştir:
+
+**İcra İflas Kanunu m.67**
+
+Takip talebine itiraz edilen alacaklı, itirazın tebliği tarihinden itibaren bir sene içinde mahkemeye başvurarak, genel hükümler dairesinde alacağının varlığını ispat suretiyle itirazın iptalini dava edebilir.
+
+Bu davada borçlunun itirazının haksızlığına karar verilirse borçlu; takibinde haksız ve kötü niyetli görülürse alacaklı; diğer tarafın talebi üzerine iki tarafın durumuna, davanın ve hükmolunan şeyin tahammülüne göre, red veya hükmolunan meblağın yüzde yirmisinden aşağı olmamak üzere, uygun bir tazminatla mahkum edilir.
+
+İtiraz eden veli, vasi veya mirasçı ise, borçlu hakkında tazminat hükmolunması kötü niyetin sübutuna bağlıdır.
+
+Birinci fıkrada yazılı itirazın iptali süresini geçiren alacaklının umumi hükümler dairesinde alacağını dava etmek hakkı saklıdır.
+
+Bu Kanunda öngörülen icra inkar tazminatı, kötü niyet tazminatı ve benzeri tazminatların tespitinde, takip talebi veya davadaki talep esas alınır
+
+
+(HGK-K.2022/694)
+
+İtirazın iptali davası; 2004 sayılı İcra ve İflas Kanunu’nun (İİK) 67 ve devamı maddelerinde düzenlenmiştir. Buna göre;
+
+i) İlamsız takip yapılmış olması,
+
+ii) Borçlunun bu takibe itiraz etmesi,
+
+iii) İtirazın alacaklıya (davacıya) tebliğinden itibaren alacaklının, bir yıl içinde itirazın iptali için mahkemeye başvurmuş olması, yasal koşullarının gerçekleşmesi gerekir.
+
+Takip alacaklısı tarafından ödeme emrine süresi içinde itiraz etmiş olan takip borçlusuna karşı açılan itirazın iptali davasının konusu, icra takibine konu edilen alacaklar olup, davanın amacı itirazla duran takibin devamını sağlamaktır. Bu dava, yargılama usulü bakımından genel hükümlere tabidir. Davalı borçlunun icra dosyasında ileri sürdüğü itirazlar dışındaki itirazlarını da bu dava içinde ancak cevap süresi içinde ileri sürmesi olanaklıdır. Eğer cevap süresi içinde davalı/borçlu diğer itirazlarını ileri sürmezse mahkeme bunları kendiliğinden göz önüne alamaz, takibe itiraz edilirken bildirilen sebeplerle sınırlı araştırma yapmak durumunda kalır.
+
+## İtirazın İptali Davasının Niteliği, Yargılama Usulü ve Hukuki Yarar
+
+(HGK-K.2022/1077)
+
+Yasal dayanağını 2004 sayılı İcra ve İflas Kanunu’nun (İİK) 67. maddesinden alan **itirazın iptali davası**, müddeabihi takip konusu yapılmış ve borçlunun itiraz etmiş olduğu alacak olan, normal bir alacak (eda) davasıdır. Takip alacaklısı tarafından süresi içinde ödeme emrine itiraz etmiş olan borçluya karşı açılır; yani davacı alacaklı, davalı ise takip borçlusudur. Davacı alacaklı, itirazın iptali davasında, borçlunun itiraz etmiş olduğu alacağın mevcut olduğunu bildirerek, borçlunun itirazının iptaline karar verilmesini talep eder (Kuru, Baki: İcra ve İflas Hukuku El Kitabı, Ankara 2013, s. 251).
+
+Mahkemenin davanın reddi ya da kabulü yönünde verdiği karar, maddi anlamda kesin hüküm teşkil edeceğinden, davanın reddi hâlinde alacaklı, borçluya karşı aynı alacaktan dolayı yeni bir alacak davası açamayacağı gibi davanın kabulü hâlinde borçlu da alacaklıya karşı menfi tespit veya istirdat davası açamayacaktır. Bu nedenledir ki, mahkeme itirazın iptali davasında tarafların iddia ve savunmalarını genel hükümlere göre inceleyerek borcun varlığını ve miktarını araştırmak zorundadır.
+
+İtirazın iptali davası ile alacaklı; icra takibine karşı borçlunun yaptığı itirazın iptali ile İİK’nın 66. maddesine göre itiraz üzerine duran takibin devamını sağlamayı amaçlamaktadır. Takip hukukundan doğan bu davada tespit edilecek husus, borçlunun icra takibine yaptığı itirazında haklı olup olmadığının belirlenmesidir.
+
+Bu dava, yargılama usulü bakımından genel hükümlere tabidir (İİK m. 67/1). Dava, özünde tahsil istemini de barındırmakla, burada borçlunun takip sonrası yaptığı ödeme iddialarının da nazara alınması zorunludur. Borçlu, ödeme emrine itiraz ederken bildirdiği itiraz sebepleri dışında, itirazın iptali davasında başka itiraz sebeplerini ileri sürebileceğinden, mahkemenin borcun sonradan ödendiği itirazını araştırarak, ödemenin takip konusu alacakla ilgili olduğunu belirlemesi hâlinde, alacaklının dava tarihi itibariyle talep edebileceği alacak miktarı üzerinden hüküm kurması gerektiğinde duraksama bulunmamaktadır.
+
+Hemen belirtilmelidir ki alacak miktarının, takip ya da dava tarihindeki koşullara göre belirlenmesinin, itirazın iptali davasında hükmolunan miktar üzerinden tahsiline karar verilebilecek bir tazminat türü olan ve bağımsız bir dava konusu yapılamayan icra inkâr tazminatının miktarına da etkili olacağı açıktır.
+
+Henüz alacaklı tarafından itirazın iptali davasının açılmadığı bir evrede, borçlunun, itiraza konu borcu kısmen veya tamamen ödemesi mümkündür ve bunu engelleyen herhangi bir yasa hükmü yoktur. Borçlu, itirazın iptali davası açılmamışken, itirazına konu borcun tamamını öderse, alacaklının itirazın iptali davası açmasına gerek kalmayacak ve böyle bir davayı açmakta hukukî yararı bulunmayacaktır. Zira itirazın iptali davası açılmasında amaç, itiraz nedeniyle kanun gereğince kendiliğinden durmuş olan takibin devamını sağlamaktır. Takibin devamı yoluyla elde edilecek olan sonuç (alacağın tahsili), borçlunun tüm borcu ödemesiyle zaten gerçekleşmiş olacağına göre, gerçekleşmiş olan bu sonucu sağlamak üzere bir dava açılmasında hukukî yarar bulunmayacaktır. Bunun gibi takibe konu borcun kısmen ödendiği durumlarda da ödenmeyen borç tutarına yönelik itirazın iptali davasında, itirazdan sonra ödenmiş olan miktar bakımından itirazın iptalinin istenilmesinde hukukî yarar mevcut olmayacaktır.
+
+## Hangi Hallerde İtirazın İptali Davası Açılır?
+
+(Y9HD-K.2020/11925)
+
+Genel haciz yoluyla ilamsız icra takiplerinde borçlunun itirazı üzerine takip durur ve alacaklının takibin devamını sağlamaya yarayan imkanlarından biri İcra İflas Kanunu'nun 67. maddesinde öngörülen itirazın iptali davasıdır. **İtirazın iptali davası**, takip alacaklısı tarafından itiraz etmiş olan takip borçlusuna karşı açılır. İcra takibinde yer alan ve borçlu tarafından itiraza uğrayan kısım davanın konusunu oluşturur. Borcun tamamına ya da bir kısmına itiraz hallerinde olduğu gibi imzaya itiraz ile faize itiraz edilmesi durumunda da itirazın iptali davası açılabilir. İcra İflas Kanunu'nun 68 ve 68 (a) maddelerinde sözü edilen belgelerden birine sahip olmayan alacaklı, itirazın giderilmesini sağlayabilmek için yalnız itirazın iptali yoluna başvurabilir. Borçlu ödeme emrine itiraz etmemiş ya da itiraz geçerli değilse alacaklının itirazın iptali davası açmasında hukuki yarar yoktur.
+
+## İtirazın İptali Davası Açma Süresi, Zamanaşımı veya Hak Düşürücü Süre
+
+(HGK-K.2020/621)
+
+Alacaklı tarafından itirazın iptali davasının, borçlunun icra dosyasına yaptığı **itirazın tebliğ tarihinden itibaren bir yıl içinde** açılması zorunludur. Nitekim Yargıtay Hukuk Genel Kurulunun 18.06.2019 tarihli ve 2017/19-1651 E., 2019/707 K. sayılı kararında da aynı ilke benimsenmiştir.
+
+İİK’nın 67. maddesinde gösterilmiş olan süre hak düşürücü süredir. Hak düşürücü süre; hak sahibinin hakkın korunması için kanun veya sözleşme ile belirlenen süre içerisinde öngörülen eylem veya işlemleri yapmaması nedeniyle hakkın sona ermesi sonucunu doğuran süredir. Hak düşürücü sürenin sonunda hakkın sona ermesi için karşı tarafın borçlunun bir eylem veya işlem yapmasına gerek yoktur. Hak düşürücü süre geçmekle kendiliğinden son bulur. Hak düşürücü süreler itiraz niteliği taşırlar. Taraflar hak düşürücü süreyi davanın her aşamasında hatta kararın bozulmasından sonra da ileri sürülebilirler. Ayrıca hak düşürücü sürelerin incelenmesi tarafların iradelerine bırakılmamıştır. Hâkim tarafından kendiliğinden göz önünde tutulması, araştırma ve inceleme konusu yapılması gerekmektedir.
+
+Bu ilke ve açıklamalar ışığında somut olay değerlendirildiğinde; Nazilli 2. İcra Müdürlüğünün 2010/308 sayılı dosyasının incelenmesinde; davacı T. Vakıflar Bankası T.A.O tarafından, davalı ... ve dava dışı borçlular aleyhine toplam 49.824,66TL alacağın tahsili için icra takibine başlanıldığı, davalı tarafından ödeme emrine 13.06.2011 tarihinde (süresinde) itiraz edildiği, ödeme emrine itiraz dilekçesinin takip alacaklısına tebliğ edilmediği, davacı tarafından da 01.10.2014 tarihinde itirazın iptali davası açıldığı anlaşılmaktadır.
+
+Yukarıda ayrıntılı olarak açıklandığı üzere, itirazın iptali davası, bir yıllık hak düşürücü süre içerisinde açılması gereken bir dava olup, açık kanunî düzenlemeye göre dava açma süresi itirazın tebliği ile başlar. Ödeme emrine itiraz, 7201 sayılı Tebligat Kanunu hükümlerine uygun olarak takip alacaklısına tebliğ edilmez ise kanunda öngörülen bir yıllık süre başlamayacaktır. İİK’nın 67/1. maddesindeki düzenleme dikkâte alındığında, icra dosyasında alacaklının icra işlemleri yapmış olmasının itirazın tebliği anlamına gelmeyeceği de açıktır. Bu durumda, mahkemece açılan davanın süresinde olduğu gözetilerek, işin esasına girilip sonucuna göre bir karar verilmelidir.
+
+## İtirazın İptali Davasının Takibe Sıkı Sıkıya Bağlılığı İlkesi
+
+(HGK-K.2021/377)
+
+İtirazın iptali davası, itirazın hükümden düşürülmesi ana başlığı altında düzenlenmekle takip hukuku içinde ve takip talebiyle sıkı sıkıya bağlantılı ele alınması gereken, sonucuyla takibin devamına etkili bir dava türü olarak karşımıza çıkmaktadır ve takip talepnamesinde dayanılan borç ve borcun sebebi ile bağlılık asıldır. Öyle ki, genel hükümlere göre harca tabi olan itirazın iptali davasında alacaklı taraf isterse takip talebinde bulunurken yatırmış olduğu binde beş harcı geri alabilir ve itirazın iptali davası harcına mahsubunu isteyebilir (492 sayılı Harçlar Kanunu m. 28/a, 29/I, III).
+
+Bu davada, ispat yükü kural olarak davayı açan alacaklıda olup, alacaklı alacağını ispatla yükümlüdür. Genel hükümler dairesinde her türlü delille ispat edilecek alacak da yine takip talebine konu olan ve borçlu tarafça itiraza uğrayan alacaktır. Zira aynı maddede itirazın haksızlığı borçlu açısından, takibin haksız ve kötü niyetli yapılması da alacaklı açısından tazminat müeyyidesine bağlanmıştır.
+
+Genel hükümlere göre her türlü ispat olanağının varlığı, takip talebinde yer alan borç sebebinden ve takip dayanağından uzaklaşmak anlamında düşünülmemelidir. Burada sadece icra mahkemesinin dar yetkisi nedeniyle inceleyemediği delillerin genel mahkemede serbestçe ancak borca bağlı olarak ileri sürülmesi olanağının varlığı söz konusu olmaktadır.
+
+Tüm bu açıklamalar ışığında somut olaya gelince; Bursa 15. İcra Dairesinin 2013/5410 E. sayılı takip dosyasında; davacı tarafından davalı borçlu aleyhine 13 adet faturaya dayalı olarak ilamsız icra takibi başlatılmış, icra takibine dayanak fatura örnekleri de takip talebi ekinde sunulmuştur. Ödeme emri davalıya 20.08.2009 tarihinde tebliğ edilmiş, davalı borçlu vekilince 25.08.2009 tarihinde takibe itiraz edilmiş ve takibin durduğu anlaşılmıştır.
+
+İtirazın iptali davaları, takibe sıkı sıkıya bağlı olup, uyuşmazlığın icra takibine dayanak yapılan belgelerle sınırlı olarak incelenip çözümlenmesi gerekir. Davacı tarafından icra takibinin dayanağı olarak takip talebine ekli faturalar gösterilmiş, mahkemece davacının iddia ettiği alacak miktarının tespitinde teslim belgelerine dayalı faturalardaki alacağın sabit olduğu kabul edilmiştir. Ancak mahkemece icra takibine dayanak yapılan fatura konusu alacak miktarının ödenip ödenmediği noktasında, takip konusu edilmeyen faturalar da inceleme konusu yapılarak karar verilmesi yerinde değildir.
+
+Mahkemece, takip ve dava konusu edilen faturalarla ilgili araştırma ve inceleme yapılarak, teslim edildiği ispat edilen fatura konusu malzemelere ilişkin alacak miktarının ödenip ödenmeği hususunda bu faturalara bağlı olarak davacının ticari defterleri de incelenmek suretiyle takibe konu faturalardan sonra yapılan ödemeler var ise bu ödemeler de değerlendirilerek sonucuna göre karar verilmelidir.
+
+## İtirazın İptali Davasında İcra İnkar Tazminatı
+
+(HGK-K.2022/1046)
+
+2004 sayılı İcra ve İflas Kanunu’nun 67. maddesinin 1. fıkrasına göre takip talebine itiraz edilen alacaklı, itirazın tebliği tarihinden itibaren bir sene içinde mahkemeye başvurarak genel hükümler dairesinde alacağının varlığını ispat suretiyle itirazın iptali davası açabilir. Aynı maddenin 2. fıkrasına göre de itirazın iptali davasında borçlunun itirazının haksızlığına karar verilirse borçlu; takibinde haksız ve kötü niyetli görülürse alacaklı, diğer tarafın talebi üzerine iki tarafın durumuna, davanın ve hükmolunan şeyin tahammülüne göre ret veya hükmolunan meblağın yüzde yirmisinden aşağı olmamak üzere uygun bir tazminatla mahkum edilir. Kanunda öngörülen tazminatların tespitinde takip talebi veya davadaki talep esas alınır.
+
+İcra inkâr tazminatı Kanun’a borçlu olduğu miktarı bilebilecek ya da bu miktarı tayin edebilecek durumda olan borçlunun ödeme emri üzerine icrada borcunu inkâr etmesini önlemek amacıyla konulmuştur. İcra inkâr tazminatı için müstakil ayrı bir dava açılamaz. Ayrıca açılan itirazın iptali davasında talep edilen icra inkâr tazminatında ayrıca harç ödenmemiş olması da talebin geçersizliğini gerektirmez.
+
+**İcra inkâr tazminatı hüküm altına alınan alacağın yüzde yirmisinden aşağı olamaz.** İcra inkâr tazminatı Borçlar Kanunu anlamında bir tazminat olmayıp borçlunun ödeme emrine haksız yere itiraz etmesini önlemek için konulmuş bir müeyyidedir (Kuru, Baki: İstinaf Sistemine Göre Yazılmış İcra ve İflas Hukuku, Ankara 2017, s. 112). Bu nedenledir ki Kanunda oran ile ilgili olarak üst sınır da öngörülmemiştir.
+
+(Y9HD-K.2021/16789)
+
+İtirazın iptali davasında borçlunun haksızlığına karar verilmesi halinde ve alacaklının talep etmiş olması şartıyla, borç miktarının Kanunda gösterilen orandan az olmamak kaydıyla icra inkar tazminatına hükmedilir. **İcra inkar tazminatına karar verilebilmesi için alacağın belirli ya da belirlenebilir olması gerekir.** Ancak, hak tartışmalı ise icra inkar tazminatına hükmedilemez. Alacağın likit olması şartıyla itirazın iptali davası sonunda borçlunun itirazının kısmen kabulü halinde dahi, kabul edilen kısım bakımından icra inkar tazminatına hükmedilmelidir. İcra inkar tazminatı, asıl alacak bakımından söz konusu olur. İşlemiş faiz isteği yönünden icra inkar tazminatına hükmedilmesi mümkün değildir.
+
+Likit bir alacaktan söz edilebilmesi için, ya alacağın gerçek miktarının belli ve sabit olması ya da borçlusu tarafından belirlenebilmesi için bütün unsurların bilinmesi veya bilinmesinin gerekmekte olması; böylece, borçlunun borç tutarını tahkik ve tayin etmesinin mümkün bulunması; başka bir ifadeyle, borçlunun yalnız başına ne kadar borçlu olduğunu tespit edebilir durumda olması gerekir. Bu koşullar yoksa, likit bir alacaktan söz edilemez.
+
+(Y8HD-K.2014/20655)
+
+Yargıtay Daire’leri ve Hukuk Genel Kurulu'nun kararlılık kazanmış uygulamasına göre; itirazın iptali davalarında İİK’nun 67/2. maddesi çerçevesinde alacaklı yararına icra inkar tazminatına hükmedilebilmesi için, usulüne uygun şekilde yapılmış bir icra takibinin bulunması, borçlunun süresi içerisinde ödeme emrine itiraz etmesi, alacaklının bir yıl içinde itirazın iptali davasını açması ve davasında haklı çıkarak inkar tazminatı talep etmiş olması gereklidir. Burada, borçlu itirazının kötü niyetle yapılmış olması ve alacağın bir belgeye bağlanmış bulunması koşulları aranmamaktadır.
+
+Bu yasal koşullar yanında, takibe konu alacağın likit olması da zorunludur. Her uyuşmazlığın kendine özgü somut özelliklerine göre değişmekle birlikte, bir uyuşmazlıkta alacağın likit olup olmadığı belirlenirken, alacak ve onun borçlusu birlikte değerlendirilmelidir. Buna göre, likit bir alacaktan söz edilebilmesi için, ya alacağın gerçek miktarının belli ve sabit olması ya da borçlusu tarafından belirlenebilmesi için bütün unsurların bilinmesi veya bilinmesinin gerekmekte olması; böylece, borçlunun borç tutarını tahkik ve tayin etmesinin mümkün bulunması; başka bir ifadeyle, borçlunun yalnız başına ne kadar borçlu olduğunu tespit edebilir durumda olması gerekir. Gerek borç ve gerekse borçlu bakımından, bu koşullar mevcut ise, ortada likit bir alacak bulunduğu kabul edilmelidir.
+
+Borçlu, ne kadar borçlu olduğunu ya da olmadığını her zaman kendi elinde olan delil ve bilgilerle bilme ve araştırma olanağına sahip olmayabilir. Borçlu, açıkça belli olmasa bile ne kadar borçlu olduğunu objektif kriterlere göre tespit edebiliyor veya edebilecek durumda ya da tespit edebilmek için gerekli olan unsurlara ve bilgilere sahipse, alacak likit ve muayyen sayılır. Takibe konu alacağın yargılama faaliyetine ihtiyacı olup olmadığı takip talepnamesinde belirtilen rakamlarla, yargılama sonunda ortaya çıkan rakamların farklı ve takip talepnamesinden daha az olmasından da anlaşılabilir. İtirazın iptali davasına konu olan alacağın gerçek miktarının hesaplanması bilirkişi incelemesini gerektiriyorsa, takibe konu olan alacağın miktarı belli olmaktan çıkmıştır. Ancak her somut olayda çözümün bilirkişi incelemesine bağlı olup olmadığı, dosya bilirkişiye gitse dahi hakimlik bilgisi ve borçlu tarafından bilinebilecek olup olmadığı koşullarının gözetilmesi gerekir.
+
+Borçlu belirli bir alacak için yapılan icra takibinde borcun bir kısmına itiraz etmek istediğinde, itiraz ettiği kısmı açıkça göstermek zorundadır. Borçlu buna uymaz ve borcun tamamına itiraz ederse, itirazın iptali davası sonucunda borçlu olduğu miktar bakımından icra inkar tazminatı ödemekle yükümlüdür (Yargıtay 9.HD. 4.4.2008 gün 2007/ 14360 E, 2008/ 7511 K.).
+
+Alacağın likit olması şartıyla, itirazın iptali davası sonunda borçlunun itirazının kısmen kabulü halinde dahi, kabul edilen kısım bakımından icra inkar tazminatına hükmedilmelidir.
+
+İcra inkar tazminatı, asıl alacak bakımından söz konusu olur. İşlemiş faiz isteği yönünden icra inkar tazminatına hükmedilmesi mümkün değildir.
+
+## İtirazın İptali Davasında Görevli Mahkeme
+
+İcra takibinin konusu alacak hakkındaki dava hangi mahkemenin görevine giriyorsa itirazın iptali davası da o mahkemede açılmalıdır. Yargıtay kararlarına göre itirazın iptali davasının açılabileceği bazı mahkemeler şunlardır:
+
+Dava, kurum zararından kaynaklanan alacağın tahsili amacıyla yürütülen icra takibine karşı yapılan itirazın iptali istemine ilişkindir. Mahkemelerin görevi sorunu, kamu düzenine ilişkin olup taraflarca açıkça veya hiç ileri sürülmese bile, yargılamanın her aşamasında mahkemelerce kendiliğinden gözetilmelidir. Şu durumda, somut olayda uyuşmazlığın çözümü genel mahkemelerin görevi içerisinde kaldığından, davanın genel görevli **Asliye Hukuk Mahkemesinde** görülmesi gerekir (Y4HD-K.2016/1226).
+
+Davacı vekili, davalıya ait şehir atık su hattındaki tıkanıklık nedeniyle geri tepen pis suların davacıya sigortalı işyerinde hasara neden olduğunu, eksper tarafından belirlenen 2.203,00 TL. hasar bedelini ödeyip sigortalının haklarına halef olduklarını belirterek, davalının rücuen tahsil için başlatılan icra takibine itirazının iptalini talep etmiştir. Haksız fiilden doğan davada genel görevli mahkeme olan Asliye Hukuk Mahkemeleri'nin görevli olduğu, davacının halefiyete dayalı olarak açtığı rücuen tazminat davasında da Asliye Hukuk Mahkemesi görevlidir (Y17HD-K.2019/7614)
+
+Davanın davacının dava dışı kredi müşterisi ile imzaladığı genel kredi sözleşmesinin davalılarca müteselsil kefil olarak imzalanmış olmasına ve kredi borcunun ödenmemiş bulunmasına dayalı olarak açılmış bir itirazın iptali davası olmasına göre, davanın açıldığı tarihte Asliye Ticaret Mahkemesi görevli olduğu kabul edilmelidir (Y19HD-K.2015/14521).
+
+Dava itirazın iptali istemine ilişkindir. Taraflar arasındaki uyuşmazlığın 06.07.2015 tarihli iş makinesi kiralama sözleşmesinden kaynaklandığı ve bu sözleşmenin sadece iş makinesinin kiralanmasına ilişkin hususları içerdiği açıktır. Bu durumda, uyuşmazlığın sulh hukuk mahkemesinde görülüp sonuçlandırılması gerekmektedir (Y20HD-K.2016/11289).
+
+İcra takibi konusu alacak (davası) iş mahkemesinin görevine girmekte ise, itirazın iptali davası da iş mahkemesinde açılır (Kuru, Baki: İcra ve İflas Hukuku, İstanbul Kasım 2004, s. 223.). Buna göre davada 5521 sayılı İş Mahkemeleri Kanunun 7. maddesi uyarınca sözlü yargılama usulü uygulanır (Y9HD-K.2020/11925).
+
+Taraflar, tüketici hakem heyetine başvuru zorunluluğu teşkil eden miktar dahilindeki uyuşmazlıklarda, isterlerse hakem heyetine başvuruda bulunmaksızın, İcra İflas Kanunu'ndaki ilamsız/ genel haciz yoluyla icra takibinde bulunabilecekler, takibe itiraz halinde ise icra takibinin devamını sağlamak için İİK.nun madde 67/1 uyarınca itirazın iptali davasını Tüketici Mahkemelerinde açabileceklerdir (Y3HD-K.2019/3427)
+
+## Süresinde İtirazın İptali Davası Açılması veya Açılmamasının Sonuçları
+
+(Y3HD-K.2015/3568)
+
+Alacaklı bir yıl içinde itirazın iptali davası açmazsa, yaptığı ilâmsız takip düşer, bir yıllık süreyi geçiren alacaklının, genel hükümlere göre alacağını dava etme hakkı saklıdır (İİK. 67/IV) Yani alacaklı alacağı zamanaşımına uğramadığı sürece, genel mahkemelerde bir alacak (tahsil) davası açabilir. Ancak, alacaklının açacağı bu alacak (tahsil) davası sonucunda alacağı ilâm ile düşmüş olan icra takibine devam edilmesini isteyemez; ancak bu ilâma dayanarak ayrıca ilâmlı icra takibine girişebilir.
+
+İtirazın iptali davası bir yıl içinde açılmakla, derdest olan ve itiraz ile durmuş olan icra takibi iptal edilmiş olmaz; takip durmaya devam eder. Bu durumda, davayı kazanan alacaklı, “mahkemeden” alacağı ilâm ile, itiraz üzerine durmuş olan ilâmsız takibe devam edilmesini istem, dolaysıylada haciz olanağı elde eder. Dava, devam ettiği sürece bir yıllık haciz isteme süresi işlemez. (İİK. 78/II)
+
+İtirazın iptali davası, yargılama usulü bakımından genel hükümlere tabidir. Davalı/borçlunun icra dosyasında ileri sürdüğü itirazlar dışındaki itirazlarını da bu dava içinde ancak cevap süresi içinde ileri sürmesi olanaklıdır. Eğer cevap süresi içinde davalı/borçlu diğer itirazlarını ileri sürmezse “mahkeme” bunları kendiliğinden göz önüne alamaz, takibe itiraz edilirken bildirilen sebeplerle sınırlı araştırma yapmak durumunda kalır.
+
+Mahkemece İtirazın iptali davasının sonucunda verilecek karar ya davanın kabulü ya da reddine yönelik olarak; ancak takibin iptali ya da devamı hükmünü içerecektir. Zira davanın reddi kararında; durmaya devam eden takip verilecek red kararının kesinleşmesi ile iptal edilmiş olacaktır. Davanın reddi kararının kesinleşmesi ile takip konusu alacağın mevcut olmadığı kesin (hüküm) olarak tespit edilmiş olur. Alacaklı, aynı borçluya karşı aynı alacaktan dolayı yeni bir alacak davası açamaz. Davanın reddine karar veren “mahkeme”, alacaklının kötüniyetle icra takibinde bulunduğu ve itirazın iptali davası açtığı kanısına varırsa borçlu talep etmişse alacaklıyı borçluyu tazminat ödemeye (şartaları varsa kötüniyet) mahkum edecektir. İtirazın iptali davasının reddi kararı ile eğer varsa ihtiyati haciz de kendiliğinden hükümsüz kalır.
+
+### İtirazın İptali Davası İle İtirazın Kaldırılması Davası Arasındaki İlişki
+
+(HGK-K.2019/218)
+
+Süresi içinde yapılan geçerli bir itiraz ile veya gecikmiş itiraz nedeninin icra mahkemesince kabulü üzerine duran icra takibine devam edebilmek için alacaklının başvurusu ile itirazın hükümden düşürülmesi lazımdır ve bunu temin gayesiyle alacaklının ya itirazın kaldırılması için icra mahkemesine başvurması ya da genel mahkemelerde **itirazın iptali davası** açması gerekir. Bu doğrultuda; takip konusu alacak İİK’nın 68, 68-a maddelerindeki belgelerden birine dayanmaktaysa, alacaklı dilerse icra mahkemesinde itirazın kaldırılması, dilerse mahkemede itirazın iptali davası açma (m.67) yoluna gidebilir.
+
+Alacaklı seçim hakkını mahkemede dava açmak suretiyle kullanmışsa, bu defa dava derdest iken bunu olduğu gibi bırakarak icra mahkemesinden itirazın kaldırılması yoluna başvuramaz. Hatta evvelce icra mahkemesine başvuran alacaklı, sonra mahkemeye başvurarak itirazın iptali davası açmışsa, bu davanın derdest olduğu sırada, tekrar icra mahkemesine dönerek ilk müracaatını yineleyemez. Bununla beraber önce itirazın kaldırılmasını talep eden alacaklı, bu yolu bırakarak itirazın mahkemede iptalini isteyebilecektir (Değnekli, A.: İtirazın İptali Davası, Ankara 2013, s.79).
+
+Hem itirazın iptali davası, hem de itirazın kaldırılmasında kanun koyucu hak düşürücü süreler öngörmüş olup, bu süre itirazın kaldırılması için altı ay (m.68, 68-a), itirazın iptali davası için bir yıldır (m. 67). Her ikisinde de süre ödeme emrine itirazın alacaklıya veya vekiline Kanun’un 62/2. maddesi çerçevesinde tebliğinden itibaren başlar ve tebliğ Tebligat Kanunu hükümleri çerçevesinde sağlanır.
+
+### İtirazın İptali Davasının Islah Yoluyla Alacak Davasına Dönüşmesi
+
+(Y20HD-K.2019/6680 )
+
+Alacakla ilgili olarak daha önce icra takibi yapılmış olması davanın alacak davası şeklinde açılmasına engel teşkil etmemektedir. Alacağını tahsil için icra takibi yapan alacaklı, itirazın iptalini isteyebileceği gibi itirazın iptalini istemeden doğrudan alacağın tahsilini de isteyebilir. İtirazın iptali davası açılması halinde dahi ıslah yoluyla davasını alacak davasına dönüştürebilir. Mahkemece bu maddi ve hukuki vakıalar gözetilmek suretiyle davanın alacak davası şeklinde görülüp sonuçlandırılması gerekir.
+
+(Y(Kapatılan)7. HD-K.2014/12688)
+
+İtirazın iptali davasında dava konusunun ıslah yoluyla arttırılması mümkün olup, arttırılan kısım yönünden tahsil davası olarak hüküm kurulmalıdır. Davaya konu miktarın ıslah yoluyla arttırılması itirazın iptali davasının niteliğini değiştirmez ve tamamını tahsil davasına dönüştürmez.
+
+### İtirazın İptali Dava Dilekçesi İcra Takibindeki Vekile Değil Asile Tebliğ Edilmelidir
+
+(YİBK -2022/1 E., 2022/3 K.)
+
+İtirazın iptali davası genel hükümlere göre açılarak sonuçlandırılan bir dava olup takip hukukuna ilişkin bir itiraz veya şikayet olmadığından HMK'nın emredici nitelikteki 76, 119/1-ç, 122, 317 maddeleri gereğince dava dilekçesinin icra dosyasındaki müvekkil borçlu adına itiraz eden vekile değil, asıla tebliğ edilmesi gerekir.
+
+Hal böyle olunca icra takibine maruz kalan borçlu, vekil marifetiyle takibe itiraz ettiğinde, itiraz üzerine duran icra takibinin devamını sağlamak için alacaklının açacağı itirazın iptali davasında dava dilekçesinin asıla tebliğ edilmesi gerektiği sonuç ve kanaatine varılmıştır.
+
+
+---
+
+## İtirazın İptali Davası Yargıtay Kararları (İİK 67)
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-67-madde-itirazin-iptali-davasi-yargitay-kararlari (son güncelleme: 2016-10-03)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 67. Madde Yargıtay Kararları, İİK 67. Madde Metni, İtirazın İptali Davası Yargıtay Kararları
+
+
+### İtirazın İptali Davası Yargıtay Kararları (İİK 67. Madde)
+
+- İtirazın iptali davasında dava konusunun ıslah yoluyla arttırılması mümkün olup, arttırılan kısım yönünden tahsil davası olarak hüküm kurulmalıdır.
+- Borçla ilgili rehinlerin paraya çevrilmesi istenmeden kredi sözleşmesinin müteselsil kefilleri aleyhine icra takibi yapılabilir. ( 19 HD 2009 / 6243 )
+- Davalı sözleşmeyi imzalamadığı halde, yetkisiz bir kimse tarafından imzalanmış olsa dahi, o sözleşmeyi kullanarak bir hukuki işlem yapmış ise yetkisiz temsile onay vermiş sayılır ve sözleşme kendisini bağlar. ( HGK 2008 / 11670 )
+- Tamamlanması mümkün olan eksiklikler her zaman giderilebilir. ( 12 HD 2008 / 20556 )
+- Verilen paranın borç para olarak verildiğine dair tanık dinlenebilir. ( 19 HD 2008 / 11128 )
+- İcra takibinden sonra yapılan ödemede, ödemenin başka bir alacağa mahsuben yapıldığı iddiasını ispat yükümlülüğü davacı – alacaklıya aittir. ( 19 HD 2010 / 8433 )
+- Altın (peşin) alım- satımında BK. 182/2 uygulanır. Tarafların edimlerini aynı anda ifa ettikleri kanuni karinedir. (19 HD 2010 / 5483)
+- Davacı Ocak 2009’da alacağı x’den noter vasıtasıyla temlik almıştır. Borçlu ( B ), alacaklı ( A )’ya ( temlik eden ) Aralık 2008’ de borcu ödediğine dair adi yazılı belge ibraz etmiştir. Bu belge her zaman düzenlenebilecek adi belgelerden olduğundan, temlik alanı bağlamaz. ( 19 HD 2010 / 5333 )
+- Davacı mal tesliminin fatura ile birlikte gerçekleştirildiğini iddia etmiş ve yapılan bilirkişi incelemesinde satış akdine konu faturanın davalının ticari defterinde kayıtlı olduğu anlaşılmıştır. BK: 182’ ye göre taraflar, edimlerini aynı anda ifa ederler. Bu karinerin aksini malı satın alan kanıtlamalıdır. ( 19 HD 2010 / 5306 )
+- Akdi ilişki inkar edilmiş ise bu durumda malı satıp teslim ettiğini kanıtlama yükü davacı – alacaklıdadır. ( 19 HD 2010 / 5380 )
+- Fatura şirket defterine kayıtlı değilse bu durumda davacı alacaklıya malı teslim ettiğinin ispatı hususunda imkan tanımalıdır. Sevk irsaliyesinde de teslim alan kısmı boşsa davacı kanıtlamalıdır.
+- Kullanılan elektrik enerjisi bedelinden abone ile birlikte elektriği kullanan da fiili kullanıcı müştereken ve müteselsilen sorumludurlar. ( 19 HD 2010 / 5258 ) (HGK 2008 / 643).
+- Belediye aleyhine yapılan ilamsız takipte iptal davası adli yargıda görülür. ( HGK. 2010 / 214 )
+- Akdi ilişki kabul edildiğinden davaya bakma yetkisi alacaklının ikametgahı mahkemesidir.
+- Davalı itiraz dilekçesinde ödeme savunmasında bulunmuş ancak duruşmaya gelmediğinden davayı inkar etmiştir. Davalı isticuap edilerek ödeme savunmasına ilişkin delilleri sunma olanağı tanınmalıdır. ( HGK 2010 / 304 )
+- Yerel mahkeme kararının bozmadan esinlenerek verilen yeni bir hükmün mü yoksa, “ yasal sınırlarla genişletilmiş gerekçeye” sahip bir direnme kararının bulunduğu öncelikli olarak tartışılmalıdır. ( HGK 2010 / 311 )
+- Götürü olarak anlaşılan işte müteahhit; farklı sözlü bir antlaşma yapılarak, yapılacak işin çerçevesinin değiştirildiğini iddia ediyorsa fiili imalat ve bedel kalem kalem yapılarak karşılaştırılmalıdır. ( HGK 2010 / 373 )
+- Akdi ilişki inkar edildiğinde, davacının malı satıp teslim ettiğinin kesin delillerle kanıtlaması gerekmektedir. Mal teslim formları üzerindeki imzaların davalı çalışanına ait olup olmadığı incelenmelidir. ( 19 HD 2010 / 5881 )
+- İtirazın iptali davası açmak için öngörülen süre 1 yıllık hak düşürücü süre borçlunun itirazının alacaklıya tebliği tarihinden itibaren başlar. ( 19 HD 2010 / 5878 )
+- Keşide tarihi, vade tarihinden sonra ise senet kambiyo senedi vasfını yitirir, fakat borç ikrarını havi adi yazılı belgeye dönüşür. İmza inkar edilmediğinden borçlu olmadığını davalı ispatlamalıdır. ( 19 HD 2010 / 5844 )
+- İtirazın iptali davasının koşullarından biri yetkili icra dairesinde girişilmiş bir icra takibinin bulunmasıdır. Bu durumda İİK.50. madde gereğince öncelikle icra dairesinin yetkisine yönelik itiraz incelenmelidir. ( 19 HD 2010 / 5904 )
+- Muacceliyet şartı varsa, sözleşme ayaktaysa tüm yıllık kiralar istenebilir. Sözleşme feshedilmişse yoksa sadece mecurun kiraya verilebilmesi için gerekli makul süre belirlenmelidir. ( 19 HD 2010 / 5413 )
+
+## İcra İflas Kanunu (İİK) 67. Madde Metni - İtirazın İptali Davası
+
+**İtirazın iptali Davası**
+
+**İİK Madde 67** – (Değişik: 18/2/1965 - 538/37 md.)
+
+(Değişik birinci fıkra: 17/7/2003-4949/15 md.) Takip talebine itiraz edilen alacaklı, itirazın tebliği tarihinden itibaren bir sene içinde mahkemeye başvurarak, genel hükümler dairesinde alacağının varlığını ispat suretiyle itirazın iptalini dava edebilir.
+
+(Değişik: 9/11/1988 - 3494/1 md.) Bu davada borçlunun itirazının haksızlığına karar verilirse borçlu; takibinde haksız ve kötü niyetli görülürse alacaklı; diğer tarafın talebi üzerine iki tarafın durumuna, davanın ve hükmolunan şeyin tahammülüne göre, red veya hükmolunan meblağın yüzde yirmisinden aşağı olmamak üzere, uygun bir tazminatla mahkum edilir.
+
+İtiraz eden veli, vasi veya mirasçı ise, borçlu hakkında tazminat hükmolunması kötü niyetin sübutuna bağlıdır. (Mülga dördüncü fıkra: 17/7/2003-4949/103 md.)
+
+Birinci fıkrada yazılı itirazın iptali süresini geçiren alacaklının umumi hükümler dairesinde alacağını dava etmek hakkı saklıdır.
+
+(Ek fıkra: 2/7/2012-6352/11 md.) Bu Kanunda öngörülen icra inkar tazminatı, kötü niyet tazminatı ve benzeri tazminatların tespitinde, takip talebi veya davadaki talep esas alınır
+
+
+---
+
+## İtirazın Kaldırılması Davası (İİK 68-68a)
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/borclar-hukuku/itirazin-kaldirilmasi-davasi (son güncelleme: 2026-09-04)*
+
+İtirazın kaldırılması davası, borçlunun icra takibine yaptığı itirazın kesin veya geçici olarak kaldırılması şeklinde icra hukuk mahkemesinde açılan bir davadır.
+
+
+## İtirazın Kaldırılması Davası Nedir?
+
+(HGK-K.2022/420)
+
+**İtirazın kaldırılması**, borçlunun itirazı ile duran (İİK m. 66) ilamsız icra takibine (ilamsız icra prosedürü içinde) devam edilmesini sağlayan (İİK m. 78) bir yoldur.  İtiraz ile duran ilamsız icra takibine devam edilmesini sağlamak için, alacaklının genel mahkemelerde itirazın iptali davası açması da mümkündür (İİK m. 67).
+
+Para (ve teminat) alacakları için ilamlı icradan başka, ayrı bir ilamsız icra yolu kabul edilmesinin amacı, alacaklının yalnız ilâmsız icra prosedürü içinde genel mahkemeden bu konuda bir ilam almadan, çabuk ve basit bir şekilde alacağına kavuşmasını sağlamaktır. Alacaklıya, borçlunun itirazını hükümden düşürmek için yalnız itirazın iptali davası açma imkânı tanınsa idi, borçlu hiçbir haklı nedene dayanmayan bir itiraz ile alacaklıyı mahkemede dava açmaya zorlayabilir ve bununla ilamsız icra yolunu işlemez hâle getirebilirdi. İşte bu sakıncayı önlemek ve ilamsız icranın amaç edindiği çabukluk ve basitlik ilkelerini gerçekleştirmek için borçlunun itirazının ilamsız icra prosedürü içinde kaldırılmasını sağlamak üzere itirazın iptali davasından başka icra mahkemesinde **itirazın kaldırılması** yolu kabul edilmiştir (İİK m. 68-70).
+
+Alacaklıya, borçlunun itirazını icra mahkemesinde çabuk ve basit bir şekilde kaldırtmak imkânı tanırken, borçlunun hakkının (savunma imkânının) tehlikeye sokulmaması gerekir. Yani, ancak borçlunun gerçekten borçlu olduğu hakkında güçlü delillerin bulunması hâlinde, alacaklı icra mahkemesinden itirazın kaldırılmasını isteyebilmelidir. Bu nedenle, **alacağı İİK’nın 68-68/a maddelerinde sayılan belgelerden birine bağlı olmayan alacaklı**, icra mahkemesinden itirazın kaldırılmasını isteyemez (yalnız, mahkemede itirazın iptali davası açabilir).
+
+## İtirazın Kaldırılması Davasının Çeşitleri
+
+Borçlunun takibe yaptığı itirazına karşı alacaklı tarafından itirazın kaldırılması davası iki şekilde açılabilir:
+
+**1. İtirazın kesin kaldırılması (İİK m.68):** Aşağıda açıklandığı üzere, İİK m.68 gereği belli özelliklere sahip belgeler elinde bulunan alacaklı itirazın kesin kaldırılması davası açabilir. Örneğin, noterde düzenlenmiş belgede bir miktar parayı aldığını ikrar etmiş olan borçlu takibe itiraz etse bile, alacaklı noter belgesine dayanarak itirazın kesin kaldırılması davası yoluyla borçlunun itirazını kaldırtarak icra takibinin devamını sağlayabilir.
+
+**2. İtirazın geçici kaldırılması (İİK m.68/a)**: Takibin dayanağı senet özel (hususi) nitelikte olup da borçlu senetteki imzaya itiraz etmişse, icra hukuk mahkemesine itirazın geçici kaldırılması davası açılarak imzaya itiraz kaldırılır. Örneğin, kira sözleşmesi, satış sözleşmesi vb. gibi sözleşmeler altındaki imzanın kendisine ait olmadığını iddia eden borçlunun imzaya itirazı, itirazın geçici olarak kaldırılması davası açılarak kaldırılır
+
+## 1. İtirazın Kesin Kaldırılması Davası
+
+İtirazın kesin kaldırılması davası ve usulü, İcra İflas Kanunu (İİK) m. 68'de şu şekilde düzenlenmiştir:
+
+**İtirazın kesin kaldırılması İİK Madde 68**
+
+Talebine itiraz edilen alacaklının takibi, imzası ikrar veya noterlikçe tasdik edilen borç ikrarını içeren bir senede yahut resmî dairelerin veya yetkili makamların yetkileri dahilinde ve usulüne göre verdikleri bir makbuz veya belgeye müstenitse, alacaklı itirazın kendisine tebliği tarihinden itibaren altı ay içinde itirazın kaldırılmasını isteyebilir. Bu süre içerisinde itirazın kaldırılması istenilmediği takdirde yeniden ilâmsız takip yapılamaz.
+
+Borçlu itirazını varit gösterecek hiçbir belge ibraz edemezse icra mahkemesi itirazın kaldırılmasına karar verir.
+
+İtiraz birinci fıkrada gösterilen senet veya makbuz yahut belgeye müstenit ise itirazın kaldırılması talebi reddolunur.
+
+İtirazın kaldırılması talebinin esasa ilişkin nedenlerle kabulü hâlinde borçlu, talebin aynı nedenlerle reddi hâlinde ise alacaklı, diğer tarafın talebi üzerine **yüzde yirmiden  aşağı olmamak üzere** tazminata mahkûm edilir.   Borçlu, menfi tespit ve istirdat davası açarsa, yahut alacaklı genel mahkemede dava açarsa, hükmolunan tazminatın tahsili dava sonuna kadar tehir olunur ve dava lehine sonuçlanan taraf için, daha önce hükmedilmiş olan tazminat kalkar.
+
+
+(HGK-K.2022/420)
+
+Takip konusu alacağın İİK’nın 68-68/a maddelerinde sayılan belgelerden birine bağlı olması hâlinde, alacaklı icra mahkemesinden itirazın kaldırılmasını isteyebilir (Kuru, Baki: İcra ve İflas Hukuku El Kitabı, Ankara 2013, s. 275-276). Alacaklının, **itirazın kesin kaldırılmasını** isteyebilmek için göstermesi gereken belgeler üç çeşittir:
+
+1. Bunlardan ilki **imzası ikrar edilmiş adi bir senettir.** İcra takibinin dayanağı olan adi senet altındaki imza borçlu tarafından kabul edilir ve senet belli bir meblağ için kayıtsız şartsız borç ikrarını içerirse alacaklı bu senede dayanarak itirazın kesin kaldırılmasını isteyebilir (Kuru, s. 280).
+2. İkincisi ise, **imzası noterlikçe onaylı senet** olup, imzası ikrar edilen adi senetler gibi, noterlikte tasdik edilmiş kayıtsız şartsız borç ikrarını içeren senetler de itirazın kesin kaldırılmasını sağlayan belgelerdendir (Kuru, s. 288).
+3. **Resmî dairelerin veya yetkili makamların yetkileri dâhilinde ve usulüne göre verdikleri belgeler** de, itirazın kaldırılmasını sağlayıcı nitelikte sayılmıştır. Bu belgeler resmî daireler veya yetkili makamlar tarafından düzenlediklerinden, bunlarda borçlunun imzası bulunmaz; bu nedenle, borçlunun imzasının ikrar veya onaylanmış olması şartı burada aranmaz. Fakat bu belgelerin, itirazın kaldırılmasını sağlayıcı nitelikte sayılabilmesi için borçlunun belli bir para borcunu kayıtsız şartsız ödemek zorunda olduğunu göstermeleri gerekir (Kuru, s. 289, 290).
+
+## 2. İtirazın Geçici Kaldırılması (İmza İtirazı) Davası
+
+İtirazın geçici kaldırılması davası ve usulü, İcra İflas Kanunu (İİK) m. 68/a'da şu şekilde düzenlenmiştir:
+
+**İtirazın geçici olarak kaldırılması İİK Madde 68/a**
+
+Takibin dayandığı senet <u>hususi</u> olup, imza itiraz sırasında **borçlu tarafından reddedilmişse**, alacaklı itirazın kendisine tebliği tarihinden itibaren altı ay içinde itirazın geçici olarak kaldırılmasını isteyebilir. Bu hâlde icra hâkimi iki taraftan izahat alır.
+
+Senet altındaki imzayı reddeden borçlu takibi yapan icra dairesinin yetki çevresi içinde ise, itirazın kaldırılması için icra mahkemesi önünde yapılacak duruşmada, mazeretini daha önce bildirip tevsik etmediği takdirde, bizzat bulunmaya mecburdur. İcra dairesinin yetki çevresi dışında ödeme emri tebliğ edilen borçlu, istinabe yolu ile isticvabına karar verilmesi halinde, aynı mecburiyete tabidir.
+
+Tatbika medar imza mevcutsa bununla, yoksa borçluya yazdıracağı yazı ve attıracağı imza ile yapılacak mükayese ve incelemelerden veya diğer delil ve karinelerden icra mahkemesi, reddedilen imzanın borçluya aidiyetine kanaat getirirse itirazın muvakkaten kaldırılmasına karar verir. Hakim lüzum görürse, oturumun bir defadan fazla talikine meydan vermiyecek surette, bilirkişi incelemesi de yaptırabilir.
+
+
+(Y12HD-K.2015/30388)
+
+Alacaklının icra mahkemesine başvurusu, İİK.nun 68/a maddesine dayalı itirazın geçici kaldırılması istemidir. Genel haciz yoluyla yapılan icra takibinde borçlu senet altındaki imzasına itiraz ederse, alacaklı itirazın kendisine tebliğinden itibaren altı aylık yasal sürede icra mahkemesine başvurarak itirazın geçici kaldırılmasını isteyebilir. Bu durumda icra mahkemesince İİK. nun 68/a maddesi uyarınca imza incelemesi yapılır ve senet altındaki imzanın borçlunun eli ürünü olduğunu belirler ise, itirazın geçici olarak kaldırılmasına, aksi halde istemin reddine karar verir.
+
+(Y12HD-K.2018/357)
+
+İİK'nun 170. maddesinin üçüncü fıkrasının ilk cümlesine göre; "İcra mahkemesi, 68/a maddesinin dördüncü fıkrasına göre yapacağı inceleme sonunda, inkar edilen imzanın borçluya ait olmadığına kanaat getirirse itirazın kabulüne karar verir." Senetteki imzanın borçluya ait olduğunu ispat külfeti senet elinde olup, takibe başlayan ve imzanın borçluya ait olduğunu iddia eden alacaklıya aittir (HGK'nun 26.04.2006 tarih ve 2006/12-259 E., 2006/23 K. sayılı kararı).
+
+O halde, mahkemece; ispat yükünün alacaklıda olduğu göz önünde bulundurularak, alacaklıya, borçlu şirket yetkililerinin imza örneklerinin nerelerde bulunduğunu beyan etmesi (dosyada borçlunun 23/02/2015 tarihli itiraz dilekçesinde imza incelemesine esas olacak imza örneklerinin bulundukları resmi mercileri bildirdiği ve dosyada toplanmış olan borçlu şirket yetkililerine ait mukayeseye esas bir kısım belgeler de dikkate alınarak) için kesin süre verilmesi, imza örnekleri, ilgili yerlerden getirtilerek, usulünce bilirkişi incelemesi yaptırılması, bilirkişi tarafından borçlunun bildirmiş olduğu imza örneklerinin rapor tanzimine yeterli görülmediğinin belirtilmesi durumunda ise, borçlu şirket yetkililerine İİK’nun 68a/5. maddesi uyarınca meşruhatlı davetiye tebliğ edilerek, geldiklerinde, imza ve yazı örnekleri alınıp usulünce bilirkişi incelemesi yaptırılması, imzanın borçlu şirket yetkililerine ait olduğunun anlaşılması halinde, borçlunun diğer itirazlarının incelenmesi gerekirken, mahkemece, yasanın öngördüğü bu usule uyulmadan ispat yükü ters çevrilerek, borçlu şirket yetkililerinin, talimat mahkemesince çıkarılan meşruhatlı davetiyeye rağmen imza incelemesine esas imza örneklerini sunmadıklarından bahisle yazılı şekilde hüküm tesisi isabetsizdir.
+
+(Y12HD-K.2018/5845)
+
+Kambiyo senetlerine mahsus haciz yolu ile başlatılan takiplerde imzaya itiraz, İİK’nun 170. maddesinde düzenlenmiş olup, bu maddenin üçüncü fıkrasında, icra mahkemesince imza incelemesinin aynı Kanun'un 68/a maddesinin dördüncü fıkrasına göre yapılması gerektiğine işaret edilmiştir. İİK.’nun 68/a maddesinin dördüncü fıkrasında; “İmza tatbikında Hukuk Usulü Muhakemeleri Kanunu'nun bilirkişiye ait hükümleri ile 309. maddesinin 2., 3. ve 4. fıkraları ve 310, 311 ve 312. maddeleri (şimdi ise HMK madde 211/b, 208/2, 217) hükümleri uygulanır” düzenlemesi öngörülmüştür.
+
+6100 sayılı Hukuk Muhakemeleri Kanunu’nun 447/2. maddesi ise; “Mevzuatta, yürürlükten kaldırılan 18.6.1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu'na yapılan yollamalar, Hukuk Muhakemeleri Kanunu'nun bu hükümlerin karşılığını oluşturan maddelerine yapılmış sayılır” şeklinde düzenlenmiştir. Görüldüğü üzere, İİK’nun 68/a-4 maddesinde, 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu’nun 309/1. (6100 sayılı HMK’nun 211/1-a) maddesine atıfta bulunulmadığından, icra mahkemesince, öncelikle borçlunun isticvabına ve duruşmada imzalarının alınması yoluna gidilemeyeceğinin kabulü gerekir.
+
+İİK'nun 68/a-4. maddesi göndermesiyle ve HMK’nun 447/2. maddesi uyarınca uygulanması gereken 6100 sayılı HMK’nun 211/b maddesinde; imza incelemesinin yöntemi gösterilmiş olup, buna göre, hakim, bilirkişi incelemesine karar verir ise; ''...önce, mevcutsa, o tarafa ait olan karşılaştırma yapmaya elverişli yazı ve imzalar, ilgili yerlerden getirtilir. Bilirkişi, bu yazı ve imzalarla, o mahkemede elde edilen yazı ve imzaları esas alarak inceleme yapar. Bilirkişi, inceleme için gerekli görürse, kendi huzurunda tarafın yeniden yazı yazması veya imza atmasını mahkemeden talep edebilir'' hükmü gereğince işlem yapar.
+
+Somut olayda, alacaklı vekilinin 26.01.2016 tarihli dilekçesi ile borçlu ...'in imza incelemesine esas olacak imza örneklerinin bulunduğu resmi ve özel mercileri bildirdiği ve dilekçesine 15.05.2014 tarihli Kira Sözleşmesi aslını eklediği, mahkemece, bildirilen ilgili yerlerden borçlunun karşılaştırma yapmaya elverişli imzalarının getirtilmesine yönelik işlem tesis edilerek 05.12.2012 tarihli resmi senet aslı, Alanya 5. Noterliği'nin 26.03.2013 tarihli Tescil Talepnamesi ile aynı noterliğe ait 17.06.2013 tarihli vekaletname aslının celbedildiği görülmüştür.
+
+O halde, mahkemece, yukarıda değinilen yasal düzenleme ve ilkeler gözetilerek, öncelikle, ilgili yerlerden getirtilen ve dosya kapsamında bulunan borçluya ait karşılaştırma yapmaya elverişli imzaların esas alınması suretiyle usulünce bilirkişi incelemesi yaptırılması, bilirkişi tarafından dosyaya celbedilen imza örneklerinin rapor tanzimine yeterli görülmediğinin belirtilmesi durumunda ise; borçluya İİK’nun 68a/5. maddesi uyarınca meşruhatlı davetiye tebliğ edilerek, geldiğinde, imza ve yazı örnekleri alınıp bilirkişi incelemesi yaptırılmak sureti ile sonuca gidilmesi gerekirken, mahkemece yasanın öngördüğü bu usule uyulmadan doğrudan borçluya meşruhatlı davetiye gönderilerek gereğinin yerine getirilmediğinden bahisle istemin reddi yönünde hüküm tesisi isabetsizdir.
+
+## İtirazın Kaldırılması Davasında İtiraz Süresinin Başlaması
+
+(HGK-K.2019/218)
+
+Hem itirazın iptali davası, hem de **itirazın kaldırılmasında** kanun koyucu hak düşürücü süreler öngörmüş olup, bu süre itirazın kaldırılması için altı ay (m.68, 68-a), itirazın iptali davası için bir yıldır (m. 67). Her ikisinde de süre ödeme emrine itirazın alacaklıya veya vekiline Kanun’un 62/2. maddesi çerçevesinde tebliğinden itibaren başlar ve tebliğ yukarıda açıklandığı üzere Tebligat Kanunu hükümleri çerçevesinde sağlanır.
+
+Yerleşik uygulamada da bu sebeple ödeme emrine itiraz Tebligat Kanunu’nun düzenlediği şekilde alacaklı veya vekiline tebliğ edilmemişse, sair suretlerle itirazdan haberdar olunduğu ileri sürülse dahi hak düşürücü sürenin başlamayacağı kabul edilmektedir (Hukuk Genel Kurulunun 21.10.2015 tarihli, 2013/19-2415 E., 2015/2335 K. sayılı kararı).
+
+Ne var ki, bu yönde tebligat kendisine yapılmamış olsa bile alacaklının ödeme emrine itirazın hükümden düşürülmesi için öngörülen kanuni yollara başvurabilir ve bu hâlde salt ödeme emrine itiraz alacaklıya henüz tebliğ edilmediği gerekçesiyle erken dava açıldığından bahsedilemeyeceği açıktır. Alacaklı, bu şekilde itirazın kaldırılması yönünde icra hukuk mahkemesine başvurduğunda, başka bir anlatımla, ödeme emrine itirazın tüm hukuki anlam ve sonuçlarına vakıf olduğunu ve hükümden düşürülmesi gerektiğini mahkemeye verdiği dava dilekçesiyle bildirdiğinde, tebliğ ile aranan öğrenme ve belgelendirme unsurları aynı anda tümüyle gerçekleşmiş olacağından, itirazın kaldırılması dilekçesinin verilmesi ödeme emrine itirazın tebliği hükmünde sayılmalı ve hak düşürücü sürenin de bu tarihten itibaren işleyeceği kabul edilmelidir.
+
+### İtirazın Kaldırılması Davasında İcra İnkar Tazminatı
+
+(Y8HD-K.2017/798)
+
+İİK'nun değişik 68. maddesinin son fıkrası gereğince itirazın kaldırılması talebinin esasa ilişkin nedenlerle kabulü halinde borçlu, talebin aynı nedenlerle reddi halinde ise alacaklı, diğer tarafın talebi üzerine iyi ya da kötü niyetlerine bakılmaksızın **% 20'den aşağı olmamak üzere tazminata** mahkum edilir.
+
+(Y8HD-K.2018/13057)
+
+İcra ve İflas Kanunu'nun 68.maddesinin son fıkrası gereğince, icra tazminatına hükmedilebilmesi için, borçlunun takip sırasında ödeme emrine itiraz etmesi ve alacaklının alacağını mahkemede dava ederek icra inkar tazminatı talep etmesi ve haklı çıkması yasal koşullardandır. Borçlunun itirazının kötüniyetli olması ise yasal koşul değildir. İcra tazminatı, aleyhindeki icra takibine itiraz eden ve işin çabuk bitirilmesine engel olan borçluya karşı konulmuş bir yaptırımdır. Bunlardan başka, alacağın likit ve belli olması da gerekir. Alacağın gerçek miktarı belli, sabit veya borçlu tarafından belirlenebilmesi için bütün unsurlar bilinmekte ya da bilinmesi gerekmekte, böylece borçlu tarafından borcun tutarının tahkik ve tayini mümkün ise; başka bir ifadeyle borçlu yalnız başına ne kadar borçlu olduğunu tespit edebilir durumda ise, alacağın likit ve muayyen olduğunun kabulü zorunludur.
+
+### İtirazın İptali Davası İle İtirazın Kaldırılması Davası Arasındaki İlişki
+
+(HGK-K.2019/218)
+
+Süresi içinde yapılan geçerli bir itiraz ile veya gecikmiş itiraz nedeninin icra mahkemesince kabulü üzerine duran icra takibine devam edebilmek için alacaklının başvurusu ile itirazın hükümden düşürülmesi lazımdır ve bunu temin gayesiyle alacaklının ya **itirazın kaldırılması** için icra mahkemesine başvurması ya da genel mahkemelerde **itirazın iptali davası** açması gerekir. Bu doğrultuda; takip konusu alacak İİK’nın 68, 68-a maddelerindeki belgelerden birine dayanmaktaysa, alacaklı dilerse icra mahkemesinde itirazın kaldırılması, dilerse mahkemede itirazın iptali davası açma (m.67) yoluna gidebilir.
+
+Alacaklı seçim hakkını mahkemede dava açmak suretiyle kullanmışsa, bu defa dava derdest iken bunu olduğu gibi bırakarak icra mahkemesinden itirazın kaldırılması yoluna başvuramaz. Hatta evvelce icra mahkemesine başvuran alacaklı, sonra mahkemeye başvurarak itirazın iptali davası açmışsa, bu davanın derdest olduğu sırada, tekrar icra mahkemesine dönerek ilk müracaatını yineleyemez. Bununla beraber önce itirazın kaldırılmasını talep eden alacaklı, bu yolu bırakarak itirazın mahkemede iptalini isteyebilecektir (Değnekli, A.: İtirazın İptali Davası, Ankara 2013, s.79).
+
+Hem itirazın iptali davası, hem de itirazın kaldırılmasında kanun koyucu hak düşürücü süreler öngörmüş olup, bu süre itirazın kaldırılması için altı ay (m.68, 68-a), itirazın iptali davası için bir yıldır (m. 67). Her ikisinde de süre ödeme emrine itirazın alacaklıya veya vekiline Kanun’un 62/2. maddesi çerçevesinde tebliğinden itibaren başlar ve tebliğ Tebligat Kanunu hükümleri çerçevesinde sağlanır.
+
+### İcra Mahkemesine Yapılan Başvuru İtirazın Kaldırılması Olarak Değerlendirilmelidir
+
+(Y12HD-K.2011/9343)
+
+Genel haciz yolu ile ilamsız takibe karşı borçlunun süresinde itirazı takibi durdurur. Takibin devamını sağlamak için alacaklı dilerse itirazın kaldırılması için icra mahkemesine başvurabileceği gibi, takip konusu alacağın dayanağı İİK’nun 68-68/a daki belgelerden değilse, genel mahkemede itirazın iptali davası açabilir. Alacaklı itirazın kaldırılması dilekçesinde “itirazın iptali” tabirlerini kullanmış olsa dahi icra mahkemesince bu dava HUMK’nun 76.maddesi hükmü uyarınca İİK’nun 68.maddesi anlamında itirazın kaldırılması olarak nitelendirilip sonuçlandırılmalıdır.
+
+Somut olayda, alacaklı tarafından genel haciz yolu ile ilamsız icra takibine başlandığı, borçluya örnek 7 numaralı ödeme emri tebliğ edildiği, borçlunun yasal sürede icra dairesine itirazlarını bildirmesi ve icra takibinin durması üzerine, alacaklının, itirazın haksız olduğu iddiasıyla itirazın iptaline ve icra inkar tazminatına hükmedilmesi istemiyle icra mahkemesine başvurduğu anlaşılmıştır. Görüldüğü gibi alacaklı, icra mahkemesinde “itirazın iptali ve icra inkar tazminatı” istemiş olup, bu talebi İİK’nun 68.maddesi anlamında itirazın kaldırılması olarak nitelendirilmelidir.
+
+### Kira Sözleşmesi Dışındaki Nedenlerle Yapılan İtirazın Kesin Kaldırılması
+
+(HGK-K.2021/1670)
+
+Borçlunun (kiracının), kira sözleşmesine itiraz etmeyip (bilâkis kira sözleşmesini kabul ederek; İİK m. 269/2, c. 2), kiranın daha az olduğu, ödendiği, muaccel olmadığı, takas, kiralananın tahliye edildiği gibi bir sebep ile ödeme emrine itiraz etmesi hâlinde kira sözleşmesi dışındaki itirazlar denir. Kira sözleşmesi dışındaki itiraz ile de ilâmsız tahliye takibi durur. Takibe devam edilebilmesi için, alacaklının icra mahkemesinden itirazın kaldırılmasını ve tahliye istemesi gerekir. Burada da, itirazın kesin kaldırılması söz konusu olup itirazın geçici kaldırılması müessesesinin uygulama yeri yoktur. Çünkü, borçlu kira sözleşmesini kabul etmiş durumdadır. Artık bu durumda, kira sözleşmesinin mevcut olup olmadığı araştırılmaz; yalnız borçlunun ödeme, takas gibi kira sözleşmesi dışındaki itirazları incelenir. Borçlu, itirazında kira sözleşmesine açıkça itiraz etmeyip, kira sözleşmesi dışında bir itirazda (meselâ ödeme itirazında) bulunduğu için, bununla kira sözleşmesini kabul etmiş sayılır (İİK m. 269/2 c.2). Bu nedenle, icra mahkemesinde artık kira sözleşmesinin mevcut olup olmadığı hakkında bir inceleme yapılamaz (Kuru, s. 838, 846, 847).
+
+Borçlu itirazında takibe dayanak kira sözleşmesindeki imzasını açık ve kesin olarak reddetmez ise İİK’nın 269 maddesinin 2. fıkrası uyarınca kira sözleşmesinin varlığı ve içeriği, sözleşmede belirlenen kira alacağı takip hukuku bakımından kesinleşir. Borçlu ancak İİK’nın 269/c maddesine göre kiranın ödendiğini veya sair bir sebeple istenemeyeceğini bildirerek itiraz etmiş veya takas istemiş ise itiraz sebeplerini ve isteğini belirtilen hükümde yazılı belgelerle ispatladığı takdirde temerrütten kurtulabilir. Aksi hâlde itirazın kaldırılması ve tahliyeye karar verilir.
+
+### İtirazın Kaldırılması ve Kiralananın Tahliyesi Taleplerinin İleri Sürülmesi
+
+(HGK-K.2021/1423)
+
+Borçlunun kira sözleşmesi dışındaki itirazı ile de ilamsız tahliye takibi durur (İİK m. 269/3, c. l). Alacaklı kiraya veren, borçlunun itirazı üzerine (tahliye istemeden) yalnız itirazın kaldırılmasını (icra mahkemesinden) isteyebilir. Yani, alacaklı, itiraz üzerine duran ilâmsız takibe devamla borçlunun mallarının haczini sağlayabilmek için, itirazın kaldırılmasını ve tahliyeyi birlikte istemek zorunda olmayıp, yalnız itirazın kaldırılmasını talep etmekle yetinebilir. Alacaklının, yalnız itirazın kaldırılmasını talep edebilmesi için, (on, otuz veya altmış günlük) ödeme (ihtar) süresinin geçmesini beklemesine gerek yoktur; alacaklı, itiraz üzerine hemen (icra mahkemesinden) itirazın kaldırılmasını isteyebilir (Kuru, Baki: İcra ve İflas Hukuku, El Kitabı, Ankara 2013, s. 840). Alacaklı borçlunun itirazının kendisine tebliğinden itibaren 6 ay içerisinde icra mahkemesinden itirazın kaldırılmasını ve daha sonra aynı süre içinde de fakat ödeme süresinden sonra başka bir dilekçe ile tahliyesini isteyebilir. İcra mahkemesi her iki dosyayı birleştirerek sonucuna göre karar verir. Alacaklı önce itirazın kaldırılmasını talep edip, itirazın kaldırılması kararı aldıktan sonra yine itirazın tebliğinden itibaren 6 aylık süre içerisinde tahliye talebinde de bulunabilir. Bu durumlarda da İİK’nın 269 ve devamı hükümlerinin uygulanması zorunludur.
+
+### İtirazın Kaldırılması Halinde İcra İnkar Tazminatı ve Esasa İlişkin Karar Kavramı
+
+(Y12HD-K.2015/20790)
+
+Alacaklı tarafından borçlu aleyhine genel haciz yoluyla ilamsız takip başlatıldığı, borçlunun yasal süre içeresinde yaptığı borca itirazın hükümden düşürülmesi amacıyla alacaklının itirazın kaldırılması istemiyle icra mahkemesi'ne başvurduğu, mahkemece, takibin İİK'nun 68/1 maddesinde yazılı belgelere dayanmadığı gerekçesi ile itirazın kaldırılması isteminin reddine ve alacaklı aleyhine tazminata hükmedildiği anlaşılmaktadır.
+
+2004 Sayılı İcra ve İflas Kanunu'nun 68/7. maddesinde "İtirazın kaldırılması talebinin esasa ilişkin nedenlerle kabulü halinde borçlu, talebin aynı nedenlerle reddi halinde ise alacaklı, diğer tarafın talebi üzerine yüzde yirmiden aşağı olmamak üzere tazminata mahkum edilir. Borçlu, menfi tespit ve istirdat davası açarsa, yahut alacaklı genel mahkemede dava açarsa, hükmolunan tazminatın tahsili dava sonuna kadar tehir olunur ve dava lehine sonuçlanan taraf için, daha önce hükmedilmiş olan tazminat kalkar.” hükmü yer almaktadır.
+
+Somut olayda, alacaklının yapmış olduğu itirazın kaldırılması istemi, takibin İİK'nun 68/1 maddesinde yazılı belgelere dayanmaması gerekçesiyle esasa ilişkin olmayan nedenlerle reddedildiğini göre alacaklı aleyhine tazminata hükmedilmesi isabetsiz olup, kararın bu nedenle bozulması gerekir ise de, anılan yanlışlığın giderilmesi de yeniden yargılama yapılmasını gerektirmediğinden kararın düzeltilerek onanmasına karar verilmiştir.
+
+
+---
+
+## Menfi Tespit Davası ve İstirdat Davası
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/blog/borclar-hukuku/menfi-tespit-davasi-ve-istirdat-davasi-nedir-iik-72 (son güncelleme: 2023-03-08)*
+
+Menfi tespit davası, davalının varlığını ileri sürdüğü bir hukuki ilişkinin mevcut olmadığının tespiti için icra takibinden sönce, takip sırasında veya takipten sonra açılan bir dava türüdür. Dava sırasında borç alacaklıya (davalıya) ödenmiş olursa, menfi tespit davası istirdat davasına dönüşür (İİK 72).
+
+
+## Menfi Tespit Davası Nedir?
+
+(Yargıtay HGK-K.2021/105)
+
+Davalı tarafından varlığı iddia edilen bir hukuki ilişkinin mevcut olmadığının (yok olduğunun) tespiti için açılan davaya menfi (olumsuz) tespit davası denir.
+
+Gerçekte var olmayan bir borç ya da geçersiz bir hukukî ilişki nedeniyle icra takibine maruz kalması muhtemel olan veya icra takibine maruz kalan bir kimsenin (borçlunun) gerçekte borçlu bulunmadığını ispat için açacağı dava, menfi tespit davası olarak adlandırılmaktadır (HGK-K.2021/866).
+
+### Menfi Tespit Davası Nasıl Açılır?
+
+Menfi tespit davası, 2004 sayılı İcra ve İflâs Kanunu’nun (İİK) 72. maddesinde düzenlenmiştir. Bu maddeye göre, borçlu, icra takibinden önce veya takip sırasında ya da icra takibinden sonra borçlu bulunmadığını ispat için menfi tespit davası açabilir. Bu dava maddi hukuk ve usul hukuku bakımından genel hükümlere dayalıdır ve normal bir hukuk davası olarak açılır. Eş söyleyişle kendisine karşı icra takibi yapılmış olan borçlu, ödeme emrine itiraz edilmemiş veya itiraz edilmiş olmakla birlikte yerinde görülmemiş olması sebebiyle icra takibi kesinleşse dahi maddi hukuk bakımından borçlu olmadığını ileri sürebilir. Bunun için, takip devam ederken alacaklıya karşı menfi tespit davası açabileceği gibi, böyle bir menfi tespit davası açmamış ve borcu cebri icra tehdidi altında ödemiş ise ödemiş olduğu paranın kendisine verilmesi için alacaklıya karşı istirdat davası açabilir (Kuru, B.: İcra ve İflâs Hukukunda Menfi Tespit Davası ve İstirdat Davası, Ankara 2003, s. 233). Başka bir şekilde ifade etmek gerekirse, menfi tespit davası icra takibinden önce sonuçlanmaz ve ihtiyati tedbir kararı verilmemiş olması (veya ihtiyati tedbir kararının kaldırılması) nedeniyle, (menfi tespit davası görülmekte iken) borç alacaklıya (davalıya) ödenmiş olursa, menfi tespit davasına istirdat davası olarak devam edilir (m.72/6); yani menfi tespit davası (kendiliğinden) istirdat davasına dönüşür; bu hâlde mahkeme menfi tespit davasına istirdat davası olarak devam eder (Kuru, B: İstinaf Sistemine Göre Yazılmış İcra ve İflâs Hukuku Ders Kitabı, Ankara, 2017, s. 146). Bu durumda İİK’nın 72/6 maddesi gereğince bedele dönüşen isteminin temeli menfi tespit davasıdır.
+
+### Menfi Tespit Davasında İspat Yükü
+
+Menfi tespit davasında ispat yükü, kural olarak davalı alacaklıya düşer; fakat davacıya (borçluya) düştüğü hâller de vardır; davacı (borçlu), davalının (alacaklının) varlığını iddia ettiği hukuki ilişkiyi (meselâ borcu) sadece inkâr etmekle yetinmekte ise, yani bu hukuki İlişkinin (borcun) hiç doğmadığını ileri sürmekte ise ispat yükü davalıya düşer. Çünkü hukuki ilişkinin (borcun) varlığını iddia eden davalı olduğu için, ispat yükü davalı alacaklıya düşer (6100 sayılı HMK m. 190; 4721 sayılı Türk Medeni Kanunu (TMK) m.6). Fakat, alacaklının dayandığı senedin karşılıksız olduğunu ispat yükü, davacıya (borçluya) düşer. Bunun gibi, davacı (borçlu), davalının (alacaklının) iddia ettiği alacağın ödeme, ibra ve takas gibi bir nedenle son bulduğunu ileri sürerse, bu iddiayı ispat yükü de davacı borçluya düşer (Kuru-El Kitabı, s.370 ilâ 372). HMK’nın 201. maddesinde "Senede bağlı her çeşit iddiaya karşı ileri sürülen ve senedin hüküm ve kuvvetini ortadan kaldıracak veya azaltacak nitelikte bulunan hukuki işlemler ikibinbeşyüz Türk Lirasından az bir miktara ait olsa bile tanıkla ispat olunamaz." hükmü düzenlenmiştir. Senede karşı ileri sürülen hukuki işlemlerin senetle ispatı zorunludur (HMK m. 200). Senede bağlı olan her çeşit iddiaya karşı defi (savunma) olarak ileri sürülen ve senedin hüküm ve kuvvetini ortadan kaldıracak veya azaltacak nitelikte bulunan hukuki işlemler, ispat sınırından az bir miktara ilişkin olsa bile tanıkla ispat olunamaz; ancak senet (kesin delil) ile ispat edilebilir.
+
+Ancak, HMK’nın 203. maddesinde hangi hâllerde tanık dinlenebileceği açıklanmış olup,
+
+"a) Altsoy ve üstsoy, kardeşler, eşler, kayınbaba, kaynana ile gelin ve damat arasındaki işlemler.
+
+b) İşin niteliğine ve tarafların durumlarına göre, senede bağlanmaması teamül olarak yerleşmiş bulunan hukuki işlemler.
+
+c) Yangın, deniz kazası, deprem gibi senet alınmasında imkansızlık veya olağanüstü güçlük bulunan hallerde yapılan işlemler.
+
+ç) Hukuki işlemlerde irade bozukluğu ile aşırı yararlanma iddiaları.
+
+d) Hukuki işlemlere ve senetlere karşı üçüncü kişilerin muvazaa iddiaları.
+
+e) Bir senedin sahibi elinde beklenmeyen bir olay veya zorlayıcı bir nedenle yahut usulüne göre teslim edilen bir memur elinde veya noterlikte herhangi bir şekilde kaybolduğu kanısını kuvvetlendirecek delil veya emarelerin bulunması hali." şeklinde düzenlenmiştir.
+
+Muvazaalı borç senedi düzenlemesi hususunu açıklamak gerekirse, miras bırakanın aslında borçlu olmadığı hâlde lehine yarar sağlamak istediği mirasçısı veya bir üçüncü kişi lehine adi veya ticari borç senedi düzenlemesi mutlak muvazaa niteliğinde olup, mirasçılar ödemekle yükümlü oldukları bu senedin iptalini muris muvazaası hukuksal nedenine dayalı açacakları dava ile isteyemezler (Arslantürk, M.: Muris Muvazaası, Ankara Üniversitesi Sosyal Bilimler Enstitüsü, Yayımlanmamış Yüksek Lisans Tezi, Ankara 2019, s. 90).
+
+Kambiyo senedinden kaynaklanan talebin geçerliliği borç ilişkisinden bağımsızdır (Yargıtay Hukuk Genel Kurulunun 17.04.2015 tarihli ve 2013/19-1622 E., 2015/1238 K. sayılı kararı). Bu nedenle miras bırakanın düzenlemiş olduğu muvazaalı adi veya ticari borç senedi gerekli şartları haizse geçerlidir (Eviz, E.: Muris Muvazaası, Yayımlanmamış Yüksek Lisans Tezi, İstanbul 2015, s.122). Bu hâlde mirasçılar, miras bırakanın düzenlemiş olduğu borç senedinin muvazaa nedeniyle hükümsüzlüğünü ispatla yükümlüdürler. Mirasçılar, miras bırakanın yapmış oldukları hukuki işlemlerde kural olarak halef sıfatıyla taraf sayılırlar. Bunun sonucu olarak, mirasçılar ancak miras bırakanın sahip olduğu ispat imkânlarından faydalanabilirler. Ancak, miras bırakanın muvazaalı borç senedi düzenlemesi, mirasçılar aleyhine bir işlem olup, mirasçılar ile miras bırakanın hukuki menfaatleri çatışmaktadır. Bu nedenle, mirasçılar, muvazaalı borç senedinin hükümsüzlüğü talebiyle açacaklar davayı üçüncü kişi sıfatıyla her türlü delille ispatlayabilirler (Arslantürk, s. 91). Nitekim aynı hususlara Yargıtay Hukuk Genel Kurulunun 21.04.1978, 1976/13-3608 E., 1978/338 K.; 12.04.1985 tarihli ve 1983/4-558 E., 1985/317 K. sayılı kararlarında da değinilmiştir.
+
+## İstirdat Davası Nedir?
+
+(HGK-K.2021/230)
+
+Kendisine karşı ilamsız icra takibi yapılmış olan borçlu, ödeme emrine itiraz edilmemiş veya itiraz edilmiş olmakla birlikte yerinde görülmemiş olması sebebiyle icra takibi kesinleşmiş olsa dahi maddi hukuk bakımından borçlu olmadığını ileri sürebilir. Bunun için, takip devam ederken alacaklıya karşı menfi tespit davası açabileceği gibi, böyle bir menfi tespit davası açmamış ve borcu cebri icra tehdidi altında ödemiş ise, ödemiş olduğu paranın kendisine verilmesi için alacaklıya karşı istirdat davası açabilir (Kuru, B.: İcra ve İflâs Hukukunda Menfi Tespit Davası ve İstirdat Davası, Ankara 2003, s. 233).
+
+İİK'nın 72. maddesinin 5. fıkrası gereğince borçlunun açmış olduğu menfi tespit davasında ihtiyati tedbir kararı almamış veya verilmiş olan ihtiyati tedbir kararının herhangi bir sebeple kaldırılmış olması nedeniyle dava konusu borcu alacaklıya ödemiş olursa açılmış olan menfi tespit davasına istirdat davası olarak devam edilir (İİK m. 72/6). Bu durumda borçlunun menfi tespit davasının istirdat davasına dönüştürülerek devam edilmesi için bir talepte bulunmasına gerek yoktur. Borcun ödenmiş olduğunu öğrenen mahkemenin yukarıda yazılı yasa hükmü gereğince davaya kendiliğinden istirdat davası olarak devam etmesi gerekir (Çavdar, S.: İtirazın İptali, Borçtan Kurtulma, Menfi Tespit ve İstirdat Davaları, Ankara 2007, s. 803).
+
+Menfi tespit davasının istirdat davasına dönüşmesi üzerine, mahkemenin davanın kabulüne karar vermesi hâlinde, bu kararın icra takibinde ödenmiş olan paranın borçluya geri verilmesine ilişkin bölümü için, borçlunun ayrı bir ilamlı takip yapmasına olanak ve gerek yoktur. Borçlunun, m. 72/5, c.2 hükmüne göre icranın eski hâle getirilmesini istemesi gerekli ve yeterlidir. Bu hâlde de icranın eski hâle getirilebilmesi için istirdat davasının kabulü kararının kesinleşmesi gerekir (m. 72/5, c.2). Borçlu, İİK'nın 72. maddesinin 6. fıkrasına göre menfi tespit davasından dönüşen istirdat davasının kabulü kararının faiz, tazminat ve yargılama giderlerine ilişkin bölümü için ilâmlı icra yoluna başvurabilir; fakat, bunun için de, istirdat davasının kabulü kararının kesinleşmesi gerekir (Kuru, s. 390-391). Nitekim bu hususlar Hukuk Genel Kurulunun 11.02.2020 tarihli ve 2018/8-55 E., 2020/130 K. sayılı kararında da benimsenmiştir.
+
+Borçlu, menfi tespit davası açmamış ve borcu cebri icra tehdidi altında ödemiş ise, ödemiş olduğu paranın kendisine geri verilmesi için alacaklıya karşı İİK'nın 72. maddesinin 7. fıkrasına göre istirdat davası açabilir. Borçlu, istirdat davası sonucunda (lehine) almış olduğu ilamı hemen icraya koyabilir (m. 32). Bunun için, ilamın kesinleşmesi şart değildir; çünkü, ilamın konusu bir para alacağıdır (HUMK m. 443/1; İİK m. 36). Fakat, İİK'nın 72/6. maddesi gereğince istirdat davasına dönüşen menfî tespit davasının (yeni hâli ile istirdat davasının) kabulüne ilişkin ilamda yer alan alacak, ilam kesinleşmeden takip konusu yapılamaz (Kuru, s. 399). Hukuk Genel Kurulunun 11.02.2020 tarihli ve 2018/8-55 E., 2020/130 K. sayılı kararında da bu ilkeler vurgulanmıştır.
+
+### Menfi Tespit Davası/İstirdat Davası Zamanaşımı Süresi veya Hak Düşürücü Süre
+
+Menfi tespit davasına özgü bir zamanaşımı süresi veya hak düşürücü süre yoktur. Dava konusu hukuki ilişkinin tabi olduğu zamanaşımı süresi ne ise, menfi tespit davasının zamanaşımı süresi de odur. Aynı şekilde menfi tespit davasından dönüşen istirdat davasında da ayrı bir zamanaşımı süresi veya hak düşürücü süre mevcut değildir. Ancak, borclu menfi tespit davası açmadan cebri icra tehdidi altında borcu ödedikten sonra ödediği tarihten itibaren bir sene içinde istirdat davası açabilir. Bilindiği üzere 2004 sayılı İcra İflas Kanunu'nun (İİK) 72/7.maddesi uyarınca takibe itiraz etmemiş veya itirazının kaldırılmış olması yüzünden borçlu olmadığı bir parayı tamamen ödemek mecburiyetinde kalan şahıs, ödediği tarihten itibaren bir sene içinde, umumi hükümler dairesinde mahkemeye başvurarak paranın geriye alınmasını isteyebilir. Kanun maddesinden de anlaşılacağı üzere istirdat davası bir yıllık süre içerisinde açılabilir. Bu bir yıllık süre zamanaşımı süresi değil, hak düşürücü süredir. Bu nedenle, davanın süresinde açılıp açılmadığı, mahkemece doğrudan doğruya araştırılır (Uyar, Talih: İcra ve İflas Kanunu Şerhi 2.Baskı, İzmir 2004, s.6762-6763) (HGK-K.2016/961).
+
+Menfi tespit davası, İİK 72. maddesinde düzenlenmiş olup davanın açılması için herhangi bir hak düşürücü süre öngörülmemiştir. Dava, genel zamanaşımı süresine tabi olup istek konusu alacak avansın iadesi talebine ilişkin olmakla 5 yıllık zamanaşımına tabi olup işin esasına girilerek bir karar verilmesi gerekirken hak düşürücü süreden söz edilerek davanın reddi hatalı olup bozmayı gerektirmiştir (Yargıtay 9HD-K.2020/6858).
+
+Mahkemece, taraflar arasında sözleşme benzeri ilişki kurulduğu, bu nedenle BK m. 125 gereğince zamanaşımı süresinin 10 yıl olduğu ve borcun tahakkuk tarihi dikkate alındığında zamanaşımı süresinin dolduğu gerekçesiyle davanın reddine karar verilmiş; Hüküm, davacı tarafından temyiz edilmiştir. Davacı, kaçak tespit tutanağına konu trafonun kendisine ait olmadığını ileri sürerek kaçak kullanıma ilişkin borçlu bulunmadığının tespitine karar verilmesini talep etmektedir. Menfi tespit davasında, istirdat davası hükümleri ayrık olmak üzere zamanaşımı için herhangi bir düzenleme öngörülmemiştir. Bu nedenle, Mahkemece işin esası incelenerek bir karar vermek gerekirken, yazılı gerekçeyle davanın zamanaşımına uğradığından bahisle reddine karar verilmiş olması doğru görülmemiş, bozmayı gerektirmiştir. (Yargıtay 3HD-K.2020/2014).
+
+Davacı, davalı ile dava dışı ... arasında imzalanan sözleşmeyi kefil sıfatı ile imzaladığını, kefalet geçersiz olduğunu ileri sürerek davalı tarafından başlatılan icra takibi nedeniyle borçlu olunmadığının tespitine karar verilmesini istemiştir. Davalı zamanaşımının dolduğunu ileri sürmüştür. Mahkemece, davalı ile dava dışı ... arasında sözleşmenin 25.5.2004 tarihli olduğu, 6.4.2005 tarihinde başlatılan icra takibi sonucu düzenlenen ödeme emrinin 18.4.2005 tarihinde tebliğ edildiği, dava ise 10 yıllık zamanaşımı süresi dolduktan sonra 18.8.2015 tarihinde açıldığı gerekçesiyle zamanaşımından davanın reddine karar verilmiştir. Dava, davacı aleyhine başlatılan icra takibi nedeniyle borçlu olunmadığının tespitine yönelik olarak açılan menfi tespit davası olup, **icra takip dosyası derdest olduğundan zamanaşımı söz konusu değildir** (Yargıtay 13HD-K.2018/5490).
+
+Dava konusu edilen ödeme emrine konu prim borcunun ait olduğu dönem itibariyle yürürlükte olan yasa gereğince Kurum prim alacaklarının 5 yıllık zamanaşımına tabi olduğu, zamanaşımı süresi içerisinde, ödeme emirlerinin tebliğ edildiği 13/10/2015 tarihine kadar davacı yönünden herhangi bir işlem gerçekleştirilmediği ve bu haliyle borcun zamanaşımına uğradığı anlaşılmakla; pay devri sonrası döneme ilişkin borç yönünden, öncelikle zamanaşımı def’i gözetilerek davanın kabulüne karar vermek gerekmiş ve aşağıdaki hüküm fıkrası oluşturulmuştur.” ibaresinin silinerek yerine, “ Menfi tespit davasına konusu edilen ödeme emrine konu prim borcunun ait olduğu dönem itibariyle yürürlükte olan yasa gereğince Kurum prim alacaklarının 5 yıllık zamanaşımına tabi olduğu, zamanaşımı süresi içerisinde, ödeme emirlerinin tebliğ edildiği 13/10/2015 tarihine kadar davacı yönünden herhangi bir işlem gerçekleştirilmediği ve bu haliyle borcun zamanaşımına uğradığı anlaşılmakla; pay devri sonrası döneme ilişkin borç yönünden, öncelikle zamanaşımı def’i gözetilerek davanın kabulüne karar vermek gerekmiştir (Yargıtay 10HD-K.2018/3801).
+
+### Menfi Tespit Davasında Hukuki Yarar ve İstirdat Davası Açılması
+
+(Yargıtay 3HD-K.2019/4067)
+
+Gerçekte var olmayan bir borç ya da geçersiz bir hukuki ilişki nedeniyle icra takibine maruz kalması muhtemel olan veya icra takibine maruz kalan bir kimsenin (borçlunun) gerçekte borçlu bulunmadığını ispat için açacağı dava, menfi tespit olarak adlandırılmaktadır. Menfi tespit davası 2004 sayılı İcra ve İflas Kanunu (İİK)’nun 72. maddesinde düzenlenmiştir. Bu maddeye göre, borçlu, icra takibinden önce veya takip sırasında borçlu bulunmadığını ispat için menfi tespit davası açabilir. İcra takibinden önce açılan menfi tespit davasına bakan mahkeme, talep üzerine alacağın yüzde onbeşinden aşağı olmamak üzere gösterilecek teminat mukabilinde, icra takibinin durdurulması hakkında ihtiyati tedbir kararı verebilir. İcra takibinden sonra açılan menfi tespit davasında ise ihtiyati tedbir yolu ile takibin durdurulmasına karar verilemez. Ancak, borçlu gecikmeden doğan zararları karşılamak ve alacağın yüzde onbeşinden aşağı olmamak üzere göstereceği teminat karşılığında, mahkemeden ihtiyati tedbir yoluyla icra veznesindeki paranın alacaklıya verilmemesini isteyebilir. Bu düzenlemeden de anlaşılacağı üzere menfi tespit davasında amaç bir hukuki ilişkinin veya bir hakkın gerçekten mevcut olmadığının tespitidir. Başka bir deyişle hukuki bir yarar bulunması koşuluyla sonuçta alacak-borç ilişkisi doğuracak bir durumun olmadığının tespiti amaçlanır. Dayanılan hukuki ilişkinin gerçekten mevcut olmadığı icra takibine maruz kalmadan önce ileri sürülebileceği gibi, icra takibinden sonra da ileri sürülebilir.
+
+Borçlunun icra takibinden önce veya sonra menfi tespit davası açabilmesi için borçlu olmadığının tespitinde hukuki yararının bulunması şarttır. Buna rağmen borçlunun, alacaklının harekete geçmesini beklemeden borçlu olmadığının tespitinde korunmaya değer bir yararı bulunabilir. Bu tür bir yararının bulunması halinde borçlu, borçlu olmadığının tespiti için dava açabilir. Bunun dışında icra takibi taraflar arasındaki maddi ilişkiyi tespit edecek nitelikte olmadığından, alacaklının takibe girişmesinden sonra, hatta takip kesinleştikten sonra da borçlunun, borçlu olmadığının tespitini mahkemeden istemesi mümkündür. Borçlu belirtilen şekilde takipten önce veya sonra alacaklıya karşı bir menfi tespit davası açar; bu davayı kazanırsa, hakkındaki icra takibi dayanaksız kalır ve borcu ödemekten kurtulur. Ancak borçlu borcunu icra dairesine ödedikten sonra, artık menfi tespit davası açamaz. Bu halde borçlunun sırf borçlu olmadığının tespitinde hukuki bir yararı yoktur. Bundan sonra ödediği paranın geri alınması için bir dava açması söz konusu olur ki, bu da istirdat davasıdır.
+
+### Menfi Tespit Davasında Kötüniyet Tazminatı
+
+(HGK-K.2022/386)
+
+2004 sayılı İcra ve İflas Kanunu'nun 72. maddesi uyarınca yukarıda açıklanan şekilde menfi tespit davası açan borçlunun tazminat isteme hakkı vardır. Anılan maddenin 5. fıkrası aynen “Dava borçlu lehine hükme bağlanırsa derhal takip durur. İlamın kesinleşmesi üzerine münderecatına göre ve ayrıca hükme hacet kalmadan icra kısmen veya tamamen eski hale iade edilir. Borçluyu menfi tespit davası açmaya zorlayan takibin haksız ve kötü niyetli olduğu anlaşılırsa, talebi üzerine, borçlunun dava sebebi ile uğradığı zararın da alacaklıdan tahsiline karar verilir. Takdir edilecek zarar, haksızlığı anlaşılan takip konusu alacağın yüzde yirmisinden aşağı olamaz” hükmünü içermektedir.
+
+Madde metninden de açıkça anlaşıldığı üzere menfi tespit davası açmak zorunda bırakılan borçlunun tazminat talep edebilmesi için gerekli koşullar; bu yönde bir talep olması, borçluya karşı icra takibi yapılmış bulunması ile takibin haksız ve kötüniyetli olmasıdır (Kuru, Baki: İcra ve İflas Hukuku, 2006, s. 334, 335).
+
+Başka bir ifadeyle; İİK’nın 72. maddesinin beşinci fıkrası hükmüne göre, menfi tespit davasının davacı lehine sonuçlanması üzerine, alacak likit olsun veya olmasın, böyle bir alacağa dayalı takibin, haksız ve kötüniyetli olması hâlinde, istem varsa, davacı lehine kötüniyet tazminatına hükmedilmesi gereklidir. Takibin haksız olması tek başına yetmemekte, ayrıca kötüniyetli olması da gerekmekte olup, ispat yükü; takibin kötüniyetli olduğunu iddia eden davacının üzerindedir. Alacağının bulunmadığını bildiği veya bilmesi gereken bir durumda olduğu hâlde, icra takibine girişen alacaklı, kötüniyetli kabul edilir. Nitekim aynı hususlara Yargıtay Hukuk Genel Kurulunun 09.11.2021 tarihli ve 2018/(6)3-44 E., 2021/1382 K. sayılı kararında da yer verilmiştir.
+
+Somut olayda; davacı tarafından borçlu olunmadığının tespitiyle birlikte davalıdan kötüniyet tazminatı istenildiği anlaşılmakla, davalının ancak yargılamayla tespit olabilecek kira alacağını takibe koyduğu değerlendirildiğinden kötüniyetli kabul edilemeyeceği sonucuna varılmıştır.
+
+### İcra Takibinde Zamanaşımı İtirazı ve Menfi Tespit Davası
+
+Kural olarak alacaklıya karşı herhangi bir nedenle borçlu olmadığı bildirilerek menfi tespit davası açılabilir. Ancak, alacaklıya karşı haiz olduğu zamanaşımı def’ini takip ya da dava sırasında ileri sürmeyen borçlunun sonradan böyle bir nedene dayanarak menfi tespit davası açması olanaklı değildir. Çünkü borçlunun bu hakkını yetkili merciinde kullanmamış olması, bundan vazgeçtiği anlamına gelir. Diğer bir deyişle, ödeme emrine itiraz etmeyen veya itirazında zamanaşımı def’inde bulunmayan borçlu zamanaşımına dayanarak menfi tespit davası açamaz (Yargıtay 4HD-K.2018/7930).
+
+### Menfi Tespit Davasının Sonuçlanması ve İcra Takibinden Dolayı Tazminat
+
+(HGK-K.2018/943)
+
+Menfi tespit davası sonucunda mahkeme, davanın haklı olduğu kanısına varırsa davanın kabulüne, yani davacının borçlu bulunmadığının tespitine karar verir. Bu kararın kesinleşmesi ile alacaklının iddia ettiği veya takip konusu yaptığı alacağın mevcut olmadığı maddi hukuk bakımından tespit edilmiş ve uyuşmazlık kesin olarak çözüme bağlanmış olur. Davanın borçlu lehine sonuçlanması (kabulü ) hâlinde, dava konusu icra takibinin akıbeti ve İİK'nın 72/5. maddesinde düzenlenen ve borçlu lehine hükmedilmesi gereken tazminat hususu gündeme gelir.
+
+Hükmün verilmesiyle (kesinleşmesine gerek kalmadan) icra takibi derhal durur, kesinleşmesi ile de icra takibi iptal edilir ve davacı borcu ödemekten kurtulur. İİK'nın 72/5. maddesinde borçluyu menfi tespit davası açmaya zorlayan icra takibinin haksız ve kötü niyetle yapılmış olması durumunda istem üzerine takip konusu alacağın yüzde yirmisinden aşağı olmamak üzere borçlunun dava nedeniyle uğradığı zararın alacaklıdan tahsiline karar verileceği öngörülmüştür.
+
+Ancak, menfi tespit davasını kazanan borçlu lehine tazminata karar verilebilmesinin bazı şartları vardır. Öncelikle, alacaklının yapmış olduğu icra takibi ile borçluyu menfi tespit davası açmaya zorlamış olması gerektiğinden, borçlu aleyhine yapılmış bir icra takibinin bulunması gerekmektedir. Bu bakımından borçlu aleyhine yapılmış bir icra takibi yoksa tazminatta söz konusu olmayacaktır. Ayrıca, borçlunun menfi tespit davası sırasında bu konuda istemde bulunması yanında borçluyu dava açmaya zorlayan icra takibinde alacaklının haksız ve kötü niyetli olması gerekmektedir. Önemle belirtmek gerekir ki burada alacaklının icra takibinde sadece haksız olması yeterli olmayıp, yasa maddesindeki açık düzenleme uyarınca aynı zamanda takibin kötü niyetle yapılmış olması da zorunludur.
+
+Takibin haksızlığı, alacaklının hiç ya da talep ettiği miktarda bir alacağı bulunmadığı hâlde icra takibine girişmesi hâlinde söz konusu olur. Madde metninde yer alan kötü niyet ise alacaklının haksız olduğunu bildiği hâlde sırf borçluyu zarara uğratmak amacıyla takibe girişmesi hâlinde gerçekleşir.
+
+### Menfi Tespit Davasından Dönüşen veya Doğrudan Açılan İstirdat Davası Farkı
+
+(HGK-K.2021/230)
+
+Kendisine karşı ilamsız icra takibi yapılmış olan borçlu, ödeme emrine itiraz edilmemiş veya itiraz edilmiş olmakla birlikte yerinde görülmemiş olması sebebiyle icra takibi kesinleşmiş olsa dahi maddi hukuk bakımından borçlu olmadığını ileri sürebilir. Bunun için, takip devam ederken alacaklıya karşı menfi tespit davası açabileceği gibi, böyle bir menfi tespit davası açmamış ve borcu cebri icra tehdidi altında ödemiş ise, ödemiş olduğu paranın kendisine verilmesi için alacaklıya karşı istirdat davası açabilir (Kuru, B.: İcra ve İflâs Hukukunda Menfi Tespit Davası ve İstirdat Davası, Ankara 2003, s. 233).
+
+İİK'nın 72. maddesinin 5. fıkrası gereğince borçlunun açmış olduğu menfi tespit davasında ihtiyati tedbir kararı almamış veya verilmiş olan ihtiyati tedbir kararının herhangi bir sebeple kaldırılmış olması nedeniyle dava konusu borcu alacaklıya ödemiş olursa açılmış olan menfi tespit davasına istirdat davası olarak devam edilir (İİK m. 72/6). Bu durumda borçlunun menfi tespit davasının istirdat davasına dönüştürülerek devam edilmesi için bir talepte bulunmasına gerek yoktur. Borcun ödenmiş olduğunu öğrenen mahkemenin yukarıda yazılı yasa hükmü gereğince davaya kendiliğinden istirdat davası olarak devam etmesi gerekir (Çavdar, S.: İtirazın İptali, Borçtan Kurtulma, Menfi Tespit ve İstirdat Davaları, Ankara 2007, s. 803).
+
+Kesinleşmeden icraya konulamayacak istisnai düzenlemelerden biri de İİK'nın 72. maddesinin 4 ve 5. fıkralarında yer alan menfi tespit davasına ilişkindir.
+
+Menfi tespit davasının reddi hâlinde ilam (İİK m. 36 ve HUMK m. 443/1 anlamında) eda hükmünü içeren bir ilam değildir. İİK'nın 72. maddesinin 4. fıkrasının 2. cümlesinde açıkça belirtildiği gibi alacaklının, lehine hükmedilen tazminatı borçlunun gösterdiği teminattan alabilmesi için menfî tespit davasının reddine ilişkin kararın kesinleşmiş olması gerekir. Ayrıca ilam bir bütün olup, ilamda yer alan eklentiler de aynı kurala tabidir (Hukuk Genel Kurulunun 07.11.1990 tarihli ve 1990/12-446 E., 1990/564 K. sayılı, 05.10.2005 tarihli ve 2005/12-534 E., 2005/554 K. sayılı kararları).
+
+Mahkemece menfi tespit davasının kabulüne karar verilmesi ve kararının kesinleşmesi üzerine, davanın kabulü kararının içeriğine göre ve ayrıca hükme hacet kalmadan, icra dairesi tarafından, icra kısmen veya tamamen eski hâle iade edilir (m. 72/5, c.2). Buna göre mahkeme, borçlunun hiç borçlu olmadığına karar vermişse, icra dairesi tarafından, icra tamamen eski hâle iade edilir; mahkeme borçlunun kısmen borçlu olmadığına karar vermişse, icra dairesi tarafından, icra kısmen eski hâle iade edilir. İİK’nın 72/5. maddesinde açıkça yazılı olduğu gibi icra dairesi tarafından icranın eski hâle iadesi için ayrıca dava açılmasına ve mahkeme hükmüne gerek yoktur. Menfi tespit davası borçlu lehine sonuçlanmadan önce, ihtiyati tedbir kararı (m. 72/3,c.2) istenmediği veya verilmediği için, satış bedeli veya borçlunun icra dairesine ödemiş olduğu para (kısaca, icra veznesindeki para) alacaklıya ödenmiş durumda ise, menfi tespit davasının kabulü kararının kesinleşmesi (ve borçlunun talebi) üzerine icra dairesi, (ayrıca mahkeme hükmüne gerek kalmadan) alacaklıya ödemiş olduğu parayı alacaklıdan zorla geri alarak borçluya öder ve böylece icrayı eski hâline iade eder (Kuru, B.: İcra ve İflas Hukuku El Kitabı, Ankara 2013, s. 382-383).
+
+Menfi tespit davasının istirdat davasına dönüşmesi üzerine, mahkemenin davanın kabulüne karar vermesi hâlinde, bu kararın icra takibinde ödenmiş olan paranın borçluya geri verilmesine ilişkin bölümü için, borçlunun ayrı bir ilamlı takip yapmasına olanak ve gerek yoktur. Borçlunun, m. 72/5, c.2 hükmüne göre icranın eski hâle getirilmesini istemesi gerekli ve yeterlidir. Bu hâlde de icranın eski hâle getirilebilmesi için istirdat davasının kabulü kararının kesinleşmesi gerekir (m. 72/5, c.2). Borçlu, İİK'nın 72. maddesinin 6. fıkrasına göre menfi tespit davasından dönüşen istirdat davasının kabulü kararının faiz, tazminat ve yargılama giderlerine ilişkin bölümü için ilâmlı icra yoluna başvurabilir; fakat, bunun için de, istirdat davasının kabulü kararının kesinleşmesi gerekir (Kuru, s. 390-391). Nitekim bu hususlar Hukuk Genel Kurulunun 11.02.2020 tarihli ve 2018/8-55 E., 2020/130 K. sayılı kararında da benimsenmiştir.
+
+Borçlu, menfi tespit davası açmamış ve borcu cebri icra tehdidi altında ödemiş ise, ödemiş olduğu paranın kendisine geri verilmesi için alacaklıya karşı İİK'nın 72. maddesinin 7. fıkrasına göre istirdat davası açabilir. Borçlu, istirdat davası sonucunda (lehine) almış olduğu ilamı hemen icraya koyabilir (m. 32). Bunun için, ilamın kesinleşmesi şart değildir; çünkü, ilamın konusu bir para alacağıdır (HUMK m. 443/1; İİK m. 36). Fakat, İİK'nın 72/6. maddesi gereğince istirdat davasına dönüşen menfî tespit davasının (yeni hâli ile istirdat davasının) kabulüne ilişkin ilamda yer alan alacak, ilam kesinleşmeden takip konusu yapılamaz (Kuru, s. 399). Hukuk Genel Kurulunun 11.02.2020 tarihli ve 2018/8-55 E., 2020/130 K. sayılı kararında da bu ilkeler vurgulanmıştır.
+
+### Menfi Tespit Davası Zorunlu Arabuluculuğa Tabi midir?
+
+(Yargıtay 11. HD-K.2021/3198)
+
+Bir ticari davanın açılmasından önce arabulucuya başvurulmuş olmasının dava şartı olabilmesi bazı koşulların gerçekleşmesine bağlıdır. Buna göre; (a) Öncelikle konusu, bir miktar paranın ödenmesi olmalı, (b) Sonra dava konusu olan bir miktar paranın ödenmesi için yapılan talep, bir alacak veya tazminat talebi olarak ileri sürülmelidir. Bu koşulların bulunması halinde dava açılmasından önce arabulucuya başvurulmuş olması, dava şartı olacaktır. Bu koşulların gerçekleşmediği ticari davalarda davanın açılmasından önce arabulucuya başvurulmuş olması, dava şartı olarak kabul edilmeyecektir.
+
+Kanun maddesinin metni ve gerekçesi bu kadar açık ve net olup zorlamayla da olsa genişletici bir yorum yapılmasına elverişli değildir. Zaten ileri ve özgürlükçü hukuk düzenlerinde zorunlu ve emredici kuralların dar yorumlanması esastır. Menfi tespit davalarının ticari bir dava olduğu için TTK’nun 5/A maddesi kapsamına alınması ve böyle bir davayı açmak isteyen kişinin önce arabulucuya başvurmaya zorlanması, kanuna aykırı olduğu gibi sayısız hukuki sakıncalara da neden olacaktır. Bu itibarla kanun hükmünde öngörülen açık ifadelere rağmen dava şartı arabuluculuğun uygulama alanının genişletilmesi doğru değildir.
+
+HMK’nın 106. maddesinde düzenlenen tespit davasının özel bir şekli olan menfi tespit davası, konusu bir miktar paranın ödenmesi olan alacak ve tazminat davası olarak nitelendirilemez. Bu dava sonucunda, borçlunun borçlu olmadığının anlaşılması halinde borçlu olunmayan kısım belirtilmek suretiyle olumsuz tespit hükmü kurulmaktadır. Menfi tespit davasının istirdat davasına dönüştüğü hâllerde dahi olumsuz tespit hükmü kurulması gerekmektedir. Başka bir deyişle, menfi tespit davasının niteliği gereği verilen kararlarda, yalnızca davacının borçlu olup olmadığı belirlenmekte, borçlu olmadığı kısma ilişkin olumsuz tespit hükmü kurulmaktadır. Bu hüküm, herhangi bir alacağın tahsilini gerektirir nitelikte bir ilam olmadığından esasa yönelik olarak İİK'nın 32. maddesi uyarınca doğrudan ilamların icrası yolu ile takibe konulamaz. Oysa arabuluculuk sonucu verilen kararlar ilam hükmünde olup, cebri icra yoluna başvurulabilecek niteliktedir. Ancak menfi tespit davaları sonucunda verilen hükümler esasa yönelik olarak cebri icraya konu edilip infaz edilemeyeceğinden, ticari davalarda arabuluculuğa başvuruyu dava şartı olarak öngören madde hükmünün amaçsal yorumundan Yasa Koyucu’nun bilinçli olarak menfi tespit davalarını arabuluculuk dava şartına tabi tutmadığı anlaşılmaktadır. Bu durumda mahkemece arabulucuya başvurulmadığından davanın dava şartı yokluğundan reddine karar verilmesi doğru görülmemiştir.
+
+
+---
+
+## Menfi Tespit ve İstirdat Davası Yargıtay Kararları (İİK 72)
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-72-menfi-tespit-ve-istirdat-davasi-yargitay-kararlari (son güncelleme: 2026-09-04)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 72. Madde Yargıtay Kararları, İİK 72. Madde Metni, Menfi Tespit Davası Yargıtay Kararları, İstirdat Davası Yargıtay Kararları
+
+
+## Menfi Tespit ve İstirdat Davası Yargıtay Kararları (İİK 72)
+
+- İhtiyati hacze itirazı incelemeye, ihtiyati haciz kararını veren mahkemenin görevli bulunduğuna ilişkin kuralın tek istisnası, ihtiyati hacze konu alacak hakkında dava açılmasıdır. Bu durumda alacakla ilgili menfi tespit davası açılmışsa itiraz da oraya yapılmalıdır. (11 HD 2009 / 12455 karar)
+- Davacı çekin yanlışlıkla verildiğini, davalı ise önceki çekin tahsil edildiğini bu bedelinin ise davacı sıkıntıya düştüğü için kendisine verilip yeni çek alındığını söylüyor. Bu durumda, görülen menfi tespit davasında davalı ispat yükünü üzerine almıştır. (19 HD 2009 / 9668 karar)
+- Borçlunun itirazın iptali davasını beklemeden menfi tespit davası açmasında menfaati vardır. Hukuki yararı olduğundan menfi tespit davası dinlenebilir. ( 13 HD 2009 / 11668 )
+- İcra hukukunda düzenlenen menfi tespit davası gerek usul hukuku gerekse maddi hukuk açısından genel hükümlere tabidir. (HGK 2009 / 428 karar)
+- Menfi tespit davasında yetki kuralları kamu düzenine ilişkin değildir. Resen yetki hususu gözetilemez. (HGK 2009 /945 karar)
+- Kötü niyet olgusunda evrakın ilgililerin huzurunda düzenlemediği, aracı olup olmadığı önemlidir. (3 HD 2009 / 10919 karar)
+- İşveren teminat olarak işçiden senet alıp başkasını alacaklı hanesine yazarsa, birden fazla işçi açısından yapılırsa, açık ki iptal edilir. ( 9 HD 2009 / 15031 )
+- B.K. 132/son gereği zamanaşımı kesen sebepler ortadan kalkınca yani, menfi tespit davası bitince yeni bir zamanaşımı süresi başlar. ( 12 HD 2009 / 4676 )
+- İşçi – işveren ilişkisinde senedin bedelsizliği ileri sürülürse iddialar her türlü delille ispat edilebilir. (9 HD 2009 / 1590 karar)
+- Keşideci 3. cirontaya ödeme yapmış, daha sonra 1. ve 2. cirontaya karşı icra takibi yapmıştır. Açılan menfi tespit davasında ödeme 3. cirantaya yapıldığından 1 ve 2. cirantadan talepte bulunulamaz. ( 19 HD 2010 / 8993 )
+- Bonolarda malen kaydı varsa ve ticari defterlerde malen kaydı olan bono kayıtlıysa, defterde usulüne uygunsa sahibi lehine delil olduğundan mal teslimi ispatlanmalıdır. Aksi halde bonolar, menfi tespit davası ile iptal edilir. ( 19 HD 2010 / 8878 )
+- Bonoda "nakden" kaydı varsa menfi tespit açan davacı “teminat” verdiği iddiasını yazılı delille kanıtlamalıdır. Soyut kira sözleşmesi sunulması bononun sözleşmenin teminatı olduğunu ispatlamaz. ( 19 HD 2010 / 8179 )
+- Kambiyo senedi vasfını taşımayan belge, ancak alacağın temliki yoluyla temlik edilebilir. Hamilin hak sahibi olmadığı iddiası varsa tartışılmalıdır. ( 11 HD 2010 / 6168 )
+- Davacılar senet nedeniyle bankaya borçlu olmadıklarının tespitini istemiştir. Banka ile davalılar arasında kredi ilişkisi dışında bir ilişki olmadığından senetlerin kredi ilişkisi çerçevesinde verildiği kabul edilmelidir. ( 19 HD 2010 / 5446 ) \*Dava konusu senette “teminat kaydı" varsa da neyin teminatı olduğu belirtilmediğinden senedin mücerretlik vasfını ortadan kaldırmaz. Kambiyo senedi geçerli olup senede karşı iddiaların yazılı delille ispatı gerekir. ( HGK 2010 / 99 karar)
+- İş hukuku, işçinin verdiği senedi teminat amaçlı işverene verdiğini kabul eder. ( 9 HD 2010 / 764 karar )
+- Zamanaşımına uğrayan ceza davasında yerel mahkeme karar vermişse, bu karardaki olguların takdiri delil kabul etmek gerekir. ( 13 HD 2010 / 200 )
+- Hem tüketici kredisinden hem de taşıt kredisinden kaynaklanan rehin sözleşmesi nedeniyle tek takip yapılamaz. Rehinle temin edilmeyen tüketici kredisi yönünden takibin iptali gerekir. ( 12 HD 2010 / 192 )
+
+## Menfi Tespit ve İstirdat Davası - İİK 72 Madde Metni
+
+**Menfi tespit ve istirdat davaları:**
+
+**İİK Madde 72** – (Değişik: 18/2/1965 - 538/43 md.)
+
+Borçlu, icra takibinden önce veya takip sırasında borçlu bulunmadığını ispat için menfi tespit davası açabilir. İcra takibinden önce açılan menfi tespit davasına bakan mahkeme, talep üzerine alacağın yüzde onbeşinden aşağı olmamak üzere gösterilecek teminat mukabilinde, icra takibinin durdurulması hakkında ihtiyati tedbir kararı verebilir.
+
+İcra takibinden sonra açılan menfi tespit davasında ihtiyati tedbir yolu ile takibin durdurulmasına karar verilemez. Ancak, borçlu gecikmeden doğan zararları karşılamak ve alacağın yüzde onbeşinden aşağı olmamak üzere göstereceği teminat karşılığında, mahkemeden ihtiyati tedbir yoluyle icra veznesindeki paranın alacaklıya verilmemesini istiyebilir.
+
+(Değişik: 9/11/1988 - 3494/6 md.) Dava alacaklı lehine neticelenirse ihtiyati tedbir kararı kalkar. Buna dair hükmün kesinleşmesi halinde alacaklı ihtiyati tedbir dolayısıyla alacağını geç almış bulunmaktan doğan zararlarını gösterilen teminattan alır. Alacaklının uğradığı zarar aynı davada takdir olunarak karara bağlanır. Bu zarar herhalde yüzde yirmiden aşağı tayin edilemez.
+
+(Değişik: 9/11/1988 - 3494/6 md.) Dava borçlu lehine hükme bağlanırsa derhal takip durur. İlamın kesinleşmesi üzerine münderecatına göre ve ayrıca hükme hacet kalmadan icra kısmen veya tamamen eski hale iade edilir. Borçluyu menfi tespit davası açmaya zorlayan takibin haksız ve kötü niyetli olduğu anlaşılırşa, talebi üzerine, borçlunun dava sebebi ile uğradığı zararın da alacaklıdan tahsiline karar verilir. Takdir edilecek zarar, haksızlığı anlaşılan takip konusu alacağın yüzde yirmisinden aşağı olamaz.
+
+Borçlu, menfi tespit davası zımmında tedbir kararı almamış ve borç da ödenmiş olursa, davaya istirdat davası olarak devam edilir.
+
+Takibe itiraz etmemiş veya itirazının kaldırılmış olması yüzünden borçlu olmadığı bir parayı tamamen ödemek mecburiyetinde kalan şahıs, ödediği tarihten itibaren bir sene içinde, umumi hükümler dairesinde mahkemeye başvurarak paranın geriye alınmasını istiyebilir.
+
+Menfi tespit ve istirdat davaları, takibi yapan icra dairesinin bulunduğu yer mahkemesinde açılabileceği gibi, davalının yerleşim yeri mahkemesinde de açılabilir. Davacı istirdat davasında yalnız paranın verilmesi lazımgelmediğini ispata mecburdur.
+
+
+---
+
+## Takip Talebi Yargıtay Kararları (İİK 58)
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-58-madde-takip-talebi-yargitay-kararlari (son güncelleme: 2016-10-03)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 58. Madde Yargıtay Kararları, İİK 58. Madde Metni, Takip Talebi Yargıtay Kararları
+
+
+## Takip Talebi - İİK 58. Madde Yargıtay Kararları
+
+- Takip talebi ve ödeme emrinde Türk lirası karşılığı göstermelidir. Kamu düzenine aykırılıkta aleyhe bozma ilkesi geçerli olamaz, takibin her aşamasında ileri sürülebilir. ( 12 HD 2010 / 4675 K. )
+- İKK 58/3 maddeye göre alacak bir belgeye dayanıyorsa, belge aslını veya alacaklı veya temsilcisi tarafından tasdik edilmiş borçlu sayısından bir fazla örneğinin takip talebiyle birlikte icra dairesine verilmesi, İİK. 61/1 gereği belgenin onaylı örneğidir. Ödeme emriyle birlikte borçlu gönderilmesi zorunludur. ( HGK 2000 / 47 ) ( 12 HD 2009 / 2864 K. )
+- Alacaklı yaptığı icra takibinden vazgeçebilir. İcra takibinden vazgeçme esas haktan vazgeçme niteliğinde değildir. (19 HD 2009 / 2694)
+- Adli kira ve hasılat kiralarına ait takiplerle ilgili İKK. 269/D maddesinde, İKK. 58-61’e atıf yok. İcra İflas Kanunu Yönetmeliğinde sözleşme örneğinin ayrıca ödeme emri ekinde borçluya tebliğ edileceği yönünde bir hüküm yok. ( 12 HD 2009 / 553 )
+- Alacaklının adresi vekaletnamede varsa, alacaklı adilin açık adresini öğrenme imkanı olan borçlunun çıkarlarının zarara uğramayacağı açık. ( HCK 2009 /379 )
+
+## Takip Talebi (İİK 58) Madde Metni
+
+**Takip talebi ve muhtevası:**
+
+**İİK Madde 58** – (Değişik: 18/2/1965 - 538/30 md.)
+
+(Değişik birinci fıkra: 2/7/2012-6352/9 md.) Takip talebi icra dairesine yazılı veya sözlü olarak ya da elektronik ortamda yapılır. Talepte şunlar gösterilir:
+
+1. (Değişik: 2/7/2012-6352/9 md.) Alacaklının ve varsa kanuni temsilcisinin ve vekilinin adı, soyadı; alacaklı veya vekili adına ödemenin yapılacağı banka adı ile hesap bilgileri; varsa Türkiye Cumhuriyeti kimlik numarası veya vergi kimlik numarası; şöhret ve yerleşim yeri; alacaklı yabancı memlekette oturuyorsa Türkiye’de göstereceği yerleşim yeri (Yerleşim yeri gösteremezse icra dairesinin bulunduğu yer yerleşim yeri sayılır.);
+2. (Değişik: 2/7/2012-6352/9 md.) Borçlunun ve varsa kanuni temsilcisinin adı, soyadı, alacaklı tarafından biliniyorsa Türkiye Cumhuriyeti kimlik numarası veya vergi kimlik numarası, şöhret ve yerleşim yeri;
+
+Bir terekeye karşı yapılan taleplerde kendilerine tebligat yapılacak mirasçıların adı, soyadı, biliniyorsa Türkiye Cumhuriyeti kimlik numarası veya vergi kimlik numarası, şöhret ve yerleşim yerleri;
+
+1. (Değişik: 17/7/2003-4949/12 md.) Alacağın veya istenen teminatın Türk parasıyla tutarı ve faizli alacaklarda faizin miktarı ile işlemeye başladığı gün, alacak veya teminat yabancı para ise alacağın hangi tarihteki kur üzerinden talep edildiği ve faizi;
+2. Senet, senet yoksa borcun sebebi;
+3. Takip yollarından hangisinin seçildiği;
+
+Alacak belgeye dayanmakta ise, belgenin aslının veya alacaklı yahut mümessili tarafından tasdik edilmiş, borçlu sayısından bir fazla örneğinin takip talebi anında icra dairesine tevdii mecburidir.
+
+Alacaklıya takip talebinde bulunduğuna ve verdiği belgelere, talep ve takip masraflarına dair bedava ve pulsuz bir makbuz verilir.
+
+
+---
+
+## Tasarrufun İptali Davası (İİK 277)
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/tasarrufun-iptali-davasi (son güncelleme: 2026-09-04)*
+
+Tasarrufun İptali Davası Nedir? Tasarrufun İptali Davası Kime Karşı Nasıl Açılır? İİK 277 Tasarrufun İptali Davasının Şartları, Zamanaşımı ve Görevle Mahkeme, Tasarrufun İptali Davaları Yargıtay Kararları
+
+
+## Tasarrafun İptali Davası Nedir?
+
+Av.Murat Arksak<sup>1</sup>
+
+**Tasarrufun iptali davası**; alacağını icra takibi yoluyla borçludan tahsil edemeyen alacaklının, borçlunun son 5 yıl içerisinde gayrimenkul veya menkul mallarına ilişkin mal kaçırmak  saiki ile yapmış olduğu tasarruflarını iptal etmek amacıyla, borçluya ve malı devralan üçüncü kişiye karşı açtığı bir dava türüdür.  Tasarrufun iptali davasının, **tasarrufun yapıldığı tarihten itibaren** en geç hak düşürücü süre olan beş yıl içinde açılması gerekir (İİK m.284).
+
+Tasarrufun iptali davası, İİK.’nın 277. ve devamı maddelerinde düzenlenmiştir.
+
+## Tasarrufun İptali Davalarında Taraflar Kimlerdir?
+
+İptal davasının “kimler tarafından” açılabileceği, İİK. Mad. 277’de, “kimlere karşı” açılabileceği ise İİK. Mad. 282’de düzenlenmiştir. Tasarrufun İptali davalarında en az üç taraf mevcut olup, alacağını icra takibi ile tahsil edemeyen ve borçlu hakkında aciz vesikası alan alacaklı davacı sıfatına sahip olur. Alacaklıdan mal kaçırma saiki ile hareket ederek mallarını devreden borçlu kişi ise davalı sıfatı ile yer almaktadır. Tasarrufun iptali davasına konu edilen malı elinde bulunduran ve davalı borçlu ile aralarında mal devir işlemi yapan üçüncü kişi ise davalı üçüncü kişi/davalı olarak davada muhatap olmaktadır.
+
+## Tasarrufun İptali Davasının Şartları
+
+a) Tasarrufun iptali davası açılabilmesi için, öncelikle alacaklı ile borçlu arasında gerçek bir borç ilişkisi mevcut olmalıdır. Tasarrufun iptali davası, borçluya ve malı borçludan devralan üçüncü kişiye karşı açılacağından, bu şekilde üçüncü kişinin hukuki güvenliği korunmak istenmiştir. Davacı alacaklı ile davalı borçlu arasında doğan borç ilişkisi gerçek bir hukuki ilişkiye dayanmıyorsa buna bağlı tasarrufun iptali davası açılamaz.
+
+Dava konusu temlik tasarrufunun gerçek bir borç ödemesine ilişkin olup olmadığının tespiti bakımından davalı borçlu ile dava dışı ... Yetiştirme Yurdu arasındaki yapılan 16.2.2009 tarihli ihale evraklarının tümü (sözleşme, hak ediş raporları, ödeme belgeleri, söz konusu ihale işinin alt taşeron tarafından yapılıp yapılamayacağı gibi hususlar) ilgili idareden istenerek, davalı borçlu O. davalı S. ve davalı S.’nin müdürlüğünü yaptığını belirttiği dava dışı şirketin (Ticari sicil kayıtları istenerek davalı S.’nin adı geçen şirketle bağı belirlendikten sonra) ticari defterleri üzerinde mali müşavir veya hesap uzmanı bilirkişiye inceleme yaptırılıp rapor alınması gerekir…’’ (17. HD. 11.03.2013 T. 14091/3212).
+
+
+b) Borçlu hakkında kati veya geçici aciz vesikasının olması gerekir; icra takibi konusu edilen alacağın borçlusu hakkında aciz vesikasının alınması gerekir. Ancak, davanın açılması aşamasında aciz vesikasına ihtiyaç yoktur. Aciz vesikası, sonradan ikame edilebilen dava şartlarındandır. Alacaklı, yani tasarrufun iptali davasında davacı kişi davanın her aşamasında, temyiz süreci de dahil olmak üzere, aciz vesikasını mahkemeye sunabilir. Davanın başında geçici aciz vesikasını sunan davacı, daha sonra kesin aciz vesikasını dosyaya ibraz etmek zorundadır. Borçlunun haczi kabil malı olmadığını gösteren haciz tutanağı da aciz vesikası yerine geçer.
+
+Dosyaya kesin veya geçici aciz belgesi sunulmamıştır. Bu durumda mahkemece dava şartı olan kesin veya geçici aciz belgesi sunulmaması nedeniyle davanın reddine karar verilmesi gerekirken eksik inceleme ve araştırma sonucu davanın kabulüne karar verilmesi doğru bulunmamıştır (Y17. H.D. Esas No:2012/2516 Karar No:2013/224 K.).
+
+
+c) Borçlu hakkında başlatılmış olan icra takibinin kesinleşmiş olması gerekir; hakkında icra takibi başlatılan kişi icra takibine itiraz ederse veya usulüne uygun kendisine tebligat yapılmamışsa icra takibinin kesinleşmesinden bahsedilemeyeceğinden söz konusu icra takibi üzerinden de borçlu hakkında tasarrufun iptali davası açılması mümkün değildir.
+
+d) İcra iflas Kanunu’nun 277. ve devamı maddelerine dayalı tasarrufun iptali davasının açılabilmesi için iptali talep edilen tasarrufun, icra takibi konusu edilen borcun doğum tarihinden sonra yapılması gerekir.
+
+Tasarrufun iptali davalarının dinlenebilmesi için borcun, iptali istenen tasarruftan önce doğması dava önkoşulu olup mahkemece res'en araştırılmalıdır. Dava koşulu gerçekleşmediği takdirde işin esası hakkında hüküm kurulamaz. Somut olayda davalı borçlu Rüstem için davaya konu borç, Yargıtay Hukuk Genel Kurulunun 13/10/2010 tarihli ve 2010/17-398 Esas ve 2010/497 Karar numaralı ilamında da benzer şekilde kabul edildiği üzere dava dışı banka ile imzalanan kredi sözleşmesi ile doğmuş olup bu tarihten sonraki borçlu tasarrufları için iptal davası açılması mümkündür. (HGK -K.2015/1759)
+
+
+## Tasarrufun İptali Davasında Hak Düşürücü Süre
+
+Tasarrufun iptali davalarında *zamanaşımı süresi* değil, hak düşürücü süre vardır.
+
+İİK 278. ve devamı maddelerine göre borçlu tarafından, "ivazsız" veya "aciz halinde" yapılan tasarrufların butlan kabul edilmesi; borçlunun aciz halinin doğmasından veya iflasının açılmasından geriye doğru aciz haline veya iflas etmesine sebep olan tasarrufa kadar olan süre içerisinde yapılan tasarrufları kapsar. Ancak bu süre 2 yılı geçemez.
+
+İİK 280. maddesince, borçlu tarafından alacaklıya zarar verme kastıyla yapılan tasarruflara karşı dava açma hak düşürücü süresi; tasarruf işlemin alacaklı tarafından bilindiği veya bilinmesini gerektiren açık emarelerin bulunduğu hâllerde bu tarihten itibaren beş yıl içinde borçlu aleyhine iptal davası açılabilir.
+
+İptali istenen tasarruf tarihinden itibaren beş yıllık hak düşürücü süre geçirildikten sonra İİK. mad. 277 vd. uyarınca açılan tasarrufun iptali davasının reddi gerektiği...(17. HD. 11.04.2017. T. 11746/3952)
+
+
+...TBK. mad. 19 uyarınca muvazaalı işlemin iptaline ilişkin açılan davalarda, davacının icra takip yapmasının aranmadığı ve beş yıllık hak düşürücü sürenin geçmiş olması sebebiyle İİK. mad. 284 uyarınca bu davanın reddine karar verilemeyeceği- Davacının iddiasını kanıtlaması halinde, iddianın taşınmazın aynına ilişkin olmadığı, alacağın tahsiline yönelik bulunduğu da gözetilerek, İİK. mad. 283/1, 2 kıyasen uygulanarak "iptal ve tescile gerek olmaksızın" davacının taşınmazların haciz ve satışını isteyebilmesi yönünden hüküm kurulması gerektiği...(17. HD. 11.09.2018. T. 2876/7629)
+
+
+## Tasarrufun İptali Davalarında Görevli Mahkeme
+
+Tasarrufun iptali davalarına İİK.’nın 281. Maddesince genel yetkili mahkeme olan Asliye Hukuk Mahkemeleri bakar. Çokça yanılgıya düşülen bir husus ise dava konusu olan tasarrufun ticari bir ilişkiye dayalı olması durumunda davanın Asliye Ticaret Mahkemesinde açılmasıdır. Ancak dava konusu tasarrufun hukuki mahiyetine bakılmaksızın görevli mahkeme Asliye Hukuk Mahkemesidir.
+
+Özellikle vurgulandığı gibi tasarrufun iptali davasında ya da somut olayda olduğu gibi TBK’nın 19. maddesi gereğince ve İİK’nın kıyasen uygulanması istemli olarak açılan davalarda alacaklı ile borçlu taraflar arasındaki ticari nitelikteki alım satım ya da banka alacağını oluşturan ticari ya da genel kredi sözleşmeleri görevin belirlenmesinde dikkate alınamayacaktır. Ne tasarrufun iptali davası, ne de TBK m. 19 gereğince İİK’nin 283. Maddesinin kıyasen uygulanması istemli muvazaa davası TTK’nın 4. maddesinde belirtilen mutlak ya da nispi ticari dava niteliğine haiz olduğundan 6100 sayılı HMK’nin 2. maddesi gereğince genel görevli Asliye Hukuk Mahkemesi’nin görev alanında kalmaktadır (YHGK-K.2016/129).
+
+
+## Tasarrufun İptali Davası Yargıtay Kararları
+
+### Tasarrufun İptali Davasının Şartları
+
+Dava İİK'nın 277 ve devamı maddelerine dayalı olarak açılan tasarrufun iptali istemine ilişkindir. İİK'nun 277 ve izleyen maddelerinde düzenlenen tasarrufun iptali davalarında amaç, borçlunun haciz ya da iflasından önce yaptığı ve aslında geçerli olan bazı tasarrufların geçersiz ya da "iyiniyet kurallarına aykırılık" nedeniyle alacaklıya karşı sonuçsuz kalmasını ve dolayısıyla o mal üzerinden cebri icraya devamla alacağın tahsilini sağlamaktır. Davacı, iptal davası sabit olduğu takdirde, tasarruf konusu mal üzerinde cebri icra yolu ile hakkını almak yetkisini elde eder ve tasarruf konusu taşınmaz mal ise, davalı üçüncü şahıs üzerindeki kaydın düzeltilmesine gerek olmadan o taşınmazın haciz ve satışını isteyebilir (İİK.md.283/1). Bu yasal nedenle iptal davası, alacaklıya alacağını tahsil olanağını sağlayan, nispi nitelikte, yasadan doğan bir dava olup; tasarrufa konu malların aynı ile ilgili değildir.
+
+Bu tür davaların dinlenebilmesi için, davacının borçludaki alacağının gerçek olması, borçlu hakkındaki icra takibinin kesinleşmiş olması, iptali istenen tasarrufun takip konusu borçtan sonra yapılmış olması ve borçlu hakkında alınmış kesin veya geçici aciz belgesinin (İİK.nun 277 md) bulunması gerekir. Bu ön koşulların bulunması halinde ise İİK.nun 278, 279 ve 280. maddelerinde yazılı iptal şartlarının bulunup bulunmadığı araştırılmalıdır. Özellikle İİK.nun 278.maddesinde akdin yapıldığı sırada kendi verdiği şeyin değerine göre borçlunun ivaz olarak pek aşağı bir fiyat kabul ettiği ve yasanın bağışlama hükmünde olarak iptale tâbi tuttuğu tasarrufların iptali gerektiğinden mahkemece ivazlar arasında fark bulunup bulunmadığı incelenmelidir. Aynı maddede sayılan akrabalık derecesi vs. araştırılmalıdır. Keza İİK.nun 280.maddesinde malvarlığı borçlarına yetmeyen bir borçlunun alacaklılarına zarar vermek kastıyla yaptığı tüm işlemler, borçlunun içinde bulunduğu mali durumu ve zarar verme kastının işlemin diğer tarafınca bilindiği veya bilinmesini gerektiren açık emarelerin bulunduğu hallerde tasarrufun iptal edileceği hususu düzenlendiğinden yapılan işlemde mal kaçırma kastı irdelenmelidir. Öte yandan İİK.nun 279.maddesinde de iptal nedenleri sayılmış olup bu maddede yazılan iptal nedenlerinin gerçekleşip gerçekleşmediği de takdir olunmalıdır.
+
+Somut olayda, mahkemece İİK’nun 277 ve dvamı maddelerine dayalı olarak açılan tasarrufun iptali davası, tefrikle mahkemenin 2016/32 Esasına kaydedilmiştir.Borçlu adresinde yapılan hacze ilişkin 14.10.2014 tarihli haciz tutanağı İİK’nun 105.madde kapsamında aciz belgesi niteliğinde olduğu, borçlu taşınmazlarının borcu karşılamaya yeterli olmadığı, borcun 2010 yılında başlayan kredi ilişkisinden doğduğu, iptali istenilen tasarrufların bu tarihten sonra 10.09.2014 ve 01.08.2014 tarihinde yapıldığı ve davanın 5 yıllık sürede açıldığı anlaşılmıştır (Yargıtay 17. Hukuk Dairesi-K.2021/2097).
+
+### Muvazaaya Dayalı Tasarrufun İptali Davasının Önşartı
+
+Danışıklı (muvazaalı) olan bir hukuki işlem ile üçüncü kişiye zarar verilmesi, ona karşı işlenmiş bir haksız eylem niteliğindedir. Üçüncü kişinin danışıklı (muvazaalı) işlem ile haklarının zarar gördüğünün benimsenebilmesi için, onun danışıklı işlemde bulunanda bir alacağının var olması ve bu alacağın ödenmesini önlemek amacıyla danışıklı işlemin yapılmış olması gerekir. (4. HD. 12.5.2009 T. 12633/6745)
+
+### Kefilin Borcu Ödemesi Halinde Rüca Hakkının Kapsamı
+
+Kefil yönünden asilin borçlandığı tarih borcun doğduğu tarihtir. 6098 sayılı Türk Borçlar Kanunu'nun ''Kefilin rücu hakkı'' başlıklı 596. maddesinde de kefilin alacaklıya ifada bulunduğu ölçüde onun haklarına halef olacağı düzenlenmiştir.Buna göre somut olaya dönüldüğünde dava dışı alacaklı-Denizbank ile borçlu - davalı R.. K.. arasında imzalanan 10000 TL kredi verilmesine ilişkin sözleşmenin 15.06.2009 tarihinde imzalandığı, davacı İ.. Ş..' in sözleşmeyi müşterek borçlu ve müteselsil kefil olarak imzaladığı görülmektedir. Davacı-kefil borcu 31.3.2011 tarihinde ödeyerek davalı Rüstem'in diğer davalı Eyüp'e 12.01.2010 tarihinde satış suretiyle devrettiği taşınmazdaki hisse yönünden eldeki davayı açmıştır. Buna göre, davacı-kefil ödeme yaptığı 31.03.2011 tarihinde alacaklı/bankanın haklarında ona halef olmuştur. Tasarrufun iptali istemi de alacaklının haklarındandır. Bu durumda kefil yönünden borcun doğum tarihinin asıl borcun doğduğu; diğer bir ifade ile kefil olduğu kredi sözleşmesinin imzalandığı tarihin borcun doğum tarihi olarak kabul edilmesi gerekir. (Yargıtay HGK 2015/1759 K.)
+
+### İcra İhaleleri Hakkında Tasarrufun İptali Davası Açılabilir mi?
+
+Kural olarak ‘cebri icra yoluyla yapılmış olan satışlar (ihaleler) hakkında’ iptâl davası açılamaz, ancak alacaklısından mal kaçırmak amacına yönelik bir (muvazaalı) alacak- borç ilişkisi yaratılarak, takip yapılmak suretiyle gerçekleştirilen ihaleler hakkında iptâl davası açılabilir. (Yargıtay 17.HD. 27.5.2010 T. 2141/4792)
+
+### Tasarrufun İptali Davası Önceden Doğan Borç İçin Açılabilir
+
+Takip dayanağı bonoların tanzim tarihi iptali istenen satıştan sonra olduğundan borcun iptali istenen tasarruftan önce doğmasının dava ön koşulu olup, mahkemece re’sen araştırılmalıdır. Dava koşulu gerçekleşmediği takdirde işin esası hakkında hüküm kurulamaz. (Yargıtay 17. HD. 01.04.2013 T. Esas/Karar 8979/4519; 09.04.2013 T. Esas/Karar 8333/5123)
+
+### Tasarrufun İptali Davasında Hak Düşürücü Süre
+
+Muvazaaya dayalı davalarda davacının icra takibine geçmesi ve aciz belgesi almasına gerek olmadığı ve davacının iddiasını kanıtlaması halinde iddianın, alacağın tahsiline yönelik bulunduğu da gözetilerek İİK 283/1.maddesi kıyasen uygulanarak iptal ve tescile gerek olmaksızın davacıya haciz ve satış isteyebilmesi yönünden hüküm kurulması gerektiği- Mahkemece dava İİK'nun 277 ve devamı maddeleri gereğince açılmış tasarrufun iptali davası olarak nitelendirilerek "5 yıllık hak düşürücü süre içerisinde açılmadığı" gerekçesiyle "davanın hak düşürücü süre nedeni ile reddine" karar verilmişse de, mahkemenin bu nitelendirmesine katılma olanağı bulunmadığından, taraf delilleri toplanarak delillerin TBK'nın 19 maddesi gereğince değerlendirilmesi ve sonucuna göre karar verilmesi gerektiği...(Y17. HD. 18.10.2016. T. 17449/9073)
+
+Beş yıllık hakdüşürücü süre geçirilerek açılan davanın 6183 S.K. mad. 26 gereğince hakdüşürücü süre yönünden reddi gerektiği- Takip konusu borçtan önce yapılmış olan tasarrufa ilişkin davanın dava koşulu yokluğundan reddi gerektiği- Tasarruf tarihinde vadesi geçmiş vergi borcunun mevcut olmadığı gerekçesiyle davanın reddine karar verilmiş ise de, takip konusu vergi borcunun vade tarihinin borcun doğum tarihi olarak kabulünün isabetsiz olduğu- Dava konusu tasarrufun 6183 s. K. gereğince iptale tabi olup olmadığının tespiti ile iptale tabi ise, tasarruf tarihine kadar olan borç miktarı davacı idareden sorularak belirlenecek alacak ve fer'ileriyle sınırlı olarak tasarrufun iptaline; aksi halde yani iptal koşulları oluşmamış ise; davanın reddine karar verilmesi gerekeceği- 6183 s. K. gereğince açılan davalar için avukatlık ücreti tutarının maktu olarak belirleneceği...(Y17. HD. 25.11.2014. T. 12308/16812)
+
+### Tasarrufun İptali Davası ile Genel Muvazaa Davası Arasındaki Fark
+
+Hukuk Genel Kurulu önüne gelen uyuşmazlık, davanın tasarrufun iptali (İİK'nun 277 vd.md.) iddiasına mı yoksa genel muvazaa (mülga BK 18; yeni 6098 s.TBK 19.md.) iddiasına dayalı olduğu; sonucuna göre de mahkeme kararındaki muvazaa (danışık) iddiası yönünden gerekçenin yerinde olup olmadığı, mahkemenin bozma ilamı çerçevesinde araştırma yapmasının gerekli bulunup bulunmadığı noktasında toplanmaktadır.
+
+Konunun aydınlatılması bakımından genel olarak mülga 818 sayılı Borçlar Kanunu'nun 18.maddesinde (yeni 6098 s.TBK 19.m) düzenlenen genel muvazaa ile 2004 sayılı İcra İflas Kanunu'nun 277 ve devamı maddelerinde düzenlenen tasarrufun iptali davalarına değinilmesinde yarar bulunmaktadır:
+
+818 sayılı mülga Borçlar Kanunu'nun 18.maddesi; (Yeni 6098 sayılı TBK 19.madde) “Bir akdin şekil ve şartlarını tayininde, iki tarafın gerek sehven gerek akitteki hakiki maksatlarını gizlemek için kullandıkları tabirlere ve isimlere bakılmıyarak, onların hakiki ve müşterek maksatlarını aramak lazımdır.Tahriri borç ikrarına istinat ile alacaklı sıfatını iktisabeden başkasına karşı, borçlu tarafından muvazaa iddiası dermeyan olunamaz.” hükmü ile genel muvazaa düzenlenmiştir.
+
+Bilindiği üzere “tarafların üçüncü kişileri aldatmak amacı ile gerçek durumu onlardan gizleyerek kendi gerçek iradelerine uymayan ve kendi aralarında geçerli olmayan bir hususta anlaşmalarına” muvazaa ve bu şekilde yapılan işlemlere de muvazaalı işlemler denilir. Bir başka söyleyişle muvazaa “ açıklanan beyanlarının gerçek maksatlarına uymadıklarını bildikleri halde, tarafların kastettikleri durumdan başka bir ilişkide kendilerini anlaşmış gibi göstermeleri hali (7.10.1953 Tarih, 8/7 Sayılı Yargıtay içtihadı Birleştirme Kararı), tarafların üçüncü kişileri aldatmak amacıyla kendi gerçek iradelerine uymayan haksız eylem niteliğinde anlaşmalarıdır. Muvazaalı bir hukuki işlemden bahsedebilmek için a)Tarafların iradeleri ile beyanları arasında isteyerek yaratılmış bir uygunsuzluk, b) üçüncü kişileri aldatmak (muvazaa) niyeti, c) Taraflar arasında gizli işlemi yaratan muvazaa sözleşmesi bulunmalıdır.
+
+Muvazaa davası, yani yapılan işlemin muvazaa nedeniyle hükümsüz olduğunu belirtmek için açılan dava ile tasarrufun iptali davası amaçları bakımından birbirlerine yaklaşırlarsa da gerçekte nitelikleri, koşulları, doğurduğu sonuçlar bakımından birbirinden farklıdırlar. Tasarrufun iptali davası, borçlunun tasarruf işlemlerinden zarar gören ve elinde aciz belgesi bulunan alacaklılar tarafından açılabilir. Ne varki, tasarrufun iptali davası, borçlu tarafından geçerli olarak yapılan tasarruf işlemlerin davacı bakımından hükümsüz olduğunu tespit ettirmek için açıldığı halde, muvazaa davasında borçlunun yaptığı tasarruf işleminin gerçekte hiç yapılmamış olduğunun tespiti istenir.Yani yapılan işlemin geçersizliği ileri sürülür.
+
+Tasarrufun iptali davası, ayni nitelikte olmayıp kişisel (şahsi) bir dava olduğu halde, muvazaa davası ayni nitelikte bir davadır. Muvazaanın kanıtlanması halinde dava konusu mal, borçlunun malvarlığından hiç çıkmamış hale gelir. Taşınmaza ilişkin muvazaa davalarında hakim tapu kaydının da borçlu adına tesciline karar verir. Muvazaa iddiası, zamanaşımına bağlı olmadan ileri sürülebildiği halde, iptal davasının tasarrufun yapıldığı tarihten itibaren en geç hak düşürücü süre olan beş yıl içinde açılması gerekir. (İİK. m.284.)
+
+İİK.nun 277.vd maddelerine dayalı olarak açılmış iptal davasının amacı, alacaklının davaya konu mal üzerinde, cebri icra yolu ile alacağı miktarla sınırlı olarak hakkını almasını sağlamaktır. Kural olarak iptal davasına konu edilen tasarruflar, muvazaalı akitlerden farklı olarak hukuken geçerlidir. Başka bir ifade ile muvazaalı akitlerde, görülen akit değil tarafların gerçek iradelerine uygun bulunan akit tarafları bağlayıcı olduğu halde, İcra ve İflas Kanununun 277. ve bunu izleyen maddelerinde düzenlenen tasarruflar özel hukuk ilişkisi açısından geçerliliğini korumaktadır. Bu nedenle, alacaklının gerçek alacak ve ayrıntılarına yetecek miktardaki tasarrufun iptaline, bunun dışında kalan kısmı geçerliliğini koruyacağından, olduğu gibi bırakılmasına karar verilmesi gerekmektedir. Kanun koyucu bu özelliği gözeterek “ iptal davasının sübutu halinde davaya konu teşkil eden mal üzerinde icra koğuşturması yapılabileceğini, davanın konusu taşınmaz mal olduğu takdirde ise, 3. şahıs üzerindeki kaydın düzeltilmeksizin taşınmazın haciz ve satışının istenebileceğini” öngörmüştür. (İİK. m.283)
+
+Bu açıklamalar ışığında somut olay irdelendiğinde; davacılar, davalı Gülsüme'nin dava konusu taşınmazdaki payını açılacak tazminat davasının sonuçsuz bırakılması düşüncesi ile diğer davalıya mal kaçırmak amacıyla, muvazaalı olarak temlik edildiğini ileri sürerek eldeki davayı açmışlardır. Eldeki dava ile aynı gün trafik kazasından kaynaklanan haksız fiil hukuksal nedenine dayalı olarak tazminat davası da açmıştır. Ortada yapılan bir icra takibi bulunmamaktadır. Trafik kazasından kısa bir süre sonra dava konusu taşınmazın kardeşi Orhan'a gerçekte satılmadığı halde, tazminat davasını sonuçsuz bırakmak, alacağını elde etmesini önlemek amacıyla, mal kaçırmak kastıyla temliki işlemin yapıldığı ileri sürüldüğüne göre, açılan dava mülga BK 18.maddesinde düzenlenen genel muvazaaya dayalı bir davadır. O halde mahkemece davalılar arasında yapılan satış işleminin danışıklı(muvazaalı) olup olmadığını araştırmak suretiyle sonucuna göre karar verilmelidir (Yargıtay Hukuk Genel Kurulu 2013/1016 E. , 2014/436 K.).
+
+## Footnotes
+
+1. **Avukat Murat Arksak**, İstanbul Üniversitesi Hukuk Fakültesinde hukuk eğitimi almıştır. Gayrimenkul hukuku ve özel hukukun diğer alanlarında çalışmakta olup İstanbul Barosu'na kayıtlı olarak serbest avukatlık yapmaktadır. ↩
+
+
+---
+
+## Taşınmaz Tahliye ve Teslimi Yargıtay Kararları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-26-27-tasinmazin-tahliye-ve-teslimi-yargitay-kararlari (son güncelleme: 2016-10-03)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 26, 27, 28, 29. Madde Yargıtay Kararları, İİK 26. Madde Metni, Taşınmazın Tahliye ve Teslimi Yargıtay Kararları
+
+
+## Taşınmazın Tahliye ve Teslimi Yargıtay Kararları (İİK md. 26-27-28)
+
+- Projeye aykırı yerin yıkılarak eski hale getirilmesine karar verilmişse, ilamın bu kısmıyla ilgili örnek no 53 gönderilmelidir. ( 12 HD 2000 / 851 )
+- İlamda borçlunun sadece alacaklı parseline 50 cm’lik el atmasının önlenmesine karar verilmiştir. Kal olmadığı için önceki yerin teslimi gerekir. Men-i müdahale hükmü, gayrimenkulün kal-i hükmünü kapsamaz . ( 12 HD 1997 / 9562 )
+- Bir kimsenin hukuki bir nedene dayanmadan işgal ettiği taşınmazın tahliyesine ilişkin ilamın takibe konulabilmesi için kesinleşmesi gerekmez. ( 12 HD 2003 / 21334 )
+- İİK 27 madde ilamın infazı sırasında taşınmazın 3. kişinin elinde olması halinde nasıl hareket edileceğini düzenler. Ancak bu düzenleme 3. kişinin hak iddia etmesi ve maddeye göre kanıtlamasıyla ilgilidir. 3. kişiler kiracılık ilişkisine dayanmıştır, adı geçenlerin kiracılık ilişkisinialacaklı davacının bilmesi sonucu etkili değildir. ( 12 HD 2000 / 2137 K. )
+
+## Taşınmaz Tahliyesi ve Teslimi İİK md. 26, 27, 28 Madde Metni
+
+**Taşınmaz tahliye ve teslimi :**
+
+**Borçlunun elinde ise:**
+
+**İİK Madde 26** – (Değişik: 14/1/2011-6103/41 md.)
+
+Bir taşınmazın tahliye ve teslimine dair olan ilam, icra dairesine verilince icra müdürü 24 üncü maddede yazılı şekilde bir icra emri tebliği suretiyle borçluya yedi gün içinde hükmolunan şeyin teslimini emreder. Borçlu taşınmazı işgal etmekte iken bu emri tutmazsa, ilamın hükmü zorla icra olunur.
+
+Alacaklıya teslim olunan taşınmaza haklı bir sebep olmaksızın tekrar giren borçlu ayrıca hükme hacet kalmadan zorla çıkarılır.
+
+Taşınmazın içinde bulunup da ilamda dahil olmayan eşya çıkarılarak borçluya teslim ve hazır değilse vekiline veya ailesi halkından veyahut müstahdemlerinden reşit bir kimseye tevdi olunur. Bunlardan da kimse bulunmazsa mezkûr eşya masrafı ileride borçluya ödetilmek üzere peşin olarak alacaklıdan alınıp emin bir yerde veya alacaklının yedinde hıfzettirilir ve icra dairesince hemen yapılacak tebligat üzerine borçlu eşyanın bulunduğu mahalde ise beş ve değil ise otuz gün içinde eşyayı almaktan veya masrafı ödemekten imtina eder yahut lüzum görülürse icra müdürü icra mahkemesinin kararıyla bunları satıp tutarından masrafı ifa eder. Fazla kalırsa borçlunun adına, Adalet Bakanlığınca çıkarılan yönetmelikte nitelikleri belirlenen bankalardan birine yatırılır.
+
+**Taşınmaz üçüncü şahıs elinde ise :**
+
+**İİK Madde 27**
+
+Taşınmaz, üçüncü bir şahıs tarafından davadan sonra ve hükümden evvel tapuya tescil edilmiş bir akte müsteniden işgal edilmekte ise alacaklı borçlunun o şahsa karşı malik olduğu hakları haiz olur. Bu şıkkı ihtiyar etmezse borçlusuna karşı tazminat davası açabilir. Şu kadar ki suiniyet sahibi üçüncü şahıslara karşı umumi hükümler mahfuzdur. (Ek: 29/6/1956 - 6763/42 md.; Mülga ikinci fıkra: 14/1/2011-6103/41 md.)
+
+**Taşınmaz davalarında hükümlerin tapu sicil dairesine tebliği:**
+
+**İİK Madde 28** - (Değişik: 14/1/2011-6103/41 md.)
+
+Taşınmaz davalarında davacının lehine hüküm verildiği takdirde mahkeme davacının talebine hacet kalmaksızın hükmün tefhimi ile beraber hulasasını tapu sicili dairesine bildirir. İlgili daire bu ciheti hükmolunan taşınmazın kaydına şerh verir. Bu şerh, Türk Medeni Kanununun 1010 uncu maddesinin ikinci fıkrası hükmüne tâbidir. Taşınmaz davası üzerine verilen karar ileride davacının aleyhine kesinleşirse mahkeme, derhal bu hükmün hulasasını da tapu sicili dairesine bildirir.
+
+**Taşınmaz hakkındaki hükümden sonra yedin tebeddülü :**
+
+**İİK Madde 29** – (Değişik: 14/1/2011-6103/41 md.)
+
+Hükmün tapu sicili dairesine bildirilmesinden sonraki tebeddüllerin icra muamelelerine tesiri olmaz. Hükümde gösterilen şey kimin elinde ise ondan alınıp alacaklıya teslim olunur. Şu kadar ki, o yerde bulunan üçüncü şahıs bu malı borçludan teslim almış olmayıp onu doğrudan doğruya işgal etmekte bulunduğunu bildiren bir tapu sicili kaydı gösterirse mahkemeye müracaatla dava açması için kendisine yedi gün mühlet verilir. Bu müddet içinde dava açılırsa icra geri bırakılır
+
+
+---
+
+## Ödeme Emrine İtiraz (İİK 62) Yargıtay Kararları
+
+*Kaynak: Av. Baran Doğan — https://barandogan.av.tr/iik-62-madde-odeme-emrine-itiraz-yargitay-kararlari (son güncelleme: 2016-10-03)*
+
+İcra İflas Kanunu Yargıtay Kararları, İİK 62. Madde Yargıtay Kararları, İİK 62. Madde Metni, Ödeme Emrine İtiraz Sebebleri, Ödeme Emrine İtiraz Süresi
+
+
+## Ödeme Emrine İtiraz Yargıtay Kararları (İİK md. 62)
+
+- Borçlunun itiraz dilekçesi altındaki imzayı kabul etmesi halinde bizzat icra dairesine gelmesi zorunluluk değildir. Kaldı ki dilekçede hasta olduğu ve arabada olduğu yazılı olup itiraz geçerlidir. ( 17 HD 2005 / 16234 karar )
+- Türkiye mahkemelerinde dava ve takip açan yabancı gerçek ve tüzel kişilerin yargılama ve takip giderlerini ve takip yüzünden borçlunun uğrayacağı zarar temin etmesi gerekir. ( 12 HD 2009 / 16833 karar)
+- Kira alacağı kiralayana ikametgahında ödenmesi gereken alacaklardan olduğundan alacaklının ikametinde icra takibi yapılabilir. ( 6 HD 2003 / 8461 )
+- Müşterek ve müteselsil borçlular için asıl borçluya müracaat etmeden veya rehinler nakte tahvil ettirilmeden icra takibi yapılabilir. ( 12 HD 2003 / 20553 )
+- BK 182/2’ye göre hilafına senet veya sözleşme yoksa, satıcı ile alıcı borçları aynı zamanda ifa etmekle mükelleftir. Davacı, vadeli satışı kanıtlayamazsa davalı BK. 182’de ki karineden yararlanır. Malın teslimi ve satıldığı konusunda uyuşmazlık olmasa bile, alacaklı vadeli satışı ispatlamadıkça karinenin aksini savunamaz. ( 13 HD 2003 / 11500 karar )
+- Yerleşik içtihat sunulan ödeme belgesinin takip konusu borç için verildiğinden kabul edilebilmesi için belgede takip dayanağına açıkça atıf yapılması zorunludur. ( 12 HD 2003 / 58123 karar )
+
+## Ödeme Emrine İtiraz Sebepleri ve Süresi Yargıtay Kararları (İİK md. 62)
+
+- Borçlular itirazlarında sebep bildirmediği takdirde itirazın kaldırılması duruşmasında senet metninden anlaşılan sebepleri ileri sürebilir. ( 12 HD 2002 / 14106 ) (HGK 2001 / 609 )
+- Borçlunun senet metninde anlaşılan (İİK. 62/4) itirazları icra mahkemesi duruşmasında ileri sürebilmesi için, borçlunun itirazında itiraz sebeplerini bildirmemiş olması gerekir. İtiraz nedeni bildirip zamanaşımı itirazı yapmamış borçlu, buna ilk duruşmada dayanamaz. ( HGK 1998 / 251 )
+- Yeni ödeme emri tebliğ edilmişse, yeniden itiraz hakkı doğar. Yeni itiraz ve şikayet hakkı süresindeyse kabul edilir. ( HCK 2009 / 511 K. )
+- Zamanaşımına uğramış bono, genel haciz yoluyla işleme konulursa, işleme itiraz edildiğinde, alacaklı itirazın kaldırılmasını isteyemez. ( 12 HD 2009 / 20819 )
+- Alacaklı, süresinden sonra yapılan itirazda itirazın kaldırılmasını istemişse dahi icra dairesinin durdurma kararını şikayetten ibarettir. ( 12 HD 2009 / 13837 )
+- Borçlunun dilekçesinden genel olarak “itiraz iradesi" çıkarılabiliyorsa, bu geçerli bir itiraz olarak kabul edilmelidir. ( HGK 2009 / 182 karar ). Kuşku varsa, itiraz içeriği konusunda, şüpheden borçlu yararlanır.
+- Kısmi itiraz, açıkça bildirilmemiş ise geçersizdir. ( 6 HD 2009 / 3207 karar)
+- İtirazın kaldırılması davasında; borçluya "duruşmada hazır bulunmak zorunda olduğu, aksi halde itirazın geçici kaldırılacağı" meşruhatının davetiyeye yazılması gerekir. Yoksa itiraz geçici olarak kaldırılamaz. ( 12 HD 2008 / 9870 )
+- Davalı borçlu kira ilişkisine ve kira borcunun miktarına karşı çıkmamış, borcu olup olmadığı savunmasında bulunmuşsa, İİK. 68. maddedeki belgelerden biriyle savunmasını kanıtlamalıdır. Ayrıca itiraz değiştirilemez, genişletilemez. ( HGK 2008 / 123 karar )
+- İlk rapor ( imzaya itiraz üzerine ) icra mahkemesi bilirkişisi tarafından hazırlanan raporla Adli Tıp raporu arasında çelişki varsa üç kişilik kuruldan rapor alınmalıdır. ( 12 HD 2006 / 22070 )
+- Borçlu mal beyanı dilekçesiyle itiraz ve şikayet haklarından feragat etmişse, haciz için ayrıca ödeme emrinin tebligat parçasının dönmesinin beklenmesine gerek yoktur. ( 12 HD 2006 / 21133 )
+- Eğer borç ilişkisi inkar edilmeden ödeme iddiası ileri sürülerek ödeme belgeleri sunulmuşsa, “ mücerret borç ikrarı “ içeren bir belge olduğundan alacaklı itirazın kaldırılmasını isteyebilir. ( 12 HD 2006 / 12898 )
+
+### İcra İflas Kanunu (İİK) 62 Madde Metni
+
+**İtiraz Süresi ve şekli:**
+
+**İİK Madde 62** – (Değişik: 18/2/1965 - 538/33 md.)
+
+İtiraz etmek istiyen borçlu, itirazını, ödeme emrinin tebliği tarihinden itibaren yedi gün içinde dilekçe ile veya sözlü olarak icra dairesine bildirmeye mecburdur. (Değişik ikinci cümle: 17/7/2003-4949/13 md.) İtiraz, takibi yapan icra dairesinden başka bir icra dairesine yapıldığı takdirde bu daire gereken masrafı itirazla birlikte alarak itirazı derhal yetkili icra dairesine gönderir; alınmayan masraftan memur şahsen sorumludur.
+
+(Değişik fıkra: 17/7/2003-4949/13 md.) Takibe itiraz edildiği, 59 uncu maddeye göre alacaklının yatırdığı avanstan karşılanmak suretiyle üç gün içinde bir muhtıra ile alacaklıya tebliğ edilir.
+
+(Ek fıkra: 17/7/2003-4949/13 md.) Borçlu veya vekili, dava ve takip işlemlerine esas olmak üzere borçluya ait yurt içinde bir adresi itirazla birlikte bildirmek zorundadır. Adresini değiştiren borçlu yurt içinde yeni adres bildirmediği ve tebliğ memurunca yurt içinde yeni adresi tespit edilemediği takdirde, takip talebinde gösterilen adrese çıkarılacak tebligat borçlunun kendisine yapılmış sayılır.
+
+Borcun bir kısmına itiraz eden borçlunun o kısman cihet ve miktarını açıkca göstermesi lazımdır. Aksi takdirde itiraz edilmemiş sayılır.
+
+(Mülga dördüncü fıkra: 17/7/2003-4949/103 md.) Borçlu takibin müstenidi olan senet altındaki imzayı reddediyorsa, bunu itirazında ayrıca ve açıkça beyan etmelidir. Aksi takdirde icra takibi yönünden senetteki imzayı kabul etmiş sayılır.
+
+Borçluya, itiraz eylediğine dair bedava ve pulsuz bir belge verilir.

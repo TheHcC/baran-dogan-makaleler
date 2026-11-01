@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.onbellek/
+tarama.log
+_*.py
