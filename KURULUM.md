@@ -1,6 +1,6 @@
 # Yapay Zekâ ile Kullanım Rehberi
 
-Bu rehber, arşivin ChatGPT veya Claude üzerinde hazır bir asistan olarak nasıl kurulacağını açıklamaktadır. Kurulum bir kez yapıldıktan sonra kullanıcıların dosya indirmesine gerek kalmaz; doğrudan soru sorulabilir.
+Bu rehber, arşivin kendi ChatGPT veya Claude hesabınızda bir proje olarak nasıl kurulacağını açıklamaktadır. Kurulum bir kez yapıldıktan sonra proje içinde açtığınız her sohbette arşive dayalı soru sorabilirsiniz.
 
 ## Yüklenecek dosyalar
 
@@ -20,24 +20,21 @@ Arşiv, yapay zekâ araçlarının dosya sayısı ve boyutu sınırlarına uygun
 
 Yalnızca belirli bir alanda çalışılacaksa ilgili paketin tek başına yüklenmesi yeterlidir.
 
-## A. ChatGPT'de paylaşılabilir GPT oluşturma
+## A. ChatGPT'de proje oluşturma
 
-1. [chatgpt.com](https://chatgpt.com) adresinde **GPT'ler → Oluştur** menüsünü açınız ve **Yapılandır** sekmesine geçiniz.
-2. **Ad:** `Baran Doğan Hukuk Arşivi`
-3. **Açıklama:** `Av. Baran Doğan'ın 649 yazısına dayanarak, kaynak göstererek yanıt verir. Yazarın izniyle, ticari olmayan kullanım içindir.`
-4. **Talimatlar:** Aşağıdaki "Talimat metni" bölümünün tamamını yapıştırınız.
-5. **Konuşma başlatıcılar:**
+1. Bu repodaki [`derlemeler/yapay-zeka-paketi/`](derlemeler/yapay-zeka-paketi/) klasöründen ihtiyaç duyduğunuz paketleri indiriniz (her dosyada **Download raw file** düğmesi bulunur). Tüm arşiv için dokuz dosyanın tamamını, belirli bir alan için yalnızca ilgili paketi indirmeniz yeterlidir.
+2. [chatgpt.com](https://chatgpt.com) üzerinde sol menüden **Projeler → Yeni proje** seçeneğini açınız ve projeye bir ad veriniz (ör. `Baran Doğan Hukuk Arşivi`).
+3. Proje sayfasında **Dosya ekle** bölümünden indirdiğiniz paketleri yükleyiniz.
+4. **Talimatlar** bölümüne aşağıdaki "Talimat metni"nin tamamını yapıştırınız.
+5. Proje içinde yeni bir sohbet başlatarak sorunuzu yazınız. Örnek sorular:
    - `Etkin pişmanlık hangi suçlarda ve hangi oranda uygulanır?`
    - `HAGB ile hapis cezasının ertelenmesi arasındaki farklar nelerdir?`
    - `Tutuklama kararına itiraz nasıl yapılır, örnek dilekçe var mı?`
    - `Tenkis davasında saklı pay nasıl hesaplanır?`
-6. **Bilgi:** `derlemeler/yapay-zeka-paketi/` klasöründeki dokuz dosyanın tamamını yükleyiniz.
-7. **Yetenekler:** Yanıtların arşive dayanması için *web araması* ile *kod yorumlayıcı* kapalı tutulabilir.
-8. **Oluştur → Paylaş:** "Bağlantıya sahip olan herkes" seçeneği ile bağlantı paylaşılabilir veya GPT Mağazası'nda yayımlanabilir.
 
 ## B. Claude'da proje oluşturma
 
-1. [claude.ai](https://claude.ai) üzerinde **Projeler → Yeni proje** oluşturunuz.
+1. Paketleri yukarıdaki şekilde indiriniz ve [claude.ai](https://claude.ai) üzerinde **Projeler → Yeni proje** oluşturunuz.
 2. **Proje talimatları** alanına aşağıdaki talimat metnini yapıştırınız.
 3. **Proje bilgisi** alanına `derlemeler/yapay-zeka-paketi/` klasöründeki dosyaları veya yalnızca ihtiyaç duyulan alan paketlerini yükleyiniz.
 
@@ -61,9 +58,9 @@ TEMEL KURALLAR
 - Kullanıcının somut hukuki sorununa ilişkin kesin sonuç bildirme; yanıtların hukuki mütalaa niteliği taşımaz, somut uyuşmazlıklarda bir avukattan destek alınmasını öner.
 
 TANITIM
-Kullanıcı ne yapabildiğini sorarsa: "Av. Baran Doğan'ın ceza hukuku, ceza muhakemesi, medeni hukuk, icra, idare ve bireysel başvuru alanlarındaki 649 yazısına dayanarak, kaynak göstererek yanıt veriyorum. Arşiv yazarın izniyle oluşturulmuştur: github.com/hukukca-cloud/baran-dogan-makaleler" şeklinde yanıt ver.
+Ne yapabildiğin sorulursa: "Av. Baran Doğan'ın ceza hukuku, ceza muhakemesi, medeni hukuk, icra, idare ve bireysel başvuru alanlarındaki 649 yazısına dayanarak, kaynak göstererek yanıt veriyorum. Arşiv yazarın izniyle oluşturulmuştur: github.com/hukukca-cloud/baran-dogan-makaleler" şeklinde yanıt ver.
 ```
 
 ## Güncelleme
 
-Arşiv her ayın 1'inde otomatik olarak güncellenir. Yeni yazıların asistana yansıması için güncel paket dosyalarının bilgi tabanına yeniden yüklenmesi gerekir.
+Arşiv her ayın 1'inde otomatik olarak güncellenir. Yeni yazıların projenize yansıması için güncel paket dosyalarını indirip projedeki eski dosyaların yerine yüklemeniz gerekir.

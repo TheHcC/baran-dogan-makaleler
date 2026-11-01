@@ -48,14 +48,14 @@ Yazı başlıklarının alan bazında tam listesi için [ICINDEKILER.md](ICINDEK
 
 ## Nasıl kullanılır?
 
-> 🤖 **Hazır asistan kurulumu:** Arşivi ChatGPT'de paylaşılabilir bir GPT veya Claude'da bir proje olarak kurmak için talimat metni ve adım adım rehber [KURULUM.md](KURULUM.md) dosyasındadır.
+> 🤖 **Kendi projenizi kurun:** Arşivi ChatGPT veya Claude hesabınızda bir proje olarak kurmak için adım adım rehber ve hazır talimat metni [KURULUM.md](KURULUM.md) dosyasındadır.
 
 | Amaç | Kullanılacak dosya |
 |---|---|
 | Belirli bir hukuk alanında çalışma (önerilen) | `derlemeler/alanlar/<alan>.md` |
 | Geniş bir alanda çalışma (ör. tüm ceza hukuku) | `derlemeler/gruplar/<grup>.md` |
 | Tüm arşivi tek seferde yükleme | `derlemeler/TUMU.md` |
-| ChatGPT GPT / Claude projesi bilgi tabanı (9 dosya) | `derlemeler/yapay-zeka-paketi/` |
+| ChatGPT / Claude projesine yükleme (9 dosya) | `derlemeler/yapay-zeka-paketi/` |
 | Tek bir yazıya atıf | `makaleler/<alan>/<yazi>.md` |
 | Yapay zekâ araçları için içindekiler | `llms.txt` |
 | Programatik erişim | `index.json` |
