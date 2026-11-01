@@ -358,6 +358,35 @@ def _grup_slug(grup: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", grup.translate(tr).lower()).strip("-")
 
 
+PAKET_SINIRI = 2_500_000  # bayt; ChatGPT/Claude bilgi tabanı dosya sınırlarının güvenli altında
+
+
+def _yapay_zeka_paketleri(sirali_alanlar: list[str], alana_gore: dict) -> None:
+    """Alan derlemelerini, sırayı bozmadan en fazla ~2,5 MB'lık paketlerde birleştirir
+    (ChatGPT GPT bilgi tabanı 20 dosya sınırına uygun)."""
+    klasor = BUILD / "yapay-zeka-paketi"
+    klasor.mkdir()
+    paketler: list[list[str]] = []
+    boyut = 0
+    for a in sirali_alanlar:
+        b = sum(len(_blok(k).encode()) for k in alana_gore[a])
+        if paketler and boyut + b <= PAKET_SINIRI:
+            paketler[-1].append(a)
+            boyut += b
+        else:
+            paketler.append([a])
+            boyut = b
+    for i, grup in enumerate(paketler, 1):
+        adet = sum(len(alana_gore[a]) for a in grup)
+        basliklar = " + ".join(ALANLAR[a][1] for a in grup)
+        metin = _ust_bilgi(f"Paket {i}: {basliklar}", adet)
+        for a in grup:
+            metin += f"\n\n# {ALANLAR[a][1]}\n" + "".join(_blok(k) for k in alana_gore[a])
+        ad = f"paket-{i:02d}-" + ALANLAR[grup[0]][0].split("-", 1)[1][:40].rstrip("-") + ".md"
+        (klasor / ad).write_text(metin, encoding="utf-8")
+    print(f"  yapay zekâ paketi: {len(paketler)} dosya")
+
+
 def _derlemeler(kayitlar: list[dict]) -> None:
     alana_gore: dict[str, list[dict]] = defaultdict(list)
     for k in kayitlar:
@@ -384,6 +413,8 @@ def _derlemeler(kayitlar: list[dict]) -> None:
         for a in alanlar:
             metin += f"\n\n# {ALANLAR[a][1]}\n" + "".join(_blok(k) for k in alana_gore[a])
         (BUILD / "gruplar" / f"{_grup_slug(grup)}.md").write_text(metin, encoding="utf-8")
+
+    _yapay_zeka_paketleri(sirali_alanlar, alana_gore)
 
     # tümü
     metin = _ust_bilgi("Makale Arşivi (Tümü)", len(kayitlar))
