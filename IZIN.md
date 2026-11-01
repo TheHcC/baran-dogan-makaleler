@@ -9,7 +9,9 @@ Bu arşivde yer alan yazıların tüm hakları **Av. Baran Doğan**'a aittir.
 - **@isthis_legal**, yazıların atıflı şekilde açık bir repoda toplanarak yapay zekâ ile kullanılabilir hâle getirilmesi için yazarın rızasını talep etmiş ve kullanımın **ticari olmayacağını** beyan etmiştir.
 - **Av. Baran Doğan (@av_barandogan)**, talebe verdiği yanıtta kullanımın **atıflı olması şartıyla** izin vermiştir.
 
-Ekran görüntüsü: [`izin-ekran-goruntusu.jpeg`](izin-ekran-goruntusu.jpeg)
+![Av. Baran Doğan'ın izin yanıtı](izin-ekran-goruntusu.jpeg)
+
+*Av. Baran Doğan: "Atıflı bir şekilde olacaksa tabi ki olur, kullanabilirsiniz:)"*
 
 ## Kullanım koşulları
 

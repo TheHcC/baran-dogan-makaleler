@@ -424,7 +424,13 @@ def _derlemeler(kayitlar: list[dict]) -> None:
     # README istatistik tablosu
     readme = ROOT / "README.md"
     if readme.exists():
-        tablo = ["| Üst grup | Hukuk alanı | Yazı | Derleme |", "|---|---|---:|---|"]
+        kelime = sum(len(re.findall(r"\w+", k["govde"])) for k in kayitlar)
+        yillar = sorted(k["tarih"][:4] for k in kayitlar if k["tarih"])
+        aralik = f", yayım yılları {yillar[0]}–{yillar[-1]}" if yillar else ""
+        nokta = lambda n: f"{n:,}".replace(",", ".")
+        tablo = [f"**{len(kayitlar)} yazı · {nokta(kelime)} kelime · A4 düzeninde yaklaşık {nokta(round(kelime / 500))} sayfa"
+                 f" · {len(sirali_alanlar)} hukuk alanı{aralik}**", "",
+                 "| Üst grup | Hukuk alanı | Yazı | Derleme |", "|---|---|---:|---|"]
         for grup in GRUP_SIRASI:
             for a in [x for x in sirali_alanlar if ALANLAR[x][2] == grup]:
                 klasor, ad, _ = ALANLAR[a]

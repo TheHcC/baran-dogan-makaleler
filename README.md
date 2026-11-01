@@ -9,6 +9,8 @@ Amaç, makaleleri tek tek yüklemek yerine Claude, ChatGPT ve benzeri yapay zek�
 ## Hukuk alanları
 
 <!-- TABLO-BASLA -->
+**649 yazı · 2.365.276 kelime · A4 düzeninde yaklaşık 4.731 sayfa · 26 hukuk alanı, yayım yılları 2015–2026**
+
 | Üst grup | Hukuk alanı | Yazı | Derleme |
 |---|---|---:|---|
 | Ceza ve Ceza Muhakemesi Hukuku | Ceza Hukuku — Genel Hükümler ve Yaptırımlar | 43 | [01-ceza-genel-hukumler.md](derlemeler/alanlar/01-ceza-genel-hukumler.md) |
